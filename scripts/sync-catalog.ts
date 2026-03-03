@@ -81,7 +81,7 @@ function isAdultProduct(name: string, brand: string): boolean {
 // ─── Filtro de acessórios/não-cosméticos ──────────────────────────────────────
 // Remove pincéis, kits de ferramentas, borrachas e outros itens que não são
 // o produto cosmético em si (e que contaminam o catálogo com entradas inúteis).
-const ACCESSORY_NAME_RE = /\b(pincel|pinceis|pincéis|kit pincel|borracha escolar|massageador|organizador|porta|suporte|estojo|necessaire|bolsa maquiagem|esponja\s+aplicad|esponja beauty blender|refil (pincel|esponja)|cortador|apontador|washi tape)\b/i;
+const ACCESSORY_NAME_RE = /\b(pincel|pinceis|pincéis|kit pincel|escova de po|escova de pó|escova facial|escova maquiagem|borracha escolar|massageador|organizador|porta|suporte|estojo|necessaire|bolsa maquiagem|esponja\s+aplicad|esponja beauty blender|refil (pincel|esponja)|cortador|apontador|washi tape|puff de po|puff de pó|almofada de po|almofada de pó|kabuki)\b/i;
 
 function isAccessory(name: string): boolean {
   return ACCESSORY_NAME_RE.test(name);

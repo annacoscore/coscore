@@ -1,7 +1,7 @@
 // @ts-nocheck — arquivo gerado automaticamente, não editar manualmente
-// Catálogo 100% Mercado Livre — gerado automaticamente.
-// Última atualização: 2026-03-03T16:37:00.114Z
-// Total: 1444 produtos
+// Catálogo 100% Mercado Livre — gerado por scripts/export-catalog.js
+// Última atualização: 2026-03-03T17:48:37.704Z
+// Total: 1441 produtos
 import type { Product } from '../types';
 
 const catalogProducts = [
@@ -19,13 +19,33 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_806859-MLA92301045384_092025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_770763-MLU72604891799_102023-F.jpg"
     ],
-    "averageRating": 0,
-    "reviewCount": 0,
-    "prices": [],
-    "tags": [
-      "batom",
-      "koloss"
+    "ean": "7898266621458",
+    "mlIds": [
+      "MLB24251842",
+      "MLB24251853",
+      "MLB24404146",
+      "MLB24251839",
+      "MLB24216211",
+      "MLB24404212",
+      "MLB24404148",
+      "MLB24216198",
+      "MLB24251855",
+      "MLB23927144",
+      "MLB24216204",
+      "MLB24251854",
+      "MLB24709919",
+      "MLB24404134",
+      "MLB24404143",
+      "MLB24404139",
+      "MLB24216260",
+      "MLB24404130",
+      "MLB24404141",
+      "MLB24229319",
+      "MLB24404263",
+      "MLB24216207",
+      "MLB24404119"
     ],
+    "mlParentId": "MLB23927089",
     "colors": [
       {
         "name": "130- AMEIXA",
@@ -119,7 +139,16 @@ const catalogProducts = [
         "name": "115- ROSA ELEGANCE",
         "image": "https://http2.mlstatic.com/D_NQ_NP_603360-MLA104113762846_012026-F.jpg"
       }
-    ]
+    ],
+    "averageRating": 0,
+    "reviewCount": 0,
+    "prices": [],
+    "tags": [
+      "batom",
+      "koloss"
+    ],
+    "createdAt": "2026-03-03T16:33:39.114Z",
+    "updatedAt": "2026-03-03T16:33:39.117Z"
   },
   {
     "id": "p17725556191170018",
@@ -132,13 +161,11 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_855482-MLU75008269793_032024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_948512-MLU69845137408_062023-F.jpg"
     ],
-    "averageRating": 0,
-    "reviewCount": 0,
-    "prices": [],
-    "tags": [
-      "batom",
-      "makiê"
+    "ean": "7898599684083",
+    "mlIds": [
+      "MLB23838715"
     ],
+    "mlParentId": "MLB23838700",
     "colors": [
       {
         "name": "Mango",
@@ -148,7 +175,16 @@ const catalogProducts = [
         "name": "Guava",
         "image": "https://http2.mlstatic.com/D_NQ_NP_881951-MLU75321412819_032024-F.jpg"
       }
-    ]
+    ],
+    "averageRating": 0,
+    "reviewCount": 0,
+    "prices": [],
+    "tags": [
+      "batom",
+      "makiê"
+    ],
+    "createdAt": "2026-03-03T16:33:39.117Z",
+    "updatedAt": "2026-03-03T16:33:39.117Z"
   },
   {
     "id": "p17725556191170023",
@@ -160,6 +196,17 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_636449-MLU73192384976_122023-F.jpg"
     ],
+    "ean": "7502283639432",
+    "mlIds": [
+      "MLB28699160"
+    ],
+    "mlParentId": "MLB28699159",
+    "colors": [
+      {
+        "name": "Cocoa",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_636449-MLU73192384976_122023-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -167,12 +214,8 @@ const catalogProducts = [
       "batom",
       "olé! cosmetics"
     ],
-    "colors": [
-      {
-        "name": "Cocoa",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_636449-MLU73192384976_122023-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:33:39.117Z",
+    "updatedAt": "2026-03-03T16:33:39.117Z"
   },
   {
     "id": "p17725556191170027",
@@ -188,13 +231,11 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_760054-MLA84202760272_052025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_908098-MLA84499350881_052025-F.jpg"
     ],
-    "averageRating": 0,
-    "reviewCount": 0,
-    "prices": [],
-    "tags": [
-      "batom",
-      "océane"
+    "ean": "7908725501174",
+    "mlIds": [
+      "MLB36464154"
     ],
+    "mlParentId": "MLB36464153",
     "colors": [
       {
         "name": "Vinho",
@@ -212,7 +253,16 @@ const catalogProducts = [
         "name": "Beloved",
         "image": "https://http2.mlstatic.com/D_NQ_NP_835700-MLU76131719889_052024-F.jpg"
       }
-    ]
+    ],
+    "averageRating": 0,
+    "reviewCount": 0,
+    "prices": [],
+    "tags": [
+      "batom",
+      "océane"
+    ],
+    "createdAt": "2026-03-03T16:33:39.117Z",
+    "updatedAt": "2026-03-03T16:33:39.117Z"
   },
   {
     "id": "p17725556191180029",
@@ -228,13 +278,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_740099-MLU70260552994_072023-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_813769-MLU70260552986_072023-F.jpg"
     ],
-    "averageRating": 0,
-    "reviewCount": 0,
-    "prices": [],
-    "tags": [
-      "batom",
-      "sheglam"
+    "ean": "6971053492231",
+    "mlIds": [
+      "MLB24229329",
+      "MLB24220997",
+      "MLB24057683",
+      "MLB23094075",
+      "MLB24221039",
+      "MLB24404211",
+      "MLB24216266",
+      "MLB24513258",
+      "MLB24404216",
+      "MLB24075880",
+      "MLB24221002"
     ],
+    "mlParentId": "MLB23094057",
     "colors": [
       {
         "name": "Crimson",
@@ -292,7 +350,16 @@ const catalogProducts = [
         "name": "Feel Real",
         "image": "https://http2.mlstatic.com/D_NQ_NP_740344-MLA80078600380_102024-F.jpg"
       }
-    ]
+    ],
+    "averageRating": 0,
+    "reviewCount": 0,
+    "prices": [],
+    "tags": [
+      "batom",
+      "sheglam"
+    ],
+    "createdAt": "2026-03-03T16:33:39.118Z",
+    "updatedAt": "2026-03-03T16:33:40.385Z"
   },
   {
     "id": "p17725556203850038",
@@ -308,6 +375,17 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_615542-MLU72831967351_112023-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_610925-MLU72756917296_112023-F.jpg"
     ],
+    "ean": "6903072333714",
+    "mlIds": [
+      "MLB20577334"
+    ],
+    "mlParentId": "MLB20577322",
+    "colors": [
+      {
+        "name": "Rosa-claro",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_609136-MLU70065317607_062023-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -315,12 +393,8 @@ const catalogProducts = [
       "batom",
       "lipstick"
     ],
-    "colors": [
-      {
-        "name": "Rosa-claro",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_609136-MLU70065317607_062023-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:33:40.385Z",
+    "updatedAt": "2026-03-03T16:33:40.385Z"
   },
   {
     "id": "p17725556203850041",
@@ -336,6 +410,17 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_911219-MLA93301537951_092025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_959131-MLA93301765939_092025-F.jpg"
     ],
+    "ean": "8690131781736",
+    "mlIds": [
+      "MLB57714559"
+    ],
+    "mlParentId": "MLB57714541",
+    "colors": [
+      {
+        "name": "04 Plush Blush",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_856472-MLA92888067868_092025-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -343,12 +428,8 @@ const catalogProducts = [
       "batom",
       "farmasi"
     ],
-    "colors": [
-      {
-        "name": "04 Plush Blush",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_856472-MLA92888067868_092025-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:33:40.385Z",
+    "updatedAt": "2026-03-03T16:33:40.385Z"
   },
   {
     "id": "p17725556203850042",
@@ -363,6 +444,18 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_625184-MLU78711980660_092024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_668588-MLU78711872812_092024-F.jpg"
     ],
+    "ean": "6975350111529",
+    "mlIds": [
+      "MLB35788611",
+      "MLB35776799"
+    ],
+    "mlParentId": "MLB35776796",
+    "colors": [
+      {
+        "name": "Sortido",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_835434-MLU78711980652_092024-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -370,12 +463,8 @@ const catalogProducts = [
       "batom",
       "miss rose"
     ],
-    "colors": [
-      {
-        "name": "Sortido",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_835434-MLU78711980652_092024-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:33:40.385Z",
+    "updatedAt": "2026-03-03T16:33:40.385Z"
   },
   {
     "id": "p17725556203850045",
@@ -387,6 +476,17 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_947928-MLU73776778131_012024-F.jpg"
     ],
+    "ean": "3348901456869",
+    "mlIds": [
+      "MLB24089039"
+    ],
+    "mlParentId": "MLB24089020",
+    "colors": [
+      {
+        "name": "Cinza",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_947928-MLU73776778131_012024-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -394,12 +494,8 @@ const catalogProducts = [
       "batom",
       "dior"
     ],
-    "colors": [
-      {
-        "name": "Cinza",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_947928-MLU73776778131_012024-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:33:40.385Z",
+    "updatedAt": "2026-03-03T16:33:40.385Z"
   },
   {
     "id": "p17725556203850046",
@@ -415,6 +511,17 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_803581-MLU69934903377_062023-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_809592-MLU69934903379_062023-F.jpg"
     ],
+    "ean": "6959886709917",
+    "mlIds": [
+      "MLB23939725"
+    ],
+    "mlParentId": "MLB22768745",
+    "colors": [
+      {
+        "name": "Warm Nutmeg",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_745714-MLU69936415003_062023-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -422,12 +529,8 @@ const catalogProducts = [
       "batom",
       "sheglam"
     ],
-    "colors": [
-      {
-        "name": "Warm Nutmeg",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_745714-MLU69936415003_062023-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:33:40.385Z",
+    "updatedAt": "2026-03-03T16:33:40.385Z"
   },
   {
     "id": "p17725556203850049",
@@ -442,13 +545,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_980591-MLU75151284135_032024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_964856-MLU75151469963_032024-F.jpg"
     ],
+    "ean": "7899150792711",
+    "mlIds": [
+      "MLB24796603"
+    ],
+    "mlParentId": "MLB24796593",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "batom",
       "kaz"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:33:40.385Z",
+    "updatedAt": "2026-03-03T16:33:40.385Z"
   },
   {
     "id": "p17725556203850051",
@@ -460,6 +571,17 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_783791-MLA94027934221_102025-F.jpg"
     ],
+    "ean": "7502296065648",
+    "mlIds": [
+      "MLB58788802"
+    ],
+    "mlParentId": "MLB27764033",
+    "colors": [
+      {
+        "name": "15 BONITO",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_783791-MLA94027934221_102025-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -467,12 +589,8 @@ const catalogProducts = [
       "batom",
       "pink up"
     ],
-    "colors": [
-      {
-        "name": "15 BONITO",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_783791-MLA94027934221_102025-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:33:40.385Z",
+    "updatedAt": "2026-03-03T16:33:40.385Z"
   },
   {
     "id": "p17725556203850052",
@@ -484,13 +602,19 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_714345-MLA83063655577_032025-F.jpg"
     ],
-    "averageRating": 0,
-    "reviewCount": 0,
-    "prices": [],
-    "tags": [
-      "batom",
-      "florelle"
+    "ean": "9999913309632",
+    "mlIds": [
+      "MLB47121146",
+      "MLB47145702",
+      "MLB46257843",
+      "MLB46247980",
+      "MLB46258686",
+      "MLB46299253",
+      "MLB47466477",
+      "MLB49968382",
+      "MLB47219663"
     ],
+    "mlParentId": "MLB46247761",
     "colors": [
       {
         "name": "Batom Matte 56",
@@ -528,7 +652,16 @@ const catalogProducts = [
         "name": "Batom Matte 55",
         "image": "https://http2.mlstatic.com/D_NQ_NP_743638-MLA82832859970_032025-F.jpg"
       }
-    ]
+    ],
+    "averageRating": 0,
+    "reviewCount": 0,
+    "prices": [],
+    "tags": [
+      "batom",
+      "florelle"
+    ],
+    "createdAt": "2026-03-03T16:33:40.385Z",
+    "updatedAt": "2026-03-03T16:33:44.221Z"
   },
   {
     "id": "p17725556203860055",
@@ -542,6 +675,17 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_884929-MLU72008411783_092023-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_991026-MLU72008835235_092023-F.jpg"
     ],
+    "ean": "729238180611",
+    "mlIds": [
+      "MLB27310725"
+    ],
+    "mlParentId": "MLB26691630",
+    "colors": [
+      {
+        "name": "416 RED SHIFT - CHEERY RED",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_655487-MLU72008411781_092023-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -549,12 +693,8 @@ const catalogProducts = [
       "batom",
       "shiseido"
     ],
-    "colors": [
-      {
-        "name": "416 RED SHIFT - CHEERY RED",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_655487-MLU72008411781_092023-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:33:40.385Z",
+    "updatedAt": "2026-03-03T16:33:40.385Z"
   },
   {
     "id": "p17725556216670056",
@@ -567,6 +707,17 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_752790-MLA91910660215_092025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_659415-MLA91511992944_092025-F.jpg"
     ],
+    "ean": "194251133621",
+    "mlIds": [
+      "MLB54929938"
+    ],
+    "mlParentId": "MLB54929937",
+    "colors": [
+      {
+        "name": "Mogador",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_752790-MLA91910660215_092025-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -574,12 +725,8 @@ const catalogProducts = [
       "batom",
       "nars"
     ],
-    "colors": [
-      {
-        "name": "Mogador",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_752790-MLA91910660215_092025-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:33:41.667Z",
+    "updatedAt": "2026-03-03T16:33:41.667Z"
   },
   {
     "id": "p17725556229380061",
@@ -595,13 +742,19 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_867656-MLA93369721629_092025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_629779-MLA84802062821_052025-F.jpg"
     ],
-    "averageRating": 0,
-    "reviewCount": 0,
-    "prices": [],
-    "tags": [
-      "batom",
-      "bruna tavares"
+    "ean": "635093300418",
+    "mlIds": [
+      "MLB50106622",
+      "MLB55756185",
+      "MLB51486712",
+      "MLB38431864",
+      "MLB58475029",
+      "MLB52644096",
+      "MLB57075602",
+      "MLB54419338",
+      "MLB66077312"
     ],
+    "mlParentId": "MLB50106621",
     "colors": [
       {
         "name": "Nude",
@@ -671,7 +824,16 @@ const catalogProducts = [
         "name": "Todas",
         "image": "https://http2.mlstatic.com/D_NQ_NP_716684-MLU73992488278_012024-F.jpg"
       }
-    ]
+    ],
+    "averageRating": 0,
+    "reviewCount": 0,
+    "prices": [],
+    "tags": [
+      "batom",
+      "bruna tavares"
+    ],
+    "createdAt": "2026-03-03T16:33:42.938Z",
+    "updatedAt": "2026-03-03T16:33:44.221Z"
   },
   {
     "id": "p17725556229380062",
@@ -683,6 +845,17 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_784400-MLU78387318659_082024-F.jpg"
     ],
+    "ean": "6972105901671",
+    "mlIds": [
+      "MLB39312763"
+    ],
+    "mlParentId": "MLB39312761",
+    "colors": [
+      {
+        "name": "Nude",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_784400-MLU78387318659_082024-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -690,12 +863,8 @@ const catalogProducts = [
       "batom",
       "cmaadu"
     ],
-    "colors": [
-      {
-        "name": "Nude",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_784400-MLU78387318659_082024-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:33:42.938Z",
+    "updatedAt": "2026-03-03T16:33:42.938Z"
   },
   {
     "id": "p17725556229380063",
@@ -707,6 +876,17 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_680073-MLU75022108430_032024-F.jpg"
     ],
+    "ean": "7898032303885",
+    "mlIds": [
+      "MLB25180798"
+    ],
+    "mlParentId": "MLB25180778",
+    "colors": [
+      {
+        "name": "Nude",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_680073-MLU75022108430_032024-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -714,12 +894,8 @@ const catalogProducts = [
       "batom",
       "cores&brilhos"
     ],
-    "colors": [
-      {
-        "name": "Nude",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_680073-MLU75022108430_032024-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:33:42.938Z",
+    "updatedAt": "2026-03-03T16:33:42.938Z"
   },
   {
     "id": "p17725556229380064",
@@ -732,13 +908,15 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_889823-MLA82640786623_022025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_638829-MLA82640710749_022025-F.jpg"
     ],
-    "averageRating": 0,
-    "reviewCount": 0,
-    "prices": [],
-    "tags": [
-      "batom",
-      "nee"
+    "ean": "8028117033317",
+    "mlIds": [
+      "MLB46310330",
+      "MLB47124142",
+      "MLB46268356",
+      "MLB46266677",
+      "MLB46263371"
     ],
+    "mlParentId": "MLB46261316",
     "colors": [
       {
         "name": "Batom Matte Fluido 40",
@@ -776,7 +954,16 @@ const catalogProducts = [
         "name": "Poudre",
         "image": "https://http2.mlstatic.com/D_NQ_NP_804213-MLA82355976816_022025-F.jpg"
       }
-    ]
+    ],
+    "averageRating": 0,
+    "reviewCount": 0,
+    "prices": [],
+    "tags": [
+      "batom",
+      "nee"
+    ],
+    "createdAt": "2026-03-03T16:33:42.938Z",
+    "updatedAt": "2026-03-03T16:33:45.607Z"
   },
   {
     "id": "p17725556229380067",
@@ -788,6 +975,17 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_604867-MLB49501302104_032022-F.jpg"
     ],
+    "ean": "729238147843",
+    "mlIds": [
+      "MLB20971120"
+    ],
+    "mlParentId": "MLB20971085",
+    "colors": [
+      {
+        "name": "508 Semi Nude",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_604867-MLB49501302104_032022-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -795,12 +993,8 @@ const catalogProducts = [
       "batom",
       "shiseido"
     ],
-    "colors": [
-      {
-        "name": "508 Semi Nude",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_604867-MLB49501302104_032022-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:33:42.938Z",
+    "updatedAt": "2026-03-03T16:33:42.938Z"
   },
   {
     "id": "p17725556229380068",
@@ -815,13 +1009,11 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_762790-MLU74448873507_022024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_946152-MLU74448873509_022024-F.jpg"
     ],
-    "averageRating": 0,
-    "reviewCount": 0,
-    "prices": [],
-    "tags": [
-      "batom",
-      "natura"
+    "ean": "7909883013509",
+    "mlIds": [
+      "MLB34287680"
     ],
+    "mlParentId": "MLB20972082",
     "colors": [
       {
         "name": "Nude",
@@ -867,7 +1059,16 @@ const catalogProducts = [
         "name": "Natura Hypnotic",
         "image": "https://http2.mlstatic.com/D_NQ_NP_679664-MLU69996075244_062023-F.jpg"
       }
-    ]
+    ],
+    "averageRating": 0,
+    "reviewCount": 0,
+    "prices": [],
+    "tags": [
+      "batom",
+      "natura"
+    ],
+    "createdAt": "2026-03-03T16:33:42.938Z",
+    "updatedAt": "2026-03-03T16:33:42.938Z"
   },
   {
     "id": "p17725556229380069",
@@ -879,13 +1080,15 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_790184-MLA79251099854_092024-F.jpg"
     ],
-    "averageRating": 0,
-    "reviewCount": 0,
-    "prices": [],
-    "tags": [
-      "batom",
-      "ramona cosméticos"
+    "ean": "7899827001450",
+    "mlIds": [
+      "MLB41123502",
+      "MLB40912584",
+      "MLB40849208",
+      "MLB37791050",
+      "MLB30969268"
     ],
+    "mlParentId": "MLB20970880",
     "colors": [
       {
         "name": "Marrom",
@@ -907,7 +1110,16 @@ const catalogProducts = [
         "name": "Nude",
         "image": "https://http2.mlstatic.com/D_NQ_NP_822683-MLU74296556405_012024-F.jpg"
       }
-    ]
+    ],
+    "averageRating": 0,
+    "reviewCount": 0,
+    "prices": [],
+    "tags": [
+      "batom",
+      "ramona cosméticos"
+    ],
+    "createdAt": "2026-03-03T16:33:42.938Z",
+    "updatedAt": "2026-03-03T16:33:45.608Z"
   },
   {
     "id": "p17725556229380070",
@@ -919,6 +1131,16 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_645329-MLU54964913962_042023-F.jpg"
     ],
+    "mlIds": [
+      "MLB22733519"
+    ],
+    "mlParentId": "MLB22328194",
+    "colors": [
+      {
+        "name": "503 Nude Streak",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_645329-MLU54964913962_042023-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -926,12 +1148,8 @@ const catalogProducts = [
       "batom",
       "shiseido"
     ],
-    "colors": [
-      {
-        "name": "503 Nude Streak",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_645329-MLU54964913962_042023-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:33:42.938Z",
+    "updatedAt": "2026-03-03T16:33:42.938Z"
   },
   {
     "id": "p17725556229380071",
@@ -945,6 +1163,17 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_669499-MLU72090892845_102023-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_708280-MLU73602894300_122023-F.jpg"
     ],
+    "ean": "7891033521975",
+    "mlIds": [
+      "MLB27449786"
+    ],
+    "mlParentId": "MLB22257955",
+    "colors": [
+      {
+        "name": "Nude",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_772884-MLU74088422393_012024-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -952,12 +1181,8 @@ const catalogProducts = [
       "batom",
       "o boticário"
     ],
-    "colors": [
-      {
-        "name": "Nude",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_772884-MLU74088422393_012024-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:33:42.938Z",
+    "updatedAt": "2026-03-03T16:33:42.938Z"
   },
   {
     "id": "p17725556229380072",
@@ -969,13 +1194,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_769335-MLU73695161785_122023-F.jpg"
     ],
+    "ean": "7899506134998",
+    "mlIds": [
+      "MLB22758496"
+    ],
+    "mlParentId": "MLB22758478",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "batom",
       "face beautiful profissional"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:33:42.938Z",
+    "updatedAt": "2026-03-03T16:33:42.938Z"
   },
   {
     "id": "p17725556229380077",
@@ -988,6 +1221,17 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_777780-MLU73710668374_012024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_986582-MLU69363726604_052023-F.jpg"
     ],
+    "ean": "800897143671",
+    "mlIds": [
+      "MLB23216375"
+    ],
+    "mlParentId": "MLB23216358",
+    "colors": [
+      {
+        "name": "Nude",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_777780-MLU73710668374_012024-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -995,12 +1239,8 @@ const catalogProducts = [
       "batom",
       "nyx professional makeup"
     ],
-    "colors": [
-      {
-        "name": "Nude",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_777780-MLU73710668374_012024-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:33:42.938Z",
+    "updatedAt": "2026-03-03T16:33:42.938Z"
   },
   {
     "id": "p17725556242200085",
@@ -1012,6 +1252,17 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_892617-MLU69841829620_062023-F.jpg"
     ],
+    "ean": "7896075760252",
+    "mlIds": [
+      "MLB23825729"
+    ],
+    "mlParentId": "MLB23825703",
+    "colors": [
+      {
+        "name": "GATINHA",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_892617-MLU69841829620_062023-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -1019,12 +1270,8 @@ const catalogProducts = [
       "batom",
       "curvex"
     ],
-    "colors": [
-      {
-        "name": "GATINHA",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_892617-MLU69841829620_062023-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:33:44.220Z",
+    "updatedAt": "2026-03-03T16:33:44.220Z"
   },
   {
     "id": "p17725556242200086",
@@ -1038,13 +1285,16 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_772588-MLA97243897783_112025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_994133-MLA97244026253_112025-F.jpg"
     ],
-    "averageRating": 0,
-    "reviewCount": 0,
-    "prices": [],
-    "tags": [
-      "batom",
-      "mary kay"
+    "ean": "7904562083149",
+    "mlIds": [
+      "MLB61694497",
+      "MLB38298843",
+      "MLB55258712",
+      "MLB36588477",
+      "MLB33768068",
+      "MLB38299440"
     ],
+    "mlParentId": "MLB33768067",
     "colors": [
       {
         "name": "Bellissimo Nude (Matte)",
@@ -1074,7 +1324,16 @@ const catalogProducts = [
         "name": "Acabamento",
         "image": "https://http2.mlstatic.com/D_NQ_NP_862581-MLU78361696171_082024-F.jpg"
       }
-    ]
+    ],
+    "averageRating": 0,
+    "reviewCount": 0,
+    "prices": [],
+    "tags": [
+      "batom",
+      "mary kay"
+    ],
+    "createdAt": "2026-03-03T16:33:44.220Z",
+    "updatedAt": "2026-03-03T16:33:44.221Z"
   },
   {
     "id": "p17725556242200089",
@@ -1089,13 +1348,15 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_619001-MLA84619360522_052025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_997644-MLA84619488836_052025-F.jpg"
     ],
-    "averageRating": 0,
-    "reviewCount": 0,
-    "prices": [],
-    "tags": [
-      "batom",
-      "marchetti"
+    "ean": "7896132137843",
+    "mlIds": [
+      "MLB47493814",
+      "MLB47445136",
+      "MLB47439539",
+      "MLB47451660",
+      "MLB47487689"
     ],
+    "mlParentId": "MLB47439538",
     "colors": [
       {
         "name": "02 Nude Rosado",
@@ -1117,7 +1378,16 @@ const catalogProducts = [
         "name": "06 Nude Castor",
         "image": "https://http2.mlstatic.com/D_NQ_NP_917186-MLA84547981392_052025-F.jpg"
       }
-    ]
+    ],
+    "averageRating": 0,
+    "reviewCount": 0,
+    "prices": [],
+    "tags": [
+      "batom",
+      "marchetti"
+    ],
+    "createdAt": "2026-03-03T16:33:44.220Z",
+    "updatedAt": "2026-03-03T16:33:44.221Z"
   },
   {
     "id": "p17725556242210095",
@@ -1132,6 +1402,17 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_731179-MLU76995807305_062024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_909040-MLU76789509692_062024-F.jpg"
     ],
+    "ean": "7899952320488",
+    "mlIds": [
+      "MLB37715392"
+    ],
+    "mlParentId": "MLB37715391",
+    "colors": [
+      {
+        "name": "Nude",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_748551-MLU76789559230_062024-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -1139,12 +1420,8 @@ const catalogProducts = [
       "batom",
       "aviva"
     ],
-    "colors": [
-      {
-        "name": "Nude",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_748551-MLU76789559230_062024-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:33:44.221Z",
+    "updatedAt": "2026-03-03T16:33:44.221Z"
   },
   {
     "id": "p17725556242210096",
@@ -1157,6 +1434,17 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_822834-MLU78329083939_082024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_626067-MLU77523192636_072024-F.jpg"
     ],
+    "ean": "7909189318063",
+    "mlIds": [
+      "MLB38300262"
+    ],
+    "mlParentId": "MLB20306904",
+    "colors": [
+      {
+        "name": "Nude areia",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_822834-MLU78329083939_082024-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -1164,12 +1452,8 @@ const catalogProducts = [
       "batom",
       "avon"
     ],
-    "colors": [
-      {
-        "name": "Nude areia",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_822834-MLU78329083939_082024-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:33:44.221Z",
+    "updatedAt": "2026-03-03T16:33:44.221Z"
   },
   {
     "id": "p17725556242210101",
@@ -1183,6 +1467,17 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_813772-MLB45155013871_032021-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_959123-MLB48255232152_112021-F.jpg"
     ],
+    "ean": "7898573580479",
+    "mlIds": [
+      "MLB21560580"
+    ],
+    "mlParentId": "MLB21560559",
+    "colors": [
+      {
+        "name": "Nude",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_953528-MLB48255232151_112021-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -1190,12 +1485,8 @@ const catalogProducts = [
       "batom",
       "alice salazar"
     ],
-    "colors": [
-      {
-        "name": "Nude",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_953528-MLB48255232151_112021-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:33:44.221Z",
+    "updatedAt": "2026-03-03T16:33:44.221Z"
   },
   {
     "id": "p17725556242210106",
@@ -1207,6 +1498,17 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_771186-MLA83088640423_032025-F.jpg"
     ],
+    "ean": "8024930430098",
+    "mlIds": [
+      "MLB47175811"
+    ],
+    "mlParentId": "MLB46252178",
+    "colors": [
+      {
+        "name": "Batom Matte 09",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_771186-MLA83088640423_032025-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -1214,12 +1516,8 @@ const catalogProducts = [
       "batom",
       "florelle"
     ],
-    "colors": [
-      {
-        "name": "Batom Matte 09",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_771186-MLA83088640423_032025-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:33:44.221Z",
+    "updatedAt": "2026-03-03T16:33:44.221Z"
   },
   {
     "id": "p17725556242210108",
@@ -1231,6 +1529,17 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_737408-MLU73566601066_122023-F.jpg"
     ],
+    "ean": "7909189145379",
+    "mlIds": [
+      "MLB20693701"
+    ],
+    "mlParentId": "MLB20693693",
+    "colors": [
+      {
+        "name": "Pimenta",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_737408-MLU73566601066_122023-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -1238,12 +1547,8 @@ const catalogProducts = [
       "batom",
       "avon"
     ],
-    "colors": [
-      {
-        "name": "Pimenta",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_737408-MLU73566601066_122023-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:33:44.221Z",
+    "updatedAt": "2026-03-03T16:33:44.221Z"
   },
   {
     "id": "p17725556242210109",
@@ -1256,6 +1561,17 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_615256-MLA92034456330_092025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_665079-MLA93007158639_092025-F.jpg"
     ],
+    "ean": "78920686400004",
+    "mlIds": [
+      "MLB56123430"
+    ],
+    "mlParentId": "MLB50631674",
+    "colors": [
+      {
+        "name": "Nude Icônico",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_615256-MLA92034456330_092025-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -1263,12 +1579,8 @@ const catalogProducts = [
       "batom",
       "eudora"
     ],
-    "colors": [
-      {
-        "name": "Nude Icônico",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_615256-MLA92034456330_092025-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:33:44.221Z",
+    "updatedAt": "2026-03-03T16:33:44.221Z"
   },
   {
     "id": "p17725556242210110",
@@ -1284,6 +1596,17 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_858590-MLA95747541300_102025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_657566-MLA96189757865_102025-F.jpg"
     ],
+    "ean": "773602768721",
+    "mlIds": [
+      "MLB61089081"
+    ],
+    "mlParentId": "MLB59872944",
+    "colors": [
+      {
+        "name": "Unbothered",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_702980-MLA96189669137_102025-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -1291,12 +1614,8 @@ const catalogProducts = [
       "batom",
       "mac"
     ],
-    "colors": [
-      {
-        "name": "Unbothered",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_702980-MLA96189669137_102025-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:33:44.221Z",
+    "updatedAt": "2026-03-03T16:33:44.221Z"
   },
   {
     "id": "p17725556256070112",
@@ -1308,13 +1627,20 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_899457-MLU77127250475_062024-F.jpg"
     ],
+    "ean": "7898032303793",
+    "mlIds": [
+      "MLB37811650"
+    ],
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "batom",
       "cores&brilhos"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:33:45.607Z",
+    "updatedAt": "2026-03-03T16:33:45.607Z"
   },
   {
     "id": "p17725556256070113",
@@ -1330,13 +1656,12 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_988468-MLA82633107773_022025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_964828-MLA82348240972_022025-F.jpg"
     ],
-    "averageRating": 0,
-    "reviewCount": 0,
-    "prices": [],
-    "tags": [
-      "batom",
-      "mac"
+    "ean": "773602741045",
+    "mlIds": [
+      "MLB46245034",
+      "MLB46394141"
     ],
+    "mlParentId": "MLB45780169",
     "colors": [
       {
         "name": "Folio",
@@ -1346,7 +1671,16 @@ const catalogProducts = [
         "name": "Yash",
         "image": "https://http2.mlstatic.com/D_NQ_NP_648045-MLA82666227299_022025-F.jpg"
       }
-    ]
+    ],
+    "averageRating": 0,
+    "reviewCount": 0,
+    "prices": [],
+    "tags": [
+      "batom",
+      "mac"
+    ],
+    "createdAt": "2026-03-03T16:33:45.607Z",
+    "updatedAt": "2026-03-03T16:33:45.607Z"
   },
   {
     "id": "p17725556256070114",
@@ -1358,6 +1692,17 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_728634-MLU75961994807_042024-F.jpg"
     ],
+    "ean": "7898664974132",
+    "mlIds": [
+      "MLB36116228"
+    ],
+    "mlParentId": "MLB36116225",
+    "colors": [
+      {
+        "name": "Roxo",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_728634-MLU75961994807_042024-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -1365,12 +1710,8 @@ const catalogProducts = [
       "batom",
       "ana hickmann"
     ],
-    "colors": [
-      {
-        "name": "Roxo",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_728634-MLU75961994807_042024-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:33:45.607Z",
+    "updatedAt": "2026-03-03T16:33:45.607Z"
   },
   {
     "id": "p17725556256070116",
@@ -1386,13 +1727,13 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_694996-MLA84857320005_052025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_676382-MLA84857261347_052025-F.jpg"
     ],
-    "averageRating": 0,
-    "reviewCount": 0,
-    "prices": [],
-    "tags": [
-      "batom",
-      "dailus"
+    "ean": "7894222039572",
+    "mlIds": [
+      "MLB29388633",
+      "MLB29394245",
+      "MLB29390910"
     ],
+    "mlParentId": "MLB29386385",
     "colors": [
       {
         "name": "Desenrolada",
@@ -1406,7 +1747,16 @@ const catalogProducts = [
         "name": "Decidida",
         "image": "https://http2.mlstatic.com/D_NQ_NP_792657-MLA84833045163_052025-F.jpg"
       }
-    ]
+    ],
+    "averageRating": 0,
+    "reviewCount": 0,
+    "prices": [],
+    "tags": [
+      "batom",
+      "dailus"
+    ],
+    "createdAt": "2026-03-03T16:33:45.607Z",
+    "updatedAt": "2026-03-03T16:33:45.607Z"
   },
   {
     "id": "p17725556256070117",
@@ -1418,6 +1768,17 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_685300-MLU73600680118_122023-F.jpg"
     ],
+    "ean": "7909189162857",
+    "mlIds": [
+      "MLB23211243"
+    ],
+    "mlParentId": "MLB23211226",
+    "colors": [
+      {
+        "name": "Chocolate marcante",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_685300-MLU73600680118_122023-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -1425,12 +1786,8 @@ const catalogProducts = [
       "batom",
       "avon"
     ],
-    "colors": [
-      {
-        "name": "Chocolate marcante",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_685300-MLU73600680118_122023-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:33:45.607Z",
+    "updatedAt": "2026-03-03T16:33:45.607Z"
   },
   {
     "id": "p17725556256070119",
@@ -1446,6 +1803,17 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_694276-MLU74192408815_012024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_960129-MLU70137328128_062023-F.jpg"
     ],
+    "ean": "7894222021829",
+    "mlIds": [
+      "MLB22899940"
+    ],
+    "mlParentId": "MLB22899922",
+    "colors": [
+      {
+        "name": "Descontraida",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_702173-MLU77805056434_072024-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -1453,12 +1821,8 @@ const catalogProducts = [
       "batom",
       "dailus"
     ],
-    "colors": [
-      {
-        "name": "Descontraida",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_702173-MLU77805056434_072024-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:33:45.607Z",
+    "updatedAt": "2026-03-03T16:33:45.607Z"
   },
   {
     "id": "p17725556256070120",
@@ -1470,13 +1834,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_809357-MLU75482221045_032024-F.jpg"
     ],
+    "ean": "7898945864916",
+    "mlIds": [
+      "MLB23094093"
+    ],
+    "mlParentId": "MLB23094070",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "batom",
       "dalla make up"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:33:45.607Z",
+    "updatedAt": "2026-03-03T16:33:45.607Z"
   },
   {
     "id": "p17725556256070122",
@@ -1489,13 +1861,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_815737-MLU54964954504_042023-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_629838-MLU74435782304_022024-F.jpg"
     ],
+    "ean": "7898640651033",
+    "mlIds": [
+      "MLB22733510"
+    ],
+    "mlParentId": "MLB22733492",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "batom",
       "dalla"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:33:45.607Z",
+    "updatedAt": "2026-03-03T16:33:45.607Z"
   },
   {
     "id": "p17725556256070124",
@@ -1507,6 +1887,17 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_646240-MLA80972145580_122024-F.jpg"
     ],
+    "ean": "7908335404551",
+    "mlIds": [
+      "MLB44603082"
+    ],
+    "mlParentId": "MLB44603081",
+    "colors": [
+      {
+        "name": "Nude,Laranja",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_646240-MLA80972145580_122024-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -1514,12 +1905,8 @@ const catalogProducts = [
       "batom",
       "contém1g"
     ],
-    "colors": [
-      {
-        "name": "Nude,Laranja",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_646240-MLA80972145580_122024-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:33:45.607Z",
+    "updatedAt": "2026-03-03T16:33:45.607Z"
   },
   {
     "id": "p17725556256070125",
@@ -1534,6 +1921,17 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_906119-MLU75151657861_032024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_995153-MLU75010218274_032024-F.jpg"
     ],
+    "ean": "7890012029655",
+    "mlIds": [
+      "MLB28818231"
+    ],
+    "mlParentId": "MLB20971960",
+    "colors": [
+      {
+        "name": "Nude passione",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_642163-MLU73786866474_012024-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -1541,12 +1939,8 @@ const catalogProducts = [
       "batom",
       "mary kay"
     ],
-    "colors": [
-      {
-        "name": "Nude passione",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_642163-MLU73786866474_012024-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:33:45.607Z",
+    "updatedAt": "2026-03-03T16:33:45.607Z"
   },
   {
     "id": "p17725556256070126",
@@ -1559,6 +1953,17 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_886109-MLU77667979278_072024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_878268-MLU77667803258_072024-F.jpg"
     ],
+    "ean": "7897574198379",
+    "mlIds": [
+      "MLB38572170"
+    ],
+    "mlParentId": "MLB38572167",
+    "colors": [
+      {
+        "name": "Nude",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_886109-MLU77667979278_072024-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -1566,12 +1971,8 @@ const catalogProducts = [
       "batom",
       "face it"
     ],
-    "colors": [
-      {
-        "name": "Nude",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_886109-MLU77667979278_072024-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:33:45.607Z",
+    "updatedAt": "2026-03-03T16:33:45.607Z"
   },
   {
     "id": "p17725556256070127",
@@ -1583,6 +1984,17 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_990244-MLU79087311556_092024-F.jpg"
     ],
+    "ean": "7899820802979",
+    "mlIds": [
+      "MLB40888000"
+    ],
+    "mlParentId": "MLB40887994",
+    "colors": [
+      {
+        "name": "Nude",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_990244-MLU79087311556_092024-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -1590,12 +2002,8 @@ const catalogProducts = [
       "batom",
       "luisance"
     ],
-    "colors": [
-      {
-        "name": "Nude",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_990244-MLU79087311556_092024-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:33:45.607Z",
+    "updatedAt": "2026-03-03T16:33:45.607Z"
   },
   {
     "id": "p17725556256070128",
@@ -1607,13 +2015,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_734138-MLU71030113143_082023-F.jpg"
     ],
+    "ean": "7898646771162",
+    "mlIds": [
+      "MLB25928029"
+    ],
+    "mlParentId": "MLB25928025",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "batom",
       "nao craquela"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:33:45.607Z",
+    "updatedAt": "2026-03-03T16:33:45.607Z"
   },
   {
     "id": "p17725556256070130",
@@ -1627,13 +2043,11 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_613183-MLA106901630250_022026-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_788535-MLA107580270287_022026-F.jpg"
     ],
-    "averageRating": 0,
-    "reviewCount": 0,
-    "prices": [],
-    "tags": [
-      "batom",
-      "natura"
+    "ean": "7908240826332",
+    "mlIds": [
+      "MLB20970754"
     ],
+    "mlParentId": "MLB20970708",
     "colors": [
       {
         "name": "Nude",
@@ -1647,7 +2061,16 @@ const catalogProducts = [
         "name": "Intransferivel",
         "image": "https://http2.mlstatic.com/D_NQ_NP_805768-MLU74723817218_032024-F.jpg"
       }
-    ]
+    ],
+    "averageRating": 0,
+    "reviewCount": 0,
+    "prices": [],
+    "tags": [
+      "batom",
+      "natura"
+    ],
+    "createdAt": "2026-03-03T16:33:45.607Z",
+    "updatedAt": "2026-03-03T16:33:45.607Z"
   },
   {
     "id": "p17725556268840149",
@@ -1659,6 +2082,16 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_848406-MLU75855818127_042024-F.jpg"
     ],
+    "mlIds": [
+      "MLB35538703"
+    ],
+    "mlParentId": "MLB35233104",
+    "colors": [
+      {
+        "name": "12 Geoda de Brilhos Labiais",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_848406-MLU75855818127_042024-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -1666,12 +2099,8 @@ const catalogProducts = [
       "brilho labial",
       "comercializadoragenmx"
     ],
-    "colors": [
-      {
-        "name": "12 Geoda de Brilhos Labiais",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_848406-MLU75855818127_042024-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:33:46.884Z",
+    "updatedAt": "2026-03-03T16:33:46.884Z"
   },
   {
     "id": "p17725556281570150",
@@ -1687,6 +2116,17 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_920072-MLA79450548652_102024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_749666-MLA79450548654_102024-F.jpg"
     ],
+    "ean": "840222302694",
+    "mlIds": [
+      "MLB28725754"
+    ],
+    "mlParentId": "MLB28347377",
+    "colors": [
+      {
+        "name": "Hey girl",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_882066-MLA79696551133_102024-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -1694,12 +2134,8 @@ const catalogProducts = [
       "brilho labial",
       "moira"
     ],
-    "colors": [
-      {
-        "name": "Hey girl",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_882066-MLA79696551133_102024-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:33:48.157Z",
+    "updatedAt": "2026-03-03T16:33:48.157Z"
   },
   {
     "id": "p17725556281570151",
@@ -1711,13 +2147,19 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_832913-MLA27459913155_052018-F.jpg"
     ],
+    "mlIds": [
+      "MLB9433225"
+    ],
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "brilho labial",
       "gabriel cosmetics"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:33:48.157Z",
+    "updatedAt": "2026-03-03T16:33:48.157Z"
   },
   {
     "id": "p17725556294340152",
@@ -1733,6 +2175,17 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_674717-MLU74088068855_012024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_606635-MLU73377912231_122023-F.jpg"
     ],
+    "ean": "812459024557",
+    "mlIds": [
+      "MLB28790811"
+    ],
+    "mlParentId": "MLB28790809",
+    "colors": [
+      {
+        "name": "Vermelho",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_804356-MLA76026947937_042024-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -1740,12 +2193,8 @@ const catalogProducts = [
       "brilho labial",
       "glossier"
     ],
-    "colors": [
-      {
-        "name": "Vermelho",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_804356-MLA76026947937_042024-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:33:49.434Z",
+    "updatedAt": "2026-03-03T16:33:49.434Z"
   },
   {
     "id": "p17725556294340153",
@@ -1761,6 +2210,17 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_749555-MLU73327483874_122023-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_925490-MLU73327483884_122023-F.jpg"
     ],
+    "ean": "840222302618",
+    "mlIds": [
+      "MLB28849959"
+    ],
+    "mlParentId": "MLB28849957",
+    "colors": [
+      {
+        "name": "Goldie",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_990759-MLU74724861638_032024-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -1768,12 +2228,8 @@ const catalogProducts = [
       "brilho labial",
       "moira"
     ],
-    "colors": [
-      {
-        "name": "Goldie",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_990759-MLU74724861638_032024-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:33:49.434Z",
+    "updatedAt": "2026-03-03T16:33:49.434Z"
   },
   {
     "id": "p17725556294340154",
@@ -1787,13 +2243,12 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_622735-MLU73268524313_122023-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_637079-MLU74442015191_022024-F.jpg"
     ],
-    "averageRating": 0,
-    "reviewCount": 0,
-    "prices": [],
-    "tags": [
-      "brilho labial",
-      "palladio"
+    "ean": "24057340094",
+    "mlIds": [
+      "MLB28679068",
+      "MLB28563583"
     ],
+    "mlParentId": "MLB28296721",
     "colors": [
       {
         "name": "Copper",
@@ -1803,7 +2258,16 @@ const catalogProducts = [
         "name": "[Bellini]",
         "image": "https://http2.mlstatic.com/D_NQ_NP_741255-MLU73090654132_112023-F.jpg"
       }
-    ]
+    ],
+    "averageRating": 0,
+    "reviewCount": 0,
+    "prices": [],
+    "tags": [
+      "brilho labial",
+      "palladio"
+    ],
+    "createdAt": "2026-03-03T16:33:49.434Z",
+    "updatedAt": "2026-03-03T16:33:49.434Z"
   },
   {
     "id": "p17725556307120156",
@@ -1815,13 +2279,20 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_758149-MLU78084487286_082024-F.jpg"
     ],
+    "ean": "7805091967910",
+    "mlIds": [
+      "MLB32709184"
+    ],
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "brilho labial",
       "o boticário"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:33:50.712Z",
+    "updatedAt": "2026-03-03T16:33:50.712Z"
   },
   {
     "id": "p17725556307120157",
@@ -1837,6 +2308,17 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_811196-MLA79786450447_102024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_917644-MLA79538971080_102024-F.jpg"
     ],
+    "ean": "7893422745467",
+    "mlIds": [
+      "MLB34254614"
+    ],
+    "mlParentId": "MLB34254613",
+    "colors": [
+      {
+        "name": "Rosa",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_693526-MLA79538971052_102024-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -1844,12 +2326,8 @@ const catalogProducts = [
       "brilho labial",
       "o boticário"
     ],
-    "colors": [
-      {
-        "name": "Rosa",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_693526-MLA79538971052_102024-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:33:50.712Z",
+    "updatedAt": "2026-03-03T16:33:50.712Z"
   },
   {
     "id": "p17725556319840158",
@@ -1861,6 +2339,17 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_680210-MLU72967747984_112023-F.jpg"
     ],
+    "ean": "7898032306923",
+    "mlIds": [
+      "MLB28337972"
+    ],
+    "mlParentId": "MLB28337971",
+    "colors": [
+      {
+        "name": "Marrom",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_680210-MLU72967747984_112023-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -1868,12 +2357,8 @@ const catalogProducts = [
       "brilho labial",
       "cores&brilhos"
     ],
-    "colors": [
-      {
-        "name": "Marrom",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_680210-MLU72967747984_112023-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:33:51.984Z",
+    "updatedAt": "2026-03-03T16:33:51.984Z"
   },
   {
     "id": "p17725556319840159",
@@ -1885,6 +2370,17 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_931272-MLU77903020582_082024-F.jpg"
     ],
+    "ean": "7898032309245",
+    "mlIds": [
+      "MLB28565229"
+    ],
+    "mlParentId": "MLB28565228",
+    "colors": [
+      {
+        "name": "Preto",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_931272-MLU77903020582_082024-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -1892,12 +2388,8 @@ const catalogProducts = [
       "brilho labial",
       "cores&brilhos"
     ],
-    "colors": [
-      {
-        "name": "Preto",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_931272-MLU77903020582_082024-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:33:51.984Z",
+    "updatedAt": "2026-03-03T16:33:51.984Z"
   },
   {
     "id": "p17725556319840160",
@@ -1909,6 +2401,17 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_787396-MLU72920192197_112023-F.jpg"
     ],
+    "ean": "7898032304691",
+    "mlIds": [
+      "MLB28130130"
+    ],
+    "mlParentId": "MLB28130129",
+    "colors": [
+      {
+        "name": "Marrom",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_787396-MLU72920192197_112023-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -1916,12 +2419,8 @@ const catalogProducts = [
       "brilho labial",
       "cores&brilhos"
     ],
-    "colors": [
-      {
-        "name": "Marrom",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_787396-MLU72920192197_112023-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:33:51.984Z",
+    "updatedAt": "2026-03-03T16:33:51.984Z"
   },
   {
     "id": "p17725556319840161",
@@ -1937,13 +2436,12 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_836766-MLA88631539628_072025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_841624-MLA88631589286_072025-F.jpg"
     ],
-    "averageRating": 0,
-    "reviewCount": 0,
-    "prices": [],
-    "tags": [
-      "brilho labial",
-      "maybelline"
+    "ean": "3600531609696",
+    "mlIds": [
+      "MLB28966454",
+      "MLB41149064"
     ],
+    "mlParentId": "MLB27197457",
     "colors": [
       {
         "name": "Topázio",
@@ -1953,7 +2451,16 @@ const catalogProducts = [
         "name": "Silk",
         "image": "https://http2.mlstatic.com/D_NQ_NP_901981-MLA79274262610_092024-F.jpg"
       }
-    ]
+    ],
+    "averageRating": 0,
+    "reviewCount": 0,
+    "prices": [],
+    "tags": [
+      "brilho labial",
+      "maybelline"
+    ],
+    "createdAt": "2026-03-03T16:33:51.984Z",
+    "updatedAt": "2026-03-03T16:33:53.263Z"
   },
   {
     "id": "p17725556332620162",
@@ -1966,6 +2473,17 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_782073-MLA80329516322_112024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_864017-MLA80329433062_112024-F.jpg"
     ],
+    "ean": "7898664973647",
+    "mlIds": [
+      "MLB36303829"
+    ],
+    "mlParentId": "MLB36303827",
+    "colors": [
+      {
+        "name": "Rosa",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_782073-MLA80329516322_112024-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -1973,12 +2491,8 @@ const catalogProducts = [
       "brilho labial",
       "ana hickmann"
     ],
-    "colors": [
-      {
-        "name": "Rosa",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_782073-MLA80329516322_112024-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:33:53.262Z",
+    "updatedAt": "2026-03-03T16:33:53.262Z"
   },
   {
     "id": "p17725556332620163",
@@ -1992,6 +2506,17 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_887539-MLU77901325412_082024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_636276-MLU75938125956_042024-F.jpg"
     ],
+    "ean": "6015956340326",
+    "mlIds": [
+      "MLB36401301"
+    ],
+    "mlParentId": "MLB36401300",
+    "colors": [
+      {
+        "name": "Branco",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_631796-MLU76114795199_042024-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -1999,12 +2524,8 @@ const catalogProducts = [
       "brilho labial",
       "vivai"
     ],
-    "colors": [
-      {
-        "name": "Branco",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_631796-MLU76114795199_042024-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:33:53.262Z",
+    "updatedAt": "2026-03-03T16:33:53.262Z"
   },
   {
     "id": "p17725556332630164",
@@ -2020,13 +2541,20 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_961745-MLU75554926024_042024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_904756-MLU76878995783_062024-F.jpg"
     ],
+    "ean": "7798336948884",
+    "mlIds": [
+      "MLB35629101"
+    ],
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "brilho labial",
       "cher."
-    ]
+    ],
+    "createdAt": "2026-03-03T16:33:53.263Z",
+    "updatedAt": "2026-03-03T16:33:53.263Z"
   },
   {
     "id": "p17725556332630166",
@@ -2038,6 +2566,17 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_893860-MLU76461549318_052024-F.jpg"
     ],
+    "ean": "7898032302468",
+    "mlIds": [
+      "MLB37228045"
+    ],
+    "mlParentId": "MLB37228042",
+    "colors": [
+      {
+        "name": "Vermelho escuro",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_893860-MLU76461549318_052024-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -2045,12 +2584,8 @@ const catalogProducts = [
       "brilho labial",
       "cores&brilhos"
     ],
-    "colors": [
-      {
-        "name": "Vermelho escuro",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_893860-MLU76461549318_052024-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:33:53.263Z",
+    "updatedAt": "2026-03-03T16:33:53.263Z"
   },
   {
     "id": "p17725556332630167",
@@ -2064,6 +2599,17 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_806271-MLA87180445511_072025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_816201-MLA90366357553_082025-F.jpg"
     ],
+    "ean": "7898697023494",
+    "mlIds": [
+      "MLB28894521"
+    ],
+    "mlParentId": "MLB28894520",
+    "colors": [
+      {
+        "name": "Flora",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_941923-MLA89986372142_082025-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -2071,12 +2617,8 @@ const catalogProducts = [
       "brilho labial",
       "fand makeup"
     ],
-    "colors": [
-      {
-        "name": "Flora",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_941923-MLA89986372142_082025-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:33:53.263Z",
+    "updatedAt": "2026-03-03T16:33:53.263Z"
   },
   {
     "id": "p17725556332630168",
@@ -2088,6 +2630,17 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_694319-MLU74798569794_032024-F.jpg"
     ],
+    "ean": "7898451963066",
+    "mlIds": [
+      "MLB34174830"
+    ],
+    "mlParentId": "MLB34174827",
+    "colors": [
+      {
+        "name": "Fúcsia",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_694319-MLU74798569794_032024-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -2095,12 +2648,8 @@ const catalogProducts = [
       "brilho labial",
       "safira"
     ],
-    "colors": [
-      {
-        "name": "Fúcsia",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_694319-MLU74798569794_032024-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:33:53.263Z",
+    "updatedAt": "2026-03-03T16:33:53.263Z"
   },
   {
     "id": "p17725556332630169",
@@ -2112,6 +2661,17 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_988489-MLA79831126635_102024-F.jpg"
     ],
+    "ean": "7898697021780",
+    "mlIds": [
+      "MLB38562212"
+    ],
+    "mlParentId": "MLB38562210",
+    "colors": [
+      {
+        "name": "Vermelho",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_988489-MLA79831126635_102024-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -2119,12 +2679,8 @@ const catalogProducts = [
       "brilho labial",
       "ppoeta"
     ],
-    "colors": [
-      {
-        "name": "Vermelho",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_988489-MLA79831126635_102024-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:33:53.263Z",
+    "updatedAt": "2026-03-03T16:33:53.263Z"
   },
   {
     "id": "p17725556332630170",
@@ -2136,6 +2692,17 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_742580-MLU74154685505_012024-F.jpg"
     ],
+    "ean": "7898666420996",
+    "mlIds": [
+      "MLB28788066"
+    ],
+    "mlParentId": "MLB28788065",
+    "colors": [
+      {
+        "name": "Preto",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_742580-MLU74154685505_012024-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -2143,12 +2710,8 @@ const catalogProducts = [
       "brilho labial",
       "divamor"
     ],
-    "colors": [
-      {
-        "name": "Preto",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_742580-MLU74154685505_012024-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:33:53.263Z",
+    "updatedAt": "2026-03-03T16:33:53.263Z"
   },
   {
     "id": "p17725556332630171",
@@ -2160,13 +2723,20 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_894057-MLU75278655112_032024-F.jpg"
     ],
+    "ean": "7840508043337",
+    "mlIds": [
+      "MLB34980196"
+    ],
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "brilho labial",
       "newcolor"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:33:53.263Z",
+    "updatedAt": "2026-03-03T16:33:53.263Z"
   },
   {
     "id": "p17725556332630172",
@@ -2180,6 +2750,17 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_946915-MLU73373605359_122023-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_708279-MLU74005414858_012024-F.jpg"
     ],
+    "ean": "7896032673557",
+    "mlIds": [
+      "MLB28773742"
+    ],
+    "mlParentId": "MLB28773741",
+    "colors": [
+      {
+        "name": "Acrylic",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_849802-MLU73373431507_122023-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -2187,12 +2768,8 @@ const catalogProducts = [
       "brilho labial",
       "frederika make"
     ],
-    "colors": [
-      {
-        "name": "Acrylic",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_849802-MLU73373431507_122023-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:33:53.263Z",
+    "updatedAt": "2026-03-03T16:33:53.263Z"
   },
   {
     "id": "p17725556332630173",
@@ -2204,6 +2781,17 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_976537-MLU72878325704_112023-F.jpg"
     ],
+    "ean": "7805545320858",
+    "mlIds": [
+      "MLB28194144"
+    ],
+    "mlParentId": "MLB28194140",
+    "colors": [
+      {
+        "name": "Incolor",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_976537-MLU72878325704_112023-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -2211,12 +2799,8 @@ const catalogProducts = [
       "brilho labial",
       "ricosti"
     ],
-    "colors": [
-      {
-        "name": "Incolor",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_976537-MLU72878325704_112023-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:33:53.263Z",
+    "updatedAt": "2026-03-03T16:33:53.263Z"
   },
   {
     "id": "p17725556332630174",
@@ -2232,6 +2816,16 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_921550-MLU74388701407_022024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_676429-MLU74984442418_032024-F.jpg"
     ],
+    "ean": "7890001900026",
+    "mlIds": [
+      "MLB32030889"
+    ],
+    "colors": [
+      {
+        "name": "Rosa-chiclete",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_976679-MLA80818738499_112024-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -2239,12 +2833,8 @@ const catalogProducts = [
       "brilho labial",
       "tulípia"
     ],
-    "colors": [
-      {
-        "name": "Rosa-chiclete",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_976679-MLA80818738499_112024-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:33:53.263Z",
+    "updatedAt": "2026-03-03T16:33:53.263Z"
   },
   {
     "id": "p17725556332630175",
@@ -2256,13 +2846,11 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_776956-MLU75810071824_042024-F.jpg"
     ],
-    "averageRating": 0,
-    "reviewCount": 0,
-    "prices": [],
-    "tags": [
-      "brilho labial",
-      "o boticário"
+    "ean": "7891033808168",
+    "mlIds": [
+      "MLB36177352"
     ],
+    "mlParentId": "MLB36177351",
     "colors": [
       {
         "name": "Vinho",
@@ -2280,7 +2868,16 @@ const catalogProducts = [
         "name": "Urban Wine",
         "image": "https://http2.mlstatic.com/D_NQ_NP_960641-MLU75936773132_042024-F.jpg"
       }
-    ]
+    ],
+    "averageRating": 0,
+    "reviewCount": 0,
+    "prices": [],
+    "tags": [
+      "brilho labial",
+      "o boticário"
+    ],
+    "createdAt": "2026-03-03T16:33:53.263Z",
+    "updatedAt": "2026-03-03T16:33:53.263Z"
   },
   {
     "id": "p17725556332630176",
@@ -2295,6 +2892,17 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_796121-MLU73331802884_122023-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_730199-MLU73331842442_122023-F.jpg"
     ],
+    "ean": "7899846802359",
+    "mlIds": [
+      "MLB28909677"
+    ],
+    "mlParentId": "MLB28909674",
+    "colors": [
+      {
+        "name": "Orgasmic Gold",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_891297-MLU73331802872_122023-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -2302,12 +2910,8 @@ const catalogProducts = [
       "brilho labial",
       "adversa"
     ],
-    "colors": [
-      {
-        "name": "Orgasmic Gold",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_891297-MLU73331802872_122023-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:33:53.263Z",
+    "updatedAt": "2026-03-03T16:33:53.263Z"
   },
   {
     "id": "p17725556332630179",
@@ -2323,6 +2927,17 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_915027-MLA97822542107_112025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_788444-MLA97361428780_112025-F.jpg"
     ],
+    "ean": "7801424970527",
+    "mlIds": [
+      "MLB61988020"
+    ],
+    "mlParentId": "MLB61988019",
+    "colors": [
+      {
+        "name": "Amarelo",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_727239-MLA97361378952_112025-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -2330,12 +2945,8 @@ const catalogProducts = [
       "brilho labial",
       "fran by franciny ehlke"
     ],
-    "colors": [
-      {
-        "name": "Amarelo",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_727239-MLA97361378952_112025-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:33:53.263Z",
+    "updatedAt": "2026-03-03T16:33:53.263Z"
   },
   {
     "id": "p17725558059523213",
@@ -2351,6 +2962,17 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_787307-MLA82202233864_022025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_797073-MLA82202325994_022025-F.jpg"
     ],
+    "ean": "7898724570960",
+    "mlIds": [
+      "MLB28662590"
+    ],
+    "mlParentId": "MLB28662589",
+    "colors": [
+      {
+        "name": "Rosa",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_656146-MLA82485630483_022025-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -2358,12 +2980,8 @@ const catalogProducts = [
       "brilho labial",
       "mboom"
     ],
-    "colors": [
-      {
-        "name": "Rosa",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_656146-MLA82485630483_022025-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:36:45.952Z",
+    "updatedAt": "2026-03-03T16:36:45.952Z"
   },
   {
     "id": "p17725558059533214",
@@ -2379,6 +2997,17 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_974071-MLA106862561011_022026-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_744236-MLA106862561023_022026-F.jpg"
     ],
+    "ean": "7898724571417",
+    "mlIds": [
+      "MLB37946694"
+    ],
+    "mlParentId": "MLB37946693",
+    "colors": [
+      {
+        "name": "Franciny Ehlke Glosslicious",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_633929-MLA84547546234_052025-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -2386,12 +3015,8 @@ const catalogProducts = [
       "brilho labial",
       "fran by franciny ehlke"
     ],
-    "colors": [
-      {
-        "name": "Franciny Ehlke Glosslicious",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_633929-MLA84547546234_052025-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:36:45.953Z",
+    "updatedAt": "2026-03-03T16:36:45.953Z"
   },
   {
     "id": "p17725558059533217",
@@ -2407,6 +3032,17 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_938129-MLA96155682031_102025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_887759-MLA96155800569_102025-F.jpg"
     ],
+    "ean": "7898251178349",
+    "mlIds": [
+      "MLB61059780"
+    ],
+    "mlParentId": "MLB61059779",
+    "colors": [
+      {
+        "name": "Franciny Ehlke Glosslicious",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_743565-MLA96155711955_102025-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -2414,12 +3050,8 @@ const catalogProducts = [
       "brilho labial",
       "sharks ml"
     ],
-    "colors": [
-      {
-        "name": "Franciny Ehlke Glosslicious",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_743565-MLA96155711955_102025-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:36:45.953Z",
+    "updatedAt": "2026-03-03T16:36:45.953Z"
   },
   {
     "id": "p17725558059533224",
@@ -2434,6 +3066,16 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_678385-MLA107303491612_032026-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_778923-MLA108011057099_032026-F.jpg"
     ],
+    "mlIds": [
+      "MLB66141207"
+    ],
+    "mlParentId": "MLB66141206",
+    "colors": [
+      {
+        "name": "Chocolate",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_710566-MLA107303137082_032026-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -2441,12 +3083,8 @@ const catalogProducts = [
       "brilho labial",
       "fran by franciny ehlke"
     ],
-    "colors": [
-      {
-        "name": "Chocolate",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_710566-MLA107303137082_032026-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:36:45.953Z",
+    "updatedAt": "2026-03-03T16:36:45.953Z"
   },
   {
     "id": "p17725558072333229",
@@ -2462,6 +3100,17 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_957974-MLA98823698702_112025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_823318-MLA98823698714_112025-F.jpg"
     ],
+    "ean": "7898724570885, 7895284510009",
+    "mlIds": [
+      "MLB26376162"
+    ],
+    "mlParentId": "MLB26376091",
+    "colors": [
+      {
+        "name": "Chocolate",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_610701-MLU72565366536_112023-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -2469,12 +3118,8 @@ const catalogProducts = [
       "brilho labial",
       "fran by franciny ehlke"
     ],
-    "colors": [
-      {
-        "name": "Chocolate",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_610701-MLU72565366536_112023-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:36:47.233Z",
+    "updatedAt": "2026-03-03T16:36:47.233Z"
   },
   {
     "id": "p17725558072333231",
@@ -2490,6 +3135,16 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_610626-MLA84849101897_052025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_931158-MLA84550855292_052025-F.jpg"
     ],
+    "ean": "7898969501903",
+    "mlIds": [
+      "MLB20968708"
+    ],
+    "colors": [
+      {
+        "name": "Incolor",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_723779-MLA84550835580_052025-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -2497,12 +3152,8 @@ const catalogProducts = [
       "brilho labial",
       "franciny ehlke"
     ],
-    "colors": [
-      {
-        "name": "Incolor",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_723779-MLA84550835580_052025-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:36:47.233Z",
+    "updatedAt": "2026-03-03T16:36:47.233Z"
   },
   {
     "id": "p17725558072333234",
@@ -2515,6 +3166,17 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_771049-MLA107963222985_032026-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_639746-MLA107963162905_032026-F.jpg"
     ],
+    "ean": "07891789920909",
+    "mlIds": [
+      "MLB66127997"
+    ],
+    "mlParentId": "MLB66127996",
+    "colors": [
+      {
+        "name": "Vermelho",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_771049-MLA107963222985_032026-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -2522,12 +3184,8 @@ const catalogProducts = [
       "brilho labial",
       "50tão"
     ],
-    "colors": [
-      {
-        "name": "Vermelho",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_771049-MLA107963222985_032026-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:36:47.233Z",
+    "updatedAt": "2026-03-03T16:36:47.233Z"
   },
   {
     "id": "p17725558123413264",
@@ -2540,13 +3198,13 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_829526-MLU74724331036_032024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_732990-MLA88064887272_072025-F.jpg"
     ],
-    "averageRating": 0,
-    "reviewCount": 0,
-    "prices": [],
-    "tags": [
-      "brilho labial",
-      "boca rosa"
+    "ean": "7896609543115",
+    "mlIds": [
+      "MLB28639796",
+      "MLB28304858",
+      "MLB28410915"
     ],
+    "mlParentId": "MLB28141442",
     "colors": [
       {
         "name": "Demi",
@@ -2560,7 +3218,16 @@ const catalogProducts = [
         "name": "Corinne",
         "image": "https://http2.mlstatic.com/D_NQ_NP_987603-MLU74823684100_032024-F.jpg"
       }
-    ]
+    ],
+    "averageRating": 0,
+    "reviewCount": 0,
+    "prices": [],
+    "tags": [
+      "brilho labial",
+      "boca rosa"
+    ],
+    "createdAt": "2026-03-03T16:36:52.341Z",
+    "updatedAt": "2026-03-03T16:36:52.342Z"
   },
   {
     "id": "p17725558161473311",
@@ -2576,6 +3243,17 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_762203-MLA88401652375_072025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_937872-MLA88402196641_072025-F.jpg"
     ],
+    "ean": "7898724570557",
+    "mlIds": [
+      "MLB28574144"
+    ],
+    "mlParentId": "MLB26997545",
+    "colors": [
+      {
+        "name": "Marte",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_773881-MLU75858976307_042024-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -2583,12 +3261,8 @@ const catalogProducts = [
       "brilho labial",
       "karen bachini"
     ],
-    "colors": [
-      {
-        "name": "Marte",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_773881-MLU75858976307_042024-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:36:56.147Z",
+    "updatedAt": "2026-03-03T16:36:56.147Z"
   },
   {
     "id": "p17725558175403327",
@@ -2603,6 +3277,17 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_906947-MLA89880936231_082025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_940399-MLA89880564337_082025-F.jpg"
     ],
+    "ean": "102072923987",
+    "mlIds": [
+      "MLB39235667"
+    ],
+    "mlParentId": "MLB39235666",
+    "colors": [
+      {
+        "name": "Bordô",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_920802-MLU78077744802_082024-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -2610,12 +3295,8 @@ const catalogProducts = [
       "brilho labial",
       "karen bachini"
     ],
-    "colors": [
-      {
-        "name": "Bordô",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_920802-MLU78077744802_082024-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:36:57.540Z",
+    "updatedAt": "2026-03-03T16:36:57.540Z"
   },
   {
     "id": "p17725556358550180",
@@ -2627,6 +3308,17 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_980286-MLU73438295332_122023-F.jpg"
     ],
+    "ean": "81555655099",
+    "mlIds": [
+      "MLB29086957"
+    ],
+    "mlParentId": "MLB28769032",
+    "colors": [
+      {
+        "name": "Sable",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_980286-MLU73438295332_122023-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -2634,12 +3326,8 @@ const catalogProducts = [
       "lápis labial",
       "l.a. girl"
     ],
-    "colors": [
-      {
-        "name": "Sable",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_980286-MLU73438295332_122023-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:33:55.855Z",
+    "updatedAt": "2026-03-03T16:33:55.855Z"
   },
   {
     "id": "p17725556358550181",
@@ -2652,13 +3340,12 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_823616-MLU70425343247_072023-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_626240-MLU74725352586_032024-F.jpg"
     ],
-    "averageRating": 0,
-    "reviewCount": 0,
-    "prices": [],
-    "tags": [
-      "lápis labial",
-      "mac"
+    "ean": "773602002160",
+    "mlIds": [
+      "MLB25071079",
+      "MLB24472090"
     ],
+    "mlParentId": "MLB24349483",
     "colors": [
       {
         "name": "Spice",
@@ -2676,7 +3363,16 @@ const catalogProducts = [
         "name": "Velvetease",
         "image": "https://http2.mlstatic.com/D_NQ_NP_924263-MLA92115950635_092025-F.jpg"
       }
-    ]
+    ],
+    "averageRating": 0,
+    "reviewCount": 0,
+    "prices": [],
+    "tags": [
+      "lápis labial",
+      "mac"
+    ],
+    "createdAt": "2026-03-03T16:33:55.855Z",
+    "updatedAt": "2026-03-03T16:33:55.855Z"
   },
   {
     "id": "p17725556383980184",
@@ -2692,12 +3388,9 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_647766-MLU76941560999_062024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_679427-MLU76736898948_062024-F.jpg"
     ],
-    "averageRating": 0,
-    "reviewCount": 0,
-    "prices": [],
-    "tags": [
-      "lápis labial",
-      "dailus"
+    "ean": "7894222040714",
+    "mlIds": [
+      "MLB37676622"
     ],
     "colors": [
       {
@@ -2720,7 +3413,16 @@ const catalogProducts = [
         "name": "Cacau",
         "image": "https://http2.mlstatic.com/D_NQ_NP_627558-MLA84554710334_052025-F.jpg"
       }
-    ]
+    ],
+    "averageRating": 0,
+    "reviewCount": 0,
+    "prices": [],
+    "tags": [
+      "lápis labial",
+      "dailus"
+    ],
+    "createdAt": "2026-03-03T16:33:58.398Z",
+    "updatedAt": "2026-03-03T16:33:58.398Z"
   },
   {
     "id": "p17725556383980185",
@@ -2734,13 +3436,12 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_653698-MLA79851717311_102024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_741531-MLA79851786867_102024-F.jpg"
     ],
-    "averageRating": 0,
-    "reviewCount": 0,
-    "prices": [],
-    "tags": [
-      "lápis labial",
-      "fenzza"
+    "ean": "7899360242068",
+    "mlIds": [
+      "MLB29082392",
+      "MLB39152955"
     ],
+    "mlParentId": "MLB29082382",
     "colors": [
       {
         "name": "Rose",
@@ -2754,7 +3455,16 @@ const catalogProducts = [
         "name": "Fz27001",
         "image": "https://http2.mlstatic.com/D_NQ_NP_760765-MLA79602789924_102024-F.jpg"
       }
-    ]
+    ],
+    "averageRating": 0,
+    "reviewCount": 0,
+    "prices": [],
+    "tags": [
+      "lápis labial",
+      "fenzza"
+    ],
+    "createdAt": "2026-03-03T16:33:58.398Z",
+    "updatedAt": "2026-03-03T16:33:59.804Z"
   },
   {
     "id": "p17725556383980187",
@@ -2766,13 +3476,11 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_786294-MLU78621992237_082024-F.jpg"
     ],
-    "averageRating": 0,
-    "reviewCount": 0,
-    "prices": [],
-    "tags": [
-      "lápis labial",
-      "quem disse, berenice?"
+    "ean": "7805093528690",
+    "mlIds": [
+      "MLB39447087"
     ],
+    "mlParentId": "MLB39447086",
     "colors": [
       {
         "name": "Rosa",
@@ -2794,7 +3502,16 @@ const catalogProducts = [
         "name": "Lapis Malva",
         "image": "https://http2.mlstatic.com/D_NQ_NP_711769-MLA84557662574_052025-F.jpg"
       }
-    ]
+    ],
+    "averageRating": 0,
+    "reviewCount": 0,
+    "prices": [],
+    "tags": [
+      "lápis labial",
+      "quem disse, berenice?"
+    ],
+    "createdAt": "2026-03-03T16:33:58.398Z",
+    "updatedAt": "2026-03-03T16:33:58.398Z"
   },
   {
     "id": "p17725556383980189",
@@ -2809,13 +3526,15 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_877256-MLU77491593124_072024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_785017-MLU77491631982_072024-F.jpg"
     ],
-    "averageRating": 0,
-    "reviewCount": 0,
-    "prices": [],
-    "tags": [
-      "lápis labial",
-      "bruna tavares bt lip shape"
+    "ean": "657896171279",
+    "mlIds": [
+      "MLB38277416",
+      "MLB44452299",
+      "MLB38420968",
+      "MLB47042088",
+      "MLB47056332"
     ],
+    "mlParentId": "MLB38277414",
     "colors": [
       {
         "name": "Marrom",
@@ -2837,7 +3556,16 @@ const catalogProducts = [
         "name": "Marrom-claro",
         "image": "https://http2.mlstatic.com/D_NQ_NP_656949-MLA82998478895_032025-F.jpg"
       }
-    ]
+    ],
+    "averageRating": 0,
+    "reviewCount": 0,
+    "prices": [],
+    "tags": [
+      "lápis labial",
+      "bruna tavares bt lip shape"
+    ],
+    "createdAt": "2026-03-03T16:33:58.398Z",
+    "updatedAt": "2026-03-03T16:33:58.399Z"
   },
   {
     "id": "p17725556383980193",
@@ -2850,13 +3578,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_729698-MLU77225007672_072024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_693759-MLU77225055590_072024-F.jpg"
     ],
+    "ean": "615446866037",
+    "mlIds": [
+      "MLB37992696"
+    ],
+    "mlParentId": "MLB37992695",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "lápis labial",
       "jolie. impeccable me"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:33:58.398Z",
+    "updatedAt": "2026-03-03T16:33:58.398Z"
   },
   {
     "id": "p17725556383980195",
@@ -2872,13 +3608,12 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_799450-MLA96515561374_112025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_844385-MLA96515828200_112025-F.jpg"
     ],
-    "averageRating": 0,
-    "reviewCount": 0,
-    "prices": [],
-    "tags": [
-      "lápis labial",
-      "boca rosa beauty"
+    "ean": "7908847802357",
+    "mlIds": [
+      "MLB54153099",
+      "MLB54535755"
     ],
+    "mlParentId": "MLB54120490",
     "colors": [
       {
         "name": "Vermelho intenso",
@@ -2888,7 +3623,16 @@ const catalogProducts = [
         "name": "Marrom intenso",
         "image": "https://http2.mlstatic.com/D_NQ_NP_665911-MLA91224632808_092025-F.jpg"
       }
-    ]
+    ],
+    "averageRating": 0,
+    "reviewCount": 0,
+    "prices": [],
+    "tags": [
+      "lápis labial",
+      "boca rosa beauty"
+    ],
+    "createdAt": "2026-03-03T16:33:58.398Z",
+    "updatedAt": "2026-03-03T16:33:58.399Z"
   },
   {
     "id": "p17725556383980197",
@@ -2901,6 +3645,17 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_730264-MLU79305759383_092024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_881112-MLU79305624355_092024-F.jpg"
     ],
+    "ean": "7899360238948",
+    "mlIds": [
+      "MLB40842451"
+    ],
+    "mlParentId": "MLB40842450",
+    "colors": [
+      {
+        "name": "Rosa",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_730264-MLU79305759383_092024-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -2908,12 +3663,8 @@ const catalogProducts = [
       "lápis labial",
       "pink 21"
     ],
-    "colors": [
-      {
-        "name": "Rosa",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_730264-MLU79305759383_092024-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:33:58.398Z",
+    "updatedAt": "2026-03-03T16:33:58.398Z"
   },
   {
     "id": "p17725556383980198",
@@ -2929,13 +3680,11 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_701830-MLA84838920247_052025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_851723-MLA84838842453_052025-F.jpg"
     ],
-    "averageRating": 0,
-    "reviewCount": 0,
-    "prices": [],
-    "tags": [
-      "lápis labial",
-      "quem disse, berenice?"
+    "ean": "7891033779031",
+    "mlIds": [
+      "MLB26443522"
     ],
+    "mlParentId": "MLB26443516",
     "colors": [
       {
         "name": "Vermelho",
@@ -2953,7 +3702,16 @@ const catalogProducts = [
         "name": "Nudetis",
         "image": "https://http2.mlstatic.com/D_NQ_NP_673994-MLA84534269524_052025-F.jpg"
       }
-    ]
+    ],
+    "averageRating": 0,
+    "reviewCount": 0,
+    "prices": [],
+    "tags": [
+      "lápis labial",
+      "quem disse, berenice?"
+    ],
+    "createdAt": "2026-03-03T16:33:58.398Z",
+    "updatedAt": "2026-03-03T16:33:58.398Z"
   },
   {
     "id": "p17725556383990204",
@@ -2969,13 +3727,13 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_820135-MLA91947271338_092025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_902290-MLA91947301252_092025-F.jpg"
     ],
-    "averageRating": 0,
-    "reviewCount": 0,
-    "prices": [],
-    "tags": [
-      "lápis labial",
-      "labranche"
+    "ean": "6976374471026",
+    "mlIds": [
+      "MLB46156725",
+      "MLB63634156",
+      "MLB55950425"
     ],
+    "mlParentId": "MLB46156724",
     "colors": [
       {
         "name": "Cor 5",
@@ -2985,7 +3743,16 @@ const catalogProducts = [
         "name": "Kit 6 Lapis labranche",
         "image": "https://http2.mlstatic.com/D_NQ_NP_983034-MLA102893832967_122025-F.jpg"
       }
-    ]
+    ],
+    "averageRating": 0,
+    "reviewCount": 0,
+    "prices": [],
+    "tags": [
+      "lápis labial",
+      "labranche"
+    ],
+    "createdAt": "2026-03-03T16:33:58.399Z",
+    "updatedAt": "2026-03-03T16:33:59.804Z"
   },
   {
     "id": "p17725556383990207",
@@ -3001,13 +3768,15 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_787800-MLU70377749557_072023-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_675453-MLU70377749553_072023-F.jpg"
     ],
-    "averageRating": 0,
-    "reviewCount": 0,
-    "prices": [],
-    "tags": [
-      "lápis labial",
-      "sheglam"
+    "ean": "6926214813929",
+    "mlIds": [
+      "MLB24376542",
+      "MLB24273383",
+      "MLB24376538",
+      "MLB24273382",
+      "MLB24282801"
     ],
+    "mlParentId": "MLB24376530",
     "colors": [
       {
         "name": "Toasted",
@@ -3057,7 +3826,16 @@ const catalogProducts = [
         "name": "Apis",
         "image": "https://http2.mlstatic.com/D_NQ_NP_735146-MLU71498821709_092023-F.jpg"
       }
-    ]
+    ],
+    "averageRating": 0,
+    "reviewCount": 0,
+    "prices": [],
+    "tags": [
+      "lápis labial",
+      "sheglam"
+    ],
+    "createdAt": "2026-03-03T16:33:58.399Z",
+    "updatedAt": "2026-03-03T16:33:58.399Z"
   },
   {
     "id": "p17725556383990210",
@@ -3073,13 +3851,12 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_757671-MLU78770050588_092024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_977972-MLU79006300013_092024-F.jpg"
     ],
-    "averageRating": 0,
-    "reviewCount": 0,
-    "prices": [],
-    "tags": [
-      "lápis labial",
-      "océane"
+    "ean": "7898576396022",
+    "mlIds": [
+      "MLB45052805",
+      "MLB40341105"
     ],
+    "mlParentId": "MLB40341103",
     "colors": [
       {
         "name": "Bordô",
@@ -3105,7 +3882,16 @@ const catalogProducts = [
         "name": "Lapis Frappucino",
         "image": "https://http2.mlstatic.com/D_NQ_NP_767350-MLA105686013659_012026-F.jpg"
       }
-    ]
+    ],
+    "averageRating": 0,
+    "reviewCount": 0,
+    "prices": [],
+    "tags": [
+      "lápis labial",
+      "océane"
+    ],
+    "createdAt": "2026-03-03T16:33:58.399Z",
+    "updatedAt": "2026-03-03T16:33:59.803Z"
   },
   {
     "id": "p17725556383990215",
@@ -3119,13 +3905,14 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_620214-MLA89133771068_082025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_983681-MLA89496841887_082025-F.jpg"
     ],
-    "averageRating": 0,
-    "reviewCount": 0,
-    "prices": [],
-    "tags": [
-      "lápis labial",
-      "nina make up"
+    "ean": "7898259690263",
+    "mlIds": [
+      "MLB35420627",
+      "MLB35439609",
+      "MLB35437927",
+      "MLB57450097"
     ],
+    "mlParentId": "MLB35420624",
     "colors": [
       {
         "name": "Rubi",
@@ -3143,7 +3930,16 @@ const catalogProducts = [
         "name": "Vermelho",
         "image": "https://http2.mlstatic.com/D_NQ_NP_603532-MLA92758035876_092025-F.jpg"
       }
-    ]
+    ],
+    "averageRating": 0,
+    "reviewCount": 0,
+    "prices": [],
+    "tags": [
+      "lápis labial",
+      "nina make up"
+    ],
+    "createdAt": "2026-03-03T16:33:58.399Z",
+    "updatedAt": "2026-03-03T16:33:59.805Z"
   },
   {
     "id": "p17725556383990216",
@@ -3156,6 +3952,17 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_830792-MLA84307448412_052025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_946692-MLA84307506688_052025-F.jpg"
     ],
+    "ean": "192250048779",
+    "mlIds": [
+      "MLB49674047"
+    ],
+    "mlParentId": "MLB49674042",
+    "colors": [
+      {
+        "name": "Sleighin Nudes",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_830792-MLA84307448412_052025-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -3163,12 +3970,8 @@ const catalogProducts = [
       "lápis labial",
       "colourpop"
     ],
-    "colors": [
-      {
-        "name": "Sleighin Nudes",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_830792-MLA84307448412_052025-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:33:58.399Z",
+    "updatedAt": "2026-03-03T16:33:58.399Z"
   },
   {
     "id": "p17725556383990217",
@@ -3181,6 +3984,17 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_937822-MLA79580672374_102024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_893021-MLA79829192535_102024-F.jpg"
     ],
+    "ean": "3052503301211",
+    "mlIds": [
+      "MLB38095154"
+    ],
+    "mlParentId": "MLB36931992",
+    "colors": [
+      {
+        "name": "Marrom",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_937822-MLA79580672374_102024-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -3188,12 +4002,8 @@ const catalogProducts = [
       "lápis labial",
       "bourjois"
     ],
-    "colors": [
-      {
-        "name": "Marrom",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_937822-MLA79580672374_102024-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:33:58.399Z",
+    "updatedAt": "2026-03-03T16:33:58.399Z"
   },
   {
     "id": "p17725556398030218",
@@ -3209,6 +4019,17 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_786233-MLA99756967435_112025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_968389-MLA99274389496_112025-F.jpg"
     ],
+    "ean": "7908644408264",
+    "mlIds": [
+      "MLB51229951"
+    ],
+    "mlParentId": "MLB51229950",
+    "colors": [
+      {
+        "name": "Colorido",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_942399-MLA85786915046_062025-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -3216,12 +4037,8 @@ const catalogProducts = [
       "lápis labial",
       "sp colors"
     ],
-    "colors": [
-      {
-        "name": "Colorido",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_942399-MLA85786915046_062025-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:33:59.803Z",
+    "updatedAt": "2026-03-03T16:33:59.803Z"
   },
   {
     "id": "p17725556398030219",
@@ -3237,6 +4054,17 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_731024-MLA92885563802_092025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_719624-MLA93299567485_092025-F.jpg"
     ],
+    "ean": "7908847802401",
+    "mlIds": [
+      "MLB54503921"
+    ],
+    "mlParentId": "MLB54503920",
+    "colors": [
+      {
+        "name": "Amêndoa",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_959240-MLA91544464909_092025-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -3244,12 +4072,8 @@ const catalogProducts = [
       "lápis labial",
       "boca rosa"
     ],
-    "colors": [
-      {
-        "name": "Amêndoa",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_959240-MLA91544464909_092025-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:33:59.803Z",
+    "updatedAt": "2026-03-03T16:33:59.803Z"
   },
   {
     "id": "p17725556398030220",
@@ -3262,13 +4086,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_642506-MLU77901695158_082024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_781397-MLU78124257081_082024-F.jpg"
     ],
+    "ean": "7805092287840",
+    "mlIds": [
+      "MLB38827288"
+    ],
+    "mlParentId": "MLB38827287",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "lápis labial",
       "pod delas"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:33:59.803Z",
+    "updatedAt": "2026-03-03T16:33:59.803Z"
   },
   {
     "id": "p17725556398030223",
@@ -3283,6 +4115,17 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_811084-MLU79371426485_092024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_848485-MLU79129836462_092024-F.jpg"
     ],
+    "ean": "7799200915636",
+    "mlIds": [
+      "MLB40962606"
+    ],
+    "mlParentId": "MLB40041076",
+    "colors": [
+      {
+        "name": "Nude",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_651389-MLU79129836456_092024-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -3290,12 +4133,8 @@ const catalogProducts = [
       "lápis labial",
       "jasmyne"
     ],
-    "colors": [
-      {
-        "name": "Nude",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_651389-MLU79129836456_092024-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:33:59.803Z",
+    "updatedAt": "2026-03-03T16:33:59.803Z"
   },
   {
     "id": "p17725556398030226",
@@ -3307,6 +4146,17 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_749496-MLA80132175296_112024-F.jpg"
     ],
+    "ean": "7899996506138",
+    "mlIds": [
+      "MLB42591813"
+    ],
+    "mlParentId": "MLB42591812",
+    "colors": [
+      {
+        "name": "Marrom e vermelho",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_749496-MLA80132175296_112024-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -3314,12 +4164,8 @@ const catalogProducts = [
       "lápis labial",
       "mahav"
     ],
-    "colors": [
-      {
-        "name": "Marrom e vermelho",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_749496-MLA80132175296_112024-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:33:59.803Z",
+    "updatedAt": "2026-03-03T16:33:59.803Z"
   },
   {
     "id": "p17725556398030227",
@@ -3333,6 +4179,17 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_742747-MLA86383317818_062025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_604312-MLA86702269083_062025-F.jpg"
     ],
+    "ean": "7893590305128",
+    "mlIds": [
+      "MLB28127536"
+    ],
+    "mlParentId": "MLB28127534",
+    "colors": [
+      {
+        "name": "sortido",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_878908-MLU72918418595_112023-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -3340,12 +4197,8 @@ const catalogProducts = [
       "lápis labial",
       "city girl"
     ],
-    "colors": [
-      {
-        "name": "sortido",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_878908-MLU72918418595_112023-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:33:59.803Z",
+    "updatedAt": "2026-03-03T16:33:59.803Z"
   },
   {
     "id": "p17725556398030230",
@@ -3358,13 +4211,12 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_920399-MLU75426676048_042024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_789603-MLU75426480900_042024-F.jpg"
     ],
-    "averageRating": 0,
-    "reviewCount": 0,
-    "prices": [],
-    "tags": [
-      "lápis labial",
-      "luisance"
+    "ean": "7892363300636",
+    "mlIds": [
+      "MLB32152141",
+      "MLB35334535"
     ],
+    "mlParentId": "MLB32152140",
     "colors": [
       {
         "name": "Cor 2",
@@ -3374,7 +4226,16 @@ const catalogProducts = [
         "name": "Sortido",
         "image": "https://http2.mlstatic.com/D_NQ_NP_920399-MLU75426676048_042024-F.jpg"
       }
-    ]
+    ],
+    "averageRating": 0,
+    "reviewCount": 0,
+    "prices": [],
+    "tags": [
+      "lápis labial",
+      "luisance"
+    ],
+    "createdAt": "2026-03-03T16:33:59.803Z",
+    "updatedAt": "2026-03-03T16:33:59.805Z"
   },
   {
     "id": "p17725556398040231",
@@ -3389,6 +4250,17 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_860180-MLA94393716579_102025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_658076-MLA94393706869_102025-F.jpg"
     ],
+    "ean": "7908847802340",
+    "mlIds": [
+      "MLB54152948"
+    ],
+    "mlParentId": "MLB54128426",
+    "colors": [
+      {
+        "name": "Rosa intenso",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_984735-MLA90891465352_082025-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -3396,12 +4268,8 @@ const catalogProducts = [
       "lápis labial",
       "boca rosa"
     ],
-    "colors": [
-      {
-        "name": "Rosa intenso",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_984735-MLA90891465352_082025-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:33:59.804Z",
+    "updatedAt": "2026-03-03T16:33:59.804Z"
   },
   {
     "id": "p17725556398040232",
@@ -3417,6 +4285,17 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_660961-MLU78254073856_082024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_740711-MLU78254228302_082024-F.jpg"
     ],
+    "ean": "78792484759",
+    "mlIds": [
+      "MLB39381472"
+    ],
+    "mlParentId": "MLB35283626",
+    "colors": [
+      {
+        "name": "Vermelho",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_870103-MLU78254140994_082024-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -3424,12 +4303,8 @@ const catalogProducts = [
       "lápis labial",
       "sarah's beauty"
     ],
-    "colors": [
-      {
-        "name": "Vermelho",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_870103-MLU78254140994_082024-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:33:59.804Z",
+    "updatedAt": "2026-03-03T16:33:59.804Z"
   },
   {
     "id": "p17725556398040237",
@@ -3444,13 +4319,11 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_668389-MLA84551700536_052025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_647308-MLA84551700560_052025-F.jpg"
     ],
-    "averageRating": 0,
-    "reviewCount": 0,
-    "prices": [],
-    "tags": [
-      "lápis labial",
-      "quem disse, berenice?"
+    "ean": "7805096151338",
+    "mlIds": [
+      "MLB65125112"
     ],
+    "mlParentId": "MLB65125111",
     "colors": [
       {
         "name": "Combo",
@@ -3464,7 +4337,16 @@ const catalogProducts = [
         "name": "Marronis",
         "image": "https://http2.mlstatic.com/D_NQ_NP_850604-MLA84551700510_052025-F.jpg"
       }
-    ]
+    ],
+    "averageRating": 0,
+    "reviewCount": 0,
+    "prices": [],
+    "tags": [
+      "lápis labial",
+      "quem disse, berenice?"
+    ],
+    "createdAt": "2026-03-03T16:33:59.804Z",
+    "updatedAt": "2026-03-03T16:33:59.804Z"
   },
   {
     "id": "p17725556398040238",
@@ -3477,6 +4359,17 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_690142-MLA87536749933_072025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_804364-MLA87209691856_072025-F.jpg"
     ],
+    "ean": "7804695030976",
+    "mlIds": [
+      "MLB52170846"
+    ],
+    "mlParentId": "MLB27740433",
+    "colors": [
+      {
+        "name": "Bordô",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_690142-MLA87536749933_072025-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -3484,12 +4377,8 @@ const catalogProducts = [
       "lápis labial",
       "océane"
     ],
-    "colors": [
-      {
-        "name": "Bordô",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_690142-MLA87536749933_072025-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:33:59.804Z",
+    "updatedAt": "2026-03-03T16:33:59.804Z"
   },
   {
     "id": "p17725556398040240",
@@ -3505,6 +4394,17 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_633341-MLA88515624635_072025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_953110-MLA88173676116_072025-F.jpg"
     ],
+    "ean": "7908725503543",
+    "mlIds": [
+      "MLB51774859"
+    ],
+    "mlParentId": "MLB51774858",
+    "colors": [
+      {
+        "name": "Warm caramel",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_953095-MLA86864764609_062025-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -3512,12 +4412,8 @@ const catalogProducts = [
       "lápis labial",
       "océane"
     ],
-    "colors": [
-      {
-        "name": "Warm caramel",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_953095-MLA86864764609_062025-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:33:59.804Z",
+    "updatedAt": "2026-03-03T16:33:59.804Z"
   },
   {
     "id": "p17725556398040241",
@@ -3529,6 +4425,17 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_724078-MLA83092300527_032025-F.jpg"
     ],
+    "ean": "7898151540635",
+    "mlIds": [
+      "MLB47188342"
+    ],
+    "mlParentId": "MLB46160747",
+    "colors": [
+      {
+        "name": "Vermelho",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_724078-MLA83092300527_032025-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -3536,12 +4443,8 @@ const catalogProducts = [
       "lápis labial",
       "dapop"
     ],
-    "colors": [
-      {
-        "name": "Vermelho",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_724078-MLA83092300527_032025-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:33:59.804Z",
+    "updatedAt": "2026-03-03T16:33:59.804Z"
   },
   {
     "id": "p17725556398040242",
@@ -3557,6 +4460,17 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_669244-MLA90566036099_082025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_904107-MLA90183293132_082025-F.jpg"
     ],
+    "ean": "7896609521250",
+    "mlIds": [
+      "MLB47636527"
+    ],
+    "mlParentId": "MLB40230834",
+    "colors": [
+      {
+        "name": "Banofee",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_818901-MLA83473618237_042025-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -3564,12 +4478,8 @@ const catalogProducts = [
       "lápis labial",
       "fenzza"
     ],
-    "colors": [
-      {
-        "name": "Banofee",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_818901-MLA83473618237_042025-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:33:59.804Z",
+    "updatedAt": "2026-03-03T16:33:59.804Z"
   },
   {
     "id": "p17725556398040244",
@@ -3583,6 +4493,17 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_749574-MLU76011222977_042024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_747214-MLU75838861018_042024-F.jpg"
     ],
+    "ean": "7908060115012",
+    "mlIds": [
+      "MLB36209037"
+    ],
+    "mlParentId": "MLB36209036",
+    "colors": [
+      {
+        "name": "Rosa",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_865985-MLU76011164511_042024-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -3590,12 +4511,8 @@ const catalogProducts = [
       "lápis labial",
       "jasmyne"
     ],
-    "colors": [
-      {
-        "name": "Rosa",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_865985-MLU76011164511_042024-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:33:59.804Z",
+    "updatedAt": "2026-03-03T16:33:59.804Z"
   },
   {
     "id": "p17725556398040247",
@@ -3608,13 +4525,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_862643-MLU70354769376_072023-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_956648-MLU70355008842_072023-F.jpg"
     ],
+    "ean": "7908060116910",
+    "mlIds": [
+      "MLB24387959"
+    ],
+    "mlParentId": "MLB24387958",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "lápis labial",
       "jasmyne"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:33:59.804Z",
+    "updatedAt": "2026-03-03T16:33:59.804Z"
   },
   {
     "id": "p17725556398040249",
@@ -3630,6 +4555,17 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_950167-MLA84174828982_052025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_677714-MLA84471428439_052025-F.jpg"
     ],
+    "ean": "7900083009057",
+    "mlIds": [
+      "MLB47658002"
+    ],
+    "mlParentId": "MLB46839405",
+    "colors": [
+      {
+        "name": "Colorido",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_760355-MLA83504465763_042025-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -3637,12 +4573,8 @@ const catalogProducts = [
       "lápis labial",
       "ruby rose"
     ],
-    "colors": [
-      {
-        "name": "Colorido",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_760355-MLA83504465763_042025-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:33:59.804Z",
+    "updatedAt": "2026-03-03T16:33:59.804Z"
   },
   {
     "id": "p17725556398050250",
@@ -3656,6 +4588,17 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_884682-MLU72723424069_112023-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_615874-MLU72723492089_112023-F.jpg"
     ],
+    "ean": "7893590850222",
+    "mlIds": [
+      "MLB28006329"
+    ],
+    "mlParentId": "MLB28006328",
+    "colors": [
+      {
+        "name": "8 Tons",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_936799-MLU72650932952_112023-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -3663,12 +4606,8 @@ const catalogProducts = [
       "lápis labial",
       "city girls"
     ],
-    "colors": [
-      {
-        "name": "8 Tons",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_936799-MLU72650932952_112023-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:33:59.804Z",
+    "updatedAt": "2026-03-03T16:33:59.804Z"
   },
   {
     "id": "p17725556398050253",
@@ -3683,6 +4622,18 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_830669-MLA84176696592_052025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_733824-MLA84473319381_052025-F.jpg"
     ],
+    "ean": "7908583624954",
+    "mlIds": [
+      "MLB39196469",
+      "MLB39009490"
+    ],
+    "mlParentId": "MLB39009489",
+    "colors": [
+      {
+        "name": "Bordô",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_938582-MLU78266312125_082024-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -3690,12 +4641,8 @@ const catalogProducts = [
       "lápis labial",
       "kiss"
     ],
-    "colors": [
-      {
-        "name": "Bordô",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_938582-MLU78266312125_082024-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:33:59.805Z",
+    "updatedAt": "2026-03-03T16:33:59.805Z"
   },
   {
     "id": "p17725556398050254",
@@ -3708,6 +4655,17 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_688800-MLA88999008624_082025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_954850-MLA89358328617_082025-F.jpg"
     ],
+    "ean": "7898508021350",
+    "mlIds": [
+      "MLB53405426"
+    ],
+    "mlParentId": "MLB53405425",
+    "colors": [
+      {
+        "name": "Vários",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_688800-MLA88999008624_082025-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -3715,12 +4673,8 @@ const catalogProducts = [
       "lápis labial",
       "bella femme"
     ],
-    "colors": [
-      {
-        "name": "Vários",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_688800-MLA88999008624_082025-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:33:59.805Z",
+    "updatedAt": "2026-03-03T16:33:59.805Z"
   },
   {
     "id": "p17725556398050255",
@@ -3736,13 +4690,12 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_940550-MLA80967532135_112024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_849067-MLA80703657806_112024-F.jpg"
     ],
-    "averageRating": 0,
-    "reviewCount": 0,
-    "prices": [],
-    "tags": [
-      "lápis labial",
-      "okwu"
+    "ean": "7804678940766",
+    "mlIds": [
+      "MLB43910196",
+      "MLB43846585"
     ],
+    "mlParentId": "MLB43846578",
     "colors": [
       {
         "name": "Rayen",
@@ -3752,7 +4705,16 @@ const catalogProducts = [
         "name": "Lotus",
         "image": "https://http2.mlstatic.com/D_NQ_NP_858151-MLA80952595491_112024-F.jpg"
       }
-    ]
+    ],
+    "averageRating": 0,
+    "reviewCount": 0,
+    "prices": [],
+    "tags": [
+      "lápis labial",
+      "okwu"
+    ],
+    "createdAt": "2026-03-03T16:33:59.805Z",
+    "updatedAt": "2026-03-03T16:33:59.805Z"
   },
   {
     "id": "p17725556398050258",
@@ -3766,6 +4728,17 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_772352-MLA84550500994_052025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_939647-MLA84550501012_052025-F.jpg"
     ],
+    "ean": "7805090576144",
+    "mlIds": [
+      "MLB32437528"
+    ],
+    "mlParentId": "MLB25367771",
+    "colors": [
+      {
+        "name": "Marrom",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_751227-MLA84550530626_052025-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -3773,12 +4746,8 @@ const catalogProducts = [
       "lápis labial",
       "quem disse, berenice?"
     ],
-    "colors": [
-      {
-        "name": "Marrom",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_751227-MLA84550530626_052025-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:33:59.805Z",
+    "updatedAt": "2026-03-03T16:33:59.805Z"
   },
   {
     "id": "p17725556398050259",
@@ -3790,6 +4759,17 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_986460-MLU74383644451_022024-F.jpg"
     ],
+    "ean": "7898508020353",
+    "mlIds": [
+      "MLB31815029"
+    ],
+    "mlParentId": "MLB31815027",
+    "colors": [
+      {
+        "name": "Cinza",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_986460-MLU74383644451_022024-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -3797,12 +4777,8 @@ const catalogProducts = [
       "lápis labial",
       "bella femme"
     ],
-    "colors": [
-      {
-        "name": "Cinza",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_986460-MLU74383644451_022024-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:33:59.805Z",
+    "updatedAt": "2026-03-03T16:33:59.805Z"
   },
   {
     "id": "p17725556398050262",
@@ -3818,6 +4794,17 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_896316-MLU78401026498_082024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_621271-MLU78401076244_082024-F.jpg"
     ],
+    "ean": "6931904212012",
+    "mlIds": [
+      "MLB28863288"
+    ],
+    "mlParentId": "MLB28863287",
+    "colors": [
+      {
+        "name": "Variadas",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_804225-MLU73417602569_122023-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -3825,12 +4812,8 @@ const catalogProducts = [
       "lápis labial",
       "pudaier"
     ],
-    "colors": [
-      {
-        "name": "Variadas",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_804225-MLU73417602569_122023-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:33:59.805Z",
+    "updatedAt": "2026-03-03T16:33:59.805Z"
   },
   {
     "id": "p17725556398050263",
@@ -3843,6 +4826,17 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_680702-MLA81058280833_112024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_844758-MLA82527892442_032025-F.jpg"
     ],
+    "ean": "7796567422463",
+    "mlIds": [
+      "MLB44199894"
+    ],
+    "mlParentId": "MLB44199886",
+    "colors": [
+      {
+        "name": "KIT 5 CORES",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_680702-MLA81058280833_112024-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -3850,12 +4844,8 @@ const catalogProducts = [
       "lápis labial",
       "dailus"
     ],
-    "colors": [
-      {
-        "name": "KIT 5 CORES",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_680702-MLA81058280833_112024-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:33:59.805Z",
+    "updatedAt": "2026-03-03T16:33:59.805Z"
   },
   {
     "id": "p17725558085103249",
@@ -3867,6 +4857,17 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_775000-MLU77416767583_072024-F.jpg"
     ],
+    "ean": "787734650618",
+    "mlIds": [
+      "MLB37977057"
+    ],
+    "mlParentId": "MLB37977056",
+    "colors": [
+      {
+        "name": "RMLS03 - Açúcar Mascavo",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_775000-MLU77416767583_072024-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -3874,12 +4875,8 @@ const catalogProducts = [
       "lápis labial",
       "kiss"
     ],
-    "colors": [
-      {
-        "name": "RMLS03 - Açúcar Mascavo",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_775000-MLU77416767583_072024-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:36:48.510Z",
+    "updatedAt": "2026-03-03T16:36:48.510Z"
   },
   {
     "id": "p17725556410800266",
@@ -3893,13 +4890,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_845066-MLU76768850288_062024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_787402-MLU76768948372_062024-F.jpg"
     ],
+    "ean": "7909997214328",
+    "mlIds": [
+      "MLB37701204"
+    ],
+    "mlParentId": "MLB44196369",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "base",
       "wet n wild"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:01.080Z",
+    "updatedAt": "2026-03-03T16:34:01.080Z"
   },
   {
     "id": "p17725556410810267",
@@ -3914,13 +4919,20 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_713634-MLU75983523678_052024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_999500-MLU75983835674_052024-F.jpg"
     ],
+    "ean": "7799201276507, 7799201276439",
+    "mlIds": [
+      "MLB36542797"
+    ],
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "base",
       "lua & neve"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:01.081Z",
+    "updatedAt": "2026-03-03T16:34:01.081Z"
   },
   {
     "id": "p17725556410810268",
@@ -3936,13 +4948,11 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_857569-MLU77832862761_072024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_927120-MLU77834484865_072024-F.jpg"
     ],
-    "averageRating": 0,
-    "reviewCount": 0,
-    "prices": [],
-    "tags": [
-      "base",
-      "eudora"
+    "ean": "7898526296877",
+    "mlIds": [
+      "MLB24031988"
     ],
+    "mlParentId": "MLB24031935",
     "colors": [
       {
         "name": "Skin Perfection",
@@ -3956,7 +4966,16 @@ const catalogProducts = [
         "name": "Niina Secrets",
         "image": "https://http2.mlstatic.com/D_NQ_NP_936620-MLU73567921096_122023-F.jpg"
       }
-    ]
+    ],
+    "averageRating": 0,
+    "reviewCount": 0,
+    "prices": [],
+    "tags": [
+      "base",
+      "eudora"
+    ],
+    "createdAt": "2026-03-03T16:34:01.081Z",
+    "updatedAt": "2026-03-03T16:34:01.081Z"
   },
   {
     "id": "p17725556410810269",
@@ -3969,6 +4988,18 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_941088-MLU54963140402_042023-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_968513-MLA86412751516_062025-F.jpg"
     ],
+    "ean": "7898650622283",
+    "mlIds": [
+      "MLB23271374",
+      "MLB23244567"
+    ],
+    "mlParentId": "MLB23244558",
+    "colors": [
+      {
+        "name": "Vegana",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_941088-MLU54963140402_042023-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -3976,12 +5007,8 @@ const catalogProducts = [
       "base",
       "ricosti"
     ],
-    "colors": [
-      {
-        "name": "Vegana",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_941088-MLU54963140402_042023-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:34:01.081Z",
+    "updatedAt": "2026-03-03T16:34:01.081Z"
   },
   {
     "id": "p17725556410810271",
@@ -3993,13 +5020,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_613769-MLU69368171660_052023-F.jpg"
     ],
+    "ean": "7909189167036",
+    "mlIds": [
+      "MLB23226177"
+    ],
+    "mlParentId": "MLB23226151",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "base",
       "avon"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:01.081Z",
+    "updatedAt": "2026-03-03T16:34:01.081Z"
   },
   {
     "id": "p17725556410820273",
@@ -4011,13 +5046,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_812705-MLB73980598144_012024-F.jpg"
     ],
+    "ean": "7899596519620",
+    "mlIds": [
+      "MLB22313795"
+    ],
+    "mlParentId": "MLB22313775",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "base",
       "zanphy"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:01.082Z",
+    "updatedAt": "2026-03-03T16:34:01.082Z"
   },
   {
     "id": "p17725556410820274",
@@ -4033,13 +5076,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_669976-MLU75123582193_032024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_920524-MLU75123582201_032024-F.jpg"
     ],
+    "ean": "7899846807149",
+    "mlIds": [
+      "MLB24101952"
+    ],
+    "mlParentId": "MLB24101930",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "base",
       "adversa"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:01.082Z",
+    "updatedAt": "2026-03-03T16:34:01.082Z"
   },
   {
     "id": "p17725556410820275",
@@ -4051,13 +5102,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_909705-MLB51231391403_082022-F.jpg"
     ],
+    "ean": "7898664862620",
+    "mlIds": [
+      "MLB22313748"
+    ],
+    "mlParentId": "MLB22313728",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "base",
       "lacre21"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:01.082Z",
+    "updatedAt": "2026-03-03T16:34:01.082Z"
   },
   {
     "id": "p17725556423600276",
@@ -4069,13 +5128,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_806723-MLU69244444298_052023-F.jpg"
     ],
+    "ean": "7909189153015",
+    "mlIds": [
+      "MLB23064699"
+    ],
+    "mlParentId": "MLB23064676",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "base",
       "avon"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:02.360Z",
+    "updatedAt": "2026-03-03T16:34:02.360Z"
   },
   {
     "id": "p17725556423600277",
@@ -4090,13 +5157,11 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_809261-MLU69156016225_042023-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_980517-MLU73213456629_122023-F.jpg"
     ],
-    "averageRating": 0,
-    "reviewCount": 0,
-    "prices": [],
-    "tags": [
-      "base",
-      "suelen makeup"
+    "ean": "7898100049806",
+    "mlIds": [
+      "MLB22922310"
     ],
+    "mlParentId": "MLB22499515",
     "colors": [
       {
         "name": "Bbeauty",
@@ -4106,7 +5171,16 @@ const catalogProducts = [
         "name": "Liquid",
         "image": "https://http2.mlstatic.com/D_NQ_NP_951331-MLU73603190072_122023-F.jpg"
       }
-    ]
+    ],
+    "averageRating": 0,
+    "reviewCount": 0,
+    "prices": [],
+    "tags": [
+      "base",
+      "suelen makeup"
+    ],
+    "createdAt": "2026-03-03T16:34:02.360Z",
+    "updatedAt": "2026-03-03T16:34:02.360Z"
   },
   {
     "id": "p17725556423600278",
@@ -4119,13 +5193,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_959005-MLU74073224756_012024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_608368-MLU74182563303_012024-F.jpg"
     ],
+    "ean": "17899360260434",
+    "mlIds": [
+      "MLB26996291"
+    ],
+    "mlParentId": "MLB26996287",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "base",
       "fenzza"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:02.360Z",
+    "updatedAt": "2026-03-03T16:34:02.360Z"
   },
   {
     "id": "p17725556423610281",
@@ -4138,13 +5220,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_949226-MLU73674222597_122023-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_973474-MLU73674431237_122023-F.jpg"
     ],
+    "ean": "7908517900246",
+    "mlIds": [
+      "MLB22779256"
+    ],
+    "mlParentId": "MLB22779236",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "base",
       "vizzela"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:02.361Z",
+    "updatedAt": "2026-03-03T16:34:02.361Z"
   },
   {
     "id": "p17725556423610282",
@@ -4160,6 +5250,17 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_934144-MLA104012118496_012026-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_875221-MLA97829391671_112025-F.jpg"
     ],
+    "ean": "7897185004748",
+    "mlIds": [
+      "MLB51336328"
+    ],
+    "mlParentId": "MLB51336327",
+    "colors": [
+      {
+        "name": "Fps30",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_839429-MLA104549265055_012026-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -4167,12 +5268,8 @@ const catalogProducts = [
       "base",
       "evelize"
     ],
-    "colors": [
-      {
-        "name": "Fps30",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_839429-MLA104549265055_012026-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:34:02.361Z",
+    "updatedAt": "2026-03-03T16:34:02.361Z"
   },
   {
     "id": "p17725556423610283",
@@ -4185,13 +5282,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_840977-MLA80137249679_102024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_684439-MLA79883993932_102024-F.jpg"
     ],
+    "ean": "7805092288229",
+    "mlIds": [
+      "MLB36012116"
+    ],
+    "mlParentId": "MLB36012117",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "base",
       "quem disse, berenice?"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:02.361Z",
+    "updatedAt": "2026-03-03T16:34:02.361Z"
   },
   {
     "id": "p17725556423610284",
@@ -4207,13 +5312,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_994392-MLA95121179882_102025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_670122-MLA95557738405_102025-F.jpg"
     ],
+    "ean": "6943651978721",
+    "mlIds": [
+      "MLB60503959"
+    ],
+    "mlParentId": "MLB60503958",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "base",
       "ljs"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:02.361Z",
+    "updatedAt": "2026-03-03T16:34:02.361Z"
   },
   {
     "id": "p17725556423610285",
@@ -4226,13 +5339,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_884959-MLB50302759713_062022-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_909890-MLB74113865895_012024-F.jpg"
     ],
+    "ean": "730852167414",
+    "mlIds": [
+      "MLB22358670"
+    ],
+    "mlParentId": "MLB22358650",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "base",
       "shiseido"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:02.361Z",
+    "updatedAt": "2026-03-03T16:34:02.361Z"
   },
   {
     "id": "p17725556423610286",
@@ -4245,6 +5366,17 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_955126-MLU70859984284_082023-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_614767-MLU74831323388_032024-F.jpg"
     ],
+    "ean": "7898417965578",
+    "mlIds": [
+      "MLB22514511"
+    ],
+    "mlParentId": "MLB22514496",
+    "colors": [
+      {
+        "name": "Facial",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_955126-MLU70859984284_082023-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -4252,12 +5384,8 @@ const catalogProducts = [
       "base",
       "vult"
     ],
-    "colors": [
-      {
-        "name": "Facial",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_955126-MLU70859984284_082023-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:34:02.361Z",
+    "updatedAt": "2026-03-03T16:34:02.361Z"
   },
   {
     "id": "p17725556423610287",
@@ -4271,13 +5399,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_681040-MLU69249688901_052023-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_603952-MLU74856496999_032024-F.jpg"
     ],
+    "ean": "7898671425337",
+    "mlIds": [
+      "MLB23057035"
+    ],
+    "mlParentId": "MLB23057029",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "base",
       "ruby rose"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:02.361Z",
+    "updatedAt": "2026-03-03T16:34:02.361Z"
   },
   {
     "id": "p17725556423610291",
@@ -4290,13 +5426,22 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_616616-MLU74835997384_032024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_743747-MLU69227027547_052023-F.jpg"
     ],
+    "ean": "7891033767977",
+    "mlIds": [
+      "MLB23037098",
+      "MLB24557791"
+    ],
+    "mlParentId": "MLB23037086",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "base",
       "o boticário"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:02.361Z",
+    "updatedAt": "2026-03-03T16:34:03.627Z"
   },
   {
     "id": "p17725556436260292",
@@ -4308,13 +5453,20 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_648678-MLU75857413805_042024-F.jpg"
     ],
+    "ean": "7906953583306",
+    "mlIds": [
+      "MLB35917731"
+    ],
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "base",
       "fábrica do micropigmentador"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:03.626Z",
+    "updatedAt": "2026-03-03T16:34:03.626Z"
   },
   {
     "id": "p17725556436260294",
@@ -4326,13 +5478,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_878458-MLA74781178187_022024-F.jpg"
     ],
+    "ean": "7509552842159",
+    "mlIds": [
+      "MLB19984167"
+    ],
+    "mlParentId": "MLB19984157",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "base",
       "vogue"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:03.626Z",
+    "updatedAt": "2026-03-03T16:34:03.626Z"
   },
   {
     "id": "p17725556436260295",
@@ -4344,13 +5504,20 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_618152-MLU75328037742_032024-F.jpg"
     ],
+    "mlIds": [
+      "MLB10110416"
+    ],
+    "mlParentId": "MLB9281203",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "base",
       "bitarra"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:03.626Z",
+    "updatedAt": "2026-03-03T16:34:03.626Z"
   },
   {
     "id": "p17725556436270300",
@@ -4362,13 +5529,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_803727-MLB74135804694_012024-F.jpg"
     ],
+    "ean": "7899596528684",
+    "mlIds": [
+      "MLB20555789"
+    ],
+    "mlParentId": "MLB20555784",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "base",
       "miamake"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:03.627Z",
+    "updatedAt": "2026-03-03T16:34:03.627Z"
   },
   {
     "id": "p17725556436270302",
@@ -4380,13 +5555,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_976333-MLA106307841132_022026-F.jpg"
     ],
+    "ean": "79005130442454",
+    "mlIds": [
+      "MLB65469577"
+    ],
+    "mlParentId": "MLB65469576",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "base",
       "base líquida fluida"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:03.627Z",
+    "updatedAt": "2026-03-03T16:34:03.627Z"
   },
   {
     "id": "p17725556436270304",
@@ -4398,13 +5581,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_758892-MLU73707065872_012024-F.jpg"
     ],
+    "ean": "7898657760360",
+    "mlIds": [
+      "MLB22936649"
+    ],
+    "mlParentId": "MLB22936644",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "base",
       "cativa natureza"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:03.627Z",
+    "updatedAt": "2026-03-03T16:34:03.627Z"
   },
   {
     "id": "p17725556436270305",
@@ -4417,13 +5608,22 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_668851-MLU54990599686_052023-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_828721-MLU54990634134_052023-F.jpg"
     ],
+    "ean": "7890858620443",
+    "mlIds": [
+      "MLB23132466",
+      "MLB23095637"
+    ],
+    "mlParentId": "MLB20338840",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "base",
       "can up"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:03.627Z",
+    "updatedAt": "2026-03-03T16:34:03.627Z"
   },
   {
     "id": "p17725556449050309",
@@ -4436,13 +5636,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_608959-MLU70681173214_072023-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_608878-MLU70710746979_072023-F.jpg"
     ],
+    "ean": "810911021786",
+    "mlIds": [
+      "MLB25230313"
+    ],
+    "mlParentId": "MLB25230288",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "base",
       "osmosis skincare"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:04.904Z",
+    "updatedAt": "2026-03-03T16:34:04.904Z"
   },
   {
     "id": "p17725556449050310",
@@ -4458,13 +5666,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_848632-MLU74303444146_022024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_851673-MLU74420076783_022024-F.jpg"
     ],
+    "ean": "6952938413084",
+    "mlIds": [
+      "MLB32246107"
+    ],
+    "mlParentId": "MLB32246104",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "base",
       "pink 21"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:04.905Z",
+    "updatedAt": "2026-03-03T16:34:04.905Z"
   },
   {
     "id": "p17725556449050311",
@@ -4476,13 +5692,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_879868-MLM74247915925_012024-F.jpg"
     ],
+    "ean": "7502288775876",
+    "mlIds": [
+      "MLB19491968"
+    ],
+    "mlParentId": "MLB19491893",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "base",
       "mc nails"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:04.905Z",
+    "updatedAt": "2026-03-03T16:34:04.905Z"
   },
   {
     "id": "p17725556449050313",
@@ -4495,13 +5719,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_806719-MLU73807895049_012024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_926013-MLU70099885805_062023-F.jpg"
     ],
+    "ean": "812803719092",
+    "mlIds": [
+      "MLB24082661"
+    ],
+    "mlParentId": "MLB24082648",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "base",
       "gelish"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:04.905Z",
+    "updatedAt": "2026-03-03T16:34:04.905Z"
   },
   {
     "id": "p17725556449050314",
@@ -4514,13 +5746,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_959666-MLU75026775142_032024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_932846-MLU75026598672_032024-F.jpg"
     ],
+    "ean": "800897181093",
+    "mlIds": [
+      "MLB22386930"
+    ],
+    "mlParentId": "MLB22296926",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "base",
       "nyx professional makeup"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:04.905Z",
+    "updatedAt": "2026-03-03T16:34:04.905Z"
   },
   {
     "id": "p17725556449050315",
@@ -4532,13 +5772,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_985891-MLU74479974644_022024-F.jpg"
     ],
+    "ean": "7509552842173",
+    "mlIds": [
+      "MLB30950129"
+    ],
+    "mlParentId": "MLB30950130",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "base",
       "vogue"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:04.905Z",
+    "updatedAt": "2026-03-03T16:34:04.905Z"
   },
   {
     "id": "p17725556449050316",
@@ -4550,13 +5798,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_925739-MLU75167530773_032024-F.jpg"
     ],
+    "ean": "3600523531486",
+    "mlIds": [
+      "MLB22947644"
+    ],
+    "mlParentId": "MLB22947638",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "base",
       "l'oréal paris"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:04.905Z",
+    "updatedAt": "2026-03-03T16:34:04.905Z"
   },
   {
     "id": "p17725556449050317",
@@ -4568,13 +5824,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_734589-MLU73682454372_012024-F.jpg"
     ],
+    "ean": "716170226149",
+    "mlIds": [
+      "MLB22708732"
+    ],
+    "mlParentId": "MLB22708719",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "base",
       "bobbi brown"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:04.905Z",
+    "updatedAt": "2026-03-03T16:34:04.905Z"
   },
   {
     "id": "p17725556449050318",
@@ -4587,13 +5851,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_689828-MLA93605226632_102025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_626248-MLA94026955941_102025-F.jpg"
     ],
+    "ean": "840073504193",
+    "mlIds": [
+      "MLB58783087"
+    ],
+    "mlParentId": "MLB58783077",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "base",
       "haus labs by lady gaga"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:04.905Z",
+    "updatedAt": "2026-03-03T16:34:04.905Z"
   },
   {
     "id": "p17725556449050319",
@@ -4605,13 +5877,11 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_997819-MLU75940913250_052024-F.jpg"
     ],
-    "averageRating": 0,
-    "reviewCount": 0,
-    "prices": [],
-    "tags": [
-      "base",
-      "nyx professional makeup"
+    "ean": "800897828530",
+    "mlIds": [
+      "MLB36419646"
     ],
+    "mlParentId": "MLB36419645",
     "colors": [
       {
         "name": "Inf01",
@@ -4625,7 +5895,16 @@ const catalogProducts = [
         "name": "Tan Inf12",
         "image": "https://http2.mlstatic.com/D_NQ_NP_927698-MLU79091183244_092024-F.jpg"
       }
-    ]
+    ],
+    "averageRating": 0,
+    "reviewCount": 0,
+    "prices": [],
+    "tags": [
+      "base",
+      "nyx professional makeup"
+    ],
+    "createdAt": "2026-03-03T16:34:04.905Z",
+    "updatedAt": "2026-03-03T16:34:04.905Z"
   },
   {
     "id": "p17725556449050320",
@@ -4639,13 +5918,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_808403-MLU74085591471_012024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_976907-MLU71531805781_092023-F.jpg"
     ],
+    "ean": "8682536044356",
+    "mlIds": [
+      "MLB26826926"
+    ],
+    "mlParentId": "MLB26826899",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "base",
       "flormar"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:04.905Z",
+    "updatedAt": "2026-03-03T16:34:04.905Z"
   },
   {
     "id": "p17725556449050321",
@@ -4657,13 +5944,20 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_869759-MLU78166365771_082024-F.jpg"
     ],
+    "ean": "6959928380586",
+    "mlIds": [
+      "MLB28958946"
+    ],
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "base",
       "modaiya"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:04.905Z",
+    "updatedAt": "2026-03-03T16:34:04.905Z"
   },
   {
     "id": "p17725556449050325",
@@ -4675,13 +5969,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_708280-MLA82227061505_022025-F.jpg"
     ],
+    "ean": "7898697027171",
+    "mlIds": [
+      "MLB45857992"
+    ],
+    "mlParentId": "MLB45857990",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "base",
       "anairana"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:04.905Z",
+    "updatedAt": "2026-03-03T16:34:04.905Z"
   },
   {
     "id": "p17725558046793212",
@@ -4694,13 +5996,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_901742-MLU74861215395_032024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_882741-MLU69155370361_042023-F.jpg"
     ],
+    "ean": "7891033494606",
+    "mlIds": [
+      "MLB22952759"
+    ],
+    "mlParentId": "MLB22741050",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "base",
       "eudora"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:44.679Z",
+    "updatedAt": "2026-03-03T16:36:44.679Z"
   },
   {
     "id": "p17725558072333227",
@@ -4715,13 +6025,11 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_807717-MLA101947177426_122025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_674150-MLA92201346930_092025-F.jpg"
     ],
-    "averageRating": 0,
-    "reviewCount": 0,
-    "prices": [],
-    "tags": [
-      "base",
-      "fran by franciny ehlke"
+    "ean": "7898969501446",
+    "mlIds": [
+      "MLB23456630"
     ],
+    "mlParentId": "MLB23456610",
     "colors": [
       {
         "name": "Facial",
@@ -4731,7 +6039,16 @@ const catalogProducts = [
         "name": "Facil",
         "image": "https://http2.mlstatic.com/D_NQ_NP_611912-MLA95021463512_102025-F.jpg"
       }
-    ]
+    ],
+    "averageRating": 0,
+    "reviewCount": 0,
+    "prices": [],
+    "tags": [
+      "base",
+      "fran by franciny ehlke"
+    ],
+    "createdAt": "2026-03-03T16:36:47.233Z",
+    "updatedAt": "2026-03-03T16:36:47.233Z"
   },
   {
     "id": "p17725558072333232",
@@ -4743,13 +6060,22 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_781054-MLA107284627296_032026-F.jpg"
     ],
+    "ean": "79014620034512",
+    "mlIds": [
+      "MLB66138215",
+      "MLB66135742"
+    ],
+    "mlParentId": "MLB66138214",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "base",
       "pó facial solto"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:47.233Z",
+    "updatedAt": "2026-03-03T16:36:47.233Z"
   },
   {
     "id": "p17725558072333233",
@@ -4763,13 +6089,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_651831-MLU70649192346_072023-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_814889-MLU75166857199_032024-F.jpg"
     ],
+    "ean": "7895435365182",
+    "mlIds": [
+      "MLB24905707"
+    ],
+    "mlParentId": "MLB24905677",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "base",
       "mboom"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:47.233Z",
+    "updatedAt": "2026-03-03T16:36:47.233Z"
   },
   {
     "id": "p17725558072343239",
@@ -4785,13 +6119,22 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_662686-MLU72748271689_112023-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_779425-MLU72748194509_112023-F.jpg"
     ],
+    "ean": "7898969501323",
+    "mlIds": [
+      "MLB23462385",
+      "MLB25093624"
+    ],
+    "mlParentId": "MLB23462384",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "base",
       "fran by franciny ehlke"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:47.234Z",
+    "updatedAt": "2026-03-03T16:36:47.234Z"
   },
   {
     "id": "p17725558110563255",
@@ -4807,13 +6150,14 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_853662-MLU70948404198_082023-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_874327-MLU70948404216_082023-F.jpg"
     ],
-    "averageRating": 0,
-    "reviewCount": 0,
-    "prices": [],
-    "tags": [
-      "base",
-      "payot"
+    "ean": "7895435395813",
+    "mlIds": [
+      "MLB21836030",
+      "MLB21903689",
+      "MLB23326438",
+      "MLB23228141"
     ],
+    "mlParentId": "MLB21789831",
     "colors": [
       {
         "name": "Maquiagem Payot",
@@ -4835,7 +6179,16 @@ const catalogProducts = [
         "name": "Ana",
         "image": "https://http2.mlstatic.com/D_NQ_NP_933878-MLU70779060274_082023-F.jpg"
       }
-    ]
+    ],
+    "averageRating": 0,
+    "reviewCount": 0,
+    "prices": [],
+    "tags": [
+      "base",
+      "payot"
+    ],
+    "createdAt": "2026-03-03T16:36:51.056Z",
+    "updatedAt": "2026-03-03T16:36:51.056Z"
   },
   {
     "id": "p17725558123413263",
@@ -4851,13 +6204,11 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_743349-MLU74977497985_032024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_990744-MLU74977478799_032024-F.jpg"
     ],
-    "averageRating": 0,
-    "reviewCount": 0,
-    "prices": [],
-    "tags": [
-      "base",
-      "boca rosa"
+    "ean": "7906953513143",
+    "mlIds": [
+      "MLB36109760"
     ],
+    "mlParentId": "MLB36109759",
     "colors": [
       {
         "name": "By Marmore",
@@ -4867,7 +6218,16 @@ const catalogProducts = [
         "name": "Mate Maria",
         "image": "https://http2.mlstatic.com/D_NQ_NP_674360-MLB74141680103_012024-F.jpg"
       }
-    ]
+    ],
+    "averageRating": 0,
+    "reviewCount": 0,
+    "prices": [],
+    "tags": [
+      "base",
+      "boca rosa"
+    ],
+    "createdAt": "2026-03-03T16:36:52.341Z",
+    "updatedAt": "2026-03-03T16:36:52.341Z"
   },
   {
     "id": "p17725558123413267",
@@ -4881,13 +6241,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_609181-MLU74959734703_032024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_662192-MLB49876467149_052022-F.jpg"
     ],
+    "ean": "7896609543726",
+    "mlIds": [
+      "MLB20610328"
+    ],
+    "mlParentId": "MLB20610327",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "base",
       "payot"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:52.341Z",
+    "updatedAt": "2026-03-03T16:36:52.341Z"
   },
   {
     "id": "p17725558123413268",
@@ -4903,13 +6271,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_890525-MLU70743756985_072023-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_995186-MLU70743562883_072023-F.jpg"
     ],
+    "ean": "7897909261396",
+    "mlIds": [
+      "MLB25385701"
+    ],
+    "mlParentId": "MLB25385671",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "base",
       "boca rosa beauty by payot"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:52.341Z",
+    "updatedAt": "2026-03-03T16:36:52.341Z"
   },
   {
     "id": "p17725558123413278",
@@ -4924,13 +6300,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_899375-MLA81759315882_012025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_993360-MLA81759209860_012025-F.jpg"
     ],
+    "ean": "7908847800056",
+    "mlIds": [
+      "MLB45605015"
+    ],
+    "mlParentId": "MLB45605003",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "base",
       "boca rosa"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:52.341Z",
+    "updatedAt": "2026-03-03T16:36:52.341Z"
   },
   {
     "id": "p17725558123423280",
@@ -4942,13 +6326,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_801022-MLU74873118046_032024-F.jpg"
     ],
+    "ean": "7896609544105",
+    "mlIds": [
+      "MLB19942679"
+    ],
+    "mlParentId": "MLB19942661",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "base",
       "payot"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:52.342Z",
+    "updatedAt": "2026-03-03T16:36:52.342Z"
   },
   {
     "id": "p17725556461720326",
@@ -4960,13 +6352,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_637311-MLU74962006447_032024-F.jpg"
     ],
+    "ean": "17898488142424",
+    "mlIds": [
+      "MLB34202578"
+    ],
+    "mlParentId": "MLB34202574",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "corretivo",
       "unimakeup"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:06.172Z",
+    "updatedAt": "2026-03-03T16:34:06.172Z"
   },
   {
     "id": "p17725556461720327",
@@ -4982,13 +6382,22 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_994618-MLU78238914750_082024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_674561-MLU78467942909_082024-F.jpg"
     ],
+    "ean": "7899360233332",
+    "mlIds": [
+      "MLB37718579",
+      "MLB37717854"
+    ],
+    "mlParentId": "MLB37717853",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "corretivo",
       "pink 21"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:06.172Z",
+    "updatedAt": "2026-03-03T16:34:06.172Z"
   },
   {
     "id": "p17725556461720329",
@@ -5000,13 +6409,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_969588-MLA80687951086_112024-F.jpg"
     ],
+    "ean": "7891234364418",
+    "mlIds": [
+      "MLB43827785"
+    ],
+    "mlParentId": "MLB43827770",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "corretivo",
       "luisance"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:06.172Z",
+    "updatedAt": "2026-03-03T16:34:06.172Z"
   },
   {
     "id": "p17725556461720330",
@@ -5020,13 +6437,19 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_925511-MLU72482655195_102023-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_749147-MLU72482557185_102023-F.jpg"
     ],
+    "mlIds": [
+      "MLB23576592"
+    ],
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "corretivo",
       "maybelline"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:06.172Z",
+    "updatedAt": "2026-03-03T16:34:06.172Z"
   },
   {
     "id": "p17725556461720331",
@@ -5039,13 +6462,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_729366-MLU79175865057_092024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_832422-MLU78936764292_092024-F.jpg"
     ],
+    "ean": "9711271375582",
+    "mlIds": [
+      "MLB40592146"
+    ],
+    "mlParentId": "MLB40592144",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "corretivo",
       "trendy"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:06.172Z",
+    "updatedAt": "2026-03-03T16:34:06.172Z"
   },
   {
     "id": "p17725556461720332",
@@ -5059,13 +6490,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_692656-MLU74161173699_012024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_785257-MLU74194993859_012024-F.jpg"
     ],
+    "ean": "8682536037150",
+    "mlIds": [
+      "MLB26713547"
+    ],
+    "mlParentId": "MLB26713527",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "corretivo",
       "flormar"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:06.172Z",
+    "updatedAt": "2026-03-03T16:34:06.172Z"
   },
   {
     "id": "p17725556461720333",
@@ -5081,13 +6520,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_753247-MLA82608757324_032025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_650161-MLA82895341979_032025-F.jpg"
     ],
+    "ean": "7798109095982",
+    "mlIds": [
+      "MLB46691983"
+    ],
+    "mlParentId": "MLB46691982",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "corretivo",
       "tejar"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:06.172Z",
+    "updatedAt": "2026-03-03T16:34:06.172Z"
   },
   {
     "id": "p17725556461720334",
@@ -5103,13 +6550,22 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_912977-MLU70767443720_072023-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_768855-MLU70798852879_072023-F.jpg"
     ],
+    "ean": "610895179783",
+    "mlIds": [
+      "MLB25413883",
+      "MLB25673446"
+    ],
+    "mlParentId": "MLB25413872",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "corretivo",
       "comercializadoragenmx"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:06.172Z",
+    "updatedAt": "2026-03-03T16:34:06.173Z"
   },
   {
     "id": "p17725556461720335",
@@ -5124,13 +6580,27 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_929919-MLU70630815099_072023-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_734480-MLU70630280129_072023-F.jpg"
     ],
+    "ean": "816180021984",
+    "mlIds": [
+      "MLB23939858",
+      "MLB24652151",
+      "MLB24287289",
+      "MLB23963425",
+      "MLB24312357",
+      "MLB24312350",
+      "MLB24312361"
+    ],
+    "mlParentId": "MLB23544375",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "corretivo",
       "moira"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:06.172Z",
+    "updatedAt": "2026-03-03T16:34:07.552Z"
   },
   {
     "id": "p17725556475520343",
@@ -5144,13 +6614,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_847140-MLU73883712089_012024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_779839-MLU73883827941_012024-F.jpg"
     ],
+    "ean": "6972760822977",
+    "mlIds": [
+      "MLB29557299"
+    ],
+    "mlParentId": "MLB29557297",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "corretivo",
       "famoty"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:07.552Z",
+    "updatedAt": "2026-03-03T16:34:07.552Z"
   },
   {
     "id": "p17725556475520344",
@@ -5165,13 +6643,20 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_683846-MLU75356170952_032024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_968021-MLU76559823582_052024-F.jpg"
     ],
+    "ean": "7908066101958",
+    "mlIds": [
+      "MLB35196532"
+    ],
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "corretivo",
       "klasme"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:07.552Z",
+    "updatedAt": "2026-03-03T16:34:07.552Z"
   },
   {
     "id": "p17725556475520345",
@@ -5183,13 +6668,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_767646-MLU75930276404_042024-F.jpg"
     ],
+    "ean": "8111160965541",
+    "mlIds": [
+      "MLB36343247"
+    ],
+    "mlParentId": "MLB36343240",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "corretivo",
       "nyx professional makeup"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:07.552Z",
+    "updatedAt": "2026-03-03T16:34:07.552Z"
   },
   {
     "id": "p17725556475520346",
@@ -5205,13 +6698,11 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_978858-MLA94876558461_102025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_644196-MLA94876647213_102025-F.jpg"
     ],
-    "averageRating": 0,
-    "reviewCount": 0,
-    "prices": [],
-    "tags": [
-      "corretivo",
-      "ersanli"
+    "mlIds": [
+      "MLB61331147",
+      "MLB59909348"
     ],
+    "mlParentId": "MLB59909346",
     "colors": [
       {
         "name": "Branco",
@@ -5221,7 +6712,16 @@ const catalogProducts = [
         "name": "Azul",
         "image": "https://http2.mlstatic.com/D_NQ_NP_904202-MLA94876617525_102025-F.jpg"
       }
-    ]
+    ],
+    "averageRating": 0,
+    "reviewCount": 0,
+    "prices": [],
+    "tags": [
+      "corretivo",
+      "ersanli"
+    ],
+    "createdAt": "2026-03-03T16:34:07.552Z",
+    "updatedAt": "2026-03-03T16:34:07.552Z"
   },
   {
     "id": "p17725556475520348",
@@ -5233,13 +6733,23 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_870294-MLU77903961717_072024-F.jpg"
     ],
+    "ean": "71249409121",
+    "mlIds": [
+      "MLB38612563",
+      "MLB38612620",
+      "MLB38612458"
+    ],
+    "mlParentId": "MLB37229801",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "corretivo",
       "l'oréal paris"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:07.552Z",
+    "updatedAt": "2026-03-03T16:34:08.825Z"
   },
   {
     "id": "p17725556475520349",
@@ -5254,13 +6764,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_641727-MLU69822070559_062023-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_625034-MLU69822070561_062023-F.jpg"
     ],
+    "ean": "683609858458",
+    "mlIds": [
+      "MLB23761051"
+    ],
+    "mlParentId": "MLB23572579",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "corretivo",
       "beauty creations"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:07.552Z",
+    "updatedAt": "2026-03-03T16:34:07.552Z"
   },
   {
     "id": "p17725556475520350",
@@ -5272,13 +6790,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_813619-MLU77414346172_072024-F.jpg"
     ],
+    "ean": "773602463824",
+    "mlIds": [
+      "MLB38141968"
+    ],
+    "mlParentId": "MLB38141966",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "corretivo",
       "mac"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:07.552Z",
+    "updatedAt": "2026-03-03T16:34:07.552Z"
   },
   {
     "id": "p17725556475520351",
@@ -5292,13 +6818,20 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_742381-MLA107184141911_022026-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_662626-MLA107185680247_022026-F.jpg"
     ],
+    "mlIds": [
+      "MLB65561717"
+    ],
+    "mlParentId": "MLB65494012",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "corretivo",
       "by apple"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:07.552Z",
+    "updatedAt": "2026-03-03T16:34:07.552Z"
   },
   {
     "id": "p17725556475520352",
@@ -5312,13 +6845,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_881568-MLU73297141710_122023-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_998764-MLU73297416054_122023-F.jpg"
     ],
+    "ean": "8809581448445",
+    "mlIds": [
+      "MLB28802707"
+    ],
+    "mlParentId": "MLB28802706",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "corretivo",
       "missha"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:07.552Z",
+    "updatedAt": "2026-03-03T16:34:07.552Z"
   },
   {
     "id": "p17725556475520353",
@@ -5331,13 +6872,23 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_937800-MLA89218033796_082025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_685204-MLA89583315939_082025-F.jpg"
     ],
+    "ean": "773602657193",
+    "mlIds": [
+      "MLB53516966",
+      "MLB43275131",
+      "MLB43274560"
+    ],
+    "mlParentId": "MLB43274550",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "corretivo",
       "mac"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:07.552Z",
+    "updatedAt": "2026-03-03T16:34:08.825Z"
   },
   {
     "id": "p17725556475520354",
@@ -5350,13 +6901,19 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_869003-MLA31452627484_072019-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_639262-MLA31452662584_072019-F.jpg"
     ],
+    "mlIds": [
+      "MLB14933015"
+    ],
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "corretivo",
       "glossier"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:07.552Z",
+    "updatedAt": "2026-03-03T16:34:07.552Z"
   },
   {
     "id": "p17725556475520355",
@@ -5372,12 +6929,9 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_890029-MLA92307747136_092025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_992191-MLA92715368693_092025-F.jpg"
     ],
-    "averageRating": 0,
-    "reviewCount": 0,
-    "prices": [],
-    "tags": [
-      "corretivo",
-      "catharine hill"
+    "ean": "7898600991742",
+    "mlIds": [
+      "MLB35627724"
     ],
     "colors": [
       {
@@ -5388,7 +6942,16 @@ const catalogProducts = [
         "name": "Ne",
         "image": "https://http2.mlstatic.com/D_NQ_NP_967552-MLU75308346214_032024-F.jpg"
       }
-    ]
+    ],
+    "averageRating": 0,
+    "reviewCount": 0,
+    "prices": [],
+    "tags": [
+      "corretivo",
+      "catharine hill"
+    ],
+    "createdAt": "2026-03-03T16:34:07.552Z",
+    "updatedAt": "2026-03-03T16:34:07.552Z"
   },
   {
     "id": "p17725556488250358",
@@ -5401,13 +6964,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_868377-MLU75719598880_042024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_642111-MLA79531036918_102024-F.jpg"
     ],
+    "ean": "7891103185335",
+    "mlIds": [
+      "MLB35968237"
+    ],
+    "mlParentId": "MLB35968235",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "corretivo",
       "mary kay"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:08.825Z",
+    "updatedAt": "2026-03-03T16:34:08.825Z"
   },
   {
     "id": "p17725556488250359",
@@ -5422,13 +6993,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_938132-MLU75164410563_032024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_881905-MLU74273647718_022024-F.jpg"
     ],
+    "ean": "794437202976",
+    "mlIds": [
+      "MLB32031678"
+    ],
+    "mlParentId": "MLB32031675",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "corretivo",
       "revlon"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:08.825Z",
+    "updatedAt": "2026-03-03T16:34:08.825Z"
   },
   {
     "id": "p17725556488250360",
@@ -5444,13 +7023,22 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_914014-MLA100212461970_122025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_612464-MLA100212432140_122025-F.jpg"
     ],
+    "ean": "738265810156",
+    "mlIds": [
+      "MLB62957793",
+      "MLB62359531"
+    ],
+    "mlParentId": "MLB62358450",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "corretivo",
       "heci beauty"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:08.825Z",
+    "updatedAt": "2026-03-03T16:34:08.825Z"
   },
   {
     "id": "p17725556488250361",
@@ -5462,13 +7050,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_679501-MLU69662996343_052023-F.jpg"
     ],
+    "ean": "602989881849",
+    "mlIds": [
+      "MLB23491861"
+    ],
+    "mlParentId": "MLB23491860",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "corretivo",
       "rude cosmetics"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:08.825Z",
+    "updatedAt": "2026-03-03T16:34:08.825Z"
   },
   {
     "id": "p17725556488250362",
@@ -5484,13 +7080,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_718923-MLA82356435904_022025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_784089-MLA82641310523_022025-F.jpg"
     ],
+    "ean": "309970275839",
+    "mlIds": [
+      "MLB46316991"
+    ],
+    "mlParentId": "MLB46306621",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "corretivo",
       "revlon"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:08.825Z",
+    "updatedAt": "2026-03-03T16:34:08.825Z"
   },
   {
     "id": "p17725556488250367",
@@ -5506,13 +7110,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_846373-MLU77337125120_072024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_864019-MLU77552003081_072024-F.jpg"
     ],
+    "ean": "7898600992091",
+    "mlIds": [
+      "MLB23660315"
+    ],
+    "mlParentId": "MLB23660280",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "corretivo",
       "catharine hill"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:08.825Z",
+    "updatedAt": "2026-03-03T16:34:08.825Z"
   },
   {
     "id": "p17725556488250368",
@@ -5524,13 +7136,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_917813-MLU74822034146_032024-F.jpg"
     ],
+    "ean": "309973212046",
+    "mlIds": [
+      "MLB23975913"
+    ],
+    "mlParentId": "MLB23975905",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "corretivo",
       "revlon"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:08.825Z",
+    "updatedAt": "2026-03-03T16:34:08.825Z"
   },
   {
     "id": "p17725556488250369",
@@ -5542,13 +7162,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_733935-MLA89390660508_082025-F.jpg"
     ],
+    "ean": "717489983082",
+    "mlIds": [
+      "MLB53671384"
+    ],
+    "mlParentId": "MLB53671383",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "corretivo",
       "milani"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:08.825Z",
+    "updatedAt": "2026-03-03T16:34:08.825Z"
   },
   {
     "id": "p17725556501050370",
@@ -5564,6 +7192,17 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_956510-MLU74988910674_032024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_714468-MLU74988891126_032024-F.jpg"
     ],
+    "ean": "7890594554682",
+    "mlIds": [
+      "MLB23681035"
+    ],
+    "mlParentId": "MLB23681003",
+    "colors": [
+      {
+        "name": "Branco",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_806851-MLU75129805339_032024-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -5571,12 +7210,8 @@ const catalogProducts = [
       "corretivo",
       "6d massager eyes"
     ],
-    "colors": [
-      {
-        "name": "Branco",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_806851-MLU75129805339_032024-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:34:10.105Z",
+    "updatedAt": "2026-03-03T16:34:10.105Z"
   },
   {
     "id": "p17725556501050371",
@@ -5592,6 +7227,17 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_865826-MLU74859484719_032024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_800023-MLU73793878499_012024-F.jpg"
     ],
+    "ean": "7401864461120",
+    "mlIds": [
+      "MLB29485486"
+    ],
+    "mlParentId": "MLB29485485",
+    "colors": [
+      {
+        "name": "Branco",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_758932-MLU73795084887_012024-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -5599,12 +7245,8 @@ const catalogProducts = [
       "corretivo",
       "tomate"
     ],
-    "colors": [
-      {
-        "name": "Branco",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_758932-MLU73795084887_012024-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:34:10.105Z",
+    "updatedAt": "2026-03-03T16:34:10.105Z"
   },
   {
     "id": "p17725556501060372",
@@ -5620,6 +7262,17 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_623694-MLA91847418194_092025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_734259-MLA92022090751_092025-F.jpg"
     ],
+    "ean": "7896033241250",
+    "mlIds": [
+      "MLB55236966"
+    ],
+    "mlParentId": "MLB55236964",
+    "colors": [
+      {
+        "name": "Branco",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_855571-MLA92182297894_092025-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -5627,12 +7280,8 @@ const catalogProducts = [
       "corretivo",
       "rmira 3d massager eyes"
     ],
-    "colors": [
-      {
-        "name": "Branco",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_855571-MLA92182297894_092025-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:34:10.105Z",
+    "updatedAt": "2026-03-03T16:34:10.105Z"
   },
   {
     "id": "p17725556501060373",
@@ -5644,13 +7293,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_981018-MLU75358728189_032024-F.jpg"
     ],
+    "ean": "632317940825",
+    "mlIds": [
+      "MLB34902525"
+    ],
+    "mlParentId": "MLB34902524",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "corretivo",
       "la belle paris"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:10.106Z",
+    "updatedAt": "2026-03-03T16:34:10.106Z"
   },
   {
     "id": "p17725556501060374",
@@ -5662,13 +7319,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_784615-MLB31177438706_062019-F.jpg"
     ],
+    "ean": "7897459701892",
+    "mlIds": [
+      "MLB21846165"
+    ],
+    "mlParentId": "MLB21846153",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "corretivo",
       "lucy's"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:10.106Z",
+    "updatedAt": "2026-03-03T16:34:10.106Z"
   },
   {
     "id": "p17725556501060376",
@@ -5680,13 +7345,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_640264-MLA84321614172_052025-F.jpg"
     ],
+    "ean": "7898342115482",
+    "mlIds": [
+      "MLB49768858"
+    ],
+    "mlParentId": "MLB49768850",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "corretivo",
       "barbour’s beauty"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:10.106Z",
+    "updatedAt": "2026-03-03T16:34:10.106Z"
   },
   {
     "id": "p17725556501070379",
@@ -5701,13 +7374,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_741452-MLU74085541636_012024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_730188-MLA102889398819_122025-F.jpg"
     ],
+    "ean": "7898599683956",
+    "mlIds": [
+      "MLB29464386"
+    ],
+    "mlParentId": "MLB29144851",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "corretivo",
       "makiê"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:10.107Z",
+    "updatedAt": "2026-03-03T16:34:10.107Z"
   },
   {
     "id": "p17725556501070380",
@@ -5723,13 +7404,33 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_892286-MLA79509863902_102024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_701079-MLA79714503441_102024-F.jpg"
     ],
+    "ean": "7894222033303",
+    "mlIds": [
+      "MLB29279688",
+      "MLB29604613",
+      "MLB29278091",
+      "MLB29608546",
+      "MLB29610061",
+      "MLB29841371",
+      "MLB29593273",
+      "MLB29591012",
+      "MLB29608626",
+      "MLB29597547",
+      "MLB29594941",
+      "MLB29280447",
+      "MLB29278132"
+    ],
+    "mlParentId": "MLB29278089",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "corretivo",
       "dailus"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:10.107Z",
+    "updatedAt": "2026-03-03T16:34:10.107Z"
   },
   {
     "id": "p17725556501070392",
@@ -5742,13 +7443,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_808329-MLU75174919800_032024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_784544-MLU69806875308_062023-F.jpg"
     ],
+    "ean": "6972858365355",
+    "mlIds": [
+      "MLB23769410"
+    ],
+    "mlParentId": "MLB23769376",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "corretivo",
       "ruby rose"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:10.107Z",
+    "updatedAt": "2026-03-03T16:34:10.107Z"
   },
   {
     "id": "p17725556501070393",
@@ -5762,13 +7471,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_959576-MLU74311307903_012024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_779731-MLU74198399914_012024-F.jpg"
     ],
+    "ean": "7797839565000",
+    "mlIds": [
+      "MLB31010656"
+    ],
+    "mlParentId": "MLB29371323",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "corretivo",
       "ruby rose"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:10.107Z",
+    "updatedAt": "2026-03-03T16:34:10.107Z"
   },
   {
     "id": "p17725556501070394",
@@ -5784,13 +7501,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_632005-MLA88905474217_072025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_657978-MLA84544420540_052025-F.jpg"
     ],
+    "ean": "7894222041889",
+    "mlIds": [
+      "MLB44646559"
+    ],
+    "mlParentId": "MLB44684240",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "corretivo",
       "dailus"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:10.107Z",
+    "updatedAt": "2026-03-03T16:34:10.107Z"
   },
   {
     "id": "p17725556513790408",
@@ -5802,13 +7527,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_777949-MLU74443536667_022024-F.jpg"
     ],
+    "ean": "609332848580",
+    "mlIds": [
+      "MLB29742891"
+    ],
+    "mlParentId": "MLB28467634",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "corretivo",
       "e.l.f. cosmetics"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:11.379Z",
+    "updatedAt": "2026-03-03T16:34:11.379Z"
   },
   {
     "id": "p17725558072333228",
@@ -5823,13 +7556,20 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_603165-MLA94911980532_102025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_851332-MLA105418346748_012026-F.jpg"
     ],
+    "mlIds": [
+      "MLB60199332"
+    ],
+    "mlParentId": "MLB46190361",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "corretivo",
       "fran"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:47.233Z",
+    "updatedAt": "2026-03-03T16:36:47.233Z"
   },
   {
     "id": "p17725558072333236",
@@ -5844,13 +7584,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_634528-MLA103249917996_012026-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_950512-MLA103249094698_012026-F.jpg"
     ],
+    "ean": "7895435355664",
+    "mlIds": [
+      "MLB63901089"
+    ],
+    "mlParentId": "MLB63901088",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "corretivo",
       "mboom"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:47.233Z",
+    "updatedAt": "2026-03-03T16:36:47.233Z"
   },
   {
     "id": "p17725558110563258",
@@ -5866,13 +7614,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_820204-MLU72847729701_112023-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_879247-MLU72772401746_112023-F.jpg"
     ],
+    "ean": "7896609546277",
+    "mlIds": [
+      "MLB23587917"
+    ],
+    "mlParentId": "MLB23587907",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "corretivo",
       "pyot - boca rosa beauty"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:51.056Z",
+    "updatedAt": "2026-03-03T16:36:51.056Z"
   },
   {
     "id": "p17725558200903355",
@@ -5887,13 +7643,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_912670-MLU70377686351_072023-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_674182-MLU70377686353_072023-F.jpg"
     ],
+    "ean": "7896032653221",
+    "mlIds": [
+      "MLB24374130"
+    ],
+    "mlParentId": "MLB24374114",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "corretivo",
       "bruna tavares"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:37:00.090Z",
+    "updatedAt": "2026-03-03T16:37:00.090Z"
   },
   {
     "id": "p17725556552330448",
@@ -5908,31 +7672,20 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_828505-MLA97776946052_112025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_779128-MLA97777025286_112025-F.jpg"
     ],
+    "mlIds": [
+      "MLB62115374"
+    ],
+    "mlParentId": "MLB62115373",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "pó facial",
       "belas garden"
-    ]
-  },
-  {
-    "id": "p17725556590820511",
-    "name": "Escova De Pó Facial Surratt",
-    "brand": "Surratt",
-    "category": "Pó Facial",
-    "description": "O pincel Surratt Face Powder é uma ferramenta de beleza indispensável para qualquer amante de maquiagem. Este pincel de alta qualidade, modelo SB025-01, foi projetado para distribuir e misturar produtos em pó uniformemente na pele, proporcionando um acabamento macio e natural. Baseado na filosofia japonesa de monozukuri ou feito à mão, esse pincel é o resultado de uma atenção meticulosa aos detalhes e de um compromisso com a excelência no artesanato. \n \n O pincel de pó facial Surratt apresenta c",
-    "image": "https://http2.mlstatic.com/D_NQ_NP_756487-MLU74647482674_022024-F.jpg",
-    "images": [
-      "https://http2.mlstatic.com/D_NQ_NP_756487-MLU74647482674_022024-F.jpg"
     ],
-    "averageRating": 0,
-    "reviewCount": 0,
-    "prices": [],
-    "tags": [
-      "pó facial",
-      "surratt"
-    ]
+    "createdAt": "2026-03-03T16:34:15.233Z",
+    "updatedAt": "2026-03-03T16:34:15.233Z"
   },
   {
     "id": "p17725556590830527",
@@ -5948,6 +7701,16 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_779424-MLA95353496151_102025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_858334-MLA95353496161_102025-F.jpg"
     ],
+    "mlIds": [
+      "MLB60211568"
+    ],
+    "mlParentId": "MLB60211566",
+    "colors": [
+      {
+        "name": "Preto",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_947413-MLA95352683797_102025-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -5955,12 +7718,8 @@ const catalogProducts = [
       "pó facial",
       "sibba"
     ],
-    "colors": [
-      {
-        "name": "Preto",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_947413-MLA95352683797_102025-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:34:19.083Z",
+    "updatedAt": "2026-03-03T16:34:19.083Z"
   },
   {
     "id": "p17725556668700680",
@@ -5973,31 +7732,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_953501-MLA81593512421_122024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_708300-MLA81593512425_122024-F.jpg"
     ],
+    "ean": "194250036862",
+    "mlIds": [
+      "MLB45059009"
+    ],
+    "mlParentId": "MLB45059004",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "pó facial",
       "laura mercier"
-    ]
-  },
-  {
-    "id": "p17725556681480698",
-    "name": "Bye Filter Setting Powder With Puff Set",
-    "brand": "Beauty Creations",
-    "category": "Pó Facial",
-    "description": "Bye Filter Setting Powder With Puff Set - Beauty Creations",
-    "image": "https://http2.mlstatic.com/D_NQ_NP_720176-MLA80259535822_112024-F.jpg",
-    "images": [
-      "https://http2.mlstatic.com/D_NQ_NP_720176-MLA80259535822_112024-F.jpg"
     ],
-    "averageRating": 0,
-    "reviewCount": 0,
-    "prices": [],
-    "tags": [
-      "pó facial",
-      "beauty creations"
-    ]
+    "createdAt": "2026-03-03T16:34:26.870Z",
+    "updatedAt": "2026-03-03T16:34:26.870Z"
   },
   {
     "id": "p17725556706910749",
@@ -6010,13 +7759,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_865144-MLA80585360582_112024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_940202-MLA80585360584_112024-F.jpg"
     ],
+    "ean": "3605972890634",
+    "mlIds": [
+      "MLB43498100"
+    ],
+    "mlParentId": "MLB43498091",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "pó facial",
       "urban decay"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:30.691Z",
+    "updatedAt": "2026-03-03T16:34:30.691Z"
   },
   {
     "id": "p17725556732410784",
@@ -6032,13 +7789,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_839292-MLU77650678031_072024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_683284-MLU77650462197_072024-F.jpg"
     ],
+    "ean": "7899054022143",
+    "mlIds": [
+      "MLB38196908"
+    ],
+    "mlParentId": "MLB38196907",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "pó facial",
       "kohll beauty"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:33.241Z",
+    "updatedAt": "2026-03-03T16:34:33.241Z"
   },
   {
     "id": "p17725556732420793",
@@ -6050,13 +7815,20 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_733248-MLA94799236978_102025-F.jpg"
     ],
+    "ean": "850062755352",
+    "mlIds": [
+      "MLB60124733"
+    ],
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "pó facial",
       "c-lux"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:33.242Z",
+    "updatedAt": "2026-03-03T16:34:33.242Z"
   },
   {
     "id": "p17725556732420797",
@@ -6069,35 +7841,20 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_605121-MLA93965933494_102025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_735429-MLA94392383455_102025-F.jpg"
     ],
+    "ean": "811765030689",
+    "mlIds": [
+      "MLB59171154"
+    ],
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "pó facial",
       "rcma"
-    ]
-  },
-  {
-    "id": "p17725556757920841",
-    "name": "Almofadas De Pó, 5 Puffs De Pó Solto Puff Redondo E Fofo Para Pó, Macio E Lavável, Para Pó Solto, Pó , Maquiagem, Blush Em Pó",
-    "brand": "Greatideal",
-    "category": "Pó Facial",
-    "description": "As almofadas de pó Greatideal oferecem uma aplicação suave e uniforme, ideais para obter um acabamento profissional em qualquer rotina de maquiagem. Seu design redondo e macio permite que você distribua pós soltos, pós corporais ou blush em pó de forma eficiente e sem esforço. Feitos com materiais laváveis de alta qualidade, eles garantem durabilidade e facilidade de limpeza para uso prolongado. Perfeito para quem procura um acabamento natural e uma experiência confortável ao aplicar seus produt",
-    "image": "https://http2.mlstatic.com/D_NQ_NP_965877-MLA105485242107_012026-F.jpg",
-    "images": [
-      "https://http2.mlstatic.com/D_NQ_NP_965877-MLA105485242107_012026-F.jpg",
-      "https://http2.mlstatic.com/D_NQ_NP_647213-MLA105486687555_012026-F.jpg",
-      "https://http2.mlstatic.com/D_NQ_NP_608917-MLA105485796795_012026-F.jpg",
-      "https://http2.mlstatic.com/D_NQ_NP_637303-MLA105485706645_012026-F.jpg",
-      "https://http2.mlstatic.com/D_NQ_NP_624535-MLA104915996796_012026-F.jpg"
     ],
-    "averageRating": 0,
-    "reviewCount": 0,
-    "prices": [],
-    "tags": [
-      "pó facial",
-      "greatideal"
-    ]
+    "createdAt": "2026-03-03T16:34:33.242Z",
+    "updatedAt": "2026-03-03T16:34:33.242Z"
   },
   {
     "id": "p17725556757920847",
@@ -6112,13 +7869,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_895005-MLA98176364668_112025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_819555-MLA98649708725_112025-F.jpg"
     ],
+    "ean": "7899846804315",
+    "mlIds": [
+      "MLB62255211"
+    ],
+    "mlParentId": "MLB62255209",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "pó facial",
       "vivai"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:35.792Z",
+    "updatedAt": "2026-03-03T16:34:35.792Z"
   },
   {
     "id": "p17725556757920849",
@@ -6134,13 +7899,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_624645-MLU77856680314_072024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_660983-MLU78078526377_072024-F.jpg"
     ],
+    "ean": "7898098470026",
+    "mlIds": [
+      "MLB36968372"
+    ],
+    "mlParentId": "MLB36968366",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "pó facial",
       "anairana"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:35.792Z",
+    "updatedAt": "2026-03-03T16:34:35.792Z"
   },
   {
     "id": "p17725556783750887",
@@ -6156,13 +7929,20 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_872868-MLA82483095705_022025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_876450-MLA82483012201_022025-F.jpg"
     ],
+    "ean": "5901905014749",
+    "mlIds": [
+      "MLB39959296"
+    ],
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "pó facial",
       "inglot"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:38.375Z",
+    "updatedAt": "2026-03-03T16:34:38.375Z"
   },
   {
     "id": "p17725556783760897",
@@ -6174,13 +7954,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_767778-MLU76034891680_052024-F.jpg"
     ],
+    "ean": "7897072181507",
+    "mlIds": [
+      "MLB36670200"
+    ],
+    "mlParentId": "MLB36670199",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "pó facial",
       "trezz"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:38.376Z",
+    "updatedAt": "2026-03-03T16:34:38.376Z"
   },
   {
     "id": "p17725556796640905",
@@ -6193,13 +7981,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_956095-MLU70822885909_082023-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_860360-MLU70822796659_082023-F.jpg"
     ],
+    "ean": "6165132000350",
+    "mlIds": [
+      "MLB25603145"
+    ],
+    "mlParentId": "MLB25603138",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "primer",
       "marifer"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:39.664Z",
+    "updatedAt": "2026-03-03T16:34:39.664Z"
   },
   {
     "id": "p17725556796640906",
@@ -6215,13 +8011,22 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_693620-MLA93337555692_092025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_910985-MLA93755835703_092025-F.jpg"
     ],
+    "ean": "7898767090432",
+    "mlIds": [
+      "MLB49572572",
+      "MLB52680005"
+    ],
+    "mlParentId": "MLB49572551",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "primer",
       "vizzela"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:39.664Z",
+    "updatedAt": "2026-03-03T16:34:39.664Z"
   },
   {
     "id": "p17725556796640908",
@@ -6234,13 +8039,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_978703-MLA79782991922_102024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_657238-MLA80034567749_102024-F.jpg"
     ],
+    "ean": "7798229534675",
+    "mlIds": [
+      "MLB42059893"
+    ],
+    "mlParentId": "MLB42059891",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "primer",
       "dermachem"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:39.664Z",
+    "updatedAt": "2026-03-03T16:34:39.664Z"
   },
   {
     "id": "p17725556796640909",
@@ -6253,13 +8066,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_925103-MLU74181749673_012024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_610313-MLU74159471229_012024-F.jpg"
     ],
+    "ean": "793379189925",
+    "mlIds": [
+      "MLB26406265"
+    ],
+    "mlParentId": "MLB26406227",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "primer",
       "maybelline"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:39.664Z",
+    "updatedAt": "2026-03-03T16:34:39.664Z"
   },
   {
     "id": "p17725556796640910",
@@ -6273,13 +8094,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_750917-MLA96678401719_102025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_821768-MLA96678845865_102025-F.jpg"
     ],
+    "ean": "6932098094972",
+    "mlIds": [
+      "MLB61407970"
+    ],
+    "mlParentId": "MLB61407968",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "primer",
       "phofay"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:39.664Z",
+    "updatedAt": "2026-03-03T16:34:39.664Z"
   },
   {
     "id": "p17725556796640911",
@@ -6291,13 +8120,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_940974-MLU75790826578_042024-F.jpg"
     ],
+    "ean": "609332828971",
+    "mlIds": [
+      "MLB36108892"
+    ],
+    "mlParentId": "MLB36108890",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "primer",
       "e.l.f. cosmetics"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:39.664Z",
+    "updatedAt": "2026-03-03T16:34:39.664Z"
   },
   {
     "id": "p17725556796640912",
@@ -6309,13 +8146,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_925601-MLU74110312783_012024-F.jpg"
     ],
+    "ean": "7798018250700",
+    "mlIds": [
+      "MLB28124066"
+    ],
+    "mlParentId": "MLB28124065",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "primer",
       "laca"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:39.664Z",
+    "updatedAt": "2026-03-03T16:34:39.664Z"
   },
   {
     "id": "p17725556796640913",
@@ -6327,13 +8172,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_993841-MLU74140586145_012024-F.jpg"
     ],
+    "ean": "7798018252490",
+    "mlIds": [
+      "MLB27856156"
+    ],
+    "mlParentId": "MLB27856155",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "primer",
       "laca"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:39.664Z",
+    "updatedAt": "2026-03-03T16:34:39.664Z"
   },
   {
     "id": "p17725556796640914",
@@ -6347,13 +8200,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_844537-MLU77994403265_072024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_779695-MLU77994890237_072024-F.jpg"
     ],
+    "ean": "773602694266",
+    "mlIds": [
+      "MLB38685263"
+    ],
+    "mlParentId": "MLB38685261",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "primer",
       "mac"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:39.664Z",
+    "updatedAt": "2026-03-03T16:34:39.664Z"
   },
   {
     "id": "p17725556796640915",
@@ -6368,13 +8229,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_809684-MLA94175264304_102025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_977506-MLA94175610468_102025-F.jpg"
     ],
+    "ean": "4211819222590",
+    "mlIds": [
+      "MLB59405698"
+    ],
+    "mlParentId": "MLB59405697",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "primer",
       "oriflame"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:39.664Z",
+    "updatedAt": "2026-03-03T16:34:39.664Z"
   },
   {
     "id": "p17725556796640916",
@@ -6389,6 +8258,17 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_964214-MLU71093781128_082023-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_811371-MLU71093773268_082023-F.jpg"
     ],
+    "ean": "814333029948",
+    "mlIds": [
+      "MLB26112840"
+    ],
+    "mlParentId": "MLB26112827",
+    "colors": [
+      {
+        "name": "Tone",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_841956-MLU71132390385_082023-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -6396,12 +8276,8 @@ const catalogProducts = [
       "primer",
       "milk makeup"
     ],
-    "colors": [
-      {
-        "name": "Tone",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_841956-MLU71132390385_082023-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:34:39.664Z",
+    "updatedAt": "2026-03-03T16:34:39.664Z"
   },
   {
     "id": "p17725556796640917",
@@ -6417,6 +8293,17 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_752320-MLA97498831142_112025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_728525-MLA97963455613_112025-F.jpg"
     ],
+    "ean": "884205115543",
+    "mlIds": [
+      "MLB62022506"
+    ],
+    "mlParentId": "MLB62022502",
+    "colors": [
+      {
+        "name": "Tone",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_609552-MLA104644801109_012026-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -6424,12 +8311,8 @@ const catalogProducts = [
       "primer",
       "yy"
     ],
-    "colors": [
-      {
-        "name": "Tone",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_609552-MLA104644801109_012026-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:34:39.664Z",
+    "updatedAt": "2026-03-03T16:34:39.664Z"
   },
   {
     "id": "p17725556796640918",
@@ -6441,13 +8324,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_795307-MLU73714128186_012024-F.jpg"
     ],
+    "ean": "4059729312327",
+    "mlIds": [
+      "MLB25844099"
+    ],
+    "mlParentId": "MLB25844097",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "primer",
       "catrice"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:39.664Z",
+    "updatedAt": "2026-03-03T16:34:39.664Z"
   },
   {
     "id": "p17725556796640919",
@@ -6459,13 +8350,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_602266-MLA90322929615_082025-F.jpg"
     ],
+    "ean": "6952938456722",
+    "mlIds": [
+      "MLB53984614"
+    ],
+    "mlParentId": "MLB53984611",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "primer",
       "mlsmile"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:39.664Z",
+    "updatedAt": "2026-03-03T16:34:39.664Z"
   },
   {
     "id": "p17725556796640920",
@@ -6478,13 +8377,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_965012-MLA85746137988_062025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_804057-MLA85746246516_062025-F.jpg"
     ],
+    "ean": "7798418540128",
+    "mlIds": [
+      "MLB51203230"
+    ],
+    "mlParentId": "MLB51203227",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "primer",
       "dapop"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:39.664Z",
+    "updatedAt": "2026-03-03T16:34:39.664Z"
   },
   {
     "id": "p17725556796640921",
@@ -6500,13 +8407,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_879108-MLA93331950339_092025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_997903-MLA92918376162_092025-F.jpg"
     ],
+    "ean": "559788359324",
+    "mlIds": [
+      "MLB57773723"
+    ],
+    "mlParentId": "MLB57773716",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "primer",
       "o.two.o"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:39.664Z",
+    "updatedAt": "2026-03-03T16:34:39.664Z"
   },
   {
     "id": "p17725556796640922",
@@ -6518,13 +8433,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_780146-MLA85248488444_062025-F.jpg"
     ],
+    "ean": "7502287183146",
+    "mlIds": [
+      "MLB36878536"
+    ],
+    "mlParentId": "MLB36878535",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "primer",
       "saniye"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:39.664Z",
+    "updatedAt": "2026-03-03T16:34:39.664Z"
   },
   {
     "id": "p17725556796640923",
@@ -6537,13 +8460,20 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_760849-MLU74087871312_012024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_950326-MLU74143208903_012024-F.jpg"
     ],
+    "ean": "8690604534685",
+    "mlIds": [
+      "MLB28199258"
+    ],
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "primer",
       "flormar"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:39.664Z",
+    "updatedAt": "2026-03-03T16:34:39.664Z"
   },
   {
     "id": "p17725556796650924",
@@ -6559,13 +8489,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_823746-MLU78510548152_082024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_982605-MLU78743336025_082024-F.jpg"
     ],
+    "ean": "7894603043570, 7908346900981",
+    "mlIds": [
+      "MLB34796347"
+    ],
+    "mlParentId": "MLB34796344",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "primer",
       "dermachem"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:39.665Z",
+    "updatedAt": "2026-03-03T16:34:39.665Z"
   },
   {
     "id": "p17725556796650925",
@@ -6579,13 +8517,22 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_901688-MLU74389108727_022024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_859712-MLU74389060641_022024-F.jpg"
     ],
+    "ean": "3614225319631",
+    "mlIds": [
+      "MLB32040962",
+      "MLB29250721"
+    ],
+    "mlParentId": "MLB29250716",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "primer",
       "covergirl"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:39.665Z",
+    "updatedAt": "2026-03-03T16:34:39.665Z"
   },
   {
     "id": "p17725556796650926",
@@ -6599,13 +8546,20 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_705577-MLU74003787896_012024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_806242-MLU72290607555_102023-F.jpg"
     ],
+    "ean": "648260418151",
+    "mlIds": [
+      "MLB27771661"
+    ],
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "primer",
       "j.cat beauty"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:39.665Z",
+    "updatedAt": "2026-03-03T16:34:39.665Z"
   },
   {
     "id": "p17725556796650927",
@@ -6617,13 +8571,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_637923-MLA92496375581_092025-F.jpg"
     ],
+    "ean": "6976551098510",
+    "mlIds": [
+      "MLB56211076"
+    ],
+    "mlParentId": "MLB56211074",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "primer",
       "ultramo"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:39.665Z",
+    "updatedAt": "2026-03-03T16:34:39.665Z"
   },
   {
     "id": "p17725556796650929",
@@ -6635,13 +8597,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_982589-MLU73609854108_122023-F.jpg"
     ],
+    "ean": "7503028901258",
+    "mlIds": [
+      "MLB23554559"
+    ],
+    "mlParentId": "MLB23554556",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "primer",
       "adara"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:39.665Z",
+    "updatedAt": "2026-03-03T16:34:39.665Z"
   },
   {
     "id": "p17725556796650930",
@@ -6653,13 +8623,20 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_859342-MLA107184193807_022026-F.jpg"
     ],
+    "mlIds": [
+      "MLB65561013"
+    ],
+    "mlParentId": "MLB65561012",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "primer",
       "maproderm"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:39.665Z",
+    "updatedAt": "2026-03-03T16:34:39.665Z"
   },
   {
     "id": "p17725556796650931",
@@ -6672,13 +8649,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_738440-MLU75874580115_042024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_949757-MLU75874580117_042024-F.jpg"
     ],
+    "ean": "840122902550",
+    "mlIds": [
+      "MLB35963635"
+    ],
+    "mlParentId": "MLB35963633",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "primer",
       "rare beauty by selena gomez"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:39.665Z",
+    "updatedAt": "2026-03-03T16:34:39.665Z"
   },
   {
     "id": "p17725556796650932",
@@ -6690,13 +8675,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_878114-MLU79209327687_092024-F.jpg"
     ],
+    "ean": "850724008475",
+    "mlIds": [
+      "MLB29463480"
+    ],
+    "mlParentId": "MLB29463475",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "primer",
       "loveyes"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:39.665Z",
+    "updatedAt": "2026-03-03T16:34:39.665Z"
   },
   {
     "id": "p17725556796650935",
@@ -6708,13 +8701,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_643970-MLU73023181509_112023-F.jpg"
     ],
+    "ean": "7798018250564",
+    "mlIds": [
+      "MLB28278386"
+    ],
+    "mlParentId": "MLB28278381",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "primer",
       "laca"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:39.665Z",
+    "updatedAt": "2026-03-03T16:34:39.665Z"
   },
   {
     "id": "p17725556796650936",
@@ -6726,13 +8727,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_920940-MLU73903849049_012024-F.jpg"
     ],
+    "ean": "6956784141580",
+    "mlIds": [
+      "MLB29587324"
+    ],
+    "mlParentId": "MLB29587323",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "primer",
       "saniye"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:39.665Z",
+    "updatedAt": "2026-03-03T16:34:39.665Z"
   },
   {
     "id": "p17725556796650937",
@@ -6748,13 +8757,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_822346-MLA89590328363_082025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_604735-MLA89225605164_082025-F.jpg"
     ],
+    "ean": "800897197322",
+    "mlIds": [
+      "MLB53532178"
+    ],
+    "mlParentId": "MLB53532177",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "primer",
       "nyx professional makeup"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:39.665Z",
+    "updatedAt": "2026-03-03T16:34:39.665Z"
   },
   {
     "id": "p17725556809550939",
@@ -6769,13 +8786,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_691982-MLA79446895108_102024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_957223-MLA79446620176_102024-F.jpg"
     ],
+    "ean": "6973474682840",
+    "mlIds": [
+      "MLB34961828"
+    ],
+    "mlParentId": "MLB34961827",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "primer",
       "sheglam"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:40.955Z",
+    "updatedAt": "2026-03-03T16:34:40.955Z"
   },
   {
     "id": "p17725556809550940",
@@ -6789,13 +8814,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_882009-MLA79655307903_092024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_738881-MLA79655307909_092024-F.jpg"
     ],
+    "ean": "850006649242",
+    "mlIds": [
+      "MLB38702610"
+    ],
+    "mlParentId": "MLB38702609",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "primer",
       "drmtlgy"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:40.955Z",
+    "updatedAt": "2026-03-03T16:34:40.955Z"
   },
   {
     "id": "p17725556809550941",
@@ -6811,13 +8844,20 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_997652-MLA100365381210_122025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_742764-MLA100365420820_122025-F.jpg"
     ],
+    "mlIds": [
+      "MLB62989537"
+    ],
+    "mlParentId": "MLB62989536",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "primer",
       "tienda cielo celeste"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:40.955Z",
+    "updatedAt": "2026-03-03T16:34:40.955Z"
   },
   {
     "id": "p17725556809560942",
@@ -6833,13 +8873,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_774414-MLA100074787839_122025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_690895-MLA100074837239_122025-F.jpg"
     ],
+    "ean": "7898634216217",
+    "mlIds": [
+      "MLB23487601"
+    ],
+    "mlParentId": "MLB23487594",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "primer",
       "max love"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:40.956Z",
+    "updatedAt": "2026-03-03T16:34:40.956Z"
   },
   {
     "id": "p17725556809560943",
@@ -6851,13 +8899,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_705821-MLA92326830394_092025-F.jpg"
     ],
+    "ean": "3583787398494",
+    "mlIds": [
+      "MLB56681481"
+    ],
+    "mlParentId": "MLB56681480",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "primer",
       "dolce bella"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:40.956Z",
+    "updatedAt": "2026-03-03T16:34:40.956Z"
   },
   {
     "id": "p17725556809560944",
@@ -6870,13 +8926,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_840434-MLU74104620501_012024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_717419-MLU69763225552_062023-F.jpg"
     ],
+    "ean": "6973726250971",
+    "mlIds": [
+      "MLB23495605"
+    ],
+    "mlParentId": "MLB23495603",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "primer",
       "flower secret"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:40.956Z",
+    "updatedAt": "2026-03-03T16:34:40.956Z"
   },
   {
     "id": "p17725556809560945",
@@ -6891,13 +8955,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_841658-MLU78536490674_082024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_861359-MLU78536490676_082024-F.jpg"
     ],
+    "ean": "709112398264",
+    "mlIds": [
+      "MLB36424952"
+    ],
+    "mlParentId": "MLB36424951",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "primer",
       "phoera"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:40.956Z",
+    "updatedAt": "2026-03-03T16:34:40.956Z"
   },
   {
     "id": "p17725556809560946",
@@ -6910,13 +8982,20 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_898404-MLU73962720846_012024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_807099-MLU72126017970_102023-F.jpg"
     ],
+    "ean": "8690604534692",
+    "mlIds": [
+      "MLB27613629"
+    ],
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "primer",
       "flormar"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:40.956Z",
+    "updatedAt": "2026-03-03T16:34:40.956Z"
   },
   {
     "id": "p17725556809560947",
@@ -6928,13 +9007,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_628816-MLU74054888824_012024-F.jpg"
     ],
+    "ean": "7798102151708",
+    "mlIds": [
+      "MLB27239125"
+    ],
+    "mlParentId": "MLB27239124",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "primer",
       "arex"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:40.956Z",
+    "updatedAt": "2026-03-03T16:34:40.956Z"
   },
   {
     "id": "p17725556809560949",
@@ -6949,13 +9036,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_920015-MLU74966837427_032024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_979855-MLU73882928307_012024-F.jpg"
     ],
+    "ean": "800897846831",
+    "mlIds": [
+      "MLB24164137"
+    ],
+    "mlParentId": "MLB24164136",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "primer",
       "nyx professional makeup"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:40.956Z",
+    "updatedAt": "2026-03-03T16:34:40.956Z"
   },
   {
     "id": "p17725556809560950",
@@ -6967,13 +9062,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_783860-MLU71896552029_092023-F.jpg"
     ],
+    "ean": "6930249924239",
+    "mlIds": [
+      "MLB27234813"
+    ],
+    "mlParentId": "MLB27234812",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "primer",
       "vanidades collections"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:40.956Z",
+    "updatedAt": "2026-03-03T16:34:40.956Z"
   },
   {
     "id": "p17725556809560951",
@@ -6987,13 +9090,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_951773-MLA103909343709_012026-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_826256-MLA103393969412_012026-F.jpg"
     ],
+    "ean": "7899360263537",
+    "mlIds": [
+      "MLB53269311"
+    ],
+    "mlParentId": "MLB53269309",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "primer",
       "fenzza"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:40.956Z",
+    "updatedAt": "2026-03-03T16:34:40.956Z"
   },
   {
     "id": "p17725556809560952",
@@ -7005,13 +9116,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_826043-MLU76634927519_052024-F.jpg"
     ],
+    "ean": "7500856078459",
+    "mlIds": [
+      "MLB37178359"
+    ],
+    "mlParentId": "MLB37178356",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "primer",
       "veraly"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:40.956Z",
+    "updatedAt": "2026-03-03T16:34:40.956Z"
   },
   {
     "id": "p17725556809560953",
@@ -7024,13 +9143,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_650996-MLU74397434693_022024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_896431-MLU74397498773_022024-F.jpg"
     ],
+    "ean": "800897141691",
+    "mlIds": [
+      "MLB32157731"
+    ],
+    "mlParentId": "MLB32157724",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "primer",
       "nyx professional makeup"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:40.956Z",
+    "updatedAt": "2026-03-03T16:34:40.956Z"
   },
   {
     "id": "p17725556809560954",
@@ -7042,13 +9169,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_878492-MLU74001091934_012024-F.jpg"
     ],
+    "ean": "6956784141597",
+    "mlIds": [
+      "MLB26288289"
+    ],
+    "mlParentId": "MLB26288273",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "primer",
       "dermatisse"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:40.956Z",
+    "updatedAt": "2026-03-03T16:34:40.956Z"
   },
   {
     "id": "p17725556809560955",
@@ -7060,13 +9195,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_905774-MLU73887075607_012024-F.jpg"
     ],
+    "ean": "800897024734",
+    "mlIds": [
+      "MLB24145544"
+    ],
+    "mlParentId": "MLB24145536",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "primer",
       "nyx professional makeup"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:40.956Z",
+    "updatedAt": "2026-03-03T16:34:40.956Z"
   },
   {
     "id": "p17725556809560956",
@@ -7078,13 +9221,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_986648-MLA82335606909_022025-F.jpg"
     ],
+    "ean": "7908844083100",
+    "mlIds": [
+      "MLB45989141"
+    ],
+    "mlParentId": "MLB45989140",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "primer",
       "maquiagem arovida"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:40.956Z",
+    "updatedAt": "2026-03-03T16:34:40.956Z"
   },
   {
     "id": "p17725556809560958",
@@ -7100,13 +9251,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_800680-MLA82698364370_032025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_914743-MLA82985680007_032025-F.jpg"
     ],
+    "ean": "7707375609793",
+    "mlIds": [
+      "MLB47044501"
+    ],
+    "mlParentId": "MLB47044500",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "primer",
       "atenea"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:40.956Z",
+    "updatedAt": "2026-03-03T16:34:40.956Z"
   },
   {
     "id": "p17725556823640959",
@@ -7122,13 +9281,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_813890-MLA98901649057_112025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_794463-MLA98901786033_112025-F.jpg"
     ],
+    "ean": "7085799039892",
+    "mlIds": [
+      "MLB62349120"
+    ],
+    "mlParentId": "MLB62182610",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "primer",
       "general"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:42.364Z",
+    "updatedAt": "2026-03-03T16:34:42.364Z"
   },
   {
     "id": "p17725556823640960",
@@ -7140,13 +9307,20 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_795091-MLA90950913256_082025-F.jpg"
     ],
+    "mlIds": [
+      "MLB54276007"
+    ],
+    "mlParentId": "MLB54276005",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "primer",
       "maproderm"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:42.364Z",
+    "updatedAt": "2026-03-03T16:34:42.364Z"
   },
   {
     "id": "p17725556823640961",
@@ -7159,13 +9333,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_968159-MLA80572749642_112024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_769437-MLA80835077751_112024-F.jpg"
     ],
+    "ean": "8690604534678",
+    "mlIds": [
+      "MLB43476238"
+    ],
+    "mlParentId": "MLB43476234",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "primer",
       "flormar"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:42.364Z",
+    "updatedAt": "2026-03-03T16:34:42.364Z"
   },
   {
     "id": "p17725556836440986",
@@ -7177,13 +9359,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_837861-MLA80139037308_112024-F.jpg"
     ],
+    "ean": "7798808833090",
+    "mlIds": [
+      "MLB42615670"
+    ],
+    "mlParentId": "MLB42615669",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "fixador de maquiagem",
       "souvegan"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:43.644Z",
+    "updatedAt": "2026-03-03T16:34:43.644Z"
   },
   {
     "id": "p17725556836440987",
@@ -7197,13 +9387,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_985007-MLA80176448346_112024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_658299-MLA80409218656_112024-F.jpg"
     ],
+    "ean": "194250014037",
+    "mlIds": [
+      "MLB42656256"
+    ],
+    "mlParentId": "MLB42656253",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "fixador de maquiagem",
       "laura mercier"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:43.644Z",
+    "updatedAt": "2026-03-03T16:34:43.644Z"
   },
   {
     "id": "p17725556836450989",
@@ -7215,13 +9413,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_790383-MLU75167992885_032024-F.jpg"
     ],
+    "ean": "7891033298075",
+    "mlIds": [
+      "MLB26627736"
+    ],
+    "mlParentId": "MLB26627732",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "fixador de maquiagem",
       "o boticário"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:43.645Z",
+    "updatedAt": "2026-03-03T16:34:43.645Z"
   },
   {
     "id": "p17725556836450996",
@@ -7235,13 +9441,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_614111-MLU69808177484_062023-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_813563-MLU69807513412_062023-F.jpg"
     ],
+    "ean": "8690131768928",
+    "mlIds": [
+      "MLB23780944"
+    ],
+    "mlParentId": "MLB23780939",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "fixador de maquiagem",
       "farmasi"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:43.645Z",
+    "updatedAt": "2026-03-03T16:34:43.645Z"
   },
   {
     "id": "p17725556836450998",
@@ -7254,13 +9468,11 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_805454-MLA87915457944_072025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_745470-MLA88253140425_072025-F.jpg"
     ],
-    "averageRating": 0,
-    "reviewCount": 0,
-    "prices": [],
-    "tags": [
-      "fixador de maquiagem",
-      "saniye"
+    "ean": "639647466582",
+    "mlIds": [
+      "MLB27550312"
     ],
+    "mlParentId": "MLB23573224",
     "colors": [
       {
         "name": "Rosewater",
@@ -7274,7 +9486,16 @@ const catalogProducts = [
         "name": "Longa Duracao",
         "image": "https://http2.mlstatic.com/D_NQ_NP_817487-MLU71190139692_082023-F.jpg"
       }
-    ]
+    ],
+    "averageRating": 0,
+    "reviewCount": 0,
+    "prices": [],
+    "tags": [
+      "fixador de maquiagem",
+      "saniye"
+    ],
+    "createdAt": "2026-03-03T16:34:43.645Z",
+    "updatedAt": "2026-03-03T16:34:43.645Z"
   },
   {
     "id": "p17725556836450999",
@@ -7286,6 +9507,17 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_777892-MLU75920136758_042024-F.jpg"
     ],
+    "ean": "7899820809299",
+    "mlIds": [
+      "MLB36331798"
+    ],
+    "mlParentId": "MLB36331795",
+    "colors": [
+      {
+        "name": "Grip",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_888770-MLU74156646525_012024-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -7293,12 +9525,8 @@ const catalogProducts = [
       "fixador de maquiagem",
       "luisance"
     ],
-    "colors": [
-      {
-        "name": "Grip",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_888770-MLU74156646525_012024-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:34:43.645Z",
+    "updatedAt": "2026-03-03T16:34:43.645Z"
   },
   {
     "id": "p17725556836451000",
@@ -7310,13 +9538,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_846181-MLU75814996520_042024-F.jpg"
     ],
+    "ean": "7896046708481",
+    "mlIds": [
+      "MLB36181523"
+    ],
+    "mlParentId": "MLB36181522",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "fixador de maquiagem",
       "cless"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:43.645Z",
+    "updatedAt": "2026-03-03T16:34:43.645Z"
   },
   {
     "id": "p17725556836451001",
@@ -7328,13 +9564,20 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_809642-MLU74000064054_012024-F.jpg"
     ],
+    "ean": "77802359759",
+    "mlIds": [
+      "MLB27676053"
+    ],
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "fixador de maquiagem",
       "wet n wild"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:43.645Z",
+    "updatedAt": "2026-03-03T16:34:43.645Z"
   },
   {
     "id": "p17725556836451002",
@@ -7347,13 +9590,20 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_844911-MLA77654819738_072024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_855322-MLA77654769968_072024-F.jpg"
     ],
+    "mlIds": [
+      "MLB38524392"
+    ],
+    "mlParentId": "MLB27683281",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "fixador de maquiagem",
       "catrice"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:43.645Z",
+    "updatedAt": "2026-03-03T16:34:43.645Z"
   },
   {
     "id": "p17725556836451003",
@@ -7365,13 +9615,11 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_826289-MLA80587131953_112024-F.jpg"
     ],
-    "averageRating": 0,
-    "reviewCount": 0,
-    "prices": [],
-    "tags": [
-      "fixador de maquiagem",
-      "abelha rainha"
+    "ean": "7908026502931",
+    "mlIds": [
+      "MLB36398768"
     ],
+    "mlParentId": "MLB36398764",
     "colors": [
       {
         "name": "Abelha Rainha",
@@ -7381,7 +9629,16 @@ const catalogProducts = [
         "name": "Fix Ml",
         "image": "https://http2.mlstatic.com/D_NQ_NP_910254-MLU74967887467_032024-F.jpg"
       }
-    ]
+    ],
+    "averageRating": 0,
+    "reviewCount": 0,
+    "prices": [],
+    "tags": [
+      "fixador de maquiagem",
+      "abelha rainha"
+    ],
+    "createdAt": "2026-03-03T16:34:43.645Z",
+    "updatedAt": "2026-03-03T16:34:43.645Z"
   },
   {
     "id": "p17725556836461004",
@@ -7395,13 +9652,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_965499-MLU75695929798_042024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_867660-MLU75695929802_042024-F.jpg"
     ],
+    "ean": "800897126131",
+    "mlIds": [
+      "MLB35934680"
+    ],
+    "mlParentId": "MLB35914421",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "fixador de maquiagem",
       "nyx professional makeup"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:43.646Z",
+    "updatedAt": "2026-03-03T16:34:43.646Z"
   },
   {
     "id": "p17725556836461005",
@@ -7413,13 +9678,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_968563-MLA84539380776_052025-F.jpg"
     ],
+    "ean": "7909189160785",
+    "mlIds": [
+      "MLB23912334"
+    ],
+    "mlParentId": "MLB23912330",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "fixador de maquiagem",
       "avon"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:43.646Z",
+    "updatedAt": "2026-03-03T16:34:43.646Z"
   },
   {
     "id": "p17725556836461006",
@@ -7432,13 +9705,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_803771-MLA92213365539_092025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_854575-MLA91811389286_092025-F.jpg"
     ],
+    "ean": "7898449403758",
+    "mlIds": [
+      "MLB55768881"
+    ],
+    "mlParentId": "MLB55768873",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "fixador de maquiagem",
       "phállebeauty"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:43.646Z",
+    "updatedAt": "2026-03-03T16:34:43.646Z"
   },
   {
     "id": "p17725556836461008",
@@ -7451,13 +9732,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_923228-MLA82530311362_032025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_782827-MLA82530350456_032025-F.jpg"
     ],
+    "ean": "7899165501544",
+    "mlIds": [
+      "MLB46617747"
+    ],
+    "mlParentId": "MLB46617735",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "fixador de maquiagem",
       "vizzela"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:43.646Z",
+    "updatedAt": "2026-03-03T16:34:43.646Z"
   },
   {
     "id": "p17725556836461010",
@@ -7471,13 +9760,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_615429-MLA92926623868_092025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_667397-MLA92927415880_092025-F.jpg"
     ],
+    "ean": "7900492837913",
+    "mlIds": [
+      "MLB49193895"
+    ],
+    "mlParentId": "MLB49193893",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "fixador de maquiagem",
       "vizzela"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:43.646Z",
+    "updatedAt": "2026-03-03T16:34:43.646Z"
   },
   {
     "id": "p17725556836461011",
@@ -7490,13 +9787,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_913647-MLU75962939379_042024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_938287-MLU75792960042_042024-F.jpg"
     ],
+    "ean": "7891033736447",
+    "mlIds": [
+      "MLB36128783"
+    ],
+    "mlParentId": "MLB36128775",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "fixador de maquiagem",
       "eudora"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:43.646Z",
+    "updatedAt": "2026-03-03T16:34:43.646Z"
   },
   {
     "id": "p17725556836461012",
@@ -7508,13 +9813,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_976293-MLA80328996228_112024-F.jpg"
     ],
+    "ean": "7898567704942",
+    "mlIds": [
+      "MLB36932996"
+    ],
+    "mlParentId": "MLB36932995",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "fixador de maquiagem",
       "myhealth"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:43.646Z",
+    "updatedAt": "2026-03-03T16:34:43.646Z"
   },
   {
     "id": "p17725556836461013",
@@ -7526,13 +9839,20 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_934981-MLU72867773276_112023-F.jpg"
     ],
+    "ean": "6973726253675",
+    "mlIds": [
+      "MLB28166974"
+    ],
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "fixador de maquiagem",
       "flower secret"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:43.646Z",
+    "updatedAt": "2026-03-03T16:34:43.646Z"
   },
   {
     "id": "p17725556836461014",
@@ -7544,13 +9864,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_694038-MLU78026273196_082024-F.jpg"
     ],
+    "ean": "7502287185539",
+    "mlIds": [
+      "MLB39154793"
+    ],
+    "mlParentId": "MLB29393056",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "fixador de maquiagem",
       "saniye"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:43.646Z",
+    "updatedAt": "2026-03-03T16:34:43.646Z"
   },
   {
     "id": "p17725556849261016",
@@ -7565,13 +9893,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_921529-MLU72700579439_112023-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_980732-MLU75748318147_042024-F.jpg"
     ],
+    "ean": "4059729288240",
+    "mlIds": [
+      "MLB25440886"
+    ],
+    "mlParentId": "MLB25440876",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "fixador de maquiagem",
       "essence"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:44.926Z",
+    "updatedAt": "2026-03-03T16:34:44.926Z"
   },
   {
     "id": "p17725556849261017",
@@ -7583,13 +9919,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_793365-MLU74960228075_032024-F.jpg"
     ],
+    "ean": "717489850032",
+    "mlIds": [
+      "MLB28251472"
+    ],
+    "mlParentId": "MLB28251471",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "fixador de maquiagem",
       "milani"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:44.926Z",
+    "updatedAt": "2026-03-03T16:34:44.926Z"
   },
   {
     "id": "p17725556849261018",
@@ -7605,13 +9949,11 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_961757-MLU70625199056_072023-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_869129-MLU70625475088_072023-F.jpg"
     ],
-    "averageRating": 0,
-    "reviewCount": 0,
-    "prices": [],
-    "tags": [
-      "fixador de maquiagem",
-      "beauty creations"
+    "ean": "683609852326",
+    "mlIds": [
+      "MLB24768643"
     ],
+    "mlParentId": "MLB24768637",
     "colors": [
       {
         "name": "Flawless Stay",
@@ -7621,7 +9963,16 @@ const catalogProducts = [
         "name": "Abacaxi",
         "image": "https://http2.mlstatic.com/D_NQ_NP_692216-MLU75691180964_042024-F.jpg"
       }
-    ]
+    ],
+    "averageRating": 0,
+    "reviewCount": 0,
+    "prices": [],
+    "tags": [
+      "fixador de maquiagem",
+      "beauty creations"
+    ],
+    "createdAt": "2026-03-03T16:34:44.926Z",
+    "updatedAt": "2026-03-03T16:34:44.926Z"
   },
   {
     "id": "p17725556849261019",
@@ -7637,13 +9988,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_808200-MLU73440879003_122023-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_750424-MLU73440574125_122023-F.jpg"
     ],
+    "ean": "6941349355045",
+    "mlIds": [
+      "MLB29013381"
+    ],
+    "mlParentId": "MLB29013379",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "fixador de maquiagem",
       "universo en linea"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:44.926Z",
+    "updatedAt": "2026-03-03T16:34:44.926Z"
   },
   {
     "id": "p17725556849261021",
@@ -7658,13 +10017,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_932385-MLA94183965493_102025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_836178-MLA94183821253_102025-F.jpg"
     ],
+    "ean": "7908893200664",
+    "mlIds": [
+      "MLB52639472"
+    ],
+    "mlParentId": "MLB52639443",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "fixador de maquiagem",
       "superpoderes"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:44.926Z",
+    "updatedAt": "2026-03-03T16:34:44.926Z"
   },
   {
     "id": "p17725556849261022",
@@ -7676,13 +10043,20 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_706779-MLA79654235401_092024-F.jpg"
     ],
+    "ean": "7804902044345",
+    "mlIds": [
+      "MLB28361617"
+    ],
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "fixador de maquiagem",
       "etienne expert"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:44.926Z",
+    "updatedAt": "2026-03-03T16:34:44.926Z"
   },
   {
     "id": "p17725556849261023",
@@ -7694,13 +10068,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_782201-MLU76095184321_042024-F.jpg"
     ],
+    "ean": "7898413334514",
+    "mlIds": [
+      "MLB36331904"
+    ],
+    "mlParentId": "MLB36331900",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "fixador de maquiagem",
       "catharine hill"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:44.926Z",
+    "updatedAt": "2026-03-03T16:34:44.926Z"
   },
   {
     "id": "p17725556849261024",
@@ -7716,13 +10098,20 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_899373-MLU75373807228_042024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_882363-MLU75526956053_042024-F.jpg"
     ],
+    "mlIds": [
+      "MLB35250804"
+    ],
+    "mlParentId": "MLB35250803",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "fixador de maquiagem",
       "kara beauty"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:44.926Z",
+    "updatedAt": "2026-03-03T16:34:44.926Z"
   },
   {
     "id": "p17725556849261025",
@@ -7738,13 +10127,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_987773-MLU73959300985_012024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_728787-MLU73858678102_012024-F.jpg"
     ],
+    "ean": "816180024886",
+    "mlIds": [
+      "MLB29674884"
+    ],
+    "mlParentId": "MLB29674883",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "fixador de maquiagem",
       "moira cosmetics"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:44.926Z",
+    "updatedAt": "2026-03-03T16:34:44.926Z"
   },
   {
     "id": "p17725556849261026",
@@ -7760,13 +10157,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_606722-MLA100268459657_122025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_734482-MLA100268439819_122025-F.jpg"
     ],
+    "ean": "786402822111",
+    "mlIds": [
+      "MLB62809480"
+    ],
+    "mlParentId": "MLB62809476",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "fixador de maquiagem",
       "lakerain"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:44.926Z",
+    "updatedAt": "2026-03-03T16:34:44.926Z"
   },
   {
     "id": "p17725556849271027",
@@ -7779,13 +10184,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_858600-MLA106376490062_022026-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_691977-MLA107011502365_022026-F.jpg"
     ],
+    "ean": "7899054022310",
+    "mlIds": [
+      "MLB25440887"
+    ],
+    "mlParentId": "MLB25440877",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "fixador de maquiagem",
       "fand"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:44.927Z",
+    "updatedAt": "2026-03-03T16:34:44.927Z"
   },
   {
     "id": "p17725556849271028",
@@ -7801,13 +10214,23 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_791760-MLA82111944678_022025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_929372-MLA82394543549_022025-F.jpg"
     ],
+    "ean": "840222300683",
+    "mlIds": [
+      "MLB36077555",
+      "MLB38508044",
+      "MLB46037430"
+    ],
+    "mlParentId": "MLB36077552",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "fixador de maquiagem",
       "moira"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:44.927Z",
+    "updatedAt": "2026-03-03T16:34:44.928Z"
   },
   {
     "id": "p17725556849271029",
@@ -7819,13 +10242,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_928355-MLU71190139630_082023-F.jpg"
     ],
+    "ean": "810053570289",
+    "mlIds": [
+      "MLB26288286"
+    ],
+    "mlParentId": "MLB26288270",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "fixador de maquiagem",
       "jason wu beauty"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:44.927Z",
+    "updatedAt": "2026-03-03T16:34:44.927Z"
   },
   {
     "id": "p17725556849271030",
@@ -7838,13 +10269,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_676024-MLU78585273686_082024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_949164-MLA80962361531_112024-F.jpg"
     ],
+    "ean": "609332838109",
+    "mlIds": [
+      "MLB32977356"
+    ],
+    "mlParentId": "MLB32237761",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "fixador de maquiagem",
       "e.l.f. cosmetics"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:44.927Z",
+    "updatedAt": "2026-03-03T16:34:44.927Z"
   },
   {
     "id": "p17725556849271031",
@@ -7857,13 +10296,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_809709-MLU74159866803_012024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_770557-MLU74023751680_012024-F.jpg"
     ],
+    "ean": "816180020598",
+    "mlIds": [
+      "MLB29009988"
+    ],
+    "mlParentId": "MLB29009983",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "fixador de maquiagem",
       "moira cosmetics"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:44.927Z",
+    "updatedAt": "2026-03-03T16:34:44.927Z"
   },
   {
     "id": "p17725556849271032",
@@ -7879,13 +10326,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_644919-MLU73214186873_122023-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_927711-MLU73214141639_122023-F.jpg"
     ],
+    "ean": "4250947598368",
+    "mlIds": [
+      "MLB24767887"
+    ],
+    "mlParentId": "MLB24767881",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "fixador de maquiagem",
       "catrice"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:44.927Z",
+    "updatedAt": "2026-03-03T16:34:44.927Z"
   },
   {
     "id": "p17725556849271035",
@@ -7897,13 +10352,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_786853-MLA81167064261_122024-F.jpg"
     ],
+    "ean": "86800196365",
+    "mlIds": [
+      "MLB44442374"
+    ],
+    "mlParentId": "MLB44442372",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "fixador de maquiagem",
       "neutrogena"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:44.927Z",
+    "updatedAt": "2026-03-03T16:34:44.927Z"
   },
   {
     "id": "p17725556849271037",
@@ -7919,13 +10382,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_659515-MLA98483871194_112025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_821074-MLA98485305480_112025-F.jpg"
     ],
+    "ean": "7504390221036",
+    "mlIds": [
+      "MLB62370815"
+    ],
+    "mlParentId": "MLB62370811",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "fixador de maquiagem",
       "sheglam"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:44.927Z",
+    "updatedAt": "2026-03-03T16:34:44.927Z"
   },
   {
     "id": "p17725556849271038",
@@ -7941,13 +10412,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_885915-MLA83773727876_042025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_636115-MLA84067601127_042025-F.jpg"
     ],
+    "ean": "773602642199",
+    "mlIds": [
+      "MLB25825116"
+    ],
+    "mlParentId": "MLB25825113",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "fixador de maquiagem",
       "mac"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:44.927Z",
+    "updatedAt": "2026-03-03T16:34:44.927Z"
   },
   {
     "id": "p17725556849271039",
@@ -7963,13 +10442,11 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_624126-MLU73576807726_122023-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_689102-MLU74412055666_022024-F.jpg"
     ],
-    "averageRating": 0,
-    "reviewCount": 0,
-    "prices": [],
-    "tags": [
-      "fixador de maquiagem",
-      "ruby rose"
+    "ean": "7899583200012",
+    "mlIds": [
+      "MLB36875735"
     ],
+    "mlParentId": "MLB36875732",
     "colors": [
       {
         "name": "Hb",
@@ -7983,7 +10460,16 @@ const catalogProducts = [
         "name": "Hb312",
         "image": "https://http2.mlstatic.com/D_NQ_NP_623206-MLU77343788667_062024-F.jpg"
       }
-    ]
+    ],
+    "averageRating": 0,
+    "reviewCount": 0,
+    "prices": [],
+    "tags": [
+      "fixador de maquiagem",
+      "ruby rose"
+    ],
+    "createdAt": "2026-03-03T16:34:44.927Z",
+    "updatedAt": "2026-03-03T16:34:44.927Z"
   },
   {
     "id": "p17725556849281041",
@@ -7995,13 +10481,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_698709-MLU77569959802_072024-F.jpg"
     ],
+    "ean": "81555793432",
+    "mlIds": [
+      "MLB38425511"
+    ],
+    "mlParentId": "MLB38425510",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "fixador de maquiagem",
       "l.a. colors"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:44.928Z",
+    "updatedAt": "2026-03-03T16:34:44.928Z"
   },
   {
     "id": "p17725556849281043",
@@ -8017,13 +10511,22 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_673343-MLA93292067769_092025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_943194-MLA93292067777_092025-F.jpg"
     ],
+    "ean": "6971870596921",
+    "mlIds": [
+      "MLB57689465",
+      "MLB58800783"
+    ],
+    "mlParentId": "MLB26288279",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "fixador de maquiagem",
       "sheglam"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:44.928Z",
+    "updatedAt": "2026-03-03T16:34:44.929Z"
   },
   {
     "id": "p17725556849281044",
@@ -8037,13 +10540,20 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_724538-MLU75934064153_042024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_993624-MLU75765634982_042024-F.jpg"
     ],
+    "mlIds": [
+      "MLB36042050"
+    ],
+    "mlParentId": "MLB36042049",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "fixador de maquiagem",
       "city color"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:44.928Z",
+    "updatedAt": "2026-03-03T16:34:44.928Z"
   },
   {
     "id": "p17725556849281045",
@@ -8055,13 +10565,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_999595-MLA79910305361_102024-F.jpg"
     ],
+    "ean": "71249686966",
+    "mlIds": [
+      "MLB41836608"
+    ],
+    "mlParentId": "MLB41836606",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "fixador de maquiagem",
       "l'oréal paris"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:44.928Z",
+    "updatedAt": "2026-03-03T16:34:44.928Z"
   },
   {
     "id": "p17725556849281046",
@@ -8076,13 +10594,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_708580-MLU69859417004_062023-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_996927-MLU69859417008_062023-F.jpg"
     ],
+    "ean": "800897813710",
+    "mlIds": [
+      "MLB23872562"
+    ],
+    "mlParentId": "MLB23872559",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "fixador de maquiagem",
       "nyx professional makeup"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:44.928Z",
+    "updatedAt": "2026-03-03T16:34:44.928Z"
   },
   {
     "id": "p17725556849281047",
@@ -8097,13 +10623,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_615227-MLA102874085803_122025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_754906-MLA102873303035_122025-F.jpg"
     ],
+    "ean": "7908793001712",
+    "mlIds": [
+      "MLB63609994"
+    ],
+    "mlParentId": "MLB63609993",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "fixador de maquiagem",
       "make more"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:44.928Z",
+    "updatedAt": "2026-03-03T16:34:44.928Z"
   },
   {
     "id": "p17725556849281048",
@@ -8115,13 +10649,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_800621-MLU75934485452_042024-F.jpg"
     ],
+    "ean": "7891033796359",
+    "mlIds": [
+      "MLB36371747"
+    ],
+    "mlParentId": "MLB36371744",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "fixador de maquiagem",
       "o boticário"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:44.928Z",
+    "updatedAt": "2026-03-03T16:34:44.928Z"
   },
   {
     "id": "p17725556849281049",
@@ -8135,13 +10677,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_900152-MLU73689639603_122023-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_757991-MLU69802850690_062023-F.jpg"
     ],
+    "ean": "81555969172",
+    "mlIds": [
+      "MLB23746752"
+    ],
+    "mlParentId": "MLB23746748",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "fixador de maquiagem",
       "l.a. girl"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:44.928Z",
+    "updatedAt": "2026-03-03T16:34:44.928Z"
   },
   {
     "id": "p17725556849281051",
@@ -8156,13 +10706,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_649555-MLA105406990632_012026-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_857623-MLA106000524533_012026-F.jpg"
     ],
+    "ean": "7908486802237",
+    "mlIds": [
+      "MLB46294718"
+    ],
+    "mlParentId": "MLB27698209",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "fixador de maquiagem",
       "suelen makeup"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:44.928Z",
+    "updatedAt": "2026-03-03T16:34:44.928Z"
   },
   {
     "id": "p17725556849281053",
@@ -8174,13 +10732,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_600267-MLA96763253630_112025-F.jpg"
     ],
+    "ean": "4041762776037",
+    "mlIds": [
+      "MLB36536171"
+    ],
+    "mlParentId": "MLB36536169",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "fixador de maquiagem",
       "kryolan"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:44.928Z",
+    "updatedAt": "2026-03-03T16:34:44.928Z"
   },
   {
     "id": "p17725556849281054",
@@ -8193,13 +10759,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_649471-MLU75781052718_042024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_993880-MLU75950986645_042024-F.jpg"
     ],
+    "ean": "7908066101026",
+    "mlIds": [
+      "MLB36077663"
+    ],
+    "mlParentId": "MLB36077658",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "fixador de maquiagem",
       "klasme"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:44.928Z",
+    "updatedAt": "2026-03-03T16:34:44.928Z"
   },
   {
     "id": "p17725556862011058",
@@ -8213,13 +10787,11 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_668154-MLU76332285387_052024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_675760-MLU75357341153_032024-F.jpg"
     ],
-    "averageRating": 0,
-    "reviewCount": 0,
-    "prices": [],
-    "tags": [
-      "máscara de cílios",
-      "quem disse, berenice?"
+    "ean": "7805091487005",
+    "mlIds": [
+      "MLB28082777"
     ],
+    "mlParentId": "MLB28082776",
     "colors": [
       {
         "name": "Incolor",
@@ -8237,7 +10809,16 @@ const catalogProducts = [
         "name": "Sobrancelhas",
         "image": "https://http2.mlstatic.com/D_NQ_NP_757777-MLU78022559224_082024-F.jpg"
       }
-    ]
+    ],
+    "averageRating": 0,
+    "reviewCount": 0,
+    "prices": [],
+    "tags": [
+      "máscara de cílios",
+      "quem disse, berenice?"
+    ],
+    "createdAt": "2026-03-03T16:34:46.201Z",
+    "updatedAt": "2026-03-03T16:34:46.201Z"
   },
   {
     "id": "p17725556862021059",
@@ -8250,6 +10831,17 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_674284-MLU78027989446_082024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_782191-MLU78027834210_082024-F.jpg"
     ],
+    "ean": "98132265244",
+    "mlIds": [
+      "MLB39162176"
+    ],
+    "mlParentId": "MLB39162175",
+    "colors": [
+      {
+        "name": "Preto",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_674284-MLU78027989446_082024-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -8257,12 +10849,8 @@ const catalogProducts = [
       "máscara de cílios",
       "buxom"
     ],
-    "colors": [
-      {
-        "name": "Preto",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_674284-MLU78027989446_082024-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:34:46.202Z",
+    "updatedAt": "2026-03-03T16:34:46.202Z"
   },
   {
     "id": "p17725556862021060",
@@ -8275,13 +10863,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_919367-MLU74863277437_032024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_837877-MLU74863317005_032024-F.jpg"
     ],
+    "ean": "810175029320",
+    "mlIds": [
+      "MLB22958979"
+    ],
+    "mlParentId": "MLB22958976",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "máscara de cílios",
       "dazzale"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:46.202Z",
+    "updatedAt": "2026-03-03T16:34:46.202Z"
   },
   {
     "id": "p17725556862021061",
@@ -8293,6 +10889,17 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_639095-MLU54983846478_042023-F.jpg"
     ],
+    "ean": "7899820807424",
+    "mlIds": [
+      "MLB22970886"
+    ],
+    "mlParentId": "MLB22970885",
+    "colors": [
+      {
+        "name": "Preto",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_639095-MLU54983846478_042023-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -8300,12 +10907,8 @@ const catalogProducts = [
       "máscara de cílios",
       "luisance"
     ],
-    "colors": [
-      {
-        "name": "Preto",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_639095-MLU54983846478_042023-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:34:46.202Z",
+    "updatedAt": "2026-03-03T16:34:46.202Z"
   },
   {
     "id": "p17725556862021062",
@@ -8317,6 +10920,17 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_880541-MLU75718092111_042024-F.jpg"
     ],
+    "ean": "7896032631731",
+    "mlIds": [
+      "MLB22796479"
+    ],
+    "mlParentId": "MLB22796474",
+    "colors": [
+      {
+        "name": "Preto",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_880541-MLU75718092111_042024-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -8324,12 +10938,8 @@ const catalogProducts = [
       "máscara de cílios",
       "tracta"
     ],
-    "colors": [
-      {
-        "name": "Preto",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_880541-MLU75718092111_042024-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:34:46.202Z",
+    "updatedAt": "2026-03-03T16:34:46.202Z"
   },
   {
     "id": "p17725556862021063",
@@ -8341,13 +10951,11 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_773945-MLA104564440913_012026-F.jpg"
     ],
-    "averageRating": 0,
-    "reviewCount": 0,
-    "prices": [],
-    "tags": [
-      "máscara de cílios",
-      "máscara cílios dailus"
+    "ean": "79005160400448",
+    "mlIds": [
+      "MLB64188285"
     ],
+    "mlParentId": "MLB64188284",
     "colors": [
       {
         "name": "Preto",
@@ -8357,7 +10965,16 @@ const catalogProducts = [
         "name": "2x Power",
         "image": "https://http2.mlstatic.com/D_NQ_NP_962377-MLA106935308025_022026-F.jpg"
       }
-    ]
+    ],
+    "averageRating": 0,
+    "reviewCount": 0,
+    "prices": [],
+    "tags": [
+      "máscara de cílios",
+      "máscara cílios dailus"
+    ],
+    "createdAt": "2026-03-03T16:34:46.202Z",
+    "updatedAt": "2026-03-03T16:34:46.202Z"
   },
   {
     "id": "p17725556862021064",
@@ -8372,6 +10989,17 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_991046-MLA79983591846_102024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_742527-MLA83496067885_042025-F.jpg"
     ],
+    "ean": "7891033566235",
+    "mlIds": [
+      "MLB42341040"
+    ],
+    "mlParentId": "MLB42341037",
+    "colors": [
+      {
+        "name": "Preto",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_756122-MLA80238737375_102024-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -8379,12 +11007,8 @@ const catalogProducts = [
       "máscara de cílios",
       "soul"
     ],
-    "colors": [
-      {
-        "name": "Preto",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_756122-MLA80238737375_102024-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:34:46.202Z",
+    "updatedAt": "2026-03-03T16:34:46.202Z"
   },
   {
     "id": "p17725556862021065",
@@ -8400,6 +11024,17 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_685022-MLA92124251538_092025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_813502-MLA92124211658_092025-F.jpg"
     ],
+    "ean": "7898715813137",
+    "mlIds": [
+      "MLB46112585"
+    ],
+    "mlParentId": "MLB46112578",
+    "colors": [
+      {
+        "name": "Preto",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_782450-MLA82194661012_022025-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -8407,12 +11042,8 @@ const catalogProducts = [
       "máscara de cílios",
       "vivai"
     ],
-    "colors": [
-      {
-        "name": "Preto",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_782450-MLA82194661012_022025-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:34:46.202Z",
+    "updatedAt": "2026-03-03T16:34:46.202Z"
   },
   {
     "id": "p17725556862021066",
@@ -8424,6 +11055,17 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_766012-MLA106308191206_022026-F.jpg"
     ],
+    "ean": "79010054062107",
+    "mlIds": [
+      "MLB65471649"
+    ],
+    "mlParentId": "MLB65471648",
+    "colors": [
+      {
+        "name": "Preto",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_766012-MLA106308191206_022026-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -8431,12 +11073,8 @@ const catalogProducts = [
       "máscara de cílios",
       "mascara cílios soul"
     ],
-    "colors": [
-      {
-        "name": "Preto",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_766012-MLA106308191206_022026-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:34:46.202Z",
+    "updatedAt": "2026-03-03T16:34:46.202Z"
   },
   {
     "id": "p17725556862021067",
@@ -8448,6 +11086,17 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_763875-MLU74857874467_032024-F.jpg"
     ],
+    "ean": "7891033718214",
+    "mlIds": [
+      "MLB22950778"
+    ],
+    "mlParentId": "MLB22950772",
+    "colors": [
+      {
+        "name": "Preto",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_763875-MLU74857874467_032024-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -8455,12 +11104,8 @@ const catalogProducts = [
       "máscara de cílios",
       "quem disse, berenice?"
     ],
-    "colors": [
-      {
-        "name": "Preto",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_763875-MLU74857874467_032024-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:34:46.202Z",
+    "updatedAt": "2026-03-03T16:34:46.202Z"
   },
   {
     "id": "p17725556862021068",
@@ -8472,6 +11117,18 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_941163-MLA103239073650_012026-F.jpg"
     ],
+    "ean": "79037016320372",
+    "mlIds": [
+      "MLB63893596",
+      "MLB65293216"
+    ],
+    "mlParentId": "MLB63893595",
+    "colors": [
+      {
+        "name": "Marrom",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_941163-MLA103239073650_012026-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -8479,12 +11136,8 @@ const catalogProducts = [
       "máscara de cílios",
       "máscara cílios chocolate"
     ],
-    "colors": [
-      {
-        "name": "Marrom",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_941163-MLA103239073650_012026-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:34:46.202Z",
+    "updatedAt": "2026-03-03T16:34:46.202Z"
   },
   {
     "id": "p17725556862021069",
@@ -8497,6 +11150,17 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_973009-MLA103755000885_012026-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_850899-MLA103755314837_012026-F.jpg"
     ],
+    "ean": "7896132100199",
+    "mlIds": [
+      "MLB63892907"
+    ],
+    "mlParentId": "MLB63892906",
+    "colors": [
+      {
+        "name": "Incolor",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_973009-MLA103755000885_012026-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -8504,12 +11168,8 @@ const catalogProducts = [
       "máscara de cílios",
       "toque de natureza"
     ],
-    "colors": [
-      {
-        "name": "Incolor",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_973009-MLA103755000885_012026-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:34:46.202Z",
+    "updatedAt": "2026-03-03T16:34:46.202Z"
   },
   {
     "id": "p17725556862021070",
@@ -8525,13 +11185,11 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_702379-MLA107659626897_022026-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_777883-MLA107660366185_022026-F.jpg"
     ],
-    "averageRating": 0,
-    "reviewCount": 0,
-    "prices": [],
-    "tags": [
-      "máscara de cílios",
-      "kiko milano"
+    "ean": "8025272913461",
+    "mlIds": [
+      "MLB63888717"
     ],
+    "mlParentId": "MLB63888716",
     "colors": [
       {
         "name": "Preto",
@@ -8541,7 +11199,16 @@ const catalogProducts = [
         "name": "Prova Agua",
         "image": "https://http2.mlstatic.com/D_NQ_NP_967991-MLA107659746693_022026-F.jpg"
       }
-    ]
+    ],
+    "averageRating": 0,
+    "reviewCount": 0,
+    "prices": [],
+    "tags": [
+      "máscara de cílios",
+      "kiko milano"
+    ],
+    "createdAt": "2026-03-03T16:34:46.202Z",
+    "updatedAt": "2026-03-03T16:34:46.202Z"
   },
   {
     "id": "p17725556862021071",
@@ -8557,6 +11224,17 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_808615-MLU72970551399_112023-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_857914-MLU72742031814_112023-F.jpg"
     ],
+    "ean": "6015233594503",
+    "mlIds": [
+      "MLB10481237"
+    ],
+    "mlParentId": "MLB10481236",
+    "colors": [
+      {
+        "name": "Preto",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_753426-MLU75808861934_042024-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -8564,12 +11242,8 @@ const catalogProducts = [
       "máscara de cílios",
       "maybelline"
     ],
-    "colors": [
-      {
-        "name": "Preto",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_753426-MLU75808861934_042024-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:34:46.202Z",
+    "updatedAt": "2026-03-03T16:34:46.202Z"
   },
   {
     "id": "p17725556862021072",
@@ -8581,6 +11255,17 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_882898-MLU76760850145_062024-F.jpg"
     ],
+    "ean": "7893590851335",
+    "mlIds": [
+      "MLB28411814"
+    ],
+    "mlParentId": "MLB28411813",
+    "colors": [
+      {
+        "name": "Incolor",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_882898-MLU76760850145_062024-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -8588,12 +11273,8 @@ const catalogProducts = [
       "máscara de cílios",
       "sp colors"
     ],
-    "colors": [
-      {
-        "name": "Incolor",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_882898-MLU76760850145_062024-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:34:46.202Z",
+    "updatedAt": "2026-03-03T16:34:46.202Z"
   },
   {
     "id": "p17725556862021073",
@@ -8608,6 +11289,17 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_648527-MLA83526783054_042025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_748586-MLA83819679973_042025-F.jpg"
     ],
+    "ean": "7899583200418",
+    "mlIds": [
+      "MLB48583410"
+    ],
+    "mlParentId": "MLB48583400",
+    "colors": [
+      {
+        "name": "Preto",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_942054-MLA83819679937_042025-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -8615,12 +11307,8 @@ const catalogProducts = [
       "máscara de cílios",
       "lua e neve"
     ],
-    "colors": [
-      {
-        "name": "Preto",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_942054-MLA83819679937_042025-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:34:46.202Z",
+    "updatedAt": "2026-03-03T16:34:46.202Z"
   },
   {
     "id": "p17725556862021074",
@@ -8633,13 +11321,11 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_919042-MLA81675384132_012025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_607990-MLA81675384134_012025-F.jpg"
     ],
-    "averageRating": 0,
-    "reviewCount": 0,
-    "prices": [],
-    "tags": [
-      "máscara de cílios",
-      "febella"
+    "ean": "6799203041418",
+    "mlIds": [
+      "MLB45481915"
     ],
+    "mlParentId": "MLB45481914",
     "colors": [
       {
         "name": "Preto",
@@ -8653,7 +11339,16 @@ const catalogProducts = [
         "name": "Volumizador Ma3041",
         "image": "https://http2.mlstatic.com/D_NQ_NP_603510-MLU75191910586_032024-F.jpg"
       }
-    ]
+    ],
+    "averageRating": 0,
+    "reviewCount": 0,
+    "prices": [],
+    "tags": [
+      "máscara de cílios",
+      "febella"
+    ],
+    "createdAt": "2026-03-03T16:34:46.202Z",
+    "updatedAt": "2026-03-03T16:34:46.202Z"
   },
   {
     "id": "p17725556862021075",
@@ -8665,6 +11360,17 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_600799-MLU74178617749_012024-F.jpg"
     ],
+    "ean": "7898380302066",
+    "mlIds": [
+      "MLB28356877"
+    ],
+    "mlParentId": "MLB28356876",
+    "colors": [
+      {
+        "name": "Preto",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_600799-MLU74178617749_012024-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -8672,12 +11378,8 @@ const catalogProducts = [
       "máscara de cílios",
       "urban beauty"
     ],
-    "colors": [
-      {
-        "name": "Preto",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_600799-MLU74178617749_012024-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:34:46.202Z",
+    "updatedAt": "2026-03-03T16:34:46.202Z"
   },
   {
     "id": "p17725556862021076",
@@ -8690,6 +11392,17 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_987336-MLA82513525225_022025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_907166-MLA82230074932_022025-F.jpg"
     ],
+    "ean": "7893596502286",
+    "mlIds": [
+      "MLB46152246"
+    ],
+    "mlParentId": "MLB46152244",
+    "colors": [
+      {
+        "name": "Preto",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_987336-MLA82513525225_022025-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -8697,12 +11410,8 @@ const catalogProducts = [
       "máscara de cílios",
       "avon"
     ],
-    "colors": [
-      {
-        "name": "Preto",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_987336-MLA82513525225_022025-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:34:46.202Z",
+    "updatedAt": "2026-03-03T16:34:46.202Z"
   },
   {
     "id": "p17725556862021077",
@@ -8716,13 +11425,11 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_816829-MLA84770351534_052025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_903058-MLA92286358808_092025-F.jpg"
     ],
-    "averageRating": 0,
-    "reviewCount": 0,
-    "prices": [],
-    "tags": [
-      "máscara de cílios",
-      "divertida make"
+    "ean": "7906204404114",
+    "mlIds": [
+      "MLB20995166"
     ],
+    "mlParentId": "MLB20995138",
     "colors": [
       {
         "name": "Preto",
@@ -8736,7 +11443,16 @@ const catalogProducts = [
         "name": "Magico Maquiagem",
         "image": "https://http2.mlstatic.com/D_NQ_NP_986769-MLU78166011941_082024-F.jpg"
       }
-    ]
+    ],
+    "averageRating": 0,
+    "reviewCount": 0,
+    "prices": [],
+    "tags": [
+      "máscara de cílios",
+      "divertida make"
+    ],
+    "createdAt": "2026-03-03T16:34:46.202Z",
+    "updatedAt": "2026-03-03T16:34:46.202Z"
   },
   {
     "id": "p17725556862021078",
@@ -8752,6 +11468,17 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_941385-MLU76759497229_052024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_658891-MLA92926553496_092025-F.jpg"
     ],
+    "ean": "7908380700790",
+    "mlIds": [
+      "MLB20814553"
+    ],
+    "mlParentId": "MLB20814539",
+    "colors": [
+      {
+        "name": "Preto",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_909615-MLB43717018215_102020-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -8759,12 +11486,8 @@ const catalogProducts = [
       "máscara de cílios",
       "lfpro"
     ],
-    "colors": [
-      {
-        "name": "Preto",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_909615-MLB43717018215_102020-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:34:46.202Z",
+    "updatedAt": "2026-03-03T16:34:46.202Z"
   },
   {
     "id": "p17725556862021079",
@@ -8780,6 +11503,17 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_938949-MLA96197182799_102025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_974970-MLA95755615908_102025-F.jpg"
     ],
+    "ean": "7898767091590",
+    "mlIds": [
+      "MLB61097395"
+    ],
+    "mlParentId": "MLB61097394",
+    "colors": [
+      {
+        "name": "Bordô",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_749420-MLA95755625788_102025-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -8787,12 +11521,8 @@ const catalogProducts = [
       "máscara de cílios",
       "vizzela"
     ],
-    "colors": [
-      {
-        "name": "Bordô",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_749420-MLA95755625788_102025-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:34:46.202Z",
+    "updatedAt": "2026-03-03T16:34:46.202Z"
   },
   {
     "id": "p17725556862021080",
@@ -8804,13 +11534,11 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_644222-MLA100968304364_122025-F.jpg"
     ],
-    "averageRating": 0,
-    "reviewCount": 0,
-    "prices": [],
-    "tags": [
-      "máscara de cílios",
-      "payot"
+    "ean": "7894898913398",
+    "mlIds": [
+      "MLB63198277"
     ],
+    "mlParentId": "MLB62424072",
     "colors": [
       {
         "name": "Preto",
@@ -8824,7 +11552,16 @@ const catalogProducts = [
         "name": "Volume Preta",
         "image": "https://http2.mlstatic.com/D_NQ_NP_652397-MLA91228638943_082025-F.jpg"
       }
-    ]
+    ],
+    "averageRating": 0,
+    "reviewCount": 0,
+    "prices": [],
+    "tags": [
+      "máscara de cílios",
+      "payot"
+    ],
+    "createdAt": "2026-03-03T16:34:46.202Z",
+    "updatedAt": "2026-03-03T16:34:46.202Z"
   },
   {
     "id": "p17725556862021081",
@@ -8839,6 +11576,17 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_878243-MLU78199182609_082024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_796937-MLU78199182615_082024-F.jpg"
     ],
+    "ean": "44386113114",
+    "mlIds": [
+      "MLB39033142"
+    ],
+    "mlParentId": "MLB39033141",
+    "colors": [
+      {
+        "name": "Preto",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_756568-MLU78888938025_092024-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -8846,12 +11594,8 @@ const catalogProducts = [
       "máscara de cílios",
       "physicians formula"
     ],
-    "colors": [
-      {
-        "name": "Preto",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_756568-MLU78888938025_092024-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:34:46.202Z",
+    "updatedAt": "2026-03-03T16:34:46.202Z"
   },
   {
     "id": "p17725556862021082",
@@ -8863,6 +11607,17 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_949633-MLA79833598525_102024-F.jpg"
     ],
+    "ean": "7899026456129",
+    "mlIds": [
+      "MLB40912046"
+    ],
+    "mlParentId": "MLB40912044",
+    "colors": [
+      {
+        "name": "Preto",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_949633-MLA79833598525_102024-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -8870,12 +11625,8 @@ const catalogProducts = [
       "máscara de cílios",
       "maybelline"
     ],
-    "colors": [
-      {
-        "name": "Preto",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_949633-MLA79833598525_102024-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:34:46.202Z",
+    "updatedAt": "2026-03-03T16:34:46.202Z"
   },
   {
     "id": "p17725556862021084",
@@ -8891,6 +11642,17 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_974164-MLU73805598411_012024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_691768-MLU70710141421_072023-F.jpg"
     ],
+    "ean": "71249410981",
+    "mlIds": [
+      "MLB25211070"
+    ],
+    "mlParentId": "MLB25211056",
+    "colors": [
+      {
+        "name": "Preto",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_793032-MLU73805598401_012024-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -8898,12 +11660,8 @@ const catalogProducts = [
       "máscara de cílios",
       "l'oréal paris"
     ],
-    "colors": [
-      {
-        "name": "Preto",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_793032-MLU73805598401_012024-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:34:46.202Z",
+    "updatedAt": "2026-03-03T16:34:46.202Z"
   },
   {
     "id": "p17725556862021086",
@@ -8917,13 +11675,11 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_878405-MLU74728735510_032024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_970567-MLU73804817259_012024-F.jpg"
     ],
-    "averageRating": 0,
-    "reviewCount": 0,
-    "prices": [],
-    "tags": [
-      "máscara de cílios",
-      "l'oréal paris"
+    "ean": "822436554670",
+    "mlIds": [
+      "MLB23271023"
     ],
+    "mlParentId": "MLB23271021",
     "colors": [
       {
         "name": "Rosa",
@@ -8941,7 +11697,16 @@ const catalogProducts = [
         "name": "Power Volume",
         "image": "https://http2.mlstatic.com/D_NQ_NP_826190-MLA80079480860_102024-F.jpg"
       }
-    ]
+    ],
+    "averageRating": 0,
+    "reviewCount": 0,
+    "prices": [],
+    "tags": [
+      "máscara de cílios",
+      "l'oréal paris"
+    ],
+    "createdAt": "2026-03-03T16:34:46.202Z",
+    "updatedAt": "2026-03-03T16:34:46.202Z"
   },
   {
     "id": "p17725556862021087",
@@ -8956,6 +11721,17 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_950455-MLA93407717448_092025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_970196-MLA93407766818_092025-F.jpg"
     ],
+    "ean": "7898281092363",
+    "mlIds": [
+      "MLB22950786"
+    ],
+    "mlParentId": "MLB22950775",
+    "colors": [
+      {
+        "name": "Incolor Modeladora",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_865066-MLA89184859462_082025-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -8963,12 +11739,8 @@ const catalogProducts = [
       "máscara de cílios",
       "safira"
     ],
-    "colors": [
-      {
-        "name": "Incolor Modeladora",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_865066-MLA89184859462_082025-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:34:46.202Z",
+    "updatedAt": "2026-03-03T16:34:46.202Z"
   },
   {
     "id": "p17725556862031088",
@@ -8982,13 +11754,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_765302-MLU73931203213_012024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_680546-MLU69580710330_052023-F.jpg"
     ],
+    "ean": "71249148808",
+    "mlIds": [
+      "MLB23421406"
+    ],
+    "mlParentId": "MLB23421400",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "máscara de cílios",
       "l'oréal paris"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:46.202Z",
+    "updatedAt": "2026-03-03T16:34:46.202Z"
   },
   {
     "id": "p17725556862031089",
@@ -9001,6 +11781,17 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_991532-MLU79342091503_092024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_893002-MLU79341884191_092024-F.jpg"
     ],
+    "ean": "884993045916",
+    "mlIds": [
+      "MLB40915886"
+    ],
+    "mlParentId": "MLB40915885",
+    "colors": [
+      {
+        "name": "Transparente",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_991532-MLU79342091503_092024-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -9008,12 +11799,8 @@ const catalogProducts = [
       "máscara de cílios",
       "maybelline"
     ],
-    "colors": [
-      {
-        "name": "Transparente",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_991532-MLU79342091503_092024-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:34:46.203Z",
+    "updatedAt": "2026-03-03T16:34:46.203Z"
   },
   {
     "id": "p17725556862031090",
@@ -9025,6 +11812,17 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_760772-MLA104805730432_012026-F.jpg"
     ],
+    "ean": "79030515200046",
+    "mlIds": [
+      "MLB64626300"
+    ],
+    "mlParentId": "MLB64626299",
+    "colors": [
+      {
+        "name": "Preto",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_760772-MLA104805730432_012026-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -9032,12 +11830,8 @@ const catalogProducts = [
       "máscara de cílios",
       "mascara cílios soul"
     ],
-    "colors": [
-      {
-        "name": "Preto",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_760772-MLA104805730432_012026-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:34:46.203Z",
+    "updatedAt": "2026-03-03T16:34:46.203Z"
   },
   {
     "id": "p17725556862031092",
@@ -9052,13 +11846,11 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_841761-MLU78454848990_082024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_998442-MLU78454848992_082024-F.jpg"
     ],
-    "averageRating": 0,
-    "reviewCount": 0,
-    "prices": [],
-    "tags": [
-      "máscara de cílios",
-      "karen bachini"
+    "ean": "678817894442",
+    "mlIds": [
+      "MLB39783634"
     ],
+    "mlParentId": "MLB39783630",
     "colors": [
       {
         "name": "Preto",
@@ -9072,7 +11864,16 @@ const catalogProducts = [
         "name": "Volumizador",
         "image": "https://http2.mlstatic.com/D_NQ_NP_954515-MLU75198874170_032024-F.jpg"
       }
-    ]
+    ],
+    "averageRating": 0,
+    "reviewCount": 0,
+    "prices": [],
+    "tags": [
+      "máscara de cílios",
+      "karen bachini"
+    ],
+    "createdAt": "2026-03-03T16:34:46.203Z",
+    "updatedAt": "2026-03-03T16:34:46.203Z"
   },
   {
     "id": "p17725556862031093",
@@ -9085,6 +11886,17 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_879624-MLU69955643167_062023-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_660317-MLU69955643169_062023-F.jpg"
     ],
+    "ean": "3523594182589",
+    "mlIds": [
+      "MLB23971115"
+    ],
+    "mlParentId": "MLB23971108",
+    "colors": [
+      {
+        "name": "Preto",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_879624-MLU69955643167_062023-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -9092,12 +11904,8 @@ const catalogProducts = [
       "máscara de cílios",
       "hinode"
     ],
-    "colors": [
-      {
-        "name": "Preto",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_879624-MLU69955643167_062023-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:34:46.203Z",
+    "updatedAt": "2026-03-03T16:34:46.203Z"
   },
   {
     "id": "p17725556862031094",
@@ -9113,6 +11921,17 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_751104-MLA98331984076_112025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_723273-MLA98332240476_112025-F.jpg"
     ],
+    "ean": "7898920501782",
+    "mlIds": [
+      "MLB28664564"
+    ],
+    "mlParentId": "MLB28664563",
+    "colors": [
+      {
+        "name": "Preto",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_695625-MLU73182637636_122023-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -9120,12 +11939,8 @@ const catalogProducts = [
       "máscara de cílios",
       "facinatus cosméticos"
     ],
-    "colors": [
-      {
-        "name": "Preto",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_695625-MLU73182637636_122023-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:34:46.203Z",
+    "updatedAt": "2026-03-03T16:34:46.203Z"
   },
   {
     "id": "p17725556876451095",
@@ -9141,6 +11956,17 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_982738-MLU70838130241_082023-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_778533-MLU70838675195_082023-F.jpg"
     ],
+    "ean": "7798262627167",
+    "mlIds": [
+      "MLB25685617"
+    ],
+    "mlParentId": "MLB25685614",
+    "colors": [
+      {
+        "name": "Roxo",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_984669-MLU70838123167_082023-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -9148,12 +11974,8 @@ const catalogProducts = [
       "máscara de cílios",
       "miamake"
     ],
-    "colors": [
-      {
-        "name": "Roxo",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_984669-MLU70838123167_082023-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:34:47.645Z",
+    "updatedAt": "2026-03-03T16:34:47.645Z"
   },
   {
     "id": "p17725556876451098",
@@ -9165,6 +11987,17 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_978415-MLU79379974219_092024-F.jpg"
     ],
+    "ean": "7898920491786",
+    "mlIds": [
+      "MLB40981101"
+    ],
+    "mlParentId": "MLB40981100",
+    "colors": [
+      {
+        "name": "Preto",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_978415-MLU79379974219_092024-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -9172,12 +12005,8 @@ const catalogProducts = [
       "máscara de cílios",
       "facinatus cosméticos"
     ],
-    "colors": [
-      {
-        "name": "Preto",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_978415-MLU79379974219_092024-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:34:47.645Z",
+    "updatedAt": "2026-03-03T16:34:47.645Z"
   },
   {
     "id": "p17725556876451100",
@@ -9193,6 +12022,17 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_601992-MLA104997925114_012026-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_768027-MLA104997925120_012026-F.jpg"
     ],
+    "ean": "7898767091514",
+    "mlIds": [
+      "MLB64831229"
+    ],
+    "mlParentId": "MLB64831227",
+    "colors": [
+      {
+        "name": "Preto",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_647505-MLA104998014838_012026-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -9200,12 +12040,8 @@ const catalogProducts = [
       "máscara de cílios",
       "vizzela"
     ],
-    "colors": [
-      {
-        "name": "Preto",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_647505-MLA104998014838_012026-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:34:47.645Z",
+    "updatedAt": "2026-03-03T16:34:47.645Z"
   },
   {
     "id": "p17725556876461102",
@@ -9218,6 +12054,17 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_812648-MLU73674221015_122023-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_620352-MLU72007133218_102023-F.jpg"
     ],
+    "ean": "7898451964759",
+    "mlIds": [
+      "MLB27433356"
+    ],
+    "mlParentId": "MLB27433355",
+    "colors": [
+      {
+        "name": "Preto",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_812648-MLU73674221015_122023-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -9225,12 +12072,8 @@ const catalogProducts = [
       "máscara de cílios",
       "sa"
     ],
-    "colors": [
-      {
-        "name": "Preto",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_812648-MLU73674221015_122023-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:34:47.646Z",
+    "updatedAt": "2026-03-03T16:34:47.646Z"
   },
   {
     "id": "p17725556876461103",
@@ -9242,6 +12085,17 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_675506-MLU77660039602_072024-F.jpg"
     ],
+    "ean": "785339577071",
+    "mlIds": [
+      "MLB10452505"
+    ],
+    "mlParentId": "MLB10452504",
+    "colors": [
+      {
+        "name": "Preto",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_675506-MLU77660039602_072024-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -9249,12 +12103,8 @@ const catalogProducts = [
       "máscara de cílios",
       "mary kay"
     ],
-    "colors": [
-      {
-        "name": "Preto",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_675506-MLU77660039602_072024-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:34:47.646Z",
+    "updatedAt": "2026-03-03T16:34:47.646Z"
   },
   {
     "id": "p17725556876461104",
@@ -9268,6 +12118,17 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_841348-MLU75163907159_032024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_864367-MLU73440889587_122023-F.jpg"
     ],
+    "ean": "4579389601895",
+    "mlIds": [
+      "MLB29015093"
+    ],
+    "mlParentId": "MLB29015091",
+    "colors": [
+      {
+        "name": "Cinza-escuro",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_980496-MLU73351103986_122023-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -9275,12 +12136,8 @@ const catalogProducts = [
       "máscara de cílios",
       "pink 21"
     ],
-    "colors": [
-      {
-        "name": "Cinza-escuro",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_980496-MLU73351103986_122023-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:34:47.646Z",
+    "updatedAt": "2026-03-03T16:34:47.646Z"
   },
   {
     "id": "p17725556876461105",
@@ -9296,6 +12153,17 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_687945-MLA82740908135_022025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_714172-MLA82740908141_022025-F.jpg"
     ],
+    "ean": "7906204863782",
+    "mlIds": [
+      "MLB27058775"
+    ],
+    "mlParentId": "MLB27058756",
+    "colors": [
+      {
+        "name": "Preto",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_636200-MLU71759020713_092023-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -9303,12 +12171,8 @@ const catalogProducts = [
       "máscara de cílios",
       "vizzela"
     ],
-    "colors": [
-      {
-        "name": "Preto",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_636200-MLU71759020713_092023-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:34:47.646Z",
+    "updatedAt": "2026-03-03T16:34:47.646Z"
   },
   {
     "id": "p17725556876461106",
@@ -9324,6 +12188,17 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_867287-MLA93337558090_092025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_619323-MLA93755838059_092025-F.jpg"
     ],
+    "ean": "7795001602058",
+    "mlIds": [
+      "MLB48851149"
+    ],
+    "mlParentId": "MLB48851148",
+    "colors": [
+      {
+        "name": "Preto",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_677894-MLA83901219243_042025-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -9331,12 +12206,8 @@ const catalogProducts = [
       "máscara de cílios",
       "karen bachini beauty"
     ],
-    "colors": [
-      {
-        "name": "Preto",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_677894-MLA83901219243_042025-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:34:47.646Z",
+    "updatedAt": "2026-03-03T16:34:47.646Z"
   },
   {
     "id": "p17725556876461107",
@@ -9351,13 +12222,11 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_906184-MLU70403057162_072023-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_910804-MLU73886717211_012024-F.jpg"
     ],
-    "averageRating": 0,
-    "reviewCount": 0,
-    "prices": [],
-    "tags": [
-      "máscara de cílios",
-      "ruby rose"
+    "ean": "7906204933768",
+    "mlIds": [
+      "MLB24458793"
     ],
+    "mlParentId": "MLB24458791",
     "colors": [
       {
         "name": "Preto",
@@ -9379,7 +12248,16 @@ const catalogProducts = [
         "name": "Dar Volume",
         "image": "https://http2.mlstatic.com/D_NQ_NP_953292-MLB73982335774_012024-F.jpg"
       }
-    ]
+    ],
+    "averageRating": 0,
+    "reviewCount": 0,
+    "prices": [],
+    "tags": [
+      "máscara de cílios",
+      "ruby rose"
+    ],
+    "createdAt": "2026-03-03T16:34:47.646Z",
+    "updatedAt": "2026-03-03T16:34:47.646Z"
   },
   {
     "id": "p17725556876471108",
@@ -9392,6 +12270,17 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_958462-MLU75165728061_032024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_640847-MLU54986277362_052023-F.jpg"
     ],
+    "ean": "7899846024959",
+    "mlIds": [
+      "MLB23009665"
+    ],
+    "mlParentId": "MLB16185868",
+    "colors": [
+      {
+        "name": "Preta",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_958462-MLU75165728061_032024-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -9399,12 +12288,8 @@ const catalogProducts = [
       "máscara de cílios",
       "natura"
     ],
-    "colors": [
-      {
-        "name": "Preta",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_958462-MLU75165728061_032024-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:34:47.647Z",
+    "updatedAt": "2026-03-03T16:34:47.647Z"
   },
   {
     "id": "p17725556876471110",
@@ -9418,13 +12303,12 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_860419-MLU74823702610_032024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_899457-MLU70866625954_082023-F.jpg"
     ],
-    "averageRating": 0,
-    "reviewCount": 0,
-    "prices": [],
-    "tags": [
-      "máscara de cílios",
-      "luv beauty"
+    "ean": "7898917552643",
+    "mlIds": [
+      "MLB25824167",
+      "MLB27058791"
     ],
+    "mlParentId": "MLB25824166",
     "colors": [
       {
         "name": "ALONGAMENTO",
@@ -9434,7 +12318,16 @@ const catalogProducts = [
         "name": "Volume",
         "image": "https://http2.mlstatic.com/D_NQ_NP_850002-MLA93375611860_092025-F.jpg"
       }
-    ]
+    ],
+    "averageRating": 0,
+    "reviewCount": 0,
+    "prices": [],
+    "tags": [
+      "máscara de cílios",
+      "luv beauty"
+    ],
+    "createdAt": "2026-03-03T16:34:47.647Z",
+    "updatedAt": "2026-03-03T16:34:47.647Z"
   },
   {
     "id": "p17725556876471111",
@@ -9447,6 +12340,17 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_876644-MLA105906711323_012026-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_941848-MLA105318568464_012026-F.jpg"
     ],
+    "ean": "7894222009308",
+    "mlIds": [
+      "MLB64973680"
+    ],
+    "mlParentId": "MLB64973679",
+    "colors": [
+      {
+        "name": "Preto",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_876644-MLA105906711323_012026-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -9454,12 +12358,8 @@ const catalogProducts = [
       "máscara de cílios",
       "dailus"
     ],
-    "colors": [
-      {
-        "name": "Preto",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_876644-MLA105906711323_012026-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:34:47.647Z",
+    "updatedAt": "2026-03-03T16:34:47.647Z"
   },
   {
     "id": "p17725556876471112",
@@ -9472,6 +12372,17 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_721696-MLA81450003144_122024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_883025-MLA81450003146_122024-F.jpg"
     ],
+    "ean": "7909189333776",
+    "mlIds": [
+      "MLB45224574"
+    ],
+    "mlParentId": "MLB45224572",
+    "colors": [
+      {
+        "name": "Preto",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_721696-MLA81450003144_122024-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -9479,12 +12390,8 @@ const catalogProducts = [
       "máscara de cílios",
       "avon"
     ],
-    "colors": [
-      {
-        "name": "Preto",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_721696-MLA81450003144_122024-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:34:47.647Z",
+    "updatedAt": "2026-03-03T16:34:47.647Z"
   },
   {
     "id": "p17725556876471114",
@@ -9497,6 +12404,17 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_601733-MLU73829489736_012024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_810169-MLU73785937450_012024-F.jpg"
     ],
+    "ean": "7898015066011",
+    "mlIds": [
+      "MLB22828555"
+    ],
+    "mlParentId": "MLB22828553",
+    "colors": [
+      {
+        "name": "Transparente",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_601733-MLU73829489736_012024-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -9504,12 +12422,8 @@ const catalogProducts = [
       "máscara de cílios",
       "bt21"
     ],
-    "colors": [
-      {
-        "name": "Transparente",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_601733-MLU73829489736_012024-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:34:47.647Z",
+    "updatedAt": "2026-03-03T16:34:47.647Z"
   },
   {
     "id": "p17725556876471115",
@@ -9521,6 +12435,17 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_922366-MLA87157724855_072025-F.jpg"
     ],
+    "ean": "6799203044419",
+    "mlIds": [
+      "MLB51971499"
+    ],
+    "mlParentId": "MLB51971498",
+    "colors": [
+      {
+        "name": "Preto",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_922366-MLA87157724855_072025-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -9528,12 +12453,8 @@ const catalogProducts = [
       "máscara de cílios",
       "febella"
     ],
-    "colors": [
-      {
-        "name": "Preto",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_922366-MLA87157724855_072025-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:34:47.647Z",
+    "updatedAt": "2026-03-03T16:34:47.647Z"
   },
   {
     "id": "p17725556876491116",
@@ -9546,13 +12467,11 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_842595-MLA82809988055_032025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_739063-MLA82523681744_032025-F.jpg"
     ],
-    "averageRating": 0,
-    "reviewCount": 0,
-    "prices": [],
-    "tags": [
-      "máscara de cílios",
-      "quem disse, berenice?"
+    "ean": "7805093199098",
+    "mlIds": [
+      "MLB39200728"
     ],
+    "mlParentId": "MLB39200726",
     "colors": [
       {
         "name": "Preto",
@@ -9566,7 +12485,16 @@ const catalogProducts = [
         "name": "Kit Incolor",
         "image": "https://http2.mlstatic.com/D_NQ_NP_842595-MLA82809988055_032025-F.jpg"
       }
-    ]
+    ],
+    "averageRating": 0,
+    "reviewCount": 0,
+    "prices": [],
+    "tags": [
+      "máscara de cílios",
+      "quem disse, berenice?"
+    ],
+    "createdAt": "2026-03-03T16:34:47.647Z",
+    "updatedAt": "2026-03-03T16:34:47.647Z"
   },
   {
     "id": "p17725556889191145",
@@ -9578,13 +12506,12 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_663443-MLA96310263863_102025-F.jpg"
     ],
-    "averageRating": 0,
-    "reviewCount": 0,
-    "prices": [],
-    "tags": [
-      "sombra",
-      "baims"
+    "ean": "7898676621253",
+    "mlIds": [
+      "MLB61177794",
+      "MLB61607569"
     ],
+    "mlParentId": "MLB54073047",
     "colors": [
       {
         "name": "05 Oceanic",
@@ -9594,7 +12521,16 @@ const catalogProducts = [
         "name": "04 Rose Mood",
         "image": "https://http2.mlstatic.com/D_NQ_NP_935183-MLA96563214684_112025-F.jpg"
       }
-    ]
+    ],
+    "averageRating": 0,
+    "reviewCount": 0,
+    "prices": [],
+    "tags": [
+      "sombra",
+      "baims"
+    ],
+    "createdAt": "2026-03-03T16:34:48.919Z",
+    "updatedAt": "2026-03-03T16:34:48.919Z"
   },
   {
     "id": "p17725556889191147",
@@ -9610,6 +12546,17 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_875104-MLU75626860444_042024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_814185-MLU75598086357_042024-F.jpg"
     ],
+    "ean": "773602703470",
+    "mlIds": [
+      "MLB35357442"
+    ],
+    "mlParentId": "MLB26112861",
+    "colors": [
+      {
+        "name": "Eyeshadow",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_647506-MLU75626929710_042024-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -9617,12 +12564,8 @@ const catalogProducts = [
       "sombra",
       "mac"
     ],
-    "colors": [
-      {
-        "name": "Eyeshadow",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_647506-MLU75626929710_042024-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:34:48.919Z",
+    "updatedAt": "2026-03-03T16:34:48.919Z"
   },
   {
     "id": "p17725556889191148",
@@ -9637,6 +12580,17 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_736807-MLU69944756276_062023-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_601380-MLU69944746526_062023-F.jpg"
     ],
+    "ean": "7802263218795",
+    "mlIds": [
+      "MLB23984384"
+    ],
+    "mlParentId": "MLB23984383",
+    "colors": [
+      {
+        "name": "Edição 15 Anos - 30 cores",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_832206-MLU78615857692_082024-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -9644,12 +12598,8 @@ const catalogProducts = [
       "sombra",
       "catharine hill"
     ],
-    "colors": [
-      {
-        "name": "Edição 15 Anos - 30 cores",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_832206-MLU78615857692_082024-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:34:48.919Z",
+    "updatedAt": "2026-03-03T16:34:48.919Z"
   },
   {
     "id": "p17725556889201149",
@@ -9665,6 +12615,17 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_729012-MLU69806739814_062023-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_760045-MLU69823264587_062023-F.jpg"
     ],
+    "ean": "609332299214",
+    "mlIds": [
+      "MLB23769357"
+    ],
+    "mlParentId": "MLB23489288",
+    "colors": [
+      {
+        "name": "Cream & sugar",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_613542-MLU73693219239_122023-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -9672,12 +12633,8 @@ const catalogProducts = [
       "sombra",
       "e.l.f. cosmetics"
     ],
-    "colors": [
-      {
-        "name": "Cream & sugar",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_613542-MLU73693219239_122023-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:34:48.919Z",
+    "updatedAt": "2026-03-03T16:34:48.919Z"
   },
   {
     "id": "p17725556889201150",
@@ -9689,6 +12646,17 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_722055-MLA98253050551_112025-F.jpg"
     ],
+    "ean": "716170058733",
+    "mlIds": [
+      "MLB62125463"
+    ],
+    "mlParentId": "MLB26259147",
+    "colors": [
+      {
+        "name": "Smoke",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_722055-MLA98253050551_112025-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -9696,12 +12664,8 @@ const catalogProducts = [
       "sombra",
       "bobbi brown"
     ],
-    "colors": [
-      {
-        "name": "Smoke",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_722055-MLA98253050551_112025-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:34:48.920Z",
+    "updatedAt": "2026-03-03T16:34:48.920Z"
   },
   {
     "id": "p17725556889201151",
@@ -9715,13 +12679,12 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_675672-MLA80079618486_102024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_719713-MLA80079547888_102024-F.jpg"
     ],
-    "averageRating": 0,
-    "reviewCount": 0,
-    "prices": [],
-    "tags": [
-      "sombra",
-      "kiko milano"
+    "ean": "8025272613316",
+    "mlIds": [
+      "MLB42490287",
+      "MLB36157300"
     ],
+    "mlParentId": "MLB36157297",
     "colors": [
       {
         "name": "228 Taupe",
@@ -9731,7 +12694,16 @@ const catalogProducts = [
         "name": "201 Rosy Taupe",
         "image": "https://http2.mlstatic.com/D_NQ_NP_996504-MLU75794681864_042024-F.jpg"
       }
-    ]
+    ],
+    "averageRating": 0,
+    "reviewCount": 0,
+    "prices": [],
+    "tags": [
+      "sombra",
+      "kiko milano"
+    ],
+    "createdAt": "2026-03-03T16:34:48.920Z",
+    "updatedAt": "2026-03-03T16:34:50.187Z"
   },
   {
     "id": "p17725556901861152",
@@ -9745,13 +12717,12 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_914880-MLA92214750700_092025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_874389-MLA92621498759_092025-F.jpg"
     ],
-    "averageRating": 0,
-    "reviewCount": 0,
-    "prices": [],
-    "tags": [
-      "sombra",
-      "cherimoya"
+    "ean": "7805230700019",
+    "mlIds": [
+      "MLB58781787",
+      "MLB56493039"
     ],
+    "mlParentId": "MLB37762587",
     "colors": [
       {
         "name": "N02",
@@ -9761,7 +12732,16 @@ const catalogProducts = [
         "name": "Paleta N3",
         "image": "https://http2.mlstatic.com/D_NQ_NP_993538-MLA92621100753_092025-F.jpg"
       }
-    ]
+    ],
+    "averageRating": 0,
+    "reviewCount": 0,
+    "prices": [],
+    "tags": [
+      "sombra",
+      "cherimoya"
+    ],
+    "createdAt": "2026-03-03T16:34:50.186Z",
+    "updatedAt": "2026-03-03T16:34:51.460Z"
   },
   {
     "id": "p17725556901861153",
@@ -9773,13 +12753,23 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_952841-MLU76174730420_052024-F.jpg"
     ],
-    "averageRating": 0,
-    "reviewCount": 0,
-    "prices": [],
-    "tags": [
-      "sombra",
-      "catharine hill"
+    "ean": "7898600991551",
+    "mlIds": [
+      "MLB36914450",
+      "MLB42463566",
+      "MLB42492319",
+      "MLB36685590",
+      "MLB42485564",
+      "MLB42486375",
+      "MLB42490705",
+      "MLB42484590",
+      "MLB42467961",
+      "MLB36878655",
+      "MLB36916991",
+      "MLB42468937",
+      "MLB36885454"
     ],
+    "mlParentId": "MLB36685589",
     "colors": [
       {
         "name": "1017/R3 - Lovely",
@@ -9845,7 +12835,16 @@ const catalogProducts = [
         "name": "R17 Strong",
         "image": "https://http2.mlstatic.com/D_NQ_NP_916653-MLU76026638500_052024-F.jpg"
       }
-    ]
+    ],
+    "averageRating": 0,
+    "reviewCount": 0,
+    "prices": [],
+    "tags": [
+      "sombra",
+      "catharine hill"
+    ],
+    "createdAt": "2026-03-03T16:34:50.186Z",
+    "updatedAt": "2026-03-03T16:34:50.188Z"
   },
   {
     "id": "p17725556901881166",
@@ -9857,6 +12856,17 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_936252-MLU79015518556_092024-F.jpg"
     ],
+    "ean": "7798130375015",
+    "mlIds": [
+      "MLB29392733"
+    ],
+    "mlParentId": "MLB27599632",
+    "colors": [
+      {
+        "name": "EM87 CASTANHO VERMELHO",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_936252-MLU79015518556_092024-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -9864,12 +12874,8 @@ const catalogProducts = [
       "sombra",
       "idraet"
     ],
-    "colors": [
-      {
-        "name": "EM87 CASTANHO VERMELHO",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_936252-MLU79015518556_092024-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:34:50.188Z",
+    "updatedAt": "2026-03-03T16:34:50.188Z"
   },
   {
     "id": "p17725556914591169",
@@ -9882,13 +12888,14 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_771058-MLU70885518460_082023-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_881825-MLU70885518464_082023-F.jpg"
     ],
-    "averageRating": 0,
-    "reviewCount": 0,
-    "prices": [],
-    "tags": [
-      "sombra",
-      "essence"
+    "ean": "4059729208712",
+    "mlIds": [
+      "MLB25126916",
+      "MLB27014077",
+      "MLB25851861",
+      "MLB24886859"
     ],
+    "mlParentId": "MLB24886834",
     "colors": [
       {
         "name": "01",
@@ -9906,7 +12913,16 @@ const catalogProducts = [
         "name": "02",
         "image": "https://http2.mlstatic.com/D_NQ_NP_877779-MLU70641172178_072023-F.jpg"
       }
-    ]
+    ],
+    "averageRating": 0,
+    "reviewCount": 0,
+    "prices": [],
+    "tags": [
+      "sombra",
+      "essence"
+    ],
+    "createdAt": "2026-03-03T16:34:51.459Z",
+    "updatedAt": "2026-03-03T16:34:51.460Z"
   },
   {
     "id": "p17725556914591170",
@@ -9921,13 +12937,20 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_808370-MLU77692428157_072024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_611507-MLU77692428159_072024-F.jpg"
     ],
+    "ean": "24057274306",
+    "mlIds": [
+      "MLB38264357"
+    ],
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "sombra",
       "palladio"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:51.459Z",
+    "updatedAt": "2026-03-03T16:34:51.459Z"
   },
   {
     "id": "p17725556914601173",
@@ -9939,6 +12962,17 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_734590-MLA94040453147_102025-F.jpg"
     ],
+    "ean": "773602506316",
+    "mlIds": [
+      "MLB58837712"
+    ],
+    "mlParentId": "MLB23823588",
+    "colors": [
+      {
+        "name": "Ininterrupto",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_734590-MLA94040453147_102025-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -9946,12 +12980,8 @@ const catalogProducts = [
       "sombra",
       "mac"
     ],
-    "colors": [
-      {
-        "name": "Ininterrupto",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_734590-MLA94040453147_102025-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:34:51.460Z",
+    "updatedAt": "2026-03-03T16:34:51.460Z"
   },
   {
     "id": "p17725556927451176",
@@ -9963,6 +12993,17 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_814322-MLA80055505482_102024-F.jpg"
     ],
+    "ean": "192333104392",
+    "mlIds": [
+      "MLB42441593"
+    ],
+    "mlParentId": "MLB42441592",
+    "colors": [
+      {
+        "name": "Diversa",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_814322-MLA80055505482_102024-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -9970,12 +13011,8 @@ const catalogProducts = [
       "sombra",
       "clinique"
     ],
-    "colors": [
-      {
-        "name": "Diversa",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_814322-MLA80055505482_102024-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:34:52.745Z",
+    "updatedAt": "2026-03-03T16:34:52.745Z"
   },
   {
     "id": "p17725556927451177",
@@ -9989,6 +13026,17 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_905328-MLA82236274859_022025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_687337-MLA81954992156_022025-F.jpg"
     ],
+    "ean": "192608257464",
+    "mlIds": [
+      "MLB45861855"
+    ],
+    "mlParentId": "MLB45861852",
+    "colors": [
+      {
+        "name": "SOMBRA ARREMESSADORA",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_810141-MLA82236141293_022025-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -9996,12 +13044,8 @@ const catalogProducts = [
       "sombra",
       "morphe"
     ],
-    "colors": [
-      {
-        "name": "SOMBRA ARREMESSADORA",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_810141-MLA82236141293_022025-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:34:52.745Z",
+    "updatedAt": "2026-03-03T16:34:52.745Z"
   },
   {
     "id": "p17725556927451178",
@@ -10014,12 +13058,9 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_710394-MLU73438186913_122023-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_682666-MLU73437960877_122023-F.jpg"
     ],
-    "averageRating": 0,
-    "reviewCount": 0,
-    "prices": [],
-    "tags": [
-      "sombra",
-      "bruna tavares"
+    "ean": "7792505750599",
+    "mlIds": [
+      "MLB29003020"
     ],
     "colors": [
       {
@@ -10030,7 +13071,16 @@ const catalogProducts = [
         "name": "Macrilan Gold",
         "image": "https://http2.mlstatic.com/D_NQ_NP_684184-MLU73285903234_122023-F.jpg"
       }
-    ]
+    ],
+    "averageRating": 0,
+    "reviewCount": 0,
+    "prices": [],
+    "tags": [
+      "sombra",
+      "bruna tavares"
+    ],
+    "createdAt": "2026-03-03T16:34:52.745Z",
+    "updatedAt": "2026-03-03T16:34:52.745Z"
   },
   {
     "id": "p17725556927451180",
@@ -10046,13 +13096,13 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_888757-MLA82733579586_032025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_673553-MLA82733579588_032025-F.jpg"
     ],
-    "averageRating": 0,
-    "reviewCount": 0,
-    "prices": [],
-    "tags": [
-      "sombra",
-      "vivai"
+    "ean": "7897046845688",
+    "mlIds": [
+      "MLB38097144",
+      "MLB34695090",
+      "MLB34957116"
     ],
+    "mlParentId": "MLB32425302",
     "colors": [
       {
         "name": "COR D",
@@ -10066,7 +13116,16 @@ const catalogProducts = [
         "name": "COR H",
         "image": "https://http2.mlstatic.com/D_NQ_NP_967735-MLU75408442957_032024-F.jpg"
       }
-    ]
+    ],
+    "averageRating": 0,
+    "reviewCount": 0,
+    "prices": [],
+    "tags": [
+      "sombra",
+      "vivai"
+    ],
+    "createdAt": "2026-03-03T16:34:52.745Z",
+    "updatedAt": "2026-03-03T16:34:54.368Z"
   },
   {
     "id": "p17725556927451181",
@@ -10079,13 +13138,20 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_615694-MLU72086298880_102023-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_843270-MLU72086298884_102023-F.jpg"
     ],
+    "ean": "7896032665606",
+    "mlIds": [
+      "MLB27551964"
+    ],
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "sombra",
       "mica rocha"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:52.745Z",
+    "updatedAt": "2026-03-03T16:34:52.745Z"
   },
   {
     "id": "p17725556927451182",
@@ -10098,6 +13164,17 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_669814-MLU73705523753_122023-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_677749-MLU54981164782_042023-F.jpg"
     ],
+    "ean": "730852147409",
+    "mlIds": [
+      "MLB22895286"
+    ],
+    "mlParentId": "MLB22895277",
+    "colors": [
+      {
+        "name": "Terracota",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_669814-MLU73705523753_122023-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -10105,12 +13182,8 @@ const catalogProducts = [
       "sombra",
       "sheglam"
     ],
-    "colors": [
-      {
-        "name": "Terracota",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_669814-MLU73705523753_122023-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:34:52.745Z",
+    "updatedAt": "2026-03-03T16:34:52.745Z"
   },
   {
     "id": "p17725556927451183",
@@ -10125,13 +13198,11 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_859472-MLU69904141249_062023-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_802169-MLU69904141259_062023-F.jpg"
     ],
-    "averageRating": 0,
-    "reviewCount": 0,
-    "prices": [],
-    "tags": [
-      "sombra",
-      "jasmyne"
+    "ean": "7908060111403",
+    "mlIds": [
+      "MLB23900604"
     ],
+    "mlParentId": "MLB23900595",
     "colors": [
       {
         "name": "Colorido",
@@ -10145,7 +13216,16 @@ const catalogProducts = [
         "name": "Tropical Teen",
         "image": "https://http2.mlstatic.com/D_NQ_NP_806125-MLU72830022293_112023-F.jpg"
       }
-    ]
+    ],
+    "averageRating": 0,
+    "reviewCount": 0,
+    "prices": [],
+    "tags": [
+      "sombra",
+      "jasmyne"
+    ],
+    "createdAt": "2026-03-03T16:34:52.745Z",
+    "updatedAt": "2026-03-03T16:34:52.745Z"
   },
   {
     "id": "p17725556927451184",
@@ -10161,6 +13241,17 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_779673-MLA100086307277_122025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_649286-MLA100086248205_122025-F.jpg"
     ],
+    "ean": "7899820815344",
+    "mlIds": [
+      "MLB62728708"
+    ],
+    "mlParentId": "MLB62728707",
+    "colors": [
+      {
+        "name": "Cores sortidas",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_901120-MLA99601537666_122025-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -10168,12 +13259,8 @@ const catalogProducts = [
       "sombra",
       "luisance"
     ],
-    "colors": [
-      {
-        "name": "Cores sortidas",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_901120-MLA99601537666_122025-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:34:52.745Z",
+    "updatedAt": "2026-03-03T16:34:52.745Z"
   },
   {
     "id": "p17725556927451185",
@@ -10189,6 +13276,17 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_617672-MLU69805130968_062023-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_715742-MLU78443043026_082024-F.jpg"
     ],
+    "ean": "6971870593715",
+    "mlIds": [
+      "MLB23757138"
+    ],
+    "mlParentId": "MLB23757091",
+    "colors": [
+      {
+        "name": "Velocity",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_734369-MLU69805249262_062023-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -10196,12 +13294,8 @@ const catalogProducts = [
       "sombra",
       "sheglam"
     ],
-    "colors": [
-      {
-        "name": "Velocity",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_734369-MLU69805249262_062023-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:34:52.745Z",
+    "updatedAt": "2026-03-03T16:34:52.745Z"
   },
   {
     "id": "p17725556927451186",
@@ -10217,13 +13311,13 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_982288-MLU70271935868_072023-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_974018-MLU70271935874_072023-F.jpg"
     ],
-    "averageRating": 0,
-    "reviewCount": 0,
-    "prices": [],
-    "tags": [
-      "sombra",
-      "sheglam"
+    "ean": "6971870593258",
+    "mlIds": [
+      "MLB23136478",
+      "MLB24232830",
+      "MLB23943108"
     ],
+    "mlParentId": "MLB23136466",
     "colors": [
       {
         "name": "Spellbound",
@@ -10237,7 +13331,16 @@ const catalogProducts = [
         "name": "Higher Self",
         "image": "https://http2.mlstatic.com/D_NQ_NP_716466-MLU69918522226_062023-F.jpg"
       }
-    ]
+    ],
+    "averageRating": 0,
+    "reviewCount": 0,
+    "prices": [],
+    "tags": [
+      "sombra",
+      "sheglam"
+    ],
+    "createdAt": "2026-03-03T16:34:52.745Z",
+    "updatedAt": "2026-03-03T16:34:52.746Z"
   },
   {
     "id": "p17725556927461187",
@@ -10251,6 +13354,17 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_800149-MLA82240646913_022025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_892492-MLA82240514641_022025-F.jpg"
     ],
+    "ean": "843628150500",
+    "mlIds": [
+      "MLB45868643"
+    ],
+    "mlParentId": "MLB45868642",
+    "colors": [
+      {
+        "name": "Prateado",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_900529-MLA82240685349_022025-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -10258,12 +13372,8 @@ const catalogProducts = [
       "sombra",
       "patrick ta"
     ],
-    "colors": [
-      {
-        "name": "Prateado",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_900529-MLA82240685349_022025-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:34:52.746Z",
+    "updatedAt": "2026-03-03T16:34:52.746Z"
   },
   {
     "id": "p17725556927461189",
@@ -10276,6 +13386,17 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_852288-MLA82404225632_022025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_916754-MLA82404225636_022025-F.jpg"
     ],
+    "ean": "7804220545838",
+    "mlIds": [
+      "MLB46423896"
+    ],
+    "mlParentId": "MLB24092041",
+    "colors": [
+      {
+        "name": "Nude",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_852288-MLA82404225632_022025-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -10283,12 +13404,8 @@ const catalogProducts = [
       "sombra",
       "ludurana"
     ],
-    "colors": [
-      {
-        "name": "Nude",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_852288-MLA82404225632_022025-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:34:52.746Z",
+    "updatedAt": "2026-03-03T16:34:52.746Z"
   },
   {
     "id": "p17725556927461190",
@@ -10301,6 +13418,17 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_760550-MLU69822086065_062023-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_700631-MLU75023736094_032024-F.jpg"
     ],
+    "ean": "7899956814525",
+    "mlIds": [
+      "MLB23757200"
+    ],
+    "mlParentId": "MLB23757165",
+    "colors": [
+      {
+        "name": "Colorida",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_760550-MLU69822086065_062023-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -10308,12 +13436,8 @@ const catalogProducts = [
       "sombra",
       "playboy"
     ],
-    "colors": [
-      {
-        "name": "Colorida",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_760550-MLU69822086065_062023-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:34:52.746Z",
+    "updatedAt": "2026-03-03T16:34:52.746Z"
   },
   {
     "id": "p17725556927461193",
@@ -10328,13 +13452,20 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_978948-MLU72185761553_102023-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_646305-MLU72125354772_102023-F.jpg"
     ],
+    "ean": "7906204834393",
+    "mlIds": [
+      "MLB27610751"
+    ],
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "sombra",
       "naemi"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:52.746Z",
+    "updatedAt": "2026-03-03T16:34:52.746Z"
   },
   {
     "id": "p17725556927461194",
@@ -10346,6 +13477,17 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_733767-MLU73089405356_112023-F.jpg"
     ],
+    "ean": "8690131782962",
+    "mlIds": [
+      "MLB28561784"
+    ],
+    "mlParentId": "MLB28561781",
+    "colors": [
+      {
+        "name": "Rosa",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_733767-MLU73089405356_112023-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -10353,12 +13495,8 @@ const catalogProducts = [
       "sombra",
       "farmasi"
     ],
-    "colors": [
-      {
-        "name": "Rosa",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_733767-MLU73089405356_112023-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:34:52.746Z",
+    "updatedAt": "2026-03-03T16:34:52.746Z"
   },
   {
     "id": "p17725556927461195",
@@ -10374,6 +13512,17 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_673006-MLA91672745536_092025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_904471-MLA92072728073_092025-F.jpg"
     ],
+    "ean": "7908060102203",
+    "mlIds": [
+      "MLB55437510"
+    ],
+    "mlParentId": "MLB55437508",
+    "colors": [
+      {
+        "name": "Colorida",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_639862-MLA91672546454_092025-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -10381,12 +13530,8 @@ const catalogProducts = [
       "sombra",
       "jasmyne"
     ],
-    "colors": [
-      {
-        "name": "Colorida",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_639862-MLA91672546454_092025-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:34:52.746Z",
+    "updatedAt": "2026-03-03T16:34:52.746Z"
   },
   {
     "id": "p17725556927461197",
@@ -10402,6 +13547,17 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_612283-MLA95094208951_102025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_910546-MLA94662317662_102025-F.jpg"
     ],
+    "ean": "7894494669750",
+    "mlIds": [
+      "MLB60083651"
+    ],
+    "mlParentId": "MLB60083650",
+    "colors": [
+      {
+        "name": "Paleta Sombra Colorida",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_645423-MLA95094836031_102025-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -10409,12 +13565,8 @@ const catalogProducts = [
       "sombra",
       "luisance"
     ],
-    "colors": [
-      {
-        "name": "Paleta Sombra Colorida",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_645423-MLA95094836031_102025-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:34:52.746Z",
+    "updatedAt": "2026-03-03T16:34:52.746Z"
   },
   {
     "id": "p17725556927471198",
@@ -10428,6 +13580,17 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_976962-MLU73068521537_112023-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_612358-MLU72987732710_112023-F.jpg"
     ],
+    "ean": "7899820806120",
+    "mlIds": [
+      "MLB28387343"
+    ],
+    "mlParentId": "MLB28387342",
+    "colors": [
+      {
+        "name": "L6055B",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_933601-MLU72987732690_112023-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -10435,12 +13598,8 @@ const catalogProducts = [
       "sombra",
       "luisance"
     ],
-    "colors": [
-      {
-        "name": "L6055B",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_933601-MLU72987732690_112023-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:34:52.747Z",
+    "updatedAt": "2026-03-03T16:34:52.747Z"
   },
   {
     "id": "p17725556927471199",
@@ -10454,6 +13613,17 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_814593-MLA92723673435_092025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_880755-MLA92316465224_092025-F.jpg"
     ],
+    "ean": "6984514984121",
+    "mlIds": [
+      "MLB56671896"
+    ],
+    "mlParentId": "MLB56671895",
+    "colors": [
+      {
+        "name": "Variadas",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_934873-MLA92723733113_092025-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -10461,12 +13631,8 @@ const catalogProducts = [
       "sombra",
       "love rain"
     ],
-    "colors": [
-      {
-        "name": "Variadas",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_934873-MLA92723733113_092025-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:34:52.747Z",
+    "updatedAt": "2026-03-03T16:34:52.747Z"
   },
   {
     "id": "p17725556927471200",
@@ -10482,6 +13648,17 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_770762-MLU73092468336_112023-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_608851-MLU73092635614_112023-F.jpg"
     ],
+    "ean": "309974175166",
+    "mlIds": [
+      "MLB28567683"
+    ],
+    "mlParentId": "MLB28567682",
+    "colors": [
+      {
+        "name": "711 Black magic",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_640790-MLU73092322700_112023-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -10489,12 +13666,8 @@ const catalogProducts = [
       "sombra",
       "revlon"
     ],
-    "colors": [
-      {
-        "name": "711 Black magic",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_640790-MLU73092322700_112023-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:34:52.747Z",
+    "updatedAt": "2026-03-03T16:34:52.747Z"
   },
   {
     "id": "p17725556927471201",
@@ -10508,6 +13681,17 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_679262-MLU78243997052_082024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_925036-MLU78243997066_082024-F.jpg"
     ],
+    "ean": "857494007097",
+    "mlIds": [
+      "MLB38057535"
+    ],
+    "mlParentId": "MLB38057534",
+    "colors": [
+      {
+        "name": "Amarelo",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_879833-MLU78473350403_082024-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -10515,12 +13699,8 @@ const catalogProducts = [
       "sombra",
       "juvia's place"
     ],
-    "colors": [
-      {
-        "name": "Amarelo",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_879833-MLU78473350403_082024-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:34:52.747Z",
+    "updatedAt": "2026-03-03T16:34:52.747Z"
   },
   {
     "id": "p17725556927471203",
@@ -10532,6 +13712,17 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_897673-MLU79177622325_092024-F.jpg"
     ],
+    "ean": "8025272613156",
+    "mlIds": [
+      "MLB40610211"
+    ],
+    "mlParentId": "MLB40610206",
+    "colors": [
+      {
+        "name": "Bordô",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_897673-MLU79177622325_092024-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -10539,12 +13730,8 @@ const catalogProducts = [
       "sombra",
       "kiko milano"
     ],
-    "colors": [
-      {
-        "name": "Bordô",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_897673-MLU79177622325_092024-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:34:52.747Z",
+    "updatedAt": "2026-03-03T16:34:52.747Z"
   },
   {
     "id": "p17725556927471204",
@@ -10556,13 +13743,20 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_783626-MLA80407731264_112024-F.jpg"
     ],
+    "ean": "3760133120941",
+    "mlIds": [
+      "MLB27635988"
+    ],
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "sombra",
       "nova avenida"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:52.747Z",
+    "updatedAt": "2026-03-03T16:34:52.747Z"
   },
   {
     "id": "p17725556927471207",
@@ -10578,13 +13772,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_607029-MLA82432386326_022025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_716425-MLA82432415558_022025-F.jpg"
     ],
+    "ean": "7895435434925",
+    "mlIds": [
+      "MLB46459418"
+    ],
+    "mlParentId": "MLB39231887",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "sombra",
       "mari maria makeup"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:52.747Z",
+    "updatedAt": "2026-03-03T16:34:52.747Z"
   },
   {
     "id": "p17725556943661208",
@@ -10599,6 +13801,17 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_679715-MLA83107657592_032025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_875502-MLA83397932647_032025-F.jpg"
     ],
+    "ean": "609332848948",
+    "mlIds": [
+      "MLB47555097"
+    ],
+    "mlParentId": "MLB47545498",
+    "colors": [
+      {
+        "name": "Prateado",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_883485-MLA83107331018_032025-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -10606,12 +13819,8 @@ const catalogProducts = [
       "sombra",
       "e.l.f."
     ],
-    "colors": [
-      {
-        "name": "Prateado",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_883485-MLA83107331018_032025-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:34:54.366Z",
+    "updatedAt": "2026-03-03T16:34:54.366Z"
   },
   {
     "id": "p17725556943661209",
@@ -10626,6 +13835,17 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_917572-MLA80667275847_112024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_996926-MLU72945498075_112023-F.jpg"
     ],
+    "ean": "7899820814460",
+    "mlIds": [
+      "MLB28169036"
+    ],
+    "mlParentId": "MLB28169033",
+    "colors": [
+      {
+        "name": "Colorida",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_658473-MLA80407730532_112024-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -10633,12 +13853,8 @@ const catalogProducts = [
       "sombra",
       "luisance"
     ],
-    "colors": [
-      {
-        "name": "Colorida",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_658473-MLA80407730532_112024-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:34:54.366Z",
+    "updatedAt": "2026-03-03T16:34:54.366Z"
   },
   {
     "id": "p17725556943661210",
@@ -10651,13 +13867,20 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_945187-MLU77605899024_072024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_707758-MLU77824452049_072024-F.jpg"
     ],
+    "ean": "885930323753",
+    "mlIds": [
+      "MLB36951087"
+    ],
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "sombra",
       "maybelline"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:54.366Z",
+    "updatedAt": "2026-03-03T16:34:54.366Z"
   },
   {
     "id": "p17725556943671211",
@@ -10669,6 +13892,17 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_998417-MLA92769335443_092025-F.jpg"
     ],
+    "ean": "7895589712375",
+    "mlIds": [
+      "MLB53816154"
+    ],
+    "mlParentId": "MLB53816153",
+    "colors": [
+      {
+        "name": "Nude",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_998417-MLA92769335443_092025-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -10676,12 +13910,8 @@ const catalogProducts = [
       "sombra",
       "natural"
     ],
-    "colors": [
-      {
-        "name": "Nude",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_998417-MLA92769335443_092025-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:34:54.367Z",
+    "updatedAt": "2026-03-03T16:34:54.367Z"
   },
   {
     "id": "p17725556943671212",
@@ -10693,6 +13923,17 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_617095-MLA89985416249_082025-F.jpg"
     ],
+    "ean": "6976512187574",
+    "mlIds": [
+      "MLB53813813"
+    ],
+    "mlParentId": "MLB53813811",
+    "colors": [
+      {
+        "name": "Sortido",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_617095-MLA89985416249_082025-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -10700,12 +13941,8 @@ const catalogProducts = [
       "sombra",
       "eyeshadow"
     ],
-    "colors": [
-      {
-        "name": "Sortido",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_617095-MLA89985416249_082025-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:34:54.367Z",
+    "updatedAt": "2026-03-03T16:34:54.367Z"
   },
   {
     "id": "p17725556943671213",
@@ -10718,6 +13955,17 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_603665-MLU69904141337_062023-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_610849-MLU69904141343_062023-F.jpg"
     ],
+    "ean": "192250006083",
+    "mlIds": [
+      "MLB36375531"
+    ],
+    "mlParentId": "MLB36375530",
+    "colors": [
+      {
+        "name": "Truly madly deeply",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_603665-MLU69904141337_062023-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -10725,12 +13973,8 @@ const catalogProducts = [
       "sombra",
       "colourpop"
     ],
-    "colors": [
-      {
-        "name": "Truly madly deeply",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_603665-MLU69904141337_062023-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:34:54.367Z",
+    "updatedAt": "2026-03-03T16:34:54.367Z"
   },
   {
     "id": "p17725556943671214",
@@ -10745,13 +13989,20 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_690402-MLU75009375534_032024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_923235-MLU75009078664_032024-F.jpg"
     ],
+    "ean": "7899820800418",
+    "mlIds": [
+      "MLB27770623"
+    ],
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "sombra",
       "mary kay"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:54.367Z",
+    "updatedAt": "2026-03-03T16:34:54.367Z"
   },
   {
     "id": "p17725556943671215",
@@ -10767,6 +14018,17 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_805308-MLA80827489239_112024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_948553-MLA80827489251_112024-F.jpg"
     ],
+    "ean": "83069563785",
+    "mlIds": [
+      "MLB35998620"
+    ],
+    "mlParentId": "MLB35998619",
+    "colors": [
+      {
+        "name": "Dream Castle",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_689170-MLA80565318380_112024-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -10774,12 +14036,8 @@ const catalogProducts = [
       "sombra",
       "bt"
     ],
-    "colors": [
-      {
-        "name": "Dream Castle",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_689170-MLA80565318380_112024-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:34:54.367Z",
+    "updatedAt": "2026-03-03T16:34:54.367Z"
   },
   {
     "id": "p17725556943671216",
@@ -10795,6 +14053,17 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_873943-MLA93373406640_092025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_782137-MLA93791004547_092025-F.jpg"
     ],
+    "ean": "6799203037121",
+    "mlIds": [
+      "MLB56119727"
+    ],
+    "mlParentId": "MLB56119726",
+    "colors": [
+      {
+        "name": "Rosa",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_767988-MLA93790974693_092025-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -10802,12 +14071,8 @@ const catalogProducts = [
       "sombra",
       "febella"
     ],
-    "colors": [
-      {
-        "name": "Rosa",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_767988-MLA93790974693_092025-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:34:54.367Z",
+    "updatedAt": "2026-03-03T16:34:54.367Z"
   },
   {
     "id": "p17725556943671217",
@@ -10822,6 +14087,17 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_960389-MLA107018201257_022026-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_852576-MLA107018614059_022026-F.jpg"
     ],
+    "ean": "6925301091721",
+    "mlIds": [
+      "MLB65491357"
+    ],
+    "mlParentId": "MLB65491355",
+    "colors": [
+      {
+        "name": "Azul",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_653937-MLA107018673739_022026-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -10829,12 +14105,8 @@ const catalogProducts = [
       "sombra",
       "presente natal aniversario"
     ],
-    "colors": [
-      {
-        "name": "Azul",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_653937-MLA107018673739_022026-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:34:54.367Z",
+    "updatedAt": "2026-03-03T16:34:54.367Z"
   },
   {
     "id": "p17725556943681218",
@@ -10849,6 +14121,17 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_657353-MLA81956715118_022025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_749324-MLA81956677136_022025-F.jpg"
     ],
+    "ean": "7908799005042, 7908799009293",
+    "mlIds": [
+      "MLB44179415"
+    ],
+    "mlParentId": "MLB27913302",
+    "colors": [
+      {
+        "name": "Marrom",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_989881-MLA82237801749_022025-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -10856,12 +14139,8 @@ const catalogProducts = [
       "sombra",
       "max love"
     ],
-    "colors": [
-      {
-        "name": "Marrom",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_989881-MLA82237801749_022025-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:34:54.368Z",
+    "updatedAt": "2026-03-03T16:34:54.368Z"
   },
   {
     "id": "p17725556943681220",
@@ -10875,6 +14154,17 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_851175-MLU70394894088_072023-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_732415-MLU70394894090_072023-F.jpg"
     ],
+    "ean": "7908060111366",
+    "mlIds": [
+      "MLB24423116"
+    ],
+    "mlParentId": "MLB24423108",
+    "colors": [
+      {
+        "name": "Best Friend",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_721835-MLU70394894038_072023-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -10882,12 +14172,8 @@ const catalogProducts = [
       "sombra",
       "jasmyne"
     ],
-    "colors": [
-      {
-        "name": "Best Friend",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_721835-MLU70394894038_072023-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:34:54.368Z",
+    "updatedAt": "2026-03-03T16:34:54.368Z"
   },
   {
     "id": "p17725556943681223",
@@ -10900,6 +14186,17 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_756452-MLU79014269305_092024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_908370-MLU79014366811_092024-F.jpg"
     ],
+    "ean": "7798327601613",
+    "mlIds": [
+      "MLB23313265"
+    ],
+    "mlParentId": "MLB23313261",
+    "colors": [
+      {
+        "name": "Sombras de olhos",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_756452-MLU79014269305_092024-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -10907,12 +14204,8 @@ const catalogProducts = [
       "sombra",
       "idi make up"
     ],
-    "colors": [
-      {
-        "name": "Sombras de olhos",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_756452-MLU79014269305_092024-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:34:54.368Z",
+    "updatedAt": "2026-03-03T16:34:54.368Z"
   },
   {
     "id": "p17725556943681224",
@@ -10926,6 +14219,17 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_884106-MLU73671145165_122023-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_924208-MLU73576808360_122023-F.jpg"
     ],
+    "ean": "17899360238693",
+    "mlIds": [
+      "MLB29345888"
+    ],
+    "mlParentId": "MLB29345885",
+    "colors": [
+      {
+        "name": "Sortido",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_725917-MLU73576965098_122023-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -10933,12 +14237,8 @@ const catalogProducts = [
       "sombra",
       "pink 21"
     ],
-    "colors": [
-      {
-        "name": "Sortido",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_725917-MLU73576965098_122023-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:34:54.368Z",
+    "updatedAt": "2026-03-03T16:34:54.368Z"
   },
   {
     "id": "p17725556956361255",
@@ -10952,6 +14252,17 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_932390-MLU69326540107_052023-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_764120-MLU74824334880_032024-F.jpg"
     ],
+    "ean": "8025272643832",
+    "mlIds": [
+      "MLB23129653"
+    ],
+    "mlParentId": "MLB21564129",
+    "colors": [
+      {
+        "name": "Preto",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_711163-MLU73784760330_012024-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -10959,12 +14270,8 @@ const catalogProducts = [
       "delineador",
       "kiko milano"
     ],
-    "colors": [
-      {
-        "name": "Preto",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_711163-MLU73784760330_012024-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:34:55.636Z",
+    "updatedAt": "2026-03-03T16:34:55.636Z"
   },
   {
     "id": "p17725556956361256",
@@ -10976,6 +14283,17 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_951255-MLA91655620150_092025-F.jpg"
     ],
+    "ean": "7796555689182",
+    "mlIds": [
+      "MLB55390593"
+    ],
+    "mlParentId": "MLB55390590",
+    "colors": [
+      {
+        "name": "Preto",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_951255-MLA91655620150_092025-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -10983,12 +14301,8 @@ const catalogProducts = [
       "delineador",
       "vult"
     ],
-    "colors": [
-      {
-        "name": "Preto",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_951255-MLA91655620150_092025-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:34:55.636Z",
+    "updatedAt": "2026-03-03T16:34:55.636Z"
   },
   {
     "id": "p17725556956361257",
@@ -11003,6 +14317,17 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_657103-MLU77929984268_082024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_948909-MLU77929994074_082024-F.jpg"
     ],
+    "ean": "6961372029539",
+    "mlIds": [
+      "MLB38928984"
+    ],
+    "mlParentId": "MLB38928980",
+    "colors": [
+      {
+        "name": "Preto",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_742751-MLU77929984266_082024-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -11010,12 +14335,8 @@ const catalogProducts = [
       "delineador",
       "minkissy"
     ],
-    "colors": [
-      {
-        "name": "Preto",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_742751-MLU77929984266_082024-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:34:55.636Z",
+    "updatedAt": "2026-03-03T16:34:55.636Z"
   },
   {
     "id": "p17725556956361258",
@@ -11031,13 +14352,11 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_992800-MLU70699026036_072023-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_946604-MLU70699026040_072023-F.jpg"
     ],
-    "averageRating": 0,
-    "reviewCount": 0,
-    "prices": [],
-    "tags": [
-      "delineador",
-      "almay"
+    "ean": "309979640027",
+    "mlIds": [
+      "MLB22987384"
     ],
+    "mlParentId": "MLB14180379",
     "colors": [
       {
         "name": "Café",
@@ -11055,7 +14374,16 @@ const catalogProducts = [
         "name": "Conditioning Liquid",
         "image": "https://http2.mlstatic.com/D_NQ_NP_642967-MLU74959292433_032024-F.jpg"
       }
-    ]
+    ],
+    "averageRating": 0,
+    "reviewCount": 0,
+    "prices": [],
+    "tags": [
+      "delineador",
+      "almay"
+    ],
+    "createdAt": "2026-03-03T16:34:55.636Z",
+    "updatedAt": "2026-03-03T16:34:55.636Z"
   },
   {
     "id": "p17725556956361259",
@@ -11071,6 +14399,17 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_890988-MLU78003718884_082024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_885029-MLU78228898571_082024-F.jpg"
     ],
+    "ean": "7574506521992",
+    "mlIds": [
+      "MLB39010490"
+    ],
+    "mlParentId": "MLB37999474",
+    "colors": [
+      {
+        "name": "Preto",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_933925-MLU78003757326_082024-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -11078,12 +14417,8 @@ const catalogProducts = [
       "delineador",
       "balacoo"
     ],
-    "colors": [
-      {
-        "name": "Preto",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_933925-MLU78003757326_082024-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:34:55.636Z",
+    "updatedAt": "2026-03-03T16:34:55.636Z"
   },
   {
     "id": "p17725556956361260",
@@ -11096,6 +14431,17 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_987754-MLA89941106193_082025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_666810-MLA89569220762_082025-F.jpg"
     ],
+    "ean": "7703378004603",
+    "mlIds": [
+      "MLB53788664"
+    ],
+    "mlParentId": "MLB53788662",
+    "colors": [
+      {
+        "name": "Branco",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_987754-MLA89941106193_082025-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -11103,12 +14449,8 @@ const catalogProducts = [
       "delineador",
       "samy"
     ],
-    "colors": [
-      {
-        "name": "Branco",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_987754-MLA89941106193_082025-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:34:55.636Z",
+    "updatedAt": "2026-03-03T16:34:55.636Z"
   },
   {
     "id": "p17725556956361261",
@@ -11122,13 +14464,12 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_931261-MLA82351009440_022025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_810900-MLA82351096740_022025-F.jpg"
     ],
-    "averageRating": 0,
-    "reviewCount": 0,
-    "prices": [],
-    "tags": [
-      "delineador",
-      "mud"
+    "ean": "874974003295",
+    "mlIds": [
+      "MLB46257455",
+      "MLB47137469"
     ],
+    "mlParentId": "MLB46247630",
     "colors": [
       {
         "name": "Lápis Delineador Black Forest",
@@ -11138,7 +14479,16 @@ const catalogProducts = [
         "name": "Lápis Delineador Taupe",
         "image": "https://http2.mlstatic.com/D_NQ_NP_795855-MLA82787401124_032025-F.jpg"
       }
-    ]
+    ],
+    "averageRating": 0,
+    "reviewCount": 0,
+    "prices": [],
+    "tags": [
+      "delineador",
+      "mud"
+    ],
+    "createdAt": "2026-03-03T16:34:55.636Z",
+    "updatedAt": "2026-03-03T16:34:56.908Z"
   },
   {
     "id": "p17725556956361262",
@@ -11154,6 +14504,17 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_782052-MLU73420518979_122023-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_915507-MLU73420509031_122023-F.jpg"
     ],
+    "ean": "41554513561",
+    "mlIds": [
+      "MLB22329847"
+    ],
+    "mlParentId": "MLB22329845",
+    "colors": [
+      {
+        "name": "Preto",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_942805-MLU74958081533_032024-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -11161,12 +14522,8 @@ const catalogProducts = [
       "delineador",
       "maybelline"
     ],
-    "colors": [
-      {
-        "name": "Preto",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_942805-MLU74958081533_032024-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:34:55.636Z",
+    "updatedAt": "2026-03-03T16:34:55.636Z"
   },
   {
     "id": "p17725556956361263",
@@ -11180,6 +14537,17 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_962323-MLU72115525905_102023-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_881533-MLU72115555815_102023-F.jpg"
     ],
+    "ean": "5057566501354",
+    "mlIds": [
+      "MLB27495338"
+    ],
+    "mlParentId": "MLB27228474",
+    "colors": [
+      {
+        "name": "Branco",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_862803-MLU75164559987_032024-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -11187,12 +14555,8 @@ const catalogProducts = [
       "delineador",
       "relove"
     ],
-    "colors": [
-      {
-        "name": "Branco",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_862803-MLU75164559987_032024-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:34:55.636Z",
+    "updatedAt": "2026-03-03T16:34:55.636Z"
   },
   {
     "id": "p17725556956361264",
@@ -11206,6 +14570,17 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_635852-MLA80796670296_112024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_735376-MLA80796856282_112024-F.jpg"
     ],
+    "ean": "7503040300374",
+    "mlIds": [
+      "MLB44238254"
+    ],
+    "mlParentId": "MLB44238244",
+    "colors": [
+      {
+        "name": "Preto",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_950827-MLA80796768198_112024-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -11213,12 +14588,8 @@ const catalogProducts = [
       "delineador",
       "mastery brand"
     ],
-    "colors": [
-      {
-        "name": "Preto",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_950827-MLA80796768198_112024-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:34:55.636Z",
+    "updatedAt": "2026-03-03T16:34:55.636Z"
   },
   {
     "id": "p17725556956361265",
@@ -11230,6 +14601,17 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_688036-MLU74139465909_012024-F.jpg"
     ],
+    "ean": "7501253661923",
+    "mlIds": [
+      "MLB28711480"
+    ],
+    "mlParentId": "MLB28711479",
+    "colors": [
+      {
+        "name": "Preto",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_688036-MLU74139465909_012024-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -11237,12 +14619,8 @@ const catalogProducts = [
       "delineador",
       "color pop"
     ],
-    "colors": [
-      {
-        "name": "Preto",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_688036-MLU74139465909_012024-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:34:55.636Z",
+    "updatedAt": "2026-03-03T16:34:55.636Z"
   },
   {
     "id": "p17725556956361266",
@@ -11254,6 +14632,17 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_721083-MLA84255755760_052025-F.jpg"
     ],
+    "ean": "7500856114799",
+    "mlIds": [
+      "MLB49384059"
+    ],
+    "mlParentId": "MLB26002692",
+    "colors": [
+      {
+        "name": "A escolher",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_721083-MLA84255755760_052025-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -11261,12 +14650,8 @@ const catalogProducts = [
       "delineador",
       "universo en linea"
     ],
-    "colors": [
-      {
-        "name": "A escolher",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_721083-MLA84255755760_052025-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:34:55.636Z",
+    "updatedAt": "2026-03-03T16:34:55.636Z"
   },
   {
     "id": "p17725556956361267",
@@ -11278,6 +14663,17 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_731207-MLU72778676442_112023-F.jpg"
     ],
+    "ean": "786071057920",
+    "mlIds": [
+      "MLB28099722"
+    ],
+    "mlParentId": "MLB28099721",
+    "colors": [
+      {
+        "name": "Chocolate",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_731207-MLU72778676442_112023-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -11285,12 +14681,8 @@ const catalogProducts = [
       "delineador",
       "boss babe beauty"
     ],
-    "colors": [
-      {
-        "name": "Chocolate",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_731207-MLU72778676442_112023-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:34:55.636Z",
+    "updatedAt": "2026-03-03T16:34:55.636Z"
   },
   {
     "id": "p17725556956361268",
@@ -11303,6 +14695,17 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_926320-MLU69890368308_062023-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_600068-MLU69890368312_062023-F.jpg"
     ],
+    "ean": "731199774488",
+    "mlIds": [
+      "MLB23903875"
+    ],
+    "mlParentId": "MLB19826095",
+    "colors": [
+      {
+        "name": "Preto-classic",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_926320-MLU69890368308_062023-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -11310,12 +14713,8 @@ const catalogProducts = [
       "delineador",
       "boss babe beauty"
     ],
-    "colors": [
-      {
-        "name": "Preto-classic",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_926320-MLU69890368308_062023-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:34:55.636Z",
+    "updatedAt": "2026-03-03T16:34:55.636Z"
   },
   {
     "id": "p17725556956361269",
@@ -11327,13 +14726,12 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_860779-MLU79274410921_092024-F.jpg"
     ],
-    "averageRating": 0,
-    "reviewCount": 0,
-    "prices": [],
-    "tags": [
-      "delineador",
-      "moira"
+    "ean": "840222307095",
+    "mlIds": [
+      "MLB29591592",
+      "MLB29604706"
     ],
+    "mlParentId": "MLB28338013",
     "colors": [
       {
         "name": "Rhea 07",
@@ -11343,7 +14741,16 @@ const catalogProducts = [
         "name": "Nova 06",
         "image": "https://http2.mlstatic.com/D_NQ_NP_987999-MLA79562268226_102024-F.jpg"
       }
-    ]
+    ],
+    "averageRating": 0,
+    "reviewCount": 0,
+    "prices": [],
+    "tags": [
+      "delineador",
+      "moira"
+    ],
+    "createdAt": "2026-03-03T16:34:55.636Z",
+    "updatedAt": "2026-03-03T16:34:55.636Z"
   },
   {
     "id": "p17725556956371271",
@@ -11356,13 +14763,19 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_602823-MLU78442977928_082024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_696308-MLU71567638780_092023-F.jpg"
     ],
+    "mlIds": [
+      "MLB22849801"
+    ],
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "delineador",
       "36h"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:55.637Z",
+    "updatedAt": "2026-03-03T16:34:55.637Z"
   },
   {
     "id": "p17725556956371272",
@@ -11374,13 +14787,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_897163-MLA81632617509_122024-F.jpg"
     ],
+    "ean": "8435446403580",
+    "mlIds": [
+      "MLB45117786"
+    ],
+    "mlParentId": "MLB45117785",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "delineador",
       "3ina"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:55.637Z",
+    "updatedAt": "2026-03-03T16:34:55.637Z"
   },
   {
     "id": "p17725556956371273",
@@ -11393,6 +14814,17 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_828042-MLU73998941250_012024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_928645-MLU73999128368_012024-F.jpg"
     ],
+    "ean": "71249386033",
+    "mlIds": [
+      "MLB27679396"
+    ],
+    "mlParentId": "MLB27679395",
+    "colors": [
+      {
+        "name": "Preto",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_828042-MLU73998941250_012024-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -11400,12 +14832,8 @@ const catalogProducts = [
       "delineador",
       "l'oréal"
     ],
-    "colors": [
-      {
-        "name": "Preto",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_828042-MLU73998941250_012024-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:34:55.637Z",
+    "updatedAt": "2026-03-03T16:34:55.637Z"
   },
   {
     "id": "p17725556956371274",
@@ -11417,6 +14845,17 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_691964-MLU73367212835_122023-F.jpg"
     ],
+    "ean": "7501611820382",
+    "mlIds": [
+      "MLB28765424"
+    ],
+    "mlParentId": "MLB28765422",
+    "colors": [
+      {
+        "name": "Preto",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_691964-MLU73367212835_122023-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -11424,12 +14863,8 @@ const catalogProducts = [
       "delineador",
       "im natural"
     ],
-    "colors": [
-      {
-        "name": "Preto",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_691964-MLU73367212835_122023-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:34:55.637Z",
+    "updatedAt": "2026-03-03T16:34:55.637Z"
   },
   {
     "id": "p17725556956371275",
@@ -11445,6 +14880,16 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_750860-MLU72628159564_112023-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_783116-MLU74994925564_032024-F.jpg"
     ],
+    "mlIds": [
+      "MLB25297882"
+    ],
+    "mlParentId": "MLB25297878",
+    "colors": [
+      {
+        "name": "Preto",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_984380-MLU76417038076_052024-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -11452,12 +14897,8 @@ const catalogProducts = [
       "delineador",
       "essence"
     ],
-    "colors": [
-      {
-        "name": "Preto",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_984380-MLU76417038076_052024-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:34:55.637Z",
+    "updatedAt": "2026-03-03T16:34:55.637Z"
   },
   {
     "id": "p17725556969071276",
@@ -11470,6 +14911,17 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_754208-MLA80421969854_112024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_758701-MLA80422107956_112024-F.jpg"
     ],
+    "ean": "81555766016",
+    "mlIds": [
+      "MLB28932865"
+    ],
+    "mlParentId": "MLB28932863",
+    "colors": [
+      {
+        "name": "Preto",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_754208-MLA80421969854_112024-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -11477,12 +14929,8 @@ const catalogProducts = [
       "delineador",
       "l.a. colors"
     ],
-    "colors": [
-      {
-        "name": "Preto",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_754208-MLA80421969854_112024-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:34:56.907Z",
+    "updatedAt": "2026-03-03T16:34:56.907Z"
   },
   {
     "id": "p17725556969071277",
@@ -11496,13 +14944,20 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_853415-MLU73976076882_012024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_844981-MLU72070211322_102023-F.jpg"
     ],
+    "ean": "5057566187930",
+    "mlIds": [
+      "MLB27520407"
+    ],
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "delineador",
       "makeup revolution"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:56.907Z",
+    "updatedAt": "2026-03-03T16:34:56.907Z"
   },
   {
     "id": "p17725556969071278",
@@ -11514,6 +14969,17 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_617348-MLU74971889419_032024-F.jpg"
     ],
+    "ean": "81555766658",
+    "mlIds": [
+      "MLB28814270"
+    ],
+    "mlParentId": "MLB27254462",
+    "colors": [
+      {
+        "name": "Branco",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_617348-MLU74971889419_032024-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -11521,12 +14987,8 @@ const catalogProducts = [
       "delineador",
       "l.a. colors"
     ],
-    "colors": [
-      {
-        "name": "Branco",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_617348-MLU74971889419_032024-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:34:56.907Z",
+    "updatedAt": "2026-03-03T16:34:56.907Z"
   },
   {
     "id": "p17725556969071279",
@@ -11539,6 +15001,17 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_624257-MLA89299552782_082025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_968247-MLA89665926963_082025-F.jpg"
     ],
+    "ean": "6930249930650",
+    "mlIds": [
+      "MLB53593070"
+    ],
+    "mlParentId": "MLB53593067",
+    "colors": [
+      {
+        "name": "Preto",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_624257-MLA89299552782_082025-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -11546,12 +15019,8 @@ const catalogProducts = [
       "delineador",
       "lua e neve"
     ],
-    "colors": [
-      {
-        "name": "Preto",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_624257-MLA89299552782_082025-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:34:56.907Z",
+    "updatedAt": "2026-03-03T16:34:56.907Z"
   },
   {
     "id": "p17725556969081280",
@@ -11564,13 +15033,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_690550-MLU74333862435_012024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_636900-MLU74333862461_012024-F.jpg"
     ],
+    "ean": "4858782396936",
+    "mlIds": [
+      "MLB29052419"
+    ],
+    "mlParentId": "MLB29052417",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "delineador",
       "miss rose"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:56.908Z",
+    "updatedAt": "2026-03-03T16:34:56.908Z"
   },
   {
     "id": "p17725556969081281",
@@ -11582,6 +15059,17 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_675978-MLB43523687895_092020-F.jpg"
     ],
+    "ean": "6939374108965",
+    "mlIds": [
+      "MLB21635991"
+    ],
+    "mlParentId": "MLB21635990",
+    "colors": [
+      {
+        "name": "Transparente",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_675978-MLB43523687895_092020-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -11589,12 +15077,8 @@ const catalogProducts = [
       "delineador",
       "eyeliner"
     ],
-    "colors": [
-      {
-        "name": "Transparente",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_675978-MLB43523687895_092020-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:34:56.908Z",
+    "updatedAt": "2026-03-03T16:34:56.908Z"
   },
   {
     "id": "p17725556969081282",
@@ -11609,6 +15093,16 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_738565-MLA85835361402_062025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_749132-MLA86148053039_062025-F.jpg"
     ],
+    "ean": "710859109365",
+    "mlIds": [
+      "MLB51273279"
+    ],
+    "colors": [
+      {
+        "name": "Preto",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_676154-MLA86148305935_062025-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -11616,12 +15110,8 @@ const catalogProducts = [
       "delineador",
       "ventdepot"
     ],
-    "colors": [
-      {
-        "name": "Preto",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_676154-MLA86148305935_062025-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:34:56.908Z",
+    "updatedAt": "2026-03-03T16:34:56.908Z"
   },
   {
     "id": "p17725556969081283",
@@ -11637,13 +15127,12 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_713270-MLA92394787530_092025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_870978-MLA90127599276_082025-F.jpg"
     ],
-    "averageRating": 0,
-    "reviewCount": 0,
-    "prices": [],
-    "tags": [
-      "delineador",
-      "dalla make up"
+    "ean": "7898640657875",
+    "mlIds": [
+      "MLB46418596",
+      "MLB24000867"
     ],
+    "mlParentId": "MLB24000859",
     "colors": [
       {
         "name": "Preto",
@@ -11653,7 +15142,16 @@ const catalogProducts = [
         "name": "Branco",
         "image": "https://http2.mlstatic.com/D_NQ_NP_872677-MLU73880939727_012024-F.jpg"
       }
-    ]
+    ],
+    "averageRating": 0,
+    "reviewCount": 0,
+    "prices": [],
+    "tags": [
+      "delineador",
+      "dalla make up"
+    ],
+    "createdAt": "2026-03-03T16:34:56.908Z",
+    "updatedAt": "2026-03-03T16:34:58.189Z"
   },
   {
     "id": "p17725556969081286",
@@ -11667,6 +15165,16 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_800960-MLA79579336182_102024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_964361-MLA79579336186_102024-F.jpg"
     ],
+    "ean": "8690604478491",
+    "mlIds": [
+      "MLB36419041"
+    ],
+    "colors": [
+      {
+        "name": "Preto",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_808647-MLA79827654265_102024-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -11674,12 +15182,8 @@ const catalogProducts = [
       "delineador",
       "flormar"
     ],
-    "colors": [
-      {
-        "name": "Preto",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_808647-MLA79827654265_102024-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:34:56.908Z",
+    "updatedAt": "2026-03-03T16:34:56.908Z"
   },
   {
     "id": "p17725556969081287",
@@ -11692,6 +15196,17 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_682082-MLU73159398041_112023-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_717463-MLU73076002348_112023-F.jpg"
     ],
+    "ean": "7501906709422",
+    "mlIds": [
+      "MLB28545845"
+    ],
+    "mlParentId": "MLB28545844",
+    "colors": [
+      {
+        "name": "Laranja",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_682082-MLU73159398041_112023-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -11699,12 +15214,8 @@ const catalogProducts = [
       "delineador",
       "by apple"
     ],
-    "colors": [
-      {
-        "name": "Laranja",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_682082-MLU73159398041_112023-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:34:56.908Z",
+    "updatedAt": "2026-03-03T16:34:56.908Z"
   },
   {
     "id": "p17725556969081288",
@@ -11716,6 +15227,17 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_925544-MLU69805956764_062023-F.jpg"
     ],
+    "ean": "7909189261819",
+    "mlIds": [
+      "MLB23762546"
+    ],
+    "mlParentId": "MLB23762542",
+    "colors": [
+      {
+        "name": "Silver",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_925544-MLU69805956764_062023-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -11723,12 +15245,8 @@ const catalogProducts = [
       "delineador",
       "avon"
     ],
-    "colors": [
-      {
-        "name": "Silver",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_925544-MLU69805956764_062023-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:34:56.908Z",
+    "updatedAt": "2026-03-03T16:34:56.908Z"
   },
   {
     "id": "p17725556969081289",
@@ -11741,13 +15259,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_958088-MLB74225007249_012024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_717304-MLB50046920172_052022-F.jpg"
     ],
+    "ean": "814333028408",
+    "mlIds": [
+      "MLB20697075"
+    ],
+    "mlParentId": "MLB20697067",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "delineador",
       "milk makeup"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:56.908Z",
+    "updatedAt": "2026-03-03T16:34:56.908Z"
   },
   {
     "id": "p17725556969081290",
@@ -11759,6 +15285,17 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_930215-MLA89739845759_082025-F.jpg"
     ],
+    "ean": "6903072442461",
+    "mlIds": [
+      "MLB53658224"
+    ],
+    "mlParentId": "MLB53658223",
+    "colors": [
+      {
+        "name": "Preto",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_930215-MLA89739845759_082025-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -11766,12 +15303,8 @@ const catalogProducts = [
       "delineador",
       "karite"
     ],
-    "colors": [
-      {
-        "name": "Preto",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_930215-MLA89739845759_082025-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:34:56.908Z",
+    "updatedAt": "2026-03-03T16:34:56.908Z"
   },
   {
     "id": "p17725556981891294",
@@ -11787,13 +15320,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_914855-MLU79325937229_092024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_683356-MLU74430893464_022024-F.jpg"
     ],
+    "ean": "7898488141895",
+    "mlIds": [
+      "MLB22893047"
+    ],
+    "mlParentId": "MLB22893028",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "delineador",
       "unimakeup"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:58.189Z",
+    "updatedAt": "2026-03-03T16:34:58.189Z"
   },
   {
     "id": "p17725556981891295",
@@ -11808,6 +15349,17 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_699216-MLA92820849912_092025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_608997-MLA92820889954_092025-F.jpg"
     ],
+    "ean": "6952938455695",
+    "mlIds": [
+      "MLB57582368"
+    ],
+    "mlParentId": "MLB57582362",
+    "colors": [
+      {
+        "name": "Preto",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_770996-MLA92820929664_092025-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -11815,12 +15367,8 @@ const catalogProducts = [
       "delineador",
       "pink 21"
     ],
-    "colors": [
-      {
-        "name": "Preto",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_770996-MLA92820929664_092025-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:34:58.189Z",
+    "updatedAt": "2026-03-03T16:34:58.189Z"
   },
   {
     "id": "p17725556981891296",
@@ -11832,13 +15380,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_939750-MLA82475615121_022025-F.jpg"
     ],
+    "ean": "6977208191462",
+    "mlIds": [
+      "MLB46107852"
+    ],
+    "mlParentId": "MLB46107851",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "delineador",
       "sheglam"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:58.189Z",
+    "updatedAt": "2026-03-03T16:34:58.189Z"
   },
   {
     "id": "p17725556981901297",
@@ -11854,6 +15410,17 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_684562-MLA106758674154_022026-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_736248-MLA106759110888_022026-F.jpg"
     ],
+    "ean": "4897143260776",
+    "mlIds": [
+      "MLB65777962"
+    ],
+    "mlParentId": "MLB65777959",
+    "colors": [
+      {
+        "name": "Black",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_615345-MLA106758704046_022026-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -11861,12 +15428,8 @@ const catalogProducts = [
       "delineador",
       "timephoria"
     ],
-    "colors": [
-      {
-        "name": "Black",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_615345-MLA106758704046_022026-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:34:58.190Z",
+    "updatedAt": "2026-03-03T16:34:58.190Z"
   },
   {
     "id": "p17725556981901298",
@@ -11879,6 +15442,17 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_788373-MLU75240289733_032024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_759526-MLU78004175696_082024-F.jpg"
     ],
+    "ean": "7798317829430",
+    "mlIds": [
+      "MLB34296449"
+    ],
+    "mlParentId": "MLB15387639",
+    "colors": [
+      {
+        "name": "Preto",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_788373-MLU75240289733_032024-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -11886,12 +15460,8 @@ const catalogProducts = [
       "delineador",
       "tejar"
     ],
-    "colors": [
-      {
-        "name": "Preto",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_788373-MLU75240289733_032024-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:34:58.190Z",
+    "updatedAt": "2026-03-03T16:34:58.190Z"
   },
   {
     "id": "p17725556981901299",
@@ -11903,6 +15473,17 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_781635-MLA91519318740_092025-F.jpg"
     ],
+    "ean": "5397314900597",
+    "mlIds": [
+      "MLB54939364"
+    ],
+    "mlParentId": "MLB54204081",
+    "colors": [
+      {
+        "name": "Preto",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_781635-MLA91519318740_092025-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -11910,12 +15491,8 @@ const catalogProducts = [
       "delineador",
       "ms"
     ],
-    "colors": [
-      {
-        "name": "Preto",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_781635-MLA91519318740_092025-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:34:58.190Z",
+    "updatedAt": "2026-03-03T16:34:58.190Z"
   },
   {
     "id": "p17725556981901300",
@@ -11928,6 +15505,17 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_831826-MLU74957556443_032024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_797356-MLU72100241320_102023-F.jpg"
     ],
+    "ean": "309976790046",
+    "mlIds": [
+      "MLB25876987"
+    ],
+    "mlParentId": "MLB11402451",
+    "colors": [
+      {
+        "name": "Charcoal",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_831826-MLU74957556443_032024-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -11935,12 +15523,8 @@ const catalogProducts = [
       "delineador",
       "revlon"
     ],
-    "colors": [
-      {
-        "name": "Charcoal",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_831826-MLU74957556443_032024-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:34:58.190Z",
+    "updatedAt": "2026-03-03T16:34:58.190Z"
   },
   {
     "id": "p17725556981901301",
@@ -11954,13 +15538,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_956129-MLU72146112206_102023-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_611671-MLU72146160626_102023-F.jpg"
     ],
+    "ean": "731509973242",
+    "mlIds": [
+      "MLB27674186"
+    ],
+    "mlParentId": "MLB27674184",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "delineador",
       "kiss"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:58.190Z",
+    "updatedAt": "2026-03-03T16:34:58.190Z"
   },
   {
     "id": "p17725556981901302",
@@ -11972,6 +15564,17 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_903386-MLU77232576576_072024-F.jpg"
     ],
+    "ean": "7574506519838",
+    "mlIds": [
+      "MLB38004453"
+    ],
+    "mlParentId": "MLB38004452",
+    "colors": [
+      {
+        "name": "Cinza",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_903386-MLU77232576576_072024-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -11979,12 +15582,8 @@ const catalogProducts = [
       "delineador",
       "beaupretty"
     ],
-    "colors": [
-      {
-        "name": "Cinza",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_903386-MLU77232576576_072024-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:34:58.190Z",
+    "updatedAt": "2026-03-03T16:34:58.190Z"
   },
   {
     "id": "p17725556981901303",
@@ -11999,13 +15598,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_935875-MLU73174587969_112023-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_953397-MLU77740673900_072024-F.jpg"
     ],
+    "ean": "7798336948709",
+    "mlIds": [
+      "MLB28564048"
+    ],
+    "mlParentId": "MLB28564047",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "delineador",
       "cher"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:58.190Z",
+    "updatedAt": "2026-03-03T16:34:58.190Z"
   },
   {
     "id": "p17725556981901304",
@@ -12021,6 +15628,17 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_838292-MLA99622868574_122025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_774589-MLA99622799686_122025-F.jpg"
     ],
+    "ean": "8809579110484",
+    "mlIds": [
+      "MLB62737498"
+    ],
+    "mlParentId": "MLB62737497",
+    "colors": [
+      {
+        "name": "Preto",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_882804-MLA99622898492_122025-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -12028,12 +15646,8 @@ const catalogProducts = [
       "delineador",
       "noons up"
     ],
-    "colors": [
-      {
-        "name": "Preto",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_882804-MLA99622898492_122025-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:34:58.190Z",
+    "updatedAt": "2026-03-03T16:34:58.190Z"
   },
   {
     "id": "p17725556981911305",
@@ -12049,6 +15663,17 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_712971-MLA105541153521_012026-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_854593-MLA105540079593_012026-F.jpg"
     ],
+    "ean": "752790948221",
+    "mlIds": [
+      "MLB64814984"
+    ],
+    "mlParentId": "MLB64767877",
+    "colors": [
+      {
+        "name": "Preto",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_962165-MLA105540169441_012026-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -12056,12 +15681,8 @@ const catalogProducts = [
       "delineador",
       "allphv"
     ],
-    "colors": [
-      {
-        "name": "Preto",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_962165-MLA105540169441_012026-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:34:58.191Z",
+    "updatedAt": "2026-03-03T16:34:58.191Z"
   },
   {
     "id": "p17725556981911306",
@@ -12073,6 +15694,17 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_738654-MLA98391094139_112025-F.jpg"
     ],
+    "ean": "665570222223",
+    "mlIds": [
+      "MLB62165877"
+    ],
+    "mlParentId": "MLB62165876",
+    "colors": [
+      {
+        "name": "Púrpura",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_738654-MLA98391094139_112025-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -12080,12 +15712,8 @@ const catalogProducts = [
       "delineador",
       "okalan"
     ],
-    "colors": [
-      {
-        "name": "Púrpura",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_738654-MLA98391094139_112025-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:34:58.191Z",
+    "updatedAt": "2026-03-03T16:34:58.191Z"
   },
   {
     "id": "p17725556981911308",
@@ -12099,6 +15727,17 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_612102-MLU78309861592_082024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_610890-MLU78309861596_082024-F.jpg"
     ],
+    "ean": "692577000097",
+    "mlIds": [
+      "MLB39422398"
+    ],
+    "mlParentId": "MLB39422397",
+    "colors": [
+      {
+        "name": "Preto",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_981268-MLU78309821854_082024-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -12106,12 +15745,8 @@ const catalogProducts = [
       "delineador",
       "mia adora"
     ],
-    "colors": [
-      {
-        "name": "Preto",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_981268-MLU78309821854_082024-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:34:58.191Z",
+    "updatedAt": "2026-03-03T16:34:58.191Z"
   },
   {
     "id": "p17725556981911309",
@@ -12127,6 +15762,17 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_652483-MLA88733027412_072025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_896132-MLA89087484917_072025-F.jpg"
     ],
+    "ean": "789293044",
+    "mlIds": [
+      "MLB45229343"
+    ],
+    "mlParentId": "MLB45229341",
+    "colors": [
+      {
+        "name": "Preto 2",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_861760-MLA81453610048_122024-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -12134,12 +15780,8 @@ const catalogProducts = [
       "delineador",
       "suake"
     ],
-    "colors": [
-      {
-        "name": "Preto 2",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_861760-MLA81453610048_122024-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:34:58.191Z",
+    "updatedAt": "2026-03-03T16:34:58.191Z"
   },
   {
     "id": "p17725556981911311",
@@ -12152,6 +15794,17 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_781388-MLU73982832528_012024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_841744-MLU69214232132_052023-F.jpg"
     ],
+    "ean": "850018210089",
+    "mlIds": [
+      "MLB22956431"
+    ],
+    "mlParentId": "MLB22930055",
+    "colors": [
+      {
+        "name": "Branco",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_781388-MLU73982832528_012024-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -12159,12 +15812,8 @@ const catalogProducts = [
       "delineador",
       "rude cosmetics"
     ],
-    "colors": [
-      {
-        "name": "Branco",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_781388-MLU73982832528_012024-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:34:58.191Z",
+    "updatedAt": "2026-03-03T16:34:58.191Z"
   },
   {
     "id": "p17725556981921312",
@@ -12176,6 +15825,17 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_689718-MLA93789491815_092025-F.jpg"
     ],
+    "ean": "7893508500683",
+    "mlIds": [
+      "MLB58435371"
+    ],
+    "mlParentId": "MLB58435370",
+    "colors": [
+      {
+        "name": "Preto",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_689718-MLA93789491815_092025-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -12183,12 +15843,8 @@ const catalogProducts = [
       "delineador",
       "inglot cosmetics"
     ],
-    "colors": [
-      {
-        "name": "Preto",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_689718-MLA93789491815_092025-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:34:58.192Z",
+    "updatedAt": "2026-03-03T16:34:58.192Z"
   },
   {
     "id": "p17725556994831314",
@@ -12202,13 +15858,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_905404-MLU76188254555_052024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_631639-MLU77968790116_082024-F.jpg"
     ],
+    "ean": "840163400725",
+    "mlIds": [
+      "MLB36604633"
+    ],
+    "mlParentId": "MLB36604630",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "blush",
       "merit"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:59.482Z",
+    "updatedAt": "2026-03-03T16:34:59.482Z"
   },
   {
     "id": "p17725556994831315",
@@ -12220,13 +15884,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_765887-MLU78421152546_082024-F.jpg"
     ],
+    "ean": "5055402968583",
+    "mlIds": [
+      "MLB39460311"
+    ],
+    "mlParentId": "MLB39460310",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "blush",
       "mua make up academy"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:59.483Z",
+    "updatedAt": "2026-03-03T16:34:59.483Z"
   },
   {
     "id": "p17725556994831316",
@@ -12242,13 +15914,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_836709-MLA89184877409_082025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_809232-MLA88827599764_082025-F.jpg"
     ],
+    "ean": "7894222042411",
+    "mlIds": [
+      "MLB52102503"
+    ],
+    "mlParentId": "MLB52102502",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "blush",
       "dailus"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:59.483Z",
+    "updatedAt": "2026-03-03T16:34:59.483Z"
   },
   {
     "id": "p17725556994831317",
@@ -12264,13 +15944,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_673291-MLA87167535735_072025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_802980-MLA86843542116_072025-F.jpg"
     ],
+    "ean": "3614274337914",
+    "mlIds": [
+      "MLB51973712"
+    ],
+    "mlParentId": "MLB51973711",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "blush",
       "lancôme"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:59.483Z",
+    "updatedAt": "2026-03-03T16:34:59.483Z"
   },
   {
     "id": "p17725556994831318",
@@ -12283,13 +15971,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_860231-MLU79116952875_092024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_729550-MLU78879689416_092024-F.jpg"
     ],
+    "ean": "44386068117",
+    "mlIds": [
+      "MLB28626689"
+    ],
+    "mlParentId": "MLB26783781",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "blush",
       "physicians formula"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:59.483Z",
+    "updatedAt": "2026-03-03T16:34:59.483Z"
   },
   {
     "id": "p17725556994831319",
@@ -12304,13 +16000,13 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_926489-MLA101188034718_122025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_774140-MLA101187781352_122025-F.jpg"
     ],
-    "averageRating": 0,
-    "reviewCount": 0,
-    "prices": [],
-    "tags": [
-      "blush",
-      "dior"
+    "ean": "3348901607902",
+    "mlIds": [
+      "MLB47187549",
+      "MLB63248697",
+      "MLB63399729"
     ],
+    "mlParentId": "MLB47187548",
     "colors": [
       {
         "name": "Powder Maquilhagem",
@@ -12328,7 +16024,16 @@ const catalogProducts = [
         "name": "Poison",
         "image": "https://http2.mlstatic.com/D_NQ_NP_711748-MLU75794510830_042024-F.jpg"
       }
-    ]
+    ],
+    "averageRating": 0,
+    "reviewCount": 0,
+    "prices": [],
+    "tags": [
+      "blush",
+      "dior"
+    ],
+    "createdAt": "2026-03-03T16:34:59.483Z",
+    "updatedAt": "2026-03-03T16:34:59.485Z"
   },
   {
     "id": "p17725556994841320",
@@ -12344,13 +16049,11 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_646322-MLA83305746094_042025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_694234-MLA83305553674_042025-F.jpg"
     ],
-    "averageRating": 0,
-    "reviewCount": 0,
-    "prices": [],
-    "tags": [
-      "blush",
-      "dior"
+    "ean": "942123422393",
+    "mlIds": [
+      "MLB45486045"
     ],
+    "mlParentId": "MLB45486043",
     "colors": [
       {
         "name": "Facial Duo",
@@ -12360,7 +16063,16 @@ const catalogProducts = [
         "name": "Po",
         "image": "https://http2.mlstatic.com/D_NQ_NP_799022-MLA83305553628_042025-F.jpg"
       }
-    ]
+    ],
+    "averageRating": 0,
+    "reviewCount": 0,
+    "prices": [],
+    "tags": [
+      "blush",
+      "dior"
+    ],
+    "createdAt": "2026-03-03T16:34:59.483Z",
+    "updatedAt": "2026-03-03T16:34:59.483Z"
   },
   {
     "id": "p17725556994841321",
@@ -12372,13 +16084,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_727637-MLA81733842307_012025-F.jpg"
     ],
+    "ean": "30188563",
+    "mlIds": [
+      "MLB45246751"
+    ],
+    "mlParentId": "MLB45246744",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "blush",
       "l'oréal paris"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:59.484Z",
+    "updatedAt": "2026-03-03T16:34:59.484Z"
   },
   {
     "id": "p17725556994841322",
@@ -12391,13 +16111,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_912104-MLU75794508778_042024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_624402-MLU75794508784_042024-F.jpg"
     ],
+    "ean": "57899360240809",
+    "mlIds": [
+      "MLB36154594"
+    ],
+    "mlParentId": "MLB36154586",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "blush",
       "blush"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:59.484Z",
+    "updatedAt": "2026-03-03T16:34:59.484Z"
   },
   {
     "id": "p17725556994841323",
@@ -12409,13 +16137,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_806357-MLU73423383695_122023-F.jpg"
     ],
+    "ean": "7899360240804",
+    "mlIds": [
+      "MLB27172843"
+    ],
+    "mlParentId": "MLB27172841",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "blush",
       "fenzza"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:59.484Z",
+    "updatedAt": "2026-03-03T16:34:59.484Z"
   },
   {
     "id": "p17725556994841324",
@@ -12428,13 +16164,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_694878-MLU78169199308_082024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_965016-MLU74348776500_022024-F.jpg"
     ],
+    "ean": "648260424312",
+    "mlIds": [
+      "MLB32481875"
+    ],
+    "mlParentId": "MLB32481871",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "blush",
       "j cat"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:59.484Z",
+    "updatedAt": "2026-03-03T16:34:59.484Z"
   },
   {
     "id": "p17725556994841327",
@@ -12446,13 +16190,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_826740-MLA91813534862_092025-F.jpg"
     ],
+    "ean": "739757298407",
+    "mlIds": [
+      "MLB55771701"
+    ],
+    "mlParentId": "MLB54932777",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "blush",
       "nobrand"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:59.484Z",
+    "updatedAt": "2026-03-03T16:34:59.484Z"
   },
   {
     "id": "p17725556994841328",
@@ -12468,13 +16220,29 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_713476-MLA83473145681_042025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_866038-MLA83182119906_042025-F.jpg"
     ],
+    "ean": "3348901608138",
+    "mlIds": [
+      "MLB46446426",
+      "MLB51649869",
+      "MLB36363715",
+      "MLB36376608",
+      "MLB35868387",
+      "MLB36371319",
+      "MLB46453751",
+      "MLB46443099",
+      "MLB47635514"
+    ],
+    "mlParentId": "MLB35868386",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "blush",
       "dior"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:59.484Z",
+    "updatedAt": "2026-03-03T16:35:00.872Z"
   },
   {
     "id": "p17725556994841330",
@@ -12486,13 +16254,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_902152-MLU72012629431_092023-F.jpg"
     ],
+    "ean": "7798149751732",
+    "mlIds": [
+      "MLB27332629"
+    ],
+    "mlParentId": "MLB27332628",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "blush",
       "anna stein"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:59.484Z",
+    "updatedAt": "2026-03-03T16:34:59.484Z"
   },
   {
     "id": "p17725556994841332",
@@ -12505,13 +16281,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_881496-MLA80072506200_102024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_629341-MLA80072221090_102024-F.jpg"
     ],
+    "ean": "81555757274",
+    "mlIds": [
+      "MLB42452701"
+    ],
+    "mlParentId": "MLB42163043",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "blush",
       "l.a. colors"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:59.484Z",
+    "updatedAt": "2026-03-03T16:34:59.484Z"
   },
   {
     "id": "p17725556994841334",
@@ -12525,13 +16309,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_624389-MLA80731223596_112024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_667451-MLA92321613474_092025-F.jpg"
     ],
+    "ean": "7896542512568",
+    "mlIds": [
+      "MLB43950207"
+    ],
+    "mlParentId": "MLB43950202",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "blush",
       "koasis"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:59.484Z",
+    "updatedAt": "2026-03-03T16:34:59.484Z"
   },
   {
     "id": "p17725556994851340",
@@ -12547,13 +16339,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_770295-MLA106474221966_022026-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_956240-MLA107114207673_022026-F.jpg"
     ],
+    "ean": "192333301692",
+    "mlIds": [
+      "MLB65534432"
+    ],
+    "mlParentId": "MLB65534429",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "blush",
       "clinique"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:59.485Z",
+    "updatedAt": "2026-03-03T16:34:59.485Z"
   },
   {
     "id": "p17725556994851341",
@@ -12567,13 +16367,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_630444-MLA80989827882_122024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_993930-MLA80989818786_122024-F.jpg"
     ],
+    "ean": "8059385022482",
+    "mlIds": [
+      "MLB44637565"
+    ],
+    "mlParentId": "MLB44637563",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "blush",
       "kiko milano"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:59.485Z",
+    "updatedAt": "2026-03-03T16:34:59.485Z"
   },
   {
     "id": "p17725556994851342",
@@ -12586,13 +16394,23 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_651384-MLA94378780104_102025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_948886-MLA94378799996_102025-F.jpg"
     ],
+    "ean": "7507130182390",
+    "mlIds": [
+      "MLB59804533",
+      "MLB58986821",
+      "MLB58281836"
+    ],
+    "mlParentId": "MLB58281835",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "blush",
       "dior"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:59.485Z",
+    "updatedAt": "2026-03-03T16:35:00.872Z"
   },
   {
     "id": "p17725556994851344",
@@ -12606,13 +16424,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_766468-MLU78231983841_082024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_725117-MLU78231944091_082024-F.jpg"
     ],
+    "ean": "7899360260925",
+    "mlIds": [
+      "MLB35813793"
+    ],
+    "mlParentId": "MLB35813791",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "blush",
       "fenzza"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:59.485Z",
+    "updatedAt": "2026-03-03T16:34:59.485Z"
   },
   {
     "id": "p17725556994851345",
@@ -12626,13 +16452,25 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_648913-MLA91024296026_092025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_877089-MLA91023949476_092025-F.jpg"
     ],
+    "ean": "969025996623",
+    "mlIds": [
+      "MLB51533979",
+      "MLB52154000",
+      "MLB52136171",
+      "MLB51534197",
+      "MLB54421470"
+    ],
+    "mlParentId": "MLB50853335",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "blush",
       "nobrand"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:34:59.485Z",
+    "updatedAt": "2026-03-03T16:35:00.871Z"
   },
   {
     "id": "p17725557008711351",
@@ -12646,13 +16484,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_763890-MLU78609787142_082024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_659708-MLU78843798977_082024-F.jpg"
     ],
+    "ean": "7898671422640",
+    "mlIds": [
+      "MLB37043615"
+    ],
+    "mlParentId": "MLB37043614",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "blush",
       "ruby rose"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:00.871Z",
+    "updatedAt": "2026-03-03T16:35:00.871Z"
   },
   {
     "id": "p17725557008711352",
@@ -12665,13 +16511,24 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_789295-MLA92924862656_092025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_980826-MLA92925080292_092025-F.jpg"
     ],
+    "ean": "7507130182321",
+    "mlIds": [
+      "MLB57788517",
+      "MLB59180177",
+      "MLB58381606",
+      "MLB57477186"
+    ],
+    "mlParentId": "MLB57477176",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "blush",
       "dior"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:00.871Z",
+    "updatedAt": "2026-03-03T16:35:00.872Z"
   },
   {
     "id": "p17725557008721365",
@@ -12687,13 +16544,23 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_849091-MLA89348875025_082025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_991492-MLA88989368318_082025-F.jpg"
     ],
+    "ean": "803173347664",
+    "mlIds": [
+      "MLB53398967",
+      "MLB53434867",
+      "MLB53399081"
+    ],
+    "mlParentId": "MLB53398966",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "blush",
       "magefy"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:00.872Z",
+    "updatedAt": "2026-03-03T16:35:00.872Z"
   },
   {
     "id": "p17725557008721366",
@@ -12709,13 +16576,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_761850-MLA97282416192_112025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_793142-MLA97282416206_112025-F.jpg"
     ],
+    "ean": "4059729532695",
+    "mlIds": [
+      "MLB61977568"
+    ],
+    "mlParentId": "MLB61977567",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "blush",
       "catrice"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:00.872Z",
+    "updatedAt": "2026-03-03T16:35:00.872Z"
   },
   {
     "id": "p17725557008721369",
@@ -12728,13 +16603,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_757528-MLA94053853669_102025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_862302-MLA94054487239_102025-F.jpg"
     ],
+    "ean": "6295125027795",
+    "mlIds": [
+      "MLB58878400"
+    ],
+    "mlParentId": "MLB29170581",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "blush",
       "ruby rose"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:00.872Z",
+    "updatedAt": "2026-03-03T16:35:00.872Z"
   },
   {
     "id": "p17725557008731377",
@@ -12747,13 +16630,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_885024-MLU71875299151_092023-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_921163-MLU78232249687_082024-F.jpg"
     ],
+    "ean": "6931611314092",
+    "mlIds": [
+      "MLB27185141"
+    ],
+    "mlParentId": "MLB26608682",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "blush",
       "shein"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:00.873Z",
+    "updatedAt": "2026-03-03T16:35:00.873Z"
   },
   {
     "id": "p17725558085103247",
@@ -12768,13 +16659,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_857609-MLA84883981535_052025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_949986-MLA84884050537_052025-F.jpg"
     ],
+    "ean": "7898671792576",
+    "mlIds": [
+      "MLB50166077"
+    ],
+    "mlParentId": "MLB50166076",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "blush",
       "mascavo"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:48.510Z",
+    "updatedAt": "2026-03-03T16:36:48.510Z"
   },
   {
     "id": "p17725557034141383",
@@ -12790,13 +16689,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_976881-MLA104091656542_012026-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_671475-MLA104093270126_012026-F.jpg"
     ],
+    "ean": "689304000123",
+    "mlIds": [
+      "MLB64203162"
+    ],
+    "mlParentId": "MLB64203161",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "iluminador",
       "anastasia beverly hills"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:03.414Z",
+    "updatedAt": "2026-03-03T16:35:03.414Z"
   },
   {
     "id": "p17725557034141384",
@@ -12809,13 +16716,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_760406-MLA99447763450_112025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_962594-MLA99886176923_112025-F.jpg"
     ],
+    "ean": "6932159623462",
+    "mlIds": [
+      "MLB62664455"
+    ],
+    "mlParentId": "MLB62664454",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "iluminador",
       "byem"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:03.414Z",
+    "updatedAt": "2026-03-03T16:35:03.414Z"
   },
   {
     "id": "p17725557034141385",
@@ -12829,13 +16744,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_641162-MLU74262604006_022024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_944873-MLU75024775216_032024-F.jpg"
     ],
+    "ean": "3609680212283",
+    "mlIds": [
+      "MLB31753764"
+    ],
+    "mlParentId": "MLB31753763",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "iluminador",
       "soda"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:03.414Z",
+    "updatedAt": "2026-03-03T16:35:03.414Z"
   },
   {
     "id": "p17725557034141386",
@@ -12849,13 +16772,20 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_640541-MLA79771350074_102024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_962757-MLA80022704713_102024-F.jpg"
     ],
+    "ean": "3609680212146",
+    "mlIds": [
+      "MLB42034099"
+    ],
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "iluminador",
       "soda"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:03.414Z",
+    "updatedAt": "2026-03-03T16:35:03.414Z"
   },
   {
     "id": "p17725557034141387",
@@ -12867,13 +16797,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_651666-MLA79707705249_102024-F.jpg"
     ],
+    "ean": "717489286046",
+    "mlIds": [
+      "MLB28166330"
+    ],
+    "mlParentId": "MLB28166323",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "iluminador",
       "milani"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:03.414Z",
+    "updatedAt": "2026-03-03T16:35:03.414Z"
   },
   {
     "id": "p17725557034141388",
@@ -12887,13 +16825,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_960545-MLU74462849672_022024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_733816-MLU74586079023_022024-F.jpg"
     ],
+    "ean": "635635469214, 635635469221",
+    "mlIds": [
+      "MLB33653144"
+    ],
+    "mlParentId": "MLB33653143",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "iluminador",
       "morphe"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:03.414Z",
+    "updatedAt": "2026-03-03T16:35:03.414Z"
   },
   {
     "id": "p17725557034141389",
@@ -12908,13 +16854,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_839217-MLA81266875792_122024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_713180-MLA81266875798_122024-F.jpg"
     ],
+    "ean": "7709840331222",
+    "mlIds": [
+      "MLB44978524"
+    ],
+    "mlParentId": "MLB41178158",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "iluminador",
       "trendy"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:03.414Z",
+    "updatedAt": "2026-03-03T16:35:03.414Z"
   },
   {
     "id": "p17725557034141390",
@@ -12927,13 +16881,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_717130-MLA99601172092_122025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_852723-MLA100086008797_122025-F.jpg"
     ],
+    "ean": "6931848067983",
+    "mlIds": [
+      "MLB62728498"
+    ],
+    "mlParentId": "MLB62728497",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "iluminador",
       "favorbeauty"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:03.414Z",
+    "updatedAt": "2026-03-03T16:35:03.414Z"
   },
   {
     "id": "p17725557034141391",
@@ -12948,6 +16910,17 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_629213-MLU78678260693_082024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_615119-MLU78446294494_082024-F.jpg"
     ],
+    "ean": "764608023150",
+    "mlIds": [
+      "MLB32058264"
+    ],
+    "mlParentId": "MLB32058260",
+    "colors": [
+      {
+        "name": "Viva",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_706404-MLU74389625889_022024-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -12955,12 +16928,8 @@ const catalogProducts = [
       "iluminador",
       "bazic products"
     ],
-    "colors": [
-      {
-        "name": "Viva",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_706404-MLU74389625889_022024-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:35:03.414Z",
+    "updatedAt": "2026-03-03T16:35:03.414Z"
   },
   {
     "id": "p17725557034141392",
@@ -12974,13 +16943,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_684099-MLU79046475055_092024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_682560-MLU78809022884_092024-F.jpg"
     ],
+    "ean": "5057566085878",
+    "mlIds": [
+      "MLB28747568"
+    ],
+    "mlParentId": "MLB28747566",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "iluminador",
       "makeup revolution"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:03.414Z",
+    "updatedAt": "2026-03-03T16:35:03.414Z"
   },
   {
     "id": "p17725557046881393",
@@ -12995,13 +16972,22 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_992606-MLU71337577530_082023-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_601717-MLU71337686924_082023-F.jpg"
     ],
+    "ean": "717489285032",
+    "mlIds": [
+      "MLB26654575",
+      "MLB28284833"
+    ],
+    "mlParentId": "MLB26654564",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "iluminador",
       "milani"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:04.688Z",
+    "updatedAt": "2026-03-03T16:35:06.065Z"
   },
   {
     "id": "p17725557046881394",
@@ -13015,6 +17001,17 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_761733-MLU74262651700_022024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_688323-MLU74377669779_022024-F.jpg"
     ],
+    "ean": "8682536053372",
+    "mlIds": [
+      "MLB31750877"
+    ],
+    "mlParentId": "MLB31750873",
+    "colors": [
+      {
+        "name": "Midnight",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_807246-MLU78457248160_082024-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -13022,12 +17019,8 @@ const catalogProducts = [
       "iluminador",
       "flormar"
     ],
-    "colors": [
-      {
-        "name": "Midnight",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_807246-MLU78457248160_082024-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:35:04.688Z",
+    "updatedAt": "2026-03-03T16:35:04.688Z"
   },
   {
     "id": "p17725557046891396",
@@ -13040,13 +17033,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_827930-MLU74375345353_022024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_750074-MLU74375345359_022024-F.jpg"
     ],
+    "ean": "8690604534753",
+    "mlIds": [
+      "MLB31684978"
+    ],
+    "mlParentId": "MLB31684977",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "iluminador",
       "flormar"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:04.689Z",
+    "updatedAt": "2026-03-03T16:35:04.689Z"
   },
   {
     "id": "p17725557046891397",
@@ -13058,13 +17059,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_669429-MLU75950607347_042024-F.jpg"
     ],
+    "ean": "7899820803488",
+    "mlIds": [
+      "MLB36076221"
+    ],
+    "mlParentId": "MLB36076218",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "iluminador",
       "luisance"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:04.689Z",
+    "updatedAt": "2026-03-03T16:35:04.689Z"
   },
   {
     "id": "p17725557046891400",
@@ -13078,13 +17087,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_915496-MLA81194292243_122024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_731648-MLA80927978500_122024-F.jpg"
     ],
+    "ean": "7906001593806",
+    "mlIds": [
+      "MLB44527934"
+    ],
+    "mlParentId": "MLB36941304",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "iluminador",
       "kiko milano"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:04.689Z",
+    "updatedAt": "2026-03-03T16:35:04.689Z"
   },
   {
     "id": "p17725557046901401",
@@ -13098,13 +17115,20 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_953370-MLU73039807186_112023-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_763370-MLU73121794985_112023-F.jpg"
     ],
+    "ean": "6295125019646",
+    "mlIds": [
+      "MLB28517518"
+    ],
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "iluminador",
       "ruby rose"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:04.690Z",
+    "updatedAt": "2026-03-03T16:35:04.690Z"
   },
   {
     "id": "p17725557060651404",
@@ -13117,13 +17141,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_927402-MLU77764111819_072024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_709651-MLU77764249455_072024-F.jpg"
     ],
+    "ean": "840072901603",
+    "mlIds": [
+      "MLB38363347"
+    ],
+    "mlParentId": "MLB38363345",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "iluminador",
       "jaclyn cosmetics"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:06.065Z",
+    "updatedAt": "2026-03-03T16:35:06.065Z"
   },
   {
     "id": "p17725557060651405",
@@ -13137,13 +17169,20 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_826660-MLU76780554483_062024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_619410-MLU76580395264_062024-F.jpg"
     ],
+    "ean": "8435446411851",
+    "mlIds": [
+      "MLB37414579"
+    ],
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "iluminador",
       "3ina"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:06.065Z",
+    "updatedAt": "2026-03-03T16:35:06.065Z"
   },
   {
     "id": "p17725557060651406",
@@ -13155,13 +17194,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_991979-MLU75155874962_032024-F.jpg"
     ],
+    "ean": "3701365760505",
+    "mlIds": [
+      "MLB34747427"
+    ],
+    "mlParentId": "MLB34747422",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "iluminador",
       "note cosmetique"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:06.065Z",
+    "updatedAt": "2026-03-03T16:35:06.065Z"
   },
   {
     "id": "p17725557060651407",
@@ -13173,13 +17220,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_738197-MLU74719257647_022024-F.jpg"
     ],
+    "ean": "3701365760512",
+    "mlIds": [
+      "MLB34063444"
+    ],
+    "mlParentId": "MLB34063443",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "iluminador",
       "las margaritas"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:06.065Z",
+    "updatedAt": "2026-03-03T16:35:06.065Z"
   },
   {
     "id": "p17725557060651409",
@@ -13191,13 +17246,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_739246-MLA84278644402_052025-F.jpg"
     ],
+    "ean": "6930110505222",
+    "mlIds": [
+      "MLB49531155"
+    ],
+    "mlParentId": "MLB49531154",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "iluminador",
       "eloise"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:06.065Z",
+    "updatedAt": "2026-03-03T16:35:06.065Z"
   },
   {
     "id": "p17725557060651410",
@@ -13213,13 +17276,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_720224-MLU77165726875_062024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_840166-MLU77775068364_072024-F.jpg"
     ],
+    "ean": "7908725500726",
+    "mlIds": [
+      "MLB37834545"
+    ],
+    "mlParentId": "MLB37834544",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "iluminador",
       "océane"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:06.065Z",
+    "updatedAt": "2026-03-03T16:35:06.065Z"
   },
   {
     "id": "p17725557060661411",
@@ -13232,13 +17303,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_611341-MLU77621914532_072024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_869475-MLU77841130421_072024-F.jpg"
     ],
+    "ean": "5060945315480",
+    "mlIds": [
+      "MLB38502816"
+    ],
+    "mlParentId": "MLB38502815",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "iluminador",
       "iconic london"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:06.066Z",
+    "updatedAt": "2026-03-03T16:35:06.066Z"
   },
   {
     "id": "p17725558072343237",
@@ -13252,13 +17331,20 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_846259-MLU72246949172_102023-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_708363-MLA83380474603_032025-F.jpg"
     ],
+    "ean": "7898969501033",
+    "mlIds": [
+      "MLB27776701"
+    ],
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "iluminador",
       "fran by franciny ehlke"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:47.234Z",
+    "updatedAt": "2026-03-03T16:36:47.234Z"
   },
   {
     "id": "p17725558110563253",
@@ -13273,13 +17359,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_715124-MLU77564581088_072024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_700536-MLU78077333623_072024-F.jpg"
     ],
+    "ean": "7896609544433",
+    "mlIds": [
+      "MLB38417932"
+    ],
+    "mlParentId": "MLB38417931",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "iluminador",
       "boca rosa"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:51.056Z",
+    "updatedAt": "2026-03-03T16:36:51.056Z"
   },
   {
     "id": "p17725557074511417",
@@ -13295,13 +17389,16 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_757745-MLA92181386178_092025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_800033-MLA92181386188_092025-F.jpg"
     ],
-    "averageRating": 0,
-    "reviewCount": 0,
-    "prices": [],
-    "tags": [
-      "contorno",
-      "ruby rose"
+    "ean": "7908799008289",
+    "mlIds": [
+      "MLB45623133",
+      "MLB45622729",
+      "MLB45510485",
+      "MLB45621881",
+      "MLB45623377",
+      "MLB45622777"
     ],
+    "mlParentId": "MLB45510476",
     "colors": [
       {
         "name": "Bastao Sunkis",
@@ -13311,7 +17408,16 @@ const catalogProducts = [
         "name": "Sunkiss Linha",
         "image": "https://http2.mlstatic.com/D_NQ_NP_776889-MLA93330239868_092025-F.jpg"
       }
-    ]
+    ],
+    "averageRating": 0,
+    "reviewCount": 0,
+    "prices": [],
+    "tags": [
+      "contorno",
+      "ruby rose"
+    ],
+    "createdAt": "2026-03-03T16:35:07.451Z",
+    "updatedAt": "2026-03-03T16:35:07.451Z"
   },
   {
     "id": "p17725557074521424",
@@ -13327,13 +17433,22 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_727457-MLU74219533492_012024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_945808-MLU74219572182_012024-F.jpg"
     ],
+    "ean": "3220160500500",
+    "mlIds": [
+      "MLB36552833",
+      "MLB31055028"
+    ],
+    "mlParentId": "MLB31055027",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "contorno",
       "hot makeup"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:07.452Z",
+    "updatedAt": "2026-03-03T16:35:08.729Z"
   },
   {
     "id": "p17725557074521426",
@@ -13347,13 +17462,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_634838-MLA106236075300_022026-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_989843-MLA106862215671_022026-F.jpg"
     ],
+    "ean": "7896536904027",
+    "mlIds": [
+      "MLB65436163"
+    ],
+    "mlParentId": "MLB65436162",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "contorno",
       "anaglow"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:07.452Z",
+    "updatedAt": "2026-03-03T16:35:07.452Z"
   },
   {
     "id": "p17725557074521427",
@@ -13367,13 +17490,11 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_925547-MLU71971240486_092023-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_766830-MLU71970973702_092023-F.jpg"
     ],
-    "averageRating": 0,
-    "reviewCount": 0,
-    "prices": [],
-    "tags": [
-      "contorno",
-      "frederika make"
+    "ean": "7896032676510",
+    "mlIds": [
+      "MLB42245020"
     ],
+    "mlParentId": "MLB42245019",
     "colors": [
       {
         "name": "Frederika",
@@ -13387,7 +17508,16 @@ const catalogProducts = [
         "name": "Nuts Make",
         "image": "https://http2.mlstatic.com/D_NQ_NP_943891-MLU75014274459_032024-F.jpg"
       }
-    ]
+    ],
+    "averageRating": 0,
+    "reviewCount": 0,
+    "prices": [],
+    "tags": [
+      "contorno",
+      "frederika make"
+    ],
+    "createdAt": "2026-03-03T16:35:07.452Z",
+    "updatedAt": "2026-03-03T16:35:07.452Z"
   },
   {
     "id": "p17725557087301438",
@@ -13403,13 +17533,24 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_882337-MLA96187376137_102025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_793030-MLA96187138701_102025-F.jpg"
     ],
+    "ean": "651986029488",
+    "mlIds": [
+      "MLB61086320",
+      "MLB59337658",
+      "MLB60724584",
+      "MLB61745728"
+    ],
+    "mlParentId": "MLB59337655",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "contorno",
       "too faced"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:08.730Z",
+    "updatedAt": "2026-03-03T16:35:10.005Z"
   },
   {
     "id": "p17725557087301439",
@@ -13425,13 +17566,23 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_690901-MLA86025735649_062025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_746460-MLA85714297462_062025-F.jpg"
     ],
+    "ean": "7900083011722",
+    "mlIds": [
+      "MLB45467748",
+      "MLB45467615",
+      "MLB45384732"
+    ],
+    "mlParentId": "MLB45384730",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "contorno",
       "ruby rose"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:08.730Z",
+    "updatedAt": "2026-03-03T16:35:10.004Z"
   },
   {
     "id": "p17725557087301444",
@@ -13447,13 +17598,12 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_720263-MLA105308678954_012026-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_796684-MLA105308976480_012026-F.jpg"
     ],
-    "averageRating": 0,
-    "reviewCount": 0,
-    "prices": [],
-    "tags": [
-      "contorno",
-      "océane"
+    "ean": "7908725503864",
+    "mlIds": [
+      "MLB64969774",
+      "MLB64969782"
     ],
+    "mlParentId": "MLB64969773",
     "colors": [
       {
         "name": "Drift",
@@ -13463,7 +17613,16 @@ const catalogProducts = [
         "name": "Medio Coast",
         "image": "https://http2.mlstatic.com/D_NQ_NP_640099-MLA105308857440_012026-F.jpg"
       }
-    ]
+    ],
+    "averageRating": 0,
+    "reviewCount": 0,
+    "prices": [],
+    "tags": [
+      "contorno",
+      "océane"
+    ],
+    "createdAt": "2026-03-03T16:35:08.730Z",
+    "updatedAt": "2026-03-03T16:35:08.731Z"
   },
   {
     "id": "p17725557087301448",
@@ -13476,6 +17635,17 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_701859-MLA89931412210_082025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_837585-MLA90310646773_082025-F.jpg"
     ],
+    "ean": "7908644405584",
+    "mlIds": [
+      "MLB53973599"
+    ],
+    "mlParentId": "MLB53973598",
+    "colors": [
+      {
+        "name": "Marrom",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_701859-MLA89931412210_082025-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -13483,12 +17653,8 @@ const catalogProducts = [
       "contorno",
       "sp colors"
     ],
-    "colors": [
-      {
-        "name": "Marrom",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_701859-MLA89931412210_082025-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:35:08.730Z",
+    "updatedAt": "2026-03-03T16:35:08.730Z"
   },
   {
     "id": "p17725557087301449",
@@ -13501,13 +17667,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_994707-MLA79311531580_092024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_693313-MLA82280950796_022025-F.jpg"
     ],
+    "ean": "7898449404595",
+    "mlIds": [
+      "MLB41188001"
+    ],
+    "mlParentId": "MLB41187997",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "contorno",
       "phállebeauty"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:08.730Z",
+    "updatedAt": "2026-03-03T16:35:08.730Z"
   },
   {
     "id": "p17725557087311454",
@@ -13523,6 +17697,16 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_975199-MLA107432708343_022026-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_773944-MLA107432623127_022026-F.jpg"
     ],
+    "mlIds": [
+      "MLB65797722"
+    ],
+    "mlParentId": "MLB65797719",
+    "colors": [
+      {
+        "name": "Marrom",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_637454-MLA107432941127_022026-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -13530,12 +17714,8 @@ const catalogProducts = [
       "contorno",
       "paris night"
     ],
-    "colors": [
-      {
-        "name": "Marrom",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_637454-MLA107432941127_022026-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:35:08.731Z",
+    "updatedAt": "2026-03-03T16:35:08.731Z"
   },
   {
     "id": "p17725557087311460",
@@ -13551,13 +17731,11 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_910535-MLA85984828067_062025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_999830-MLA85984877585_062025-F.jpg"
     ],
-    "averageRating": 0,
-    "reviewCount": 0,
-    "prices": [],
-    "tags": [
-      "contorno",
-      "ruby rose"
+    "ean": "7900083011708",
+    "mlIds": [
+      "MLB45392419"
     ],
+    "mlParentId": "MLB45392418",
     "colors": [
       {
         "name": "Linha",
@@ -13567,7 +17745,16 @@ const catalogProducts = [
         "name": "Facial",
         "image": "https://http2.mlstatic.com/D_NQ_NP_992428-MLA85018563604_052025-F.jpg"
       }
-    ]
+    ],
+    "averageRating": 0,
+    "reviewCount": 0,
+    "prices": [],
+    "tags": [
+      "contorno",
+      "ruby rose"
+    ],
+    "createdAt": "2026-03-03T16:35:08.731Z",
+    "updatedAt": "2026-03-03T16:35:08.731Z"
   },
   {
     "id": "p17725557100041461",
@@ -13579,13 +17766,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_771118-MLA92302492130_092025-F.jpg"
     ],
+    "ean": "810050380874",
+    "mlIds": [
+      "MLB44713079"
+    ],
+    "mlParentId": "MLB44455355",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "contorno",
       "patrick ta"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:10.004Z",
+    "updatedAt": "2026-03-03T16:35:10.004Z"
   },
   {
     "id": "p17725557100041463",
@@ -13601,13 +17796,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_730396-MLA96320963093_102025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_928452-MLA95878358644_102025-F.jpg"
     ],
+    "ean": "418137119715",
+    "mlIds": [
+      "MLB61225228"
+    ],
+    "mlParentId": "MLB39873361",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "contorno",
       "o.two.o"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:10.004Z",
+    "updatedAt": "2026-03-03T16:35:10.004Z"
   },
   {
     "id": "p17725557100061478",
@@ -13623,13 +17826,22 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_962799-MLA93608673282_102025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_861869-MLA93608683212_102025-F.jpg"
     ],
+    "ean": "609332846128",
+    "mlIds": [
+      "MLB44470263",
+      "MLB58797573"
+    ],
+    "mlParentId": "MLB44183498",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "contorno",
       "e.l.f. cosmetics"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:10.006Z",
+    "updatedAt": "2026-03-03T16:35:13.827Z"
   },
   {
     "id": "p17725557100061484",
@@ -13641,13 +17853,22 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_644861-MLA79345316996_092024-F.jpg"
     ],
+    "ean": "717489844048",
+    "mlIds": [
+      "MLB29279173",
+      "MLB29458941"
+    ],
+    "mlParentId": "MLB29279172",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "contorno",
       "milani"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:10.006Z",
+    "updatedAt": "2026-03-03T16:35:13.826Z"
   },
   {
     "id": "p17725557112711492",
@@ -13660,13 +17881,20 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_712892-MLU79085121969_092024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_878734-MLU79085358771_092024-F.jpg"
     ],
+    "ean": "602230114269",
+    "mlIds": [
+      "MLB40476781"
+    ],
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "contorno",
       "supre"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:11.271Z",
+    "updatedAt": "2026-03-03T16:35:11.271Z"
   },
   {
     "id": "p17725557125371493",
@@ -13681,13 +17909,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_854768-MLU73339078546_122023-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_642756-MLU73339078568_122023-F.jpg"
     ],
+    "ean": "840026643245",
+    "mlIds": [
+      "MLB28979375"
+    ],
+    "mlParentId": "MLB28979370",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "contorno",
       "fenty"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:12.537Z",
+    "updatedAt": "2026-03-03T16:35:12.537Z"
   },
   {
     "id": "p17725557125381496",
@@ -13700,13 +17936,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_654926-MLU78027987008_082024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_740235-MLU78027987020_082024-F.jpg"
     ],
+    "ean": "5057566079211",
+    "mlIds": [
+      "MLB28351432"
+    ],
+    "mlParentId": "MLB28351428",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "contorno",
       "makeup revolution"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:12.537Z",
+    "updatedAt": "2026-03-03T16:35:12.537Z"
   },
   {
     "id": "p17725557125381498",
@@ -13719,13 +17963,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_740440-MLA99411234128_112025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_834531-MLA82532908546_032025-F.jpg"
     ],
+    "ean": "49696524643",
+    "mlIds": [
+      "MLB46637139"
+    ],
+    "mlParentId": "MLB54001107",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "contorno",
       "b-pure"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:12.538Z",
+    "updatedAt": "2026-03-03T16:35:12.538Z"
   },
   {
     "id": "p17725557138251500",
@@ -13739,13 +17991,23 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_658726-MLA72626263095_112023-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_606562-MLA72626262949_112023-F.jpg"
     ],
+    "ean": "3616301173021",
+    "mlIds": [
+      "MLB27702244",
+      "MLB27702243",
+      "MLB27702242"
+    ],
+    "mlParentId": "MLB27702241",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "contorno",
       "rimmel london"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:13.825Z",
+    "updatedAt": "2026-03-03T16:35:13.825Z"
   },
   {
     "id": "p17725557138251501",
@@ -13761,6 +18023,17 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_754687-MLA99869148393_112025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_976173-MLA99869000331_112025-F.jpg"
     ],
+    "ean": "7896702355677",
+    "mlIds": [
+      "MLB62661640"
+    ],
+    "mlParentId": "MLB62661639",
+    "colors": [
+      {
+        "name": "Cor Bronzer",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_916013-MLA99385519298_112025-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -13768,12 +18041,8 @@ const catalogProducts = [
       "contorno",
       "lanossi"
     ],
-    "colors": [
-      {
-        "name": "Cor Bronzer",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_916013-MLA99385519298_112025-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:35:13.825Z",
+    "updatedAt": "2026-03-03T16:35:13.825Z"
   },
   {
     "id": "p17725557138251502",
@@ -13785,13 +18054,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_803990-MLU74417795328_022024-F.jpg"
     ],
+    "ean": "651986975174",
+    "mlIds": [
+      "MLB33249868"
+    ],
+    "mlParentId": "MLB28455729",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "contorno",
       "too faced"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:13.825Z",
+    "updatedAt": "2026-03-03T16:35:13.825Z"
   },
   {
     "id": "p17725557138251503",
@@ -13803,13 +18080,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_967540-MLA72271961548_102023-F.jpg"
     ],
+    "ean": "3616301238478",
+    "mlIds": [
+      "MLB27802050"
+    ],
+    "mlParentId": "MLB27802049",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "contorno",
       "max factor"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:13.825Z",
+    "updatedAt": "2026-03-03T16:35:13.825Z"
   },
   {
     "id": "p17725557138251507",
@@ -13821,13 +18106,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_871716-MLA84282104004_052025-F.jpg"
     ],
+    "ean": "877231007111",
+    "mlIds": [
+      "MLB49566428"
+    ],
+    "mlParentId": "MLB49566420",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "contorno",
       "hourglass"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:13.825Z",
+    "updatedAt": "2026-03-03T16:35:13.825Z"
   },
   {
     "id": "p17725557138251508",
@@ -13839,13 +18132,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_950930-MLU78799909907_082024-F.jpg"
     ],
+    "ean": "44386064393",
+    "mlIds": [
+      "MLB31788827"
+    ],
+    "mlParentId": "MLB31788826",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "contorno",
       "physicians formula"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:13.825Z",
+    "updatedAt": "2026-03-03T16:35:13.825Z"
   },
   {
     "id": "p17725557138251509",
@@ -13857,13 +18158,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_782794-MLU74330143091_012024-F.jpg"
     ],
+    "ean": "990004500142",
+    "mlIds": [
+      "MLB31046974"
+    ],
+    "mlParentId": "MLB31046973",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "contorno",
       "nuda canada"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:13.825Z",
+    "updatedAt": "2026-03-03T16:35:13.825Z"
   },
   {
     "id": "p17725557138261510",
@@ -13877,13 +18186,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_623016-MLA91513459786_092025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_995064-MLA91514344734_092025-F.jpg"
     ],
+    "ean": "8059385034614",
+    "mlIds": [
+      "MLB54931487"
+    ],
+    "mlParentId": "MLB54931483",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "contorno",
       "kiko milano"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:13.826Z",
+    "updatedAt": "2026-03-03T16:35:13.826Z"
   },
   {
     "id": "p17725557138261511",
@@ -13896,13 +18213,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_625246-MLU74520370305_022024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_609794-MLU74520545551_022024-F.jpg"
     ],
+    "ean": "5060542727136",
+    "mlIds": [
+      "MLB32983725"
+    ],
+    "mlParentId": "MLB32302457",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "contorno",
       "charlotte tilbury"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:13.826Z",
+    "updatedAt": "2026-03-03T16:35:13.826Z"
   },
   {
     "id": "p17725557138261515",
@@ -13915,13 +18240,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_885639-MLU77229611768_072024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_610190-MLU77229611772_072024-F.jpg"
     ],
+    "ean": "849136020342",
+    "mlIds": [
+      "MLB37998768"
+    ],
+    "mlParentId": "MLB37998767",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "contorno",
       "city color"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:13.826Z",
+    "updatedAt": "2026-03-03T16:35:13.826Z"
   },
   {
     "id": "p17725557138271519",
@@ -13935,13 +18268,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_623650-MLA80819208396_122024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_869164-MLA81084171855_122024-F.jpg"
     ],
+    "ean": "81555979249",
+    "mlIds": [
+      "MLB44318149"
+    ],
+    "mlParentId": "MLB44318146",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "contorno",
       "l.a. girl"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:13.827Z",
+    "updatedAt": "2026-03-03T16:35:13.827Z"
   },
   {
     "id": "p17725557138271520",
@@ -13957,13 +18298,20 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_677315-MLA96307016888_102025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_700553-MLA96755838279_102025-F.jpg"
     ],
+    "mlIds": [
+      "MLB61440297"
+    ],
+    "mlParentId": "MLB61440290",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "contorno",
       "l'bel"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:13.827Z",
+    "updatedAt": "2026-03-03T16:35:13.827Z"
   },
   {
     "id": "p17725557138271522",
@@ -13975,13 +18323,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_884335-MLA99359438706_112025-F.jpg"
     ],
+    "ean": "7898570771191",
+    "mlIds": [
+      "MLB29570265"
+    ],
+    "mlParentId": "MLB53894669",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "contorno",
       "biomarine"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:13.827Z",
+    "updatedAt": "2026-03-03T16:35:13.827Z"
   },
   {
     "id": "p17725557152181524",
@@ -13993,13 +18349,13 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_919286-MLU72648241244_112023-F.jpg"
     ],
-    "averageRating": 0,
-    "reviewCount": 0,
-    "prices": [],
-    "tags": [
-      "esponjas e pincéis",
-      "mnk"
+    "ean": "606529487812",
+    "mlIds": [
+      "MLB27976747",
+      "MLB36815774",
+      "MLB62388679"
     ],
+    "mlParentId": "MLB27976746",
     "colors": [
       {
         "name": "Rosa",
@@ -14013,7 +18369,16 @@ const catalogProducts = [
         "name": "Violeta",
         "image": "https://http2.mlstatic.com/D_NQ_NP_774707-MLA98991314313_112025-F.jpg"
       }
-    ]
+    ],
+    "averageRating": 0,
+    "reviewCount": 0,
+    "prices": [],
+    "tags": [
+      "esponjas e pincéis",
+      "mnk"
+    ],
+    "createdAt": "2026-03-03T16:35:15.218Z",
+    "updatedAt": "2026-03-03T16:35:15.218Z"
   },
   {
     "id": "p17725557152181526",
@@ -14026,6 +18391,17 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_817274-MLU76209026509_052024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_738792-MLU76028335452_052024-F.jpg"
     ],
+    "ean": "1201812017067",
+    "mlIds": [
+      "MLB36639800"
+    ],
+    "mlParentId": "MLB36639798",
+    "colors": [
+      {
+        "name": "Sortidas",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_817274-MLU76209026509_052024-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -14033,12 +18409,8 @@ const catalogProducts = [
       "esponjas e pincéis",
       "esponja maquiagem chanfrado"
     ],
-    "colors": [
-      {
-        "name": "Sortidas",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_817274-MLU76209026509_052024-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:35:15.218Z",
+    "updatedAt": "2026-03-03T16:35:15.218Z"
   },
   {
     "id": "p17725557152181527",
@@ -14053,6 +18425,17 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_923353-MLU75165402321_032024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_994394-MLU73885342753_012024-F.jpg"
     ],
+    "ean": "7894567897783",
+    "mlIds": [
+      "MLB26248844"
+    ],
+    "mlParentId": "MLB26248820",
+    "colors": [
+      {
+        "name": "Bege",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_633724-MLU75023174066_032024-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -14060,12 +18443,8 @@ const catalogProducts = [
       "esponjas e pincéis",
       "bellos charme"
     ],
-    "colors": [
-      {
-        "name": "Bege",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_633724-MLU75023174066_032024-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:35:15.218Z",
+    "updatedAt": "2026-03-03T16:35:15.218Z"
   },
   {
     "id": "p17725557152181528",
@@ -14079,13 +18458,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_865492-MLU78939021420_092024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_773209-MLU79177920083_092024-F.jpg"
     ],
+    "ean": "41554466409",
+    "mlIds": [
+      "MLB32242592"
+    ],
+    "mlParentId": "MLB32242590",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "esponjas e pincéis",
       "maybelline"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:15.218Z",
+    "updatedAt": "2026-03-03T16:35:15.218Z"
   },
   {
     "id": "p17725557152181530",
@@ -14101,13 +18488,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_627413-MLU78018837157_072024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_609037-MLU77798145004_072024-F.jpg"
     ],
+    "ean": "7799244429458",
+    "mlIds": [
+      "MLB38705277"
+    ],
+    "mlParentId": "MLB38705276",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "esponjas e pincéis",
       "ruby rose"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:15.218Z",
+    "updatedAt": "2026-03-03T16:35:15.218Z"
   },
   {
     "id": "p17725557152191531",
@@ -14119,6 +18514,17 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_734641-MLA104647651519_012026-F.jpg"
     ],
+    "ean": "7898458247640",
+    "mlIds": [
+      "MLB64208168"
+    ],
+    "mlParentId": "MLB64208165",
+    "colors": [
+      {
+        "name": "Roxo",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_734641-MLA104647651519_012026-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -14126,12 +18532,8 @@ const catalogProducts = [
       "esponjas e pincéis",
       "imaginarium"
     ],
-    "colors": [
-      {
-        "name": "Roxo",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_734641-MLA104647651519_012026-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:35:15.218Z",
+    "updatedAt": "2026-03-03T16:35:15.218Z"
   },
   {
     "id": "p17725557152191532",
@@ -14144,6 +18546,17 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_735676-MLU72956205037_112023-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_895357-MLU74111580373_012024-F.jpg"
     ],
+    "ean": "7894567898131",
+    "mlIds": [
+      "MLB28199937"
+    ],
+    "mlParentId": "MLB28199932",
+    "colors": [
+      {
+        "name": "Rosa",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_735676-MLU72956205037_112023-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -14151,12 +18564,8 @@ const catalogProducts = [
       "esponjas e pincéis",
       "real techniques"
     ],
-    "colors": [
-      {
-        "name": "Rosa",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_735676-MLU72956205037_112023-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:35:15.219Z",
+    "updatedAt": "2026-03-03T16:35:15.219Z"
   },
   {
     "id": "p17725557152191533",
@@ -14172,13 +18581,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_650872-MLU73684286828_012024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_942004-MLU73684286838_012024-F.jpg"
     ],
+    "ean": "696859322211",
+    "mlIds": [
+      "MLB24287904"
+    ],
+    "mlParentId": "MLB24287873",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "esponjas e pincéis",
       "null"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:15.219Z",
+    "updatedAt": "2026-03-03T16:35:15.219Z"
   },
   {
     "id": "p17725557152191534",
@@ -14191,13 +18608,20 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_947373-MLU72966370028_112023-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_766761-MLU77991977594_082024-F.jpg"
     ],
+    "ean": "6920180613101",
+    "mlIds": [
+      "MLB28317149"
+    ],
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "esponjas e pincéis",
       "hello mini"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:15.219Z",
+    "updatedAt": "2026-03-03T16:35:15.219Z"
   },
   {
     "id": "p17725557152191535",
@@ -14213,6 +18637,17 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_693416-MLU73045829629_112023-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_880602-MLA98759561673_112025-F.jpg"
     ],
+    "ean": "4579389603837",
+    "mlIds": [
+      "MLB28307266"
+    ],
+    "mlParentId": "MLB28307265",
+    "colors": [
+      {
+        "name": "Rosa",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_630191-MLA98285813872_112025-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -14220,12 +18655,8 @@ const catalogProducts = [
       "esponjas e pincéis",
       "hello mini"
     ],
-    "colors": [
-      {
-        "name": "Rosa",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_630191-MLA98285813872_112025-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:35:15.219Z",
+    "updatedAt": "2026-03-03T16:35:15.219Z"
   },
   {
     "id": "p17725557152191536",
@@ -14237,13 +18668,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_687917-MLA107190699333_022026-F.jpg"
     ],
+    "ean": "6968332405099",
+    "mlIds": [
+      "MLB65576907"
+    ],
+    "mlParentId": "MLB65576903",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "esponjas e pincéis",
       "nouf"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:15.219Z",
+    "updatedAt": "2026-03-03T16:35:15.219Z"
   },
   {
     "id": "p17725557152191537",
@@ -14255,6 +18694,17 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_779339-MLA92324122656_092025-F.jpg"
     ],
+    "ean": "751320664570",
+    "mlIds": [
+      "MLB43714853"
+    ],
+    "mlParentId": "MLB43714850",
+    "colors": [
+      {
+        "name": "Sortida",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_779339-MLA92324122656_092025-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -14262,12 +18712,8 @@ const catalogProducts = [
       "esponjas e pincéis",
       "sffumato"
     ],
-    "colors": [
-      {
-        "name": "Sortida",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_779339-MLA92324122656_092025-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:35:15.219Z",
+    "updatedAt": "2026-03-03T16:35:15.219Z"
   },
   {
     "id": "p17725557152191538",
@@ -14283,6 +18729,17 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_905623-MLA100873821953_122025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_807862-MLA100873978017_122025-F.jpg"
     ],
+    "ean": "6939393267131",
+    "mlIds": [
+      "MLB63008212"
+    ],
+    "mlParentId": "MLB63008211",
+    "colors": [
+      {
+        "name": "Multicolorida",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_695892-MLA100873987465_122025-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -14290,12 +18747,8 @@ const catalogProducts = [
       "esponjas e pincéis",
       "royal"
     ],
-    "colors": [
-      {
-        "name": "Multicolorida",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_695892-MLA100873987465_122025-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:35:15.219Z",
+    "updatedAt": "2026-03-03T16:35:15.219Z"
   },
   {
     "id": "p17725557152191539",
@@ -14311,6 +18764,17 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_691867-MLU74977980467_032024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_603302-MLU74841889518_032024-F.jpg"
     ],
+    "ean": "79625915662",
+    "mlIds": [
+      "MLB29587880"
+    ],
+    "mlParentId": "MLB29587855",
+    "colors": [
+      {
+        "name": "Laranja",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_892487-MLU74841889498_032024-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -14318,12 +18782,8 @@ const catalogProducts = [
       "esponjas e pincéis",
       "real techniques"
     ],
-    "colors": [
-      {
-        "name": "Laranja",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_892487-MLU74841889498_032024-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:35:15.219Z",
+    "updatedAt": "2026-03-03T16:35:15.219Z"
   },
   {
     "id": "p17725557152191540",
@@ -14339,6 +18799,17 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_874849-MLU78455377758_082024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_697005-MLU78687164187_082024-F.jpg"
     ],
+    "ean": "7895435315309",
+    "mlIds": [
+      "MLB39787340"
+    ],
+    "mlParentId": "MLB39787339",
+    "colors": [
+      {
+        "name": "Rosa",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_847225-MLU78687164175_082024-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -14346,12 +18817,8 @@ const catalogProducts = [
       "esponjas e pincéis",
       "dride"
     ],
-    "colors": [
-      {
-        "name": "Rosa",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_847225-MLU78687164175_082024-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:35:15.219Z",
+    "updatedAt": "2026-03-03T16:35:15.219Z"
   },
   {
     "id": "p17725557152191541",
@@ -14367,13 +18834,11 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_626982-MLA91722489662_092025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_980108-MLA91722539106_092025-F.jpg"
     ],
-    "averageRating": 0,
-    "reviewCount": 0,
-    "prices": [],
-    "tags": [
-      "esponjas e pincéis",
-      "sabrina sato"
+    "ean": "6959280510560",
+    "mlIds": [
+      "MLB55525216"
     ],
+    "mlParentId": "MLB41163792",
     "colors": [
       {
         "name": "Vermelho",
@@ -14383,7 +18848,16 @@ const catalogProducts = [
         "name": "Trio Ss2977",
         "image": "https://http2.mlstatic.com/D_NQ_NP_864492-MLA79830198453_102024-F.jpg"
       }
-    ]
+    ],
+    "averageRating": 0,
+    "reviewCount": 0,
+    "prices": [],
+    "tags": [
+      "esponjas e pincéis",
+      "sabrina sato"
+    ],
+    "createdAt": "2026-03-03T16:35:15.219Z",
+    "updatedAt": "2026-03-03T16:35:15.219Z"
   },
   {
     "id": "p17725557152201542",
@@ -14397,6 +18871,17 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_960796-MLA92738223487_092025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_943113-MLA92738263491_092025-F.jpg"
     ],
+    "ean": "6971602733006",
+    "mlIds": [
+      "MLB27258514"
+    ],
+    "mlParentId": "MLB27258509",
+    "colors": [
+      {
+        "name": "Rosa-escuro",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_946310-MLA92330402654_092025-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -14404,12 +18889,8 @@ const catalogProducts = [
       "esponjas e pincéis",
       "ruby anjo"
     ],
-    "colors": [
-      {
-        "name": "Rosa-escuro",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_946310-MLA92330402654_092025-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:35:15.220Z",
+    "updatedAt": "2026-03-03T16:35:15.220Z"
   },
   {
     "id": "p17725557152201543",
@@ -14422,6 +18903,17 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_946604-MLA92071422186_092025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_600352-MLA92071422206_092025-F.jpg"
     ],
+    "ean": "40141929211",
+    "mlIds": [
+      "MLB56194985"
+    ],
+    "mlParentId": "MLB56194984",
+    "colors": [
+      {
+        "name": "Branco",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_946604-MLA92071422186_092025-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -14429,12 +18921,8 @@ const catalogProducts = [
       "esponjas e pincéis",
       "balbuino"
     ],
-    "colors": [
-      {
-        "name": "Branco",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_946604-MLA92071422186_092025-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:35:15.220Z",
+    "updatedAt": "2026-03-03T16:35:15.220Z"
   },
   {
     "id": "p17725557152201544",
@@ -14449,13 +18937,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_636637-MLA92125546398_092025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_853484-MLU72538554718_112023-F.jpg"
     ],
+    "ean": "7908153306730",
+    "mlIds": [
+      "MLB24313222"
+    ],
+    "mlParentId": "MLB24313221",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "esponjas e pincéis",
       "klass vough"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:15.220Z",
+    "updatedAt": "2026-03-03T16:35:15.220Z"
   },
   {
     "id": "p17725557152201545",
@@ -14470,13 +18966,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_995556-MLU70535099181_072023-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_958344-MLU70535099183_072023-F.jpg"
     ],
+    "ean": "90726329721",
+    "mlIds": [
+      "MLB24584483"
+    ],
+    "mlParentId": "MLB24584478",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "esponjas e pincéis",
       "imagic"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:15.220Z",
+    "updatedAt": "2026-03-03T16:35:15.220Z"
   },
   {
     "id": "p17725557152201546",
@@ -14489,6 +18993,17 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_846504-MLU74224148218_022024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_910238-MLU74180261675_012024-F.jpg"
     ],
+    "ean": "7897517918392",
+    "mlIds": [
+      "MLB26982813"
+    ],
+    "mlParentId": "MLB26982795",
+    "colors": [
+      {
+        "name": "Rosa",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_846504-MLU74224148218_022024-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -14496,12 +19011,8 @@ const catalogProducts = [
       "esponjas e pincéis",
       "belliz company"
     ],
-    "colors": [
-      {
-        "name": "Rosa",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_846504-MLU74224148218_022024-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:35:15.220Z",
+    "updatedAt": "2026-03-03T16:35:15.220Z"
   },
   {
     "id": "p17725557152201547",
@@ -14514,6 +19025,16 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_658571-MLA82633143618_032025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_689068-MLA82919851605_032025-F.jpg"
     ],
+    "mlIds": [
+      "MLB46845898"
+    ],
+    "mlParentId": "MLB46845895",
+    "colors": [
+      {
+        "name": "Sortidas",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_658571-MLA82633143618_032025-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -14521,12 +19042,8 @@ const catalogProducts = [
       "esponjas e pincéis",
       "coelhinho"
     ],
-    "colors": [
-      {
-        "name": "Sortidas",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_658571-MLA82633143618_032025-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:35:15.220Z",
+    "updatedAt": "2026-03-03T16:35:15.220Z"
   },
   {
     "id": "p17725557152201548",
@@ -14540,6 +19057,17 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_843350-MLU77547031022_072024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_786566-MLU77547149288_072024-F.jpg"
     ],
+    "ean": "79625016161",
+    "mlIds": [
+      "MLB38365155"
+    ],
+    "mlParentId": "MLB38365154",
+    "colors": [
+      {
+        "name": "Verde",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_835619-MLU77546961728_072024-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -14547,12 +19075,8 @@ const catalogProducts = [
       "esponjas e pincéis",
       "ecotools"
     ],
-    "colors": [
-      {
-        "name": "Verde",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_835619-MLU77546961728_072024-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:35:15.220Z",
+    "updatedAt": "2026-03-03T16:35:15.220Z"
   },
   {
     "id": "p17725557152201549",
@@ -14566,13 +19090,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_885406-MLU70689512512_072023-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_881894-MLU70719179119_072023-F.jpg"
     ],
+    "ean": "7897331037132",
+    "mlIds": [
+      "MLB25248525"
+    ],
+    "mlParentId": "MLB25248495",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "esponjas e pincéis",
       "ry beauty"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:15.220Z",
+    "updatedAt": "2026-03-03T16:35:15.220Z"
   },
   {
     "id": "p17725557152201550",
@@ -14586,6 +19118,17 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_706941-MLA86057590115_062025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_740033-MLA85746136664_062025-F.jpg"
     ],
+    "ean": "7896707760711",
+    "mlIds": [
+      "MLB51202515"
+    ],
+    "mlParentId": "MLB51202503",
+    "colors": [
+      {
+        "name": "Variado",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_757663-MLA86057590105_062025-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -14593,12 +19136,8 @@ const catalogProducts = [
       "esponjas e pincéis",
       "catherine"
     ],
-    "colors": [
-      {
-        "name": "Variado",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_757663-MLA86057590105_062025-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:35:15.220Z",
+    "updatedAt": "2026-03-03T16:35:15.220Z"
   },
   {
     "id": "p17725557152201551",
@@ -14611,6 +19150,17 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_900259-MLU75763991503_042024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_913014-MLU71146094591_082023-F.jpg"
     ],
+    "ean": "7897517918231",
+    "mlIds": [
+      "MLB26197739"
+    ],
+    "mlParentId": "MLB26197719",
+    "colors": [
+      {
+        "name": "Rosa",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_900259-MLU75763991503_042024-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -14618,12 +19168,8 @@ const catalogProducts = [
       "esponjas e pincéis",
       "belliz"
     ],
-    "colors": [
-      {
-        "name": "Rosa",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_900259-MLU75763991503_042024-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:35:15.220Z",
+    "updatedAt": "2026-03-03T16:35:15.220Z"
   },
   {
     "id": "p17725557164971554",
@@ -14638,6 +19184,17 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_973406-MLA85426896335_052025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_891682-MLA85426856701_052025-F.jpg"
     ],
+    "ean": "7896153042805",
+    "mlIds": [
+      "MLB50722915"
+    ],
+    "mlParentId": "MLB50722912",
+    "colors": [
+      {
+        "name": "Nude",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_930246-MLA85426632531_052025-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -14645,12 +19202,8 @@ const catalogProducts = [
       "esponjas e pincéis",
       "klass vough"
     ],
-    "colors": [
-      {
-        "name": "Nude",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_930246-MLA85426632531_052025-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:35:16.497Z",
+    "updatedAt": "2026-03-03T16:35:16.497Z"
   },
   {
     "id": "p17725557164971555",
@@ -14662,6 +19215,17 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_648131-MLA89933394232_082025-F.jpg"
     ],
+    "ean": "7908153849442",
+    "mlIds": [
+      "MLB53976009"
+    ],
+    "mlParentId": "MLB53976008",
+    "colors": [
+      {
+        "name": "Azul",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_648131-MLA89933394232_082025-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -14669,12 +19233,8 @@ const catalogProducts = [
       "esponjas e pincéis",
       "meily's"
     ],
-    "colors": [
-      {
-        "name": "Azul",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_648131-MLA89933394232_082025-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:35:16.497Z",
+    "updatedAt": "2026-03-03T16:35:16.497Z"
   },
   {
     "id": "p17725557164971557",
@@ -14687,13 +19247,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_961771-MLA84584411991_052025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_838663-MLA84287565674_052025-F.jpg"
     ],
+    "ean": "6968332407239",
+    "mlIds": [
+      "MLB49612719"
+    ],
+    "mlParentId": "MLB49612717",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "esponjas e pincéis",
       "miss frandy"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:16.497Z",
+    "updatedAt": "2026-03-03T16:35:16.497Z"
   },
   {
     "id": "p17725557164971558",
@@ -14705,13 +19273,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_723055-MLU70699784603_072023-F.jpg"
     ],
+    "ean": "6921099281849",
+    "mlIds": [
+      "MLB25118732"
+    ],
+    "mlParentId": "MLB25118710",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "esponjas e pincéis",
       "puff"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:16.497Z",
+    "updatedAt": "2026-03-03T16:35:16.497Z"
   },
   {
     "id": "p17725557164971559",
@@ -14723,6 +19299,17 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_852368-MLU71107660944_082023-F.jpg"
     ],
+    "ean": "7908412700248",
+    "mlIds": [
+      "MLB26197737"
+    ],
+    "mlParentId": "MLB26197717",
+    "colors": [
+      {
+        "name": "Azul",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_852368-MLU71107660944_082023-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -14730,12 +19317,8 @@ const catalogProducts = [
       "esponjas e pincéis",
       "rc brasil"
     ],
-    "colors": [
-      {
-        "name": "Azul",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_852368-MLU71107660944_082023-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:35:16.497Z",
+    "updatedAt": "2026-03-03T16:35:16.497Z"
   },
   {
     "id": "p17725557164981560",
@@ -14751,6 +19334,17 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_914220-MLU71622675580_092023-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_656398-MLA80224966189_102024-F.jpg"
     ],
+    "ean": "7795782717682",
+    "mlIds": [
+      "MLB26982822"
+    ],
+    "mlParentId": "MLB26724163",
+    "colors": [
+      {
+        "name": "Oliva",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_738200-MLA80224908815_102024-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -14758,12 +19352,8 @@ const catalogProducts = [
       "esponjas e pincéis",
       "beauty blender"
     ],
-    "colors": [
-      {
-        "name": "Oliva",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_738200-MLA80224908815_102024-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:35:16.498Z",
+    "updatedAt": "2026-03-03T16:35:16.498Z"
   },
   {
     "id": "p17725557164981562",
@@ -14779,13 +19369,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_831282-MLU74333238463_012024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_897443-MLU74333345099_012024-F.jpg"
     ],
+    "ean": "7908517901557",
+    "mlIds": [
+      "MLB31054778"
+    ],
+    "mlParentId": "MLB31054777",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "esponjas e pincéis",
       "vizzela"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:16.498Z",
+    "updatedAt": "2026-03-03T16:35:16.498Z"
   },
   {
     "id": "p17725557164981563",
@@ -14799,13 +19397,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_602411-MLU71227654107_082023-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_719899-MLU71227654097_082023-F.jpg"
     ],
+    "ean": "7898617323673",
+    "mlIds": [
+      "MLB26248830"
+    ],
+    "mlParentId": "MLB26248802",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "esponjas e pincéis",
       "joli joli makeup"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:16.498Z",
+    "updatedAt": "2026-03-03T16:35:16.498Z"
   },
   {
     "id": "p17725557164981564",
@@ -14818,13 +19424,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_928952-MLU74220063324_012024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_920208-MLU73886573277_012024-F.jpg"
     ],
+    "ean": "6926713371234",
+    "mlIds": [
+      "MLB26226390"
+    ],
+    "mlParentId": "MLB26226388",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "esponjas e pincéis",
       "face beautiful profissional"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:16.498Z",
+    "updatedAt": "2026-03-03T16:35:16.498Z"
   },
   {
     "id": "p17725557164981566",
@@ -14838,6 +19452,17 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_774091-MLA94946964698_102025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_861939-MLA95381884573_102025-F.jpg"
     ],
+    "ean": "1415827312",
+    "mlIds": [
+      "MLB60234208"
+    ],
+    "mlParentId": "MLB60234201",
+    "colors": [
+      {
+        "name": "Sortida",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_875141-MLA95382139255_102025-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -14845,12 +19470,8 @@ const catalogProducts = [
       "esponjas e pincéis",
       "esponja"
     ],
-    "colors": [
-      {
-        "name": "Sortida",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_875141-MLA95382139255_102025-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:35:16.498Z",
+    "updatedAt": "2026-03-03T16:35:16.498Z"
   },
   {
     "id": "p17725557164981567",
@@ -14863,6 +19484,17 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_803328-MLU76174751070_052024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_742333-MLU76174731216_052024-F.jpg"
     ],
+    "ean": "7891295576447",
+    "mlIds": [
+      "MLB36914721"
+    ],
+    "mlParentId": "MLB36914717",
+    "colors": [
+      {
+        "name": "Laranja",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_803328-MLU76174751070_052024-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -14870,12 +19502,8 @@ const catalogProducts = [
       "esponjas e pincéis",
       "real t"
     ],
-    "colors": [
-      {
-        "name": "Laranja",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_803328-MLU76174751070_052024-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:35:16.498Z",
+    "updatedAt": "2026-03-03T16:35:16.498Z"
   },
   {
     "id": "p17725557164981568",
@@ -14889,13 +19517,12 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_762565-MLA89186230593_082025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_744361-MLA92963672388_092025-F.jpg"
     ],
-    "averageRating": 0,
-    "reviewCount": 0,
-    "prices": [],
-    "tags": [
-      "esponjas e pincéis",
-      "klass vough"
+    "ean": "7788771050136",
+    "mlIds": [
+      "MLB53263706",
+      "MLB53887679"
     ],
+    "mlParentId": "MLB53263705",
     "colors": [
       {
         "name": "Verde-limão",
@@ -14905,7 +19532,16 @@ const catalogProducts = [
         "name": "Laranja",
         "image": "https://http2.mlstatic.com/D_NQ_NP_906834-MLA90120779535_082025-F.jpg"
       }
-    ]
+    ],
+    "averageRating": 0,
+    "reviewCount": 0,
+    "prices": [],
+    "tags": [
+      "esponjas e pincéis",
+      "klass vough"
+    ],
+    "createdAt": "2026-03-03T16:35:16.498Z",
+    "updatedAt": "2026-03-03T16:35:16.500Z"
   },
   {
     "id": "p17725557164981569",
@@ -14921,6 +19557,17 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_712526-MLA101751349719_122025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_778809-MLA101751499325_122025-F.jpg"
     ],
+    "ean": "803173263124",
+    "mlIds": [
+      "MLB63269935"
+    ],
+    "mlParentId": "MLB54006398",
+    "colors": [
+      {
+        "name": "Branco e preto",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_836949-MLA101250629546_122025-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -14928,12 +19575,8 @@ const catalogProducts = [
       "esponjas e pincéis",
       "maange"
     ],
-    "colors": [
-      {
-        "name": "Branco e preto",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_836949-MLA101250629546_122025-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:35:16.498Z",
+    "updatedAt": "2026-03-03T16:35:16.498Z"
   },
   {
     "id": "p17725557164981570",
@@ -14945,13 +19588,12 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_731546-MLA81134012249_122024-F.jpg"
     ],
-    "averageRating": 0,
-    "reviewCount": 0,
-    "prices": [],
-    "tags": [
-      "esponjas e pincéis",
-      "versa"
+    "ean": "7890922103551",
+    "mlIds": [
+      "MLB44373316",
+      "MLB41836706"
     ],
+    "mlParentId": "MLB41836705",
     "colors": [
       {
         "name": "Rosê",
@@ -14961,7 +19603,16 @@ const catalogProducts = [
         "name": "Nude",
         "image": "https://http2.mlstatic.com/D_NQ_NP_856218-MLA79910356675_102024-F.jpg"
       }
-    ]
+    ],
+    "averageRating": 0,
+    "reviewCount": 0,
+    "prices": [],
+    "tags": [
+      "esponjas e pincéis",
+      "versa"
+    ],
+    "createdAt": "2026-03-03T16:35:16.498Z",
+    "updatedAt": "2026-03-03T16:35:16.499Z"
   },
   {
     "id": "p17725557164991572",
@@ -14976,13 +19627,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_630342-MLU79216563499_092024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_926631-MLU79216603591_092024-F.jpg"
     ],
+    "ean": "7893626906749",
+    "mlIds": [
+      "MLB39026294"
+    ],
+    "mlParentId": "MLB39026291",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "esponjas e pincéis",
       "sabrina sato"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:16.499Z",
+    "updatedAt": "2026-03-03T16:35:16.499Z"
   },
   {
     "id": "p17725557164991573",
@@ -14995,6 +19654,18 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_629394-MLA93372297180_092025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_695205-MLA93790775995_092025-F.jpg"
     ],
+    "ean": "7891027181765",
+    "mlIds": [
+      "MLB44224197",
+      "MLB44322489"
+    ],
+    "mlParentId": "MLB44224188",
+    "colors": [
+      {
+        "name": "Rosa",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_629394-MLA93372297180_092025-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -15002,12 +19673,8 @@ const catalogProducts = [
       "esponjas e pincéis",
       "océane"
     ],
-    "colors": [
-      {
-        "name": "Rosa",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_629394-MLA93372297180_092025-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:35:16.499Z",
+    "updatedAt": "2026-03-03T16:35:16.499Z"
   },
   {
     "id": "p17725557164991575",
@@ -15023,13 +19690,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_823847-MLU78674887647_082024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_941356-MLU78674887653_082024-F.jpg"
     ],
+    "ean": "7899956801709",
+    "mlIds": [
+      "MLB28179363"
+    ],
+    "mlParentId": "MLB28179362",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "esponjas e pincéis",
       "playboy"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:16.499Z",
+    "updatedAt": "2026-03-03T16:35:16.499Z"
   },
   {
     "id": "p17725557164991577",
@@ -15045,13 +19720,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_992781-MLU71291962088_082023-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_688449-MLU71334922631_082023-F.jpg"
     ],
+    "ean": "7890421437515",
+    "mlIds": [
+      "MLB26605039"
+    ],
+    "mlParentId": "MLB26605028",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "esponjas e pincéis",
       "ruby rose"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:16.499Z",
+    "updatedAt": "2026-03-03T16:35:16.499Z"
   },
   {
     "id": "p17725557164991581",
@@ -15064,13 +19747,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_957806-MLU74607423617_022024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_818383-MLU74395718683_022024-F.jpg"
     ],
+    "ean": "6926713372248",
+    "mlIds": [
+      "MLB32128643"
+    ],
+    "mlParentId": "MLB32128640",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "esponjas e pincéis",
       "face beautiful profissional"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:16.499Z",
+    "updatedAt": "2026-03-03T16:35:16.499Z"
   },
   {
     "id": "p17725557164991582",
@@ -15085,13 +19776,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_788742-MLU74990191108_032024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_601877-MLU74226718607_012024-F.jpg"
     ],
+    "ean": "7890001490527",
+    "mlIds": [
+      "MLB30209561"
+    ],
+    "mlParentId": "MLB30209560",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "esponjas e pincéis",
       "meiustar"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:16.499Z",
+    "updatedAt": "2026-03-03T16:35:16.499Z"
   },
   {
     "id": "p17725557164991583",
@@ -15107,6 +19806,17 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_776115-MLU78418469571_082024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_723560-MLU78418615323_082024-F.jpg"
     ],
+    "ean": "7898573580806",
+    "mlIds": [
+      "MLB39343894"
+    ],
+    "mlParentId": "MLB39343891",
+    "colors": [
+      {
+        "name": "Soft pink",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_710360-MLU78189708588_082024-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -15114,12 +19824,8 @@ const catalogProducts = [
       "esponjas e pincéis",
       "alice salazar"
     ],
-    "colors": [
-      {
-        "name": "Soft pink",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_710360-MLU78189708588_082024-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:35:16.499Z",
+    "updatedAt": "2026-03-03T16:35:16.499Z"
   },
   {
     "id": "p17725557165001585",
@@ -15135,13 +19841,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_905861-MLU75585745722_042024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_613081-MLU75585745724_042024-F.jpg"
     ],
+    "ean": "7898671429526",
+    "mlIds": [
+      "MLB29683297"
+    ],
+    "mlParentId": "MLB29683295",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "esponjas e pincéis",
       "ruby rose"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:16.500Z",
+    "updatedAt": "2026-03-03T16:35:16.500Z"
   },
   {
     "id": "p17725557165001587",
@@ -15157,13 +19871,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_690043-MLU76718070157_052024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_931320-MLU76519837254_052024-F.jpg"
     ],
+    "ean": "7800659695793",
+    "mlIds": [
+      "MLB37312427"
+    ],
+    "mlParentId": "MLB37312417",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "esponjas e pincéis",
       "klass vough"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:16.500Z",
+    "updatedAt": "2026-03-03T16:35:16.500Z"
   },
   {
     "id": "p17725557165001588",
@@ -15175,13 +19897,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_870257-MLA92395822262_092025-F.jpg"
     ],
+    "ean": "6926641000657",
+    "mlIds": [
+      "MLB26930688"
+    ],
+    "mlParentId": "MLB26930687",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "esponjas e pincéis",
       "bind"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:16.500Z",
+    "updatedAt": "2026-03-03T16:35:16.500Z"
   },
   {
     "id": "p17725557179971597",
@@ -15197,13 +19927,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_832393-MLU78869514893_092024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_867872-MLU78635325294_092024-F.jpg"
     ],
+    "ean": "7626008990889",
+    "mlIds": [
+      "MLB40149872"
+    ],
+    "mlParentId": "MLB40149870",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "sérum",
       "white naturals"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:17.997Z",
+    "updatedAt": "2026-03-03T16:35:17.997Z"
   },
   {
     "id": "p17725557179971598",
@@ -15215,13 +19953,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_737493-MLU77830417389_072024-F.jpg"
     ],
+    "ean": "7849225833030",
+    "mlIds": [
+      "MLB38496224"
+    ],
+    "mlParentId": "MLB38496222",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "sérum",
       "dr.yiman"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:17.997Z",
+    "updatedAt": "2026-03-03T16:35:17.997Z"
   },
   {
     "id": "p17725557179981599",
@@ -15237,6 +19983,17 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_621404-MLU70499172990_072023-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_782460-MLU70499172992_072023-F.jpg"
     ],
+    "ean": "601951015237",
+    "mlIds": [
+      "MLB24435124"
+    ],
+    "mlParentId": "MLB24435121",
+    "colors": [
+      {
+        "name": "Breylee",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_632456-MLU70666553717_072023-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -15244,12 +20001,8 @@ const catalogProducts = [
       "sérum",
       "breylee"
     ],
-    "colors": [
-      {
-        "name": "Breylee",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_632456-MLU70666553717_072023-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:35:17.998Z",
+    "updatedAt": "2026-03-03T16:35:17.998Z"
   },
   {
     "id": "p17725557179981600",
@@ -15264,13 +20017,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_612040-MLA79581055526_102024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_746738-MLA79829441227_102024-F.jpg"
     ],
+    "ean": "850005016571",
+    "mlIds": [
+      "MLB38160727"
+    ],
+    "mlParentId": "MLB36663235",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "sérum",
       "eight saints"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:17.998Z",
+    "updatedAt": "2026-03-03T16:35:17.998Z"
   },
   {
     "id": "p17725557179981601",
@@ -15284,13 +20045,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_610320-MLA80118757165_102024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_706130-MLA80118757197_102024-F.jpg"
     ],
+    "ean": "818832022196",
+    "mlIds": [
+      "MLB42166430"
+    ],
+    "mlParentId": "MLB42166429",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "sérum",
       "farmacy"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:17.998Z",
+    "updatedAt": "2026-03-03T16:35:17.998Z"
   },
   {
     "id": "p17725557179981602",
@@ -15303,13 +20072,20 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_781697-MLA81055371451_112024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_818702-MLA81055410253_112024-F.jpg"
     ],
+    "ean": "7503052765215",
+    "mlIds": [
+      "MLB44160373"
+    ],
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "sérum",
       "no gender"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:17.998Z",
+    "updatedAt": "2026-03-03T16:35:17.998Z"
   },
   {
     "id": "p17725557179981603",
@@ -15321,13 +20097,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_700603-MLU77829406377_072024-F.jpg"
     ],
+    "ean": "7849225833603",
+    "mlIds": [
+      "MLB38493707"
+    ],
+    "mlParentId": "MLB38493704",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "sérum",
       "anai rui"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:17.998Z",
+    "updatedAt": "2026-03-03T16:35:17.998Z"
   },
   {
     "id": "p17725557179981604",
@@ -15339,13 +20123,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_854886-MLU73689957335_122023-F.jpg"
     ],
+    "ean": "686091739939",
+    "mlIds": [
+      "MLB25186922"
+    ],
+    "mlParentId": "MLB25186897",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "sérum",
       "linduray skincare"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:17.998Z",
+    "updatedAt": "2026-03-03T16:35:17.998Z"
   },
   {
     "id": "p17725557179981605",
@@ -15357,13 +20149,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_772732-MLU77582865794_072024-F.jpg"
     ],
+    "ean": "608614693054",
+    "mlIds": [
+      "MLB38447186"
+    ],
+    "mlParentId": "MLB38447185",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "sérum",
       "florence"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:17.998Z",
+    "updatedAt": "2026-03-03T16:35:17.998Z"
   },
   {
     "id": "p17725557179981608",
@@ -15379,13 +20179,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_656792-MLU70654551952_072023-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_729827-MLU70654551954_072023-F.jpg"
     ],
+    "ean": "685674534725",
+    "mlIds": [
+      "MLB24973176"
+    ],
+    "mlParentId": "MLB24973156",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "sérum",
       "ms organics"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:17.998Z",
+    "updatedAt": "2026-03-03T16:35:17.998Z"
   },
   {
     "id": "p17725557179981609",
@@ -15397,13 +20205,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_856639-MLA91732439758_092025-F.jpg"
     ],
+    "ean": "769947295572",
+    "mlIds": [
+      "MLB55545192"
+    ],
+    "mlParentId": "MLB55545190",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "sérum",
       "beasicui"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:17.998Z",
+    "updatedAt": "2026-03-03T16:35:17.998Z"
   },
   {
     "id": "p17725557179981610",
@@ -15416,13 +20232,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_962571-MLU77996139941_072024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_981359-MLU77996032893_072024-F.jpg"
     ],
+    "ean": "7849225828340",
+    "mlIds": [
+      "MLB38688719"
+    ],
+    "mlParentId": "MLB38688717",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "sérum",
       "marcas"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:17.998Z",
+    "updatedAt": "2026-03-03T16:35:17.998Z"
   },
   {
     "id": "p17725557179991611",
@@ -15434,13 +20258,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_802534-MLU77638350004_072024-F.jpg"
     ],
+    "ean": "7849225817177",
+    "mlIds": [
+      "MLB38518415"
+    ],
+    "mlParentId": "MLB38518414",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "sérum",
       "marcas"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:17.999Z",
+    "updatedAt": "2026-03-03T16:35:17.999Z"
   },
   {
     "id": "p17725557192681612",
@@ -15452,13 +20284,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_687058-MLU75688184412_042024-F.jpg"
     ],
+    "ean": "7906841730737",
+    "mlIds": [
+      "MLB35887011"
+    ],
+    "mlParentId": "MLB35887005",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "sérum",
       "biochronos estética avançada"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:19.268Z",
+    "updatedAt": "2026-03-03T16:35:19.268Z"
   },
   {
     "id": "p17725557192681613",
@@ -15474,13 +20314,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_640076-MLA82739227446_032025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_674760-MLA82739099298_032025-F.jpg"
     ],
+    "ean": "304066548415",
+    "mlIds": [
+      "MLB22253473"
+    ],
+    "mlParentId": "MLB22253453",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "sérum",
       "tracta"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:19.268Z",
+    "updatedAt": "2026-03-03T16:35:19.268Z"
   },
   {
     "id": "p17725557192681614",
@@ -15492,6 +20340,16 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_963539-MLA82615345280_032025-F.jpg"
     ],
+    "mlIds": [
+      "MLB46750305"
+    ],
+    "mlParentId": "MLB46750301",
+    "colors": [
+      {
+        "name": "Kit Retinol",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_660547-MLA105953341270_022026-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -15499,12 +20357,8 @@ const catalogProducts = [
       "sérum",
       "unicpharma"
     ],
-    "colors": [
-      {
-        "name": "Kit Retinol",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_660547-MLA105953341270_022026-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:35:19.268Z",
+    "updatedAt": "2026-03-03T16:35:19.268Z"
   },
   {
     "id": "p17725557192681615",
@@ -15516,13 +20370,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_631215-MLC49355129512_032022-F.jpg"
     ],
+    "ean": "6932511221862",
+    "mlIds": [
+      "MLB20598043"
+    ],
+    "mlParentId": "MLB20598023",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "sérum",
       "aichun beauty"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:19.268Z",
+    "updatedAt": "2026-03-03T16:35:19.268Z"
   },
   {
     "id": "p17725557192681616",
@@ -15537,13 +20399,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_648053-MLU70948690628_082023-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_754052-MLU70948489784_082023-F.jpg"
     ],
+    "ean": "7901266866290",
+    "mlIds": [
+      "MLB25905153"
+    ],
+    "mlParentId": "MLB25905129",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "sérum",
       "doce diana"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:19.268Z",
+    "updatedAt": "2026-03-03T16:35:19.268Z"
   },
   {
     "id": "p17725557192681618",
@@ -15559,13 +20429,20 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_687823-MLU73181788122_122023-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_980255-MLU73181679758_122023-F.jpg"
     ],
+    "ean": "7808758303731",
+    "mlIds": [
+      "MLB28650927"
+    ],
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "sérum",
       "aubefor"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:19.268Z",
+    "updatedAt": "2026-03-03T16:35:19.268Z"
   },
   {
     "id": "p17725557192681619",
@@ -15580,13 +20457,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_735010-MLU77935512265_072024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_762597-MLU77716389634_072024-F.jpg"
     ],
+    "ean": "7849225840014",
+    "mlIds": [
+      "MLB38645646"
+    ],
+    "mlParentId": "MLB38645644",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "sérum",
       "esencia"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:19.268Z",
+    "updatedAt": "2026-03-03T16:35:19.268Z"
   },
   {
     "id": "p17725557205491620",
@@ -15598,13 +20483,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_795737-MLA83881272501_042025-F.jpg"
     ],
+    "ean": "611834705179",
+    "mlIds": [
+      "MLB48771925"
+    ],
+    "mlParentId": "MLB48771924",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "sérum",
       "voyoga"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:20.549Z",
+    "updatedAt": "2026-03-03T16:35:20.549Z"
   },
   {
     "id": "p17725557205491622",
@@ -15618,13 +20511,20 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_793259-MLU73420557041_122023-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_845741-MLU73420527459_122023-F.jpg"
     ],
+    "ean": "600821804995",
+    "mlIds": [
+      "MLB28899749"
+    ],
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "sérum",
       "rebel"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:20.549Z",
+    "updatedAt": "2026-03-03T16:35:20.549Z"
   },
   {
     "id": "p17725557205491623",
@@ -15637,13 +20537,20 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_608192-MLU74139469605_012024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_657972-MLU73268904545_122023-F.jpg"
     ],
+    "ean": "79082402",
+    "mlIds": [
+      "MLB28694694"
+    ],
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "sérum",
       "max love"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:20.549Z",
+    "updatedAt": "2026-03-03T16:35:20.549Z"
   },
   {
     "id": "p17725557205501624",
@@ -15655,13 +20562,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_782460-MLA84322333776_052025-F.jpg"
     ],
+    "ean": "7898922644036",
+    "mlIds": [
+      "MLB49791138"
+    ],
+    "mlParentId": "MLB49791100",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "sérum",
       "artextratos"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:20.550Z",
+    "updatedAt": "2026-03-03T16:35:20.550Z"
   },
   {
     "id": "p17725557205501625",
@@ -15673,13 +20588,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_891530-MLA84544416690_052025-F.jpg"
     ],
+    "ean": "7898212287028",
+    "mlIds": [
+      "MLB19840368"
+    ],
+    "mlParentId": "MLB19840354",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "sérum",
       "raavi"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:20.550Z",
+    "updatedAt": "2026-03-03T16:35:20.550Z"
   },
   {
     "id": "p17725557205501626",
@@ -15695,13 +20618,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_712946-MLA92906920772_092025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_763568-MLA92906702812_092025-F.jpg"
     ],
+    "ean": "689513257004",
+    "mlIds": [
+      "MLB57761120"
+    ],
+    "mlParentId": "MLB57761119",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "sérum",
       "skin ceremony"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:20.550Z",
+    "updatedAt": "2026-03-03T16:35:20.550Z"
   },
   {
     "id": "p17725557205501627",
@@ -15716,13 +20647,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_875954-MLU70678963922_072023-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_640989-MLU70678963926_072023-F.jpg"
     ],
+    "ean": "860425002207",
+    "mlIds": [
+      "MLB25186323"
+    ],
+    "mlParentId": "MLB25186300",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "sérum",
       "sincere glamour"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:20.550Z",
+    "updatedAt": "2026-03-03T16:35:20.550Z"
   },
   {
     "id": "p17725557205501628",
@@ -15735,13 +20674,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_977050-MLU70668940688_072023-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_924960-MLU73681431728_012024-F.jpg"
     ],
+    "ean": "7908357401491",
+    "mlIds": [
+      "MLB25108773"
+    ],
+    "mlParentId": "MLB25108747",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "sérum",
       "belle angel"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:20.550Z",
+    "updatedAt": "2026-03-03T16:35:20.550Z"
   },
   {
     "id": "p17725557205501629",
@@ -15753,13 +20700,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_881545-MLU73983313762_012024-F.jpg"
     ],
+    "ean": "7702678672123",
+    "mlIds": [
+      "MLB21010000"
+    ],
+    "mlParentId": "MLB21009984",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "sérum",
       "ana maria"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:20.550Z",
+    "updatedAt": "2026-03-03T16:35:20.550Z"
   },
   {
     "id": "p17725557205501630",
@@ -15771,13 +20726,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_810723-MLA80684998932_112024-F.jpg"
     ],
+    "ean": "847610044921",
+    "mlIds": [
+      "MLB43778231"
+    ],
+    "mlParentId": "MLB43778229",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "sérum",
       "nevada natural products"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:20.550Z",
+    "updatedAt": "2026-03-03T16:35:20.550Z"
   },
   {
     "id": "p17725557205501631",
@@ -15789,13 +20752,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_627970-MLU77770413852_072024-F.jpg"
     ],
+    "ean": "198168469156",
+    "mlIds": [
+      "MLB38676761"
+    ],
+    "mlParentId": "MLB38676758",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "sérum",
       "auzon"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:20.550Z",
+    "updatedAt": "2026-03-03T16:35:20.550Z"
   },
   {
     "id": "p17725557205501633",
@@ -15811,13 +20782,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_769877-MLU70667759932_072023-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_619999-MLU70667759934_072023-F.jpg"
     ],
+    "ean": "752771109511",
+    "mlIds": [
+      "MLB25074845"
+    ],
+    "mlParentId": "MLB25074821",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "sérum",
       "tamoskiny"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:20.550Z",
+    "updatedAt": "2026-03-03T16:35:20.550Z"
   },
   {
     "id": "p17725557205501634",
@@ -15833,13 +20812,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_887659-MLU70667760796_072023-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_838984-MLU70667907344_072023-F.jpg"
     ],
+    "ean": "808218719086",
+    "mlIds": [
+      "MLB25073381"
+    ],
+    "mlParentId": "MLB25073362",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "sérum",
       "fermosa"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:20.550Z",
+    "updatedAt": "2026-03-03T16:35:20.550Z"
   },
   {
     "id": "p17725557205501635",
@@ -15852,13 +20839,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_663365-MLU77898053113_072024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_709254-MLU77898436273_072024-F.jpg"
     ],
+    "ean": "195893191383",
+    "mlIds": [
+      "MLB38598256"
+    ],
+    "mlParentId": "MLB38598254",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "sérum",
       "minimalistic"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:20.550Z",
+    "updatedAt": "2026-03-03T16:35:20.550Z"
   },
   {
     "id": "p17725557205501636",
@@ -15871,13 +20866,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_845428-MLU78154540397_082024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_625768-MLU78154540409_082024-F.jpg"
     ],
+    "ean": "742488655852",
+    "mlIds": [
+      "MLB38935572"
+    ],
+    "mlParentId": "MLB38935568",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "sérum",
       "cleoskin"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:20.550Z",
+    "updatedAt": "2026-03-03T16:35:20.550Z"
   },
   {
     "id": "p17725557219321637",
@@ -15893,13 +20896,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_702738-MLU73423735645_122023-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_875317-MLU73423656265_122023-F.jpg"
     ],
+    "ean": "742779924346",
+    "mlIds": [
+      "MLB28950076"
+    ],
+    "mlParentId": "MLB28950071",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "sérum",
       "cleoskin"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:21.932Z",
+    "updatedAt": "2026-03-03T16:35:21.932Z"
   },
   {
     "id": "p17725557219321638",
@@ -15915,13 +20926,20 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_864353-MLA84562259224_052025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_920390-MLA84860630007_052025-F.jpg"
     ],
+    "ean": "7890448403371",
+    "mlIds": [
+      "MLB25419552"
+    ],
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "sérum",
       "océane"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:21.932Z",
+    "updatedAt": "2026-03-03T16:35:21.932Z"
   },
   {
     "id": "p17725557219321640",
@@ -15933,13 +20951,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_843531-MLU78252715141_082024-F.jpg"
     ],
+    "ean": "7908774812207",
+    "mlIds": [
+      "MLB39157949"
+    ],
+    "mlParentId": "MLB39157946",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "sérum",
       "ámenos dermocosméticos"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:21.932Z",
+    "updatedAt": "2026-03-03T16:35:21.932Z"
   },
   {
     "id": "p17725557219321641",
@@ -15951,13 +20977,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_903881-MLB53007115860_122022-F.jpg"
     ],
+    "ean": "7890551007961",
+    "mlIds": [
+      "MLB21947485"
+    ],
+    "mlParentId": "MLB21947472",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "sérum",
       "max love"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:21.932Z",
+    "updatedAt": "2026-03-03T16:35:21.932Z"
   },
   {
     "id": "p17725557219331642",
@@ -15969,13 +21003,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_724602-MLU74726765570_032024-F.jpg"
     ],
+    "ean": "7896902286894",
+    "mlIds": [
+      "MLB25575470"
+    ],
+    "mlParentId": "MLB25575450",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "sérum",
       "hidraderm"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:21.933Z",
+    "updatedAt": "2026-03-03T16:35:21.933Z"
   },
   {
     "id": "p17725557233211643",
@@ -15987,13 +21029,19 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_751918-MLU71854138379_092023-F.jpg"
     ],
+    "mlIds": [
+      "MLB21717607"
+    ],
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "sérum",
       "the inkey list"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:23.321Z",
+    "updatedAt": "2026-03-03T16:35:23.321Z"
   },
   {
     "id": "p17725557233221644",
@@ -16009,13 +21057,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_764442-MLU77628477303_072024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_884440-MLU77628496999_072024-F.jpg"
     ],
+    "ean": "7908335402700",
+    "mlIds": [
+      "MLB35090915"
+    ],
+    "mlParentId": "MLB35090912",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "sérum",
       "sallve"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:23.322Z",
+    "updatedAt": "2026-03-03T16:35:23.322Z"
   },
   {
     "id": "p17725557233221645",
@@ -16030,13 +21086,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_932266-MLU70654552432_072023-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_916246-MLU73766505201_012024-F.jpg"
     ],
+    "ean": "88634464245",
+    "mlIds": [
+      "MLB24973248"
+    ],
+    "mlParentId": "MLB24973214",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "sérum",
       "moen"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:23.322Z",
+    "updatedAt": "2026-03-03T16:35:23.322Z"
   },
   {
     "id": "p17725557233221646",
@@ -16049,13 +21113,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_839822-MLU75025228586_032024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_692873-MLU75024914102_032024-F.jpg"
     ],
+    "ean": "17909605000098",
+    "mlIds": [
+      "MLB26942083"
+    ],
+    "mlParentId": "MLB26942082",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "sérum",
       "di grezzo"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:23.322Z",
+    "updatedAt": "2026-03-03T16:35:23.322Z"
   },
   {
     "id": "p17725557233221647",
@@ -16069,13 +21141,20 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_786507-MLU73884236465_012024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_960697-MLU71505005934_092023-F.jpg"
     ],
+    "ean": "349000815",
+    "mlIds": [
+      "MLB22463450"
+    ],
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "sérum",
       "vichy"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:23.322Z",
+    "updatedAt": "2026-03-03T16:35:23.322Z"
   },
   {
     "id": "p17725557233221648",
@@ -16087,13 +21166,20 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_949157-MLU72902496935_112023-F.jpg"
     ],
+    "ean": "7894875345082",
+    "mlIds": [
+      "MLB28125897"
+    ],
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "sérum",
       "avezza"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:23.322Z",
+    "updatedAt": "2026-03-03T16:35:23.322Z"
   },
   {
     "id": "p17725557233221649",
@@ -16105,13 +21191,20 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_767284-MLU74117398124_012024-F.jpg"
     ],
+    "mlIds": [
+      "MLB20876910",
+      "MLB23362507"
+    ],
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "sérum",
       "olay"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:23.322Z",
+    "updatedAt": "2026-03-03T16:35:23.322Z"
   },
   {
     "id": "p17725557233221650",
@@ -16123,13 +21216,20 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_958585-MLA103536506231_012026-F.jpg"
     ],
+    "mlIds": [
+      "MLB63826841"
+    ],
+    "mlParentId": "MLB63826839",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "sérum",
       "farma norte"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:23.322Z",
+    "updatedAt": "2026-03-03T16:35:23.322Z"
   },
   {
     "id": "p17725557233221652",
@@ -16141,13 +21241,20 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_730188-MLU75173924436_032024-F.jpg"
     ],
+    "mlIds": [
+      "MLB13548902"
+    ],
+    "mlParentId": "MLB13548901",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "sérum",
       "medik8"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:23.322Z",
+    "updatedAt": "2026-03-03T16:35:23.322Z"
   },
   {
     "id": "p17725557233231655",
@@ -16163,13 +21270,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_952194-MLA92217873035_092025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_748134-MLA92217724569_092025-F.jpg"
     ],
+    "ean": "8809331313900",
+    "mlIds": [
+      "MLB55775056"
+    ],
+    "mlParentId": "MLB55775055",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "sérum",
       "celdyque"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:23.323Z",
+    "updatedAt": "2026-03-03T16:35:23.323Z"
   },
   {
     "id": "p17725557247221664",
@@ -16185,13 +21300,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_827214-MLU70396741128_072023-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_661314-MLU70396741130_072023-F.jpg"
     ],
+    "ean": "852900006459",
+    "mlIds": [
+      "MLB24435870"
+    ],
+    "mlParentId": "MLB24435849",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "hidratante",
       "plexaderm"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:24.722Z",
+    "updatedAt": "2026-03-03T16:35:24.722Z"
   },
   {
     "id": "p17725557247231665",
@@ -16205,13 +21328,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_743549-MLU77876895475_072024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_610556-MLU77876551053_072024-F.jpg"
     ],
+    "ean": "708177119753",
+    "mlIds": [
+      "MLB38529338"
+    ],
+    "mlParentId": "MLB38529335",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "hidratante",
       "jurlique"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:24.723Z",
+    "updatedAt": "2026-03-03T16:35:24.723Z"
   },
   {
     "id": "p17725557247231666",
@@ -16223,13 +21354,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_691459-MLA81072508882_122024-F.jpg"
     ],
+    "ean": "608597658927",
+    "mlIds": [
+      "MLB44695392"
+    ],
+    "mlParentId": "MLB44695387",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "hidratante",
       "n1o1"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:24.723Z",
+    "updatedAt": "2026-03-03T16:35:24.723Z"
   },
   {
     "id": "p17725557247231667",
@@ -16243,13 +21382,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_654082-MLA81053710269_112024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_742415-MLA81053720159_112024-F.jpg"
     ],
+    "ean": "90810002330448",
+    "mlIds": [
+      "MLB44149447"
+    ],
+    "mlParentId": "MLB38243253",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "hidratante",
       "hanhoo"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:24.723Z",
+    "updatedAt": "2026-03-03T16:35:24.723Z"
   },
   {
     "id": "p17725557247231668",
@@ -16261,13 +21408,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_907407-MLU77582927000_072024-F.jpg"
     ],
+    "ean": "850025859738",
+    "mlIds": [
+      "MLB38447586"
+    ],
+    "mlParentId": "MLB38447585",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "hidratante",
       "honeyskin"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:24.723Z",
+    "updatedAt": "2026-03-03T16:35:24.723Z"
   },
   {
     "id": "p17725557247251671",
@@ -16282,13 +21437,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_761080-MLU77829809537_072024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_660916-MLU77829410801_072024-F.jpg"
     ],
+    "ean": "852669338785",
+    "mlIds": [
+      "MLB38495425"
+    ],
+    "mlParentId": "MLB38495424",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "hidratante",
       "wild"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:24.725Z",
+    "updatedAt": "2026-03-03T16:35:24.725Z"
   },
   {
     "id": "p17725557247251673",
@@ -16304,13 +21467,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_645165-MLA91066016124_092025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_857944-MLA91065986414_092025-F.jpg"
     ],
+    "ean": "850054519054",
+    "mlIds": [
+      "MLB54465386"
+    ],
+    "mlParentId": "MLB54465383",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "hidratante",
       "miss universe skincare"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:24.725Z",
+    "updatedAt": "2026-03-03T16:35:24.725Z"
   },
   {
     "id": "p17725557247251674",
@@ -16326,13 +21497,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_987085-MLA105477251809_012026-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_776315-MLA104908557436_012026-F.jpg"
     ],
+    "ean": "53155854196",
+    "mlIds": [
+      "MLB64697277"
+    ],
+    "mlParentId": "MLB64697276",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "hidratante",
       "rianpesn"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:24.725Z",
+    "updatedAt": "2026-03-03T16:35:24.725Z"
   },
   {
     "id": "p17725557247251675",
@@ -16347,13 +21526,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_702881-MLU74244478459_012024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_745967-MLU74134128956_012024-F.jpg"
     ],
+    "ean": "5060958560006",
+    "mlIds": [
+      "MLB30398388"
+    ],
+    "mlParentId": "MLB30398387",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "hidratante",
       "zousz"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:24.725Z",
+    "updatedAt": "2026-03-03T16:35:24.725Z"
   },
   {
     "id": "p17725557247251676",
@@ -16367,13 +21554,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_771185-MLU70638122372_072023-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_954111-MLU73880942305_012024-F.jpg"
     ],
+    "ean": "689513262107",
+    "mlIds": [
+      "MLB24876304"
+    ],
+    "mlParentId": "MLB24876284",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "hidratante",
       "repair beauty"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:24.725Z",
+    "updatedAt": "2026-03-03T16:35:24.725Z"
   },
   {
     "id": "p17725557247251677",
@@ -16389,13 +21584,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_617952-MLA105477250441_012026-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_894393-MLA104908758232_012026-F.jpg"
     ],
+    "ean": "39273640927",
+    "mlIds": [
+      "MLB64696771"
+    ],
+    "mlParentId": "MLB64696769",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "hidratante",
       "kumprohu"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:24.725Z",
+    "updatedAt": "2026-03-03T16:35:24.725Z"
   },
   {
     "id": "p17725557247251678",
@@ -16407,13 +21610,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_619578-MLU77801347049_072024-F.jpg"
     ],
+    "ean": "850007254292",
+    "mlIds": [
+      "MLB38447799"
+    ],
+    "mlParentId": "MLB38447798",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "hidratante",
       "wonderskin"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:24.725Z",
+    "updatedAt": "2026-03-03T16:35:24.725Z"
   },
   {
     "id": "p17725557247261679",
@@ -16429,13 +21640,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_839517-MLA88305317649_072025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_891652-MLA87966555084_072025-F.jpg"
     ],
+    "ean": "817244010197",
+    "mlIds": [
+      "MLB53019673"
+    ],
+    "mlParentId": "MLB53019672",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "hidratante",
       "is clinical"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:24.726Z",
+    "updatedAt": "2026-03-03T16:35:24.726Z"
   },
   {
     "id": "p17725557247261680",
@@ -16451,13 +21670,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_829714-MLA95125011939_102025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_629557-MLA95125294729_102025-F.jpg"
     ],
+    "ean": "850029073291",
+    "mlIds": [
+      "MLB60101400"
+    ],
+    "mlParentId": "MLB60101399",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "hidratante",
       "kari gran"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:24.726Z",
+    "updatedAt": "2026-03-03T16:35:24.726Z"
   },
   {
     "id": "p17725557247261681",
@@ -16470,13 +21697,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_804188-MLU75794565380_042024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_800896-MLU75794565388_042024-F.jpg"
     ],
+    "ean": "19100281219",
+    "mlIds": [
+      "MLB36153812"
+    ],
+    "mlParentId": "MLB30983576",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "hidratante",
       "bioré"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:24.726Z",
+    "updatedAt": "2026-03-03T16:35:24.726Z"
   },
   {
     "id": "p17725557247261682",
@@ -16489,13 +21724,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_774791-MLU77747459363_072024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_839915-MLU77529875718_072024-F.jpg"
     ],
+    "ean": "3700880000141",
+    "mlIds": [
+      "MLB38316467"
+    ],
+    "mlParentId": "MLB38316466",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "hidratante",
       "skintifique"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:24.726Z",
+    "updatedAt": "2026-03-03T16:35:24.726Z"
   },
   {
     "id": "p17725557247261683",
@@ -16511,13 +21754,20 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_618911-MLA94364203570_102025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_731631-MLA94794153913_102025-F.jpg"
     ],
+    "mlIds": [
+      "MLB59774053"
+    ],
+    "mlParentId": "MLB59774051",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "hidratante",
       "fiumot"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:24.726Z",
+    "updatedAt": "2026-03-03T16:35:24.726Z"
   },
   {
     "id": "p17725557247261684",
@@ -16530,13 +21780,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_656186-MLU76129679703_052024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_855385-MLU76129452973_052024-F.jpg"
     ],
+    "ean": "4971710491548",
+    "mlIds": [
+      "MLB36452551"
+    ],
+    "mlParentId": "MLB36452550",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "hidratante",
       "sekkisei"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:24.726Z",
+    "updatedAt": "2026-03-03T16:35:24.726Z"
   },
   {
     "id": "p17725557247261685",
@@ -16548,13 +21806,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_918602-MLA83569239626_042025-F.jpg"
     ],
+    "ean": "661918720499",
+    "mlIds": [
+      "MLB48700835"
+    ],
+    "mlParentId": "MLB48700826",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "hidratante",
       "aiwei"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:24.726Z",
+    "updatedAt": "2026-03-03T16:35:24.726Z"
   },
   {
     "id": "p17725557247261686",
@@ -16570,13 +21836,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_684426-MLU78669701352_092024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_959781-MLU78669553312_092024-F.jpg"
     ],
+    "ean": "7898606483616",
+    "mlIds": [
+      "MLB40201738"
+    ],
+    "mlParentId": "MLB40201737",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "hidratante",
       "obséquio natural"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:24.726Z",
+    "updatedAt": "2026-03-03T16:35:24.726Z"
   },
   {
     "id": "p17725557247261687",
@@ -16588,13 +21862,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_883015-MLU74244478493_012024-F.jpg"
     ],
+    "ean": "627987655353",
+    "mlIds": [
+      "MLB30398419"
+    ],
+    "mlParentId": "MLB30398417",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "hidratante",
       "healthanisms"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:24.726Z",
+    "updatedAt": "2026-03-03T16:35:24.726Z"
   },
   {
     "id": "p17725557247271688",
@@ -16610,13 +21892,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_991893-MLA102388535659_122025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_966887-MLA102388575597_122025-F.jpg"
     ],
+    "ean": "8809971483025",
+    "mlIds": [
+      "MLB63464476"
+    ],
+    "mlParentId": "MLB63464475",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "hidratante",
       "attation"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:24.727Z",
+    "updatedAt": "2026-03-03T16:35:24.727Z"
   },
   {
     "id": "p17725557247271689",
@@ -16630,13 +21920,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_947696-MLA83787740745_042025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_608428-MLA83494973648_042025-F.jpg"
     ],
+    "ean": "856885007036",
+    "mlIds": [
+      "MLB48467210"
+    ],
+    "mlParentId": "MLB48467199",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "hidratante",
       "rascal men's grooming"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:24.727Z",
+    "updatedAt": "2026-03-03T16:35:24.727Z"
   },
   {
     "id": "p17725557247271690",
@@ -16652,13 +21950,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_884702-MLA79423939951_092024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_879245-MLA79423704491_092024-F.jpg"
     ],
+    "ean": "198168344064",
+    "mlIds": [
+      "MLB41027548"
+    ],
+    "mlParentId": "MLB41027546",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "hidratante",
       "everyouth"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:24.727Z",
+    "updatedAt": "2026-03-03T16:35:24.727Z"
   },
   {
     "id": "p17725557260001691",
@@ -16670,13 +21976,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_771839-MLB74126725069_012024-F.jpg"
     ],
+    "ean": "7898646777478",
+    "mlIds": [
+      "MLB22151261"
+    ],
+    "mlParentId": "MLB22151241",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "hidratante",
       "dride"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:26.000Z",
+    "updatedAt": "2026-03-03T16:35:26.000Z"
   },
   {
     "id": "p17725557260001692",
@@ -16692,13 +22006,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_830047-MLA105477902745_012026-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_609349-MLA105477280085_012026-F.jpg"
     ],
+    "ean": "611061773637",
+    "mlIds": [
+      "MLB64696784"
+    ],
+    "mlParentId": "MLB64696781",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "hidratante",
       "bhkc"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:26.000Z",
+    "updatedAt": "2026-03-03T16:35:26.000Z"
   },
   {
     "id": "p17725557260001693",
@@ -16710,13 +22032,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_767840-MLU77641460075_072024-F.jpg"
     ],
+    "ean": "8809712550627",
+    "mlIds": [
+      "MLB38177184"
+    ],
+    "mlParentId": "MLB38156464",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "hidratante",
       "proot"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:26.000Z",
+    "updatedAt": "2026-03-03T16:35:26.000Z"
   },
   {
     "id": "p17725557260001694",
@@ -16732,13 +22062,20 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_858815-MLU72943694240_112023-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_633936-MLU72943845434_112023-F.jpg"
     ],
+    "ean": "5003291801856",
+    "mlIds": [
+      "MLB28282110"
+    ],
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "hidratante",
       "christina moss naturals"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:26.000Z",
+    "updatedAt": "2026-03-03T16:35:26.000Z"
   },
   {
     "id": "p17725557260011695",
@@ -16750,13 +22087,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_928336-MLU76144905860_052024-F.jpg"
     ],
+    "ean": "8809685751021",
+    "mlIds": [
+      "MLB36852943"
+    ],
+    "mlParentId": "MLB36852942",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "hidratante",
       "amorepacific"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:26.001Z",
+    "updatedAt": "2026-03-03T16:35:26.001Z"
   },
   {
     "id": "p17725557260011696",
@@ -16768,13 +22113,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_676751-MLU76888879419_062024-F.jpg"
     ],
+    "ean": "7640169950339",
+    "mlIds": [
+      "MLB37559386"
+    ],
+    "mlParentId": "MLB37559385",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "hidratante",
       "chado"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:26.001Z",
+    "updatedAt": "2026-03-03T16:35:26.001Z"
   },
   {
     "id": "p17725557260011697",
@@ -16787,13 +22140,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_626905-MLU70461240897_072023-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_867308-MLU73883773877_012024-F.jpg"
     ],
+    "ean": "650240064753",
+    "mlIds": [
+      "MLB24497667"
+    ],
+    "mlParentId": "MLB24497666",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "hidratante",
       "cicatricure"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:26.001Z",
+    "updatedAt": "2026-03-03T16:35:26.001Z"
   },
   {
     "id": "p17725557260011698",
@@ -16805,13 +22166,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_732611-MLU74134647036_012024-F.jpg"
     ],
+    "ean": "8809684560655",
+    "mlIds": [
+      "MLB30399689"
+    ],
+    "mlParentId": "MLB30399685",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "hidratante",
       "milk touch"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:26.001Z",
+    "updatedAt": "2026-03-03T16:35:26.001Z"
   },
   {
     "id": "p17725557260011699",
@@ -16827,13 +22196,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_994993-MLA101340556807_122025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_960555-MLA101340310179_122025-F.jpg"
     ],
+    "ean": "810172840423",
+    "mlIds": [
+      "MLB63155853"
+    ],
+    "mlParentId": "MLB63155852",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "hidratante",
       "bubble skincare"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:26.001Z",
+    "updatedAt": "2026-03-03T16:35:26.001Z"
   },
   {
     "id": "p17725557260011700",
@@ -16847,13 +22224,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_630884-MLU76040529200_052024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_996211-MLU76221748901_052024-F.jpg"
     ],
+    "ean": "850047057488",
+    "mlIds": [
+      "MLB36681209"
+    ],
+    "mlParentId": "MLB36681207",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "hidratante",
       "vitavelle"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:26.001Z",
+    "updatedAt": "2026-03-03T16:35:26.001Z"
   },
   {
     "id": "p17725557260021701",
@@ -16865,13 +22250,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_670658-MLU77559875068_072024-F.jpg"
     ],
+    "ean": "3530013502446",
+    "mlIds": [
+      "MLB38404727"
+    ],
+    "mlParentId": "MLB38404724",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "hidratante",
       "phytomer"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:26.002Z",
+    "updatedAt": "2026-03-03T16:35:26.002Z"
   },
   {
     "id": "p17725557260021702",
@@ -16887,13 +22280,20 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_822657-MLA94899130035_102025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_826607-MLA94468470176_102025-F.jpg"
     ],
+    "mlIds": [
+      "MLB60025648"
+    ],
+    "mlParentId": "MLB60025646",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "hidratante",
       "harperøøs naturals"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:26.002Z",
+    "updatedAt": "2026-03-03T16:35:26.002Z"
   },
   {
     "id": "p17725557260021703",
@@ -16906,13 +22306,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_847708-MLA83734097145_042025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_840149-MLA83734059629_042025-F.jpg"
     ],
+    "ean": "850001641845",
+    "mlIds": [
+      "MLB48027133"
+    ],
+    "mlParentId": "MLB48027108",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "hidratante",
       "truskin"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:26.002Z",
+    "updatedAt": "2026-03-03T16:35:26.002Z"
   },
   {
     "id": "p17725557260021704",
@@ -16924,13 +22332,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_755572-MLU78275102100_082024-F.jpg"
     ],
+    "ean": "860003590027",
+    "mlIds": [
+      "MLB39399664"
+    ],
+    "mlParentId": "MLB39399661",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "hidratante",
       "tiege hanley"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:26.002Z",
+    "updatedAt": "2026-03-03T16:35:26.002Z"
   },
   {
     "id": "p17725557260021705",
@@ -16942,13 +22358,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_954450-MLU76109989849_042024-F.jpg"
     ],
+    "ean": "852473007518",
+    "mlIds": [
+      "MLB36367988"
+    ],
+    "mlParentId": "MLB36367987",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "hidratante",
       "microderm glo"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:26.002Z",
+    "updatedAt": "2026-03-03T16:35:26.002Z"
   },
   {
     "id": "p17725557260021706",
@@ -16960,13 +22384,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_788501-MLU70662083105_072023-F.jpg"
     ],
+    "ean": "815857014892",
+    "mlIds": [
+      "MLB24847669"
+    ],
+    "mlParentId": "MLB24847657",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "hidratante",
       "ultra rich"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:26.002Z",
+    "updatedAt": "2026-03-03T16:35:26.002Z"
   },
   {
     "id": "p17725557260021707",
@@ -16978,13 +22410,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_930330-MLA83286732861_032025-F.jpg"
     ],
+    "ean": "7899360264558",
+    "mlIds": [
+      "MLB47388709"
+    ],
+    "mlParentId": "MLB47388700",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "hidratante",
       "fenzza"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:26.002Z",
+    "updatedAt": "2026-03-03T16:35:26.002Z"
   },
   {
     "id": "p17725557260021708",
@@ -16996,13 +22436,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_701275-MLA82997692725_032025-F.jpg"
     ],
+    "ean": "6929102106516",
+    "mlIds": [
+      "MLB47056223"
+    ],
+    "mlParentId": "MLB47056217",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "hidratante",
       "permotary"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:26.002Z",
+    "updatedAt": "2026-03-03T16:35:26.002Z"
   },
   {
     "id": "p17725557272711709",
@@ -17014,13 +22462,20 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_877456-MLU74087867798_012024-F.jpg"
     ],
+    "ean": "7899054010621",
+    "mlIds": [
+      "MLB29319594"
+    ],
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "hidratante",
       "maiara bez"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:27.271Z",
+    "updatedAt": "2026-03-03T16:35:27.271Z"
   },
   {
     "id": "p17725557272711710",
@@ -17032,13 +22487,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_854366-MLU76032356608_052024-F.jpg"
     ],
+    "ean": "197644285044",
+    "mlIds": [
+      "MLB36660009"
+    ],
+    "mlParentId": "MLB36660008",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "hidratante",
       "wellness heavens"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:27.271Z",
+    "updatedAt": "2026-03-03T16:35:27.271Z"
   },
   {
     "id": "p17725557272721711",
@@ -17050,13 +22513,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_700366-MLU77761242025_072024-F.jpg"
     ],
+    "ean": "7899999515632",
+    "mlIds": [
+      "MLB38352338"
+    ],
+    "mlParentId": "MLB38352337",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "hidratante",
       "fanccy"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:27.272Z",
+    "updatedAt": "2026-03-03T16:35:27.272Z"
   },
   {
     "id": "p17725557272721712",
@@ -17068,13 +22539,20 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_974954-MLU75530213096_042024-F.jpg"
     ],
+    "mlIds": [
+      "MLB35511148"
+    ],
+    "mlParentId": "MLB35511145",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "hidratante",
       "extrato flora"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:27.272Z",
+    "updatedAt": "2026-03-03T16:35:27.272Z"
   },
   {
     "id": "p17725557272721713",
@@ -17086,13 +22564,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_837317-MLB44664693721_012021-F.jpg"
     ],
+    "ean": "7898655093231",
+    "mlIds": [
+      "MLB21003849"
+    ],
+    "mlParentId": "MLB21003829",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "hidratante",
       "piunature"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:27.272Z",
+    "updatedAt": "2026-03-03T16:35:27.272Z"
   },
   {
     "id": "p17725557272721714",
@@ -17108,13 +22594,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_832508-MLA95428560131_102025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_686654-MLA95428580147_102025-F.jpg"
     ],
+    "ean": "4262383910703",
+    "mlIds": [
+      "MLB60285128"
+    ],
+    "mlParentId": "MLB59828245",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "hidratante",
       "kiyomi skin"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:27.272Z",
+    "updatedAt": "2026-03-03T16:35:27.272Z"
   },
   {
     "id": "p17725557272721716",
@@ -17130,13 +22624,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_993789-MLA94307025905_102025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_660332-MLA93881554058_102025-F.jpg"
     ],
+    "ean": "768799235316",
+    "mlIds": [
+      "MLB59123399"
+    ],
+    "mlParentId": "MLB59123397",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "hidratante",
       "ageserene"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:27.272Z",
+    "updatedAt": "2026-03-03T16:35:27.272Z"
   },
   {
     "id": "p17725557272721717",
@@ -17148,13 +22650,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_766936-MLU77889708317_072024-F.jpg"
     ],
+    "ean": "847137034771",
+    "mlIds": [
+      "MLB38576619"
+    ],
+    "mlParentId": "MLB38576618",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "hidratante",
       "pür"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:27.272Z",
+    "updatedAt": "2026-03-03T16:35:27.272Z"
   },
   {
     "id": "p17725557285471735",
@@ -17170,6 +22680,17 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_607993-MLA83745691159_042025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_688133-MLA83745612943_042025-F.jpg"
     ],
+    "ean": "753807441407",
+    "mlIds": [
+      "MLB49561196"
+    ],
+    "mlParentId": "MLB49561194",
+    "colors": [
+      {
+        "name": "Conjunto",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_774105-MLA83745758571_042025-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -17177,12 +22698,8 @@ const catalogProducts = [
       "protetor solar",
       "beauty by earth"
     ],
-    "colors": [
-      {
-        "name": "Conjunto",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_774105-MLA83745758571_042025-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:35:28.547Z",
+    "updatedAt": "2026-03-03T16:35:28.547Z"
   },
   {
     "id": "p17725557285471736",
@@ -17198,13 +22715,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_976116-MLU79373270889_092024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_731916-MLU79132075460_092024-F.jpg"
     ],
+    "ean": "6015621388349",
+    "mlIds": [
+      "MLB40969590"
+    ],
+    "mlParentId": "MLB40969588",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "protetor solar",
       "abelha rainha"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:28.547Z",
+    "updatedAt": "2026-03-03T16:35:28.547Z"
   },
   {
     "id": "p17725557285471737",
@@ -17220,13 +22745,11 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_901550-MLA83451533076_042025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_831503-MLA83451581044_042025-F.jpg"
     ],
-    "averageRating": 0,
-    "reviewCount": 0,
-    "prices": [],
-    "tags": [
-      "protetor solar",
-      "ljybobin"
+    "ean": "762716353121",
+    "mlIds": [
+      "MLB48216780"
     ],
+    "mlParentId": "MLB48216762",
     "colors": [
       {
         "name": "Hidratan",
@@ -17236,7 +22759,16 @@ const catalogProducts = [
         "name": "Hi",
         "image": "https://http2.mlstatic.com/D_NQ_NP_760769-MLA84558090419_052025-F.jpg"
       }
-    ]
+    ],
+    "averageRating": 0,
+    "reviewCount": 0,
+    "prices": [],
+    "tags": [
+      "protetor solar",
+      "ljybobin"
+    ],
+    "createdAt": "2026-03-03T16:35:28.547Z",
+    "updatedAt": "2026-03-03T16:35:28.547Z"
   },
   {
     "id": "p17725557285471738",
@@ -17248,13 +22780,20 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_944369-MLU75761018191_042024-F.jpg"
     ],
+    "ean": "7908825762987",
+    "mlIds": [
+      "MLB35751336"
+    ],
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "protetor solar",
       "sunless"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:28.547Z",
+    "updatedAt": "2026-03-03T16:35:28.547Z"
   },
   {
     "id": "p17725557285471739",
@@ -17270,13 +22809,11 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_825727-MLA106707253296_022026-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_876259-MLA107371423497_022026-F.jpg"
     ],
-    "averageRating": 0,
-    "reviewCount": 0,
-    "prices": [],
-    "tags": [
-      "protetor solar",
-      "anasol"
+    "ean": "7808682557552",
+    "mlIds": [
+      "MLB28461353"
     ],
+    "mlParentId": "MLB28461352",
     "colors": [
       {
         "name": "Fps50 Anasol",
@@ -17294,7 +22831,16 @@ const catalogProducts = [
         "name": "Fps50",
         "image": "https://http2.mlstatic.com/D_NQ_NP_884212-MLA99442018528_112025-F.jpg"
       }
-    ]
+    ],
+    "averageRating": 0,
+    "reviewCount": 0,
+    "prices": [],
+    "tags": [
+      "protetor solar",
+      "anasol"
+    ],
+    "createdAt": "2026-03-03T16:35:28.547Z",
+    "updatedAt": "2026-03-03T16:35:28.547Z"
   },
   {
     "id": "p17725557285471740",
@@ -17310,13 +22856,22 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_913068-MLA81270217940_122024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_659708-MLA81270120652_122024-F.jpg"
     ],
+    "ean": "7908346903487",
+    "mlIds": [
+      "MLB28703572",
+      "MLB36466928"
+    ],
+    "mlParentId": "MLB28703571",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "protetor solar",
       "dermachem"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:28.547Z",
+    "updatedAt": "2026-03-03T16:35:28.547Z"
   },
   {
     "id": "p17725557285471742",
@@ -17332,13 +22887,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_864469-MLA83480140300_042025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_688587-MLA83772806143_042025-F.jpg"
     ],
+    "ean": "392400179692",
+    "mlIds": [
+      "MLB48410634"
+    ],
+    "mlParentId": "MLB48410609",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "protetor solar",
       "miamimd"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:28.547Z",
+    "updatedAt": "2026-03-03T16:35:28.547Z"
   },
   {
     "id": "p17725557285471743",
@@ -17354,6 +22917,17 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_680807-MLA83481284434_042025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_885836-MLA83481284452_042025-F.jpg"
     ],
+    "ean": "762716353039",
+    "mlIds": [
+      "MLB48419049"
+    ],
+    "mlParentId": "MLB48419024",
+    "colors": [
+      {
+        "name": "Sol",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_786499-MLA83479144512_042025-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -17361,12 +22935,8 @@ const catalogProducts = [
       "protetor solar",
       "dwdiwen"
     ],
-    "colors": [
-      {
-        "name": "Sol",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_786499-MLA83479144512_042025-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:35:28.547Z",
+    "updatedAt": "2026-03-03T16:35:28.547Z"
   },
   {
     "id": "p17725557285471745",
@@ -17382,12 +22952,9 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_782579-MLA82448380033_022025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_635973-MLA82448341603_022025-F.jpg"
     ],
-    "averageRating": 0,
-    "reviewCount": 0,
-    "prices": [],
-    "tags": [
-      "protetor solar",
-      "nutriex"
+    "ean": "1045012344376",
+    "mlIds": [
+      "MLB33446702"
     ],
     "colors": [
       {
@@ -17398,7 +22965,16 @@ const catalogProducts = [
         "name": "Facial",
         "image": "https://http2.mlstatic.com/D_NQ_NP_692273-MLU74423757440_022024-F.jpg"
       }
-    ]
+    ],
+    "averageRating": 0,
+    "reviewCount": 0,
+    "prices": [],
+    "tags": [
+      "protetor solar",
+      "nutriex"
+    ],
+    "createdAt": "2026-03-03T16:35:28.547Z",
+    "updatedAt": "2026-03-03T16:35:28.547Z"
   },
   {
     "id": "p17725557285471746",
@@ -17411,13 +22987,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_819168-MLA99404880550_112025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_912961-MLA84176703624_052025-F.jpg"
     ],
+    "ean": "7896902287594",
+    "mlIds": [
+      "MLB28249089"
+    ],
+    "mlParentId": "MLB28249088",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "protetor solar",
       "sunless"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:28.547Z",
+    "updatedAt": "2026-03-03T16:35:28.547Z"
   },
   {
     "id": "p17725557285471747",
@@ -17433,13 +23017,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_984980-MLA83777344801_042025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_945717-MLA83484724752_042025-F.jpg"
     ],
+    "ean": "72140033972",
+    "mlIds": [
+      "MLB48433908"
+    ],
+    "mlParentId": "MLB48433891",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "protetor solar",
       "coppertone"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:28.547Z",
+    "updatedAt": "2026-03-03T16:35:28.547Z"
   },
   {
     "id": "p17725557285471748",
@@ -17454,13 +23046,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_885785-MLU73936290039_012024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_999506-MLU73936755129_012024-F.jpg"
     ],
+    "ean": "7891066009136",
+    "mlIds": [
+      "MLB23883677"
+    ],
+    "mlParentId": "MLB23883673",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "protetor solar",
       "needs solar"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:28.547Z",
+    "updatedAt": "2026-03-03T16:35:28.547Z"
   },
   {
     "id": "p17725557285471749",
@@ -17473,13 +23073,22 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_663894-MLA83508897030_042025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_726062-MLA83508713250_042025-F.jpg"
     ],
+    "ean": "3760126264829",
+    "mlIds": [
+      "MLB48501974",
+      "MLB49697620"
+    ],
+    "mlParentId": "MLB48501971",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "protetor solar",
       "phytøøs"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:28.547Z",
+    "updatedAt": "2026-03-03T16:35:28.547Z"
   },
   {
     "id": "p17725557285471750",
@@ -17491,13 +23100,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_707256-MLA84352140222_052025-F.jpg"
     ],
+    "ean": "392400138972",
+    "mlIds": [
+      "MLB49854325"
+    ],
+    "mlParentId": "MLB49854319",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "protetor solar",
       "coppertone"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:28.547Z",
+    "updatedAt": "2026-03-03T16:35:28.547Z"
   },
   {
     "id": "p17725557285471752",
@@ -17513,13 +23130,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_843580-MLA74808087981_022024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_941174-MLA92717116815_092025-F.jpg"
     ],
+    "ean": "7891010253561",
+    "mlIds": [
+      "MLB29108733"
+    ],
+    "mlParentId": "MLB19111448",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "protetor solar",
       "neutrogena"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:28.547Z",
+    "updatedAt": "2026-03-03T16:35:28.547Z"
   },
   {
     "id": "p17725557285471753",
@@ -17533,13 +23158,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_858124-MLA91325283403_082025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_776266-MLA91325498791_082025-F.jpg"
     ],
+    "ean": "74469508940",
+    "mlIds": [
+      "MLB54249662"
+    ],
+    "mlParentId": "MLB54249661",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "protetor solar",
       "coola"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:28.547Z",
+    "updatedAt": "2026-03-03T16:35:28.547Z"
   },
   {
     "id": "p17725557285471754",
@@ -17552,13 +23185,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_959518-MLA84321574640_052025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_662357-MLA84321612568_052025-F.jpg"
     ],
+    "ean": "3760141877356",
+    "mlIds": [
+      "MLB49768241"
+    ],
+    "mlParentId": "MLB49768219",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "protetor solar",
       "gamarde"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:28.547Z",
+    "updatedAt": "2026-03-03T16:35:28.547Z"
   },
   {
     "id": "p17725557285481755",
@@ -17574,13 +23215,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_737391-MLA83770856299_042025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_885212-MLA83770808269_042025-F.jpg"
     ],
+    "ean": "392400170835",
+    "mlIds": [
+      "MLB48392980"
+    ],
+    "mlParentId": "MLB48392926",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "protetor solar",
       "yfkeji"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:28.548Z",
+    "updatedAt": "2026-03-03T16:35:28.548Z"
   },
   {
     "id": "p17725557285481756",
@@ -17592,13 +23241,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_858471-MLA84266406514_052025-F.jpg"
     ],
+    "ean": "392400974860",
+    "mlIds": [
+      "MLB49493331"
+    ],
+    "mlParentId": "MLB49493328",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "protetor solar",
       "rosarden"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:28.548Z",
+    "updatedAt": "2026-03-03T16:35:28.548Z"
   },
   {
     "id": "p17725557285481757",
@@ -17614,13 +23271,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_835150-MLA83453800436_042025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_943576-MLA83746198825_042025-F.jpg"
     ],
+    "ean": "392400967268",
+    "mlIds": [
+      "MLB48262212"
+    ],
+    "mlParentId": "MLB48262210",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "protetor solar",
       "mindfully natural"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:28.548Z",
+    "updatedAt": "2026-03-03T16:35:28.548Z"
   },
   {
     "id": "p17725557298261758",
@@ -17636,6 +23301,17 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_770564-MLA80733116752_112024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_928746-MLA80733048560_112024-F.jpg"
     ],
+    "ean": "7892330063076",
+    "mlIds": [
+      "MLB43954653"
+    ],
+    "mlParentId": "MLB44041068",
+    "colors": [
+      {
+        "name": "Hidrabene En",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_908382-MLA80733048522_112024-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -17643,12 +23319,8 @@ const catalogProducts = [
       "protetor solar",
       "hidrabene"
     ],
-    "colors": [
-      {
-        "name": "Hidrabene En",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_908382-MLA80733048522_112024-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:35:29.826Z",
+    "updatedAt": "2026-03-03T16:35:29.826Z"
   },
   {
     "id": "p17725557298261759",
@@ -17664,13 +23336,11 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_755745-MLA83809677893_042025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_855403-MLA83809677903_042025-F.jpg"
     ],
-    "averageRating": 0,
-    "reviewCount": 0,
-    "prices": [],
-    "tags": [
-      "protetor solar",
-      "no-ad"
+    "ean": "813822016667",
+    "mlIds": [
+      "MLB48534234"
     ],
+    "mlParentId": "MLB48534230",
     "colors": [
       {
         "name": "Kids Locao",
@@ -17684,7 +23354,16 @@ const catalogProducts = [
         "name": "Sport Spray",
         "image": "https://http2.mlstatic.com/D_NQ_NP_701304-MLA85092935737_052025-F.jpg"
       }
-    ]
+    ],
+    "averageRating": 0,
+    "reviewCount": 0,
+    "prices": [],
+    "tags": [
+      "protetor solar",
+      "no-ad"
+    ],
+    "createdAt": "2026-03-03T16:35:29.826Z",
+    "updatedAt": "2026-03-03T16:35:29.826Z"
   },
   {
     "id": "p17725557298261760",
@@ -17696,13 +23375,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_684192-MLB32967226515_112019-F.jpg"
     ],
+    "ean": "7896048607959",
+    "mlIds": [
+      "MLB21838972"
+    ],
+    "mlParentId": "MLB21838952",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "protetor solar",
       "needs solar"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:29.826Z",
+    "updatedAt": "2026-03-03T16:35:29.826Z"
   },
   {
     "id": "p17725557298261762",
@@ -17714,13 +23401,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_937598-MLB74123410875_012024-F.jpg"
     ],
+    "ean": "7891142206848",
+    "mlIds": [
+      "MLB21195004"
+    ],
+    "mlParentId": "MLB21194987",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "protetor solar",
       "episol"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:29.826Z",
+    "updatedAt": "2026-03-03T16:35:29.826Z"
   },
   {
     "id": "p17725557298261764",
@@ -17736,13 +23431,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_705921-MLA83785817121_042025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_877650-MLA83785817131_042025-F.jpg"
     ],
+    "ean": "392400824257",
+    "mlIds": [
+      "MLB48463065"
+    ],
+    "mlParentId": "MLB48463034",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "protetor solar",
       "obrve"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:29.826Z",
+    "updatedAt": "2026-03-03T16:35:29.826Z"
   },
   {
     "id": "p17725557298261765",
@@ -17757,13 +23460,11 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_936082-MLA105083294710_012026-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_892320-MLA105082790396_012026-F.jpg"
     ],
-    "averageRating": 0,
-    "reviewCount": 0,
-    "prices": [],
-    "tags": [
-      "protetor solar",
-      "vult"
+    "ean": "17899852026067",
+    "mlIds": [
+      "MLB45680699"
     ],
+    "mlParentId": "MLB45680698",
     "colors": [
       {
         "name": "Vult",
@@ -17773,7 +23474,16 @@ const catalogProducts = [
         "name": "Antissinais",
         "image": "https://http2.mlstatic.com/D_NQ_NP_958156-MLA105657231033_012026-F.jpg"
       }
-    ]
+    ],
+    "averageRating": 0,
+    "reviewCount": 0,
+    "prices": [],
+    "tags": [
+      "protetor solar",
+      "vult"
+    ],
+    "createdAt": "2026-03-03T16:35:29.826Z",
+    "updatedAt": "2026-03-03T16:35:29.826Z"
   },
   {
     "id": "p17725557298261768",
@@ -17785,13 +23495,20 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_698313-MLA80152855535_102024-F.jpg"
     ],
+    "ean": "7898555603363",
+    "mlIds": [
+      "MLB36421431"
+    ],
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "protetor solar",
       "latika"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:29.826Z",
+    "updatedAt": "2026-03-03T16:35:29.826Z"
   },
   {
     "id": "p17725557298261769",
@@ -17807,13 +23524,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_861765-MLA83476163684_042025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_975957-MLA83768845259_042025-F.jpg"
     ],
+    "ean": "392400179852",
+    "mlIds": [
+      "MLB48380873"
+    ],
+    "mlParentId": "MLB48380864",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "protetor solar",
       "syabo"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:29.826Z",
+    "updatedAt": "2026-03-03T16:35:29.826Z"
   },
   {
     "id": "p17725557298261772",
@@ -17829,13 +23554,11 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_614532-MLA79633825972_102024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_744583-MLA99386355154_112025-F.jpg"
     ],
-    "averageRating": 0,
-    "reviewCount": 0,
-    "prices": [],
-    "tags": [
-      "protetor solar",
-      "australian gold"
+    "ean": "37891033812838",
+    "mlIds": [
+      "MLB36540433"
     ],
+    "mlParentId": "MLB36540434",
     "colors": [
       {
         "name": "En",
@@ -17845,7 +23568,16 @@ const catalogProducts = [
         "name": "Facial",
         "image": "https://http2.mlstatic.com/D_NQ_NP_698087-MLA99391027630_112025-F.jpg"
       }
-    ]
+    ],
+    "averageRating": 0,
+    "reviewCount": 0,
+    "prices": [],
+    "tags": [
+      "protetor solar",
+      "australian gold"
+    ],
+    "createdAt": "2026-03-03T16:35:29.826Z",
+    "updatedAt": "2026-03-03T16:35:29.826Z"
   },
   {
     "id": "p17725557298261773",
@@ -17860,13 +23592,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_959499-MLU71098702331_082023-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_990174-MLU71098702333_082023-F.jpg"
     ],
+    "ean": "7805090525333",
+    "mlIds": [
+      "MLB26053996"
+    ],
+    "mlParentId": "MLB26053978",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "protetor solar",
       "o boticário"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:29.826Z",
+    "updatedAt": "2026-03-03T16:35:29.826Z"
   },
   {
     "id": "p17725557298261774",
@@ -17879,13 +23619,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_693288-MLA99281531782_112025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_895674-MLA95972629975_102025-F.jpg"
     ],
+    "ean": "6012526088008",
+    "mlIds": [
+      "MLB60867045"
+    ],
+    "mlParentId": "MLB60867044",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "protetor solar",
       "biodermis cosmeticos"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:29.826Z",
+    "updatedAt": "2026-03-03T16:35:29.826Z"
   },
   {
     "id": "p17725557298261775",
@@ -17897,13 +23645,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_813704-MLA99906432433_112025-F.jpg"
     ],
+    "ean": "7735118800152",
+    "mlIds": [
+      "MLB36961618"
+    ],
+    "mlParentId": "MLB44111061",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "protetor solar",
       "cicatricure"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:29.826Z",
+    "updatedAt": "2026-03-03T16:35:29.826Z"
   },
   {
     "id": "p17725557298261776",
@@ -17916,13 +23672,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_676252-MLB44525434717_012021-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_930644-MLA79581547280_102024-F.jpg"
     ],
+    "ean": "7897230302744",
+    "mlIds": [
+      "MLB20572105"
+    ],
+    "mlParentId": "MLB20572081",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "protetor solar",
       "dahuer"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:29.826Z",
+    "updatedAt": "2026-03-03T16:35:29.826Z"
   },
   {
     "id": "p17725557298261777",
@@ -17935,13 +23699,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_842994-MLB45294882636_032021-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_648102-MLB47935019594_102021-F.jpg"
     ],
+    "ean": "7899706185080",
+    "mlIds": [
+      "MLB22571463"
+    ],
+    "mlParentId": "MLB22571461",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "protetor solar",
       "l'oréal"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:29.826Z",
+    "updatedAt": "2026-03-03T16:35:29.826Z"
   },
   {
     "id": "p17725557298261778",
@@ -17953,13 +23725,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_699571-MLU75436572740_042024-F.jpg"
     ],
+    "ean": "7898131183661",
+    "mlIds": [
+      "MLB22100459"
+    ],
+    "mlParentId": "MLB22100451",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "protetor solar",
       "allergic center"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:29.826Z",
+    "updatedAt": "2026-03-03T16:35:29.826Z"
   },
   {
     "id": "p17725557311161779",
@@ -17971,13 +23751,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_615139-MLB40553181416_012020-F.jpg"
     ],
+    "ean": "7899785200834",
+    "mlIds": [
+      "MLB20572099"
+    ],
+    "mlParentId": "MLB20572075",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "protetor solar",
       "skinscience"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:31.116Z",
+    "updatedAt": "2026-03-03T16:35:31.116Z"
   },
   {
     "id": "p17725557311161781",
@@ -17989,13 +23777,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_810596-MLA99831498657_112025-F.jpg"
     ],
+    "ean": "7898920488045",
+    "mlIds": [
+      "MLB22875082"
+    ],
+    "mlParentId": "MLB22875056",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "protetor solar",
       "facinatus cosméticos"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:31.116Z",
+    "updatedAt": "2026-03-03T16:35:31.116Z"
   },
   {
     "id": "p17725557311161782",
@@ -18009,13 +23805,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_673318-MLU76349298031_052024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_985166-MLU76349163355_052024-F.jpg"
     ],
+    "ean": "7890974736561",
+    "mlIds": [
+      "MLB36884751"
+    ],
+    "mlParentId": "MLB36884750",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "protetor solar",
       "sun shade"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:31.116Z",
+    "updatedAt": "2026-03-03T16:35:31.116Z"
   },
   {
     "id": "p17725557311161783",
@@ -18029,13 +23833,20 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_644128-MLU75308187190_032024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_995745-MLA79491222514_102024-F.jpg"
     ],
+    "ean": "7802151407270",
+    "mlIds": [
+      "MLB35053599"
+    ],
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "protetor solar",
       "eurofarma"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:31.116Z",
+    "updatedAt": "2026-03-03T16:35:31.116Z"
   },
   {
     "id": "p17725557311171785",
@@ -18047,13 +23858,20 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_806247-MLA99862859247_112025-F.jpg"
     ],
+    "ean": "10099799914",
+    "mlIds": [
+      "MLB35053837"
+    ],
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "protetor solar",
       "mantecorp"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:31.117Z",
+    "updatedAt": "2026-03-03T16:35:31.117Z"
   },
   {
     "id": "p17725557311171789",
@@ -18068,13 +23886,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_741598-MLU75004835665_032024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_904148-MLU74545496329_022024-F.jpg"
     ],
+    "ean": "79656540574",
+    "mlIds": [
+      "MLB20579324"
+    ],
+    "mlParentId": "MLB20579304",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "protetor solar",
       "banana boat"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:31.117Z",
+    "updatedAt": "2026-03-03T16:35:31.117Z"
   },
   {
     "id": "p17725557311171790",
@@ -18086,13 +23912,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_621732-MLA100975168531_122025-F.jpg"
     ],
+    "ean": "7898560030079",
+    "mlIds": [
+      "MLB63038545"
+    ],
+    "mlParentId": "MLB63038543",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "protetor solar",
       "aishy"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:31.117Z",
+    "updatedAt": "2026-03-03T16:35:31.117Z"
   },
   {
     "id": "p17725557311171793",
@@ -18108,13 +23942,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_606095-MLB53431019028_012023-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_937927-MLB74114039641_012024-F.jpg"
     ],
+    "ean": "7896609546024",
+    "mlIds": [
+      "MLB21962026"
+    ],
+    "mlParentId": "MLB21962022",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "protetor solar",
       "payot"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:31.117Z",
+    "updatedAt": "2026-03-03T16:35:31.117Z"
   },
   {
     "id": "p17725557311171795",
@@ -18129,13 +23971,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_821199-MLA93378391612_092025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_977981-MLA93797854835_092025-F.jpg"
     ],
+    "ean": "7898973267734",
+    "mlIds": [
+      "MLB53217930"
+    ],
+    "mlParentId": "MLB53217929",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "protetor solar",
       "ada tina italy"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:31.117Z",
+    "updatedAt": "2026-03-03T16:35:31.117Z"
   },
   {
     "id": "p17725557311171796",
@@ -18149,13 +23999,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_651129-MLA99832702639_112025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_763855-MLA99349642606_112025-F.jpg"
     ],
+    "ean": "7899861816201",
+    "mlIds": [
+      "MLB19782254"
+    ],
+    "mlParentId": "MLB19782223",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "protetor solar",
       "racco"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:31.117Z",
+    "updatedAt": "2026-03-03T16:35:31.117Z"
   },
   {
     "id": "p17725557311171798",
@@ -18171,13 +24029,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_866770-MLA81228431738_122024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_889705-MLA81496996669_122024-F.jpg"
     ],
+    "ean": "7797357922408",
+    "mlIds": [
+      "MLB44917586"
+    ],
+    "mlParentId": "MLB44917583",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "protetor solar",
       "brazinco"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:31.117Z",
+    "updatedAt": "2026-03-03T16:35:31.117Z"
   },
   {
     "id": "p17725557311171800",
@@ -18189,13 +24055,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_880515-MLU74983583665_032024-F.jpg"
     ],
+    "ean": "7898672492567",
+    "mlIds": [
+      "MLB34098045"
+    ],
+    "mlParentId": "MLB34098043",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "protetor solar",
       "beyoung"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:31.117Z",
+    "updatedAt": "2026-03-03T16:35:31.117Z"
   },
   {
     "id": "p17725557311171801",
@@ -18209,13 +24083,20 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_929472-MLU73790544908_012024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_896809-MLU73790325636_012024-F.jpg"
     ],
+    "ean": "606529339067",
+    "mlIds": [
+      "MLB29573373"
+    ],
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "protetor solar",
       "hinode"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:31.117Z",
+    "updatedAt": "2026-03-03T16:35:31.117Z"
   },
   {
     "id": "p17725557311171802",
@@ -18227,13 +24108,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_870016-MLU69823255211_062023-F.jpg"
     ],
+    "ean": "7896014176083",
+    "mlIds": [
+      "MLB23765862"
+    ],
+    "mlParentId": "MLB23765845",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "protetor solar",
       "l'oréal"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:31.117Z",
+    "updatedAt": "2026-03-03T16:35:31.117Z"
   },
   {
     "id": "p17725557311171804",
@@ -18249,13 +24138,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_825700-MLA98484901024_112025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_830944-MLA98962195523_112025-F.jpg"
     ],
+    "ean": "7899674044730",
+    "mlIds": [
+      "MLB62371117"
+    ],
+    "mlParentId": "MLB62371116",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "protetor solar",
       "above"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:31.117Z",
+    "updatedAt": "2026-03-03T16:35:31.117Z"
   },
   {
     "id": "p17725557323871806",
@@ -18268,13 +24165,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_777019-MLU77783099465_072024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_919568-MLU77564722774_072024-F.jpg"
     ],
+    "ean": "853375008030",
+    "mlIds": [
+      "MLB38419731"
+    ],
+    "mlParentId": "MLB38419730",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "tônico facial",
       "january labs"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:32.387Z",
+    "updatedAt": "2026-03-03T16:35:32.387Z"
   },
   {
     "id": "p17725557323871807",
@@ -18287,13 +24192,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_746666-MLU77994710659_072024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_620587-MLU77994402611_072024-F.jpg"
     ],
+    "ean": "7183342207481",
+    "mlIds": [
+      "MLB38685114"
+    ],
+    "mlParentId": "MLB38685113",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "tônico facial",
       "natural"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:32.387Z",
+    "updatedAt": "2026-03-03T16:35:32.387Z"
   },
   {
     "id": "p17725557323871808",
@@ -18309,13 +24222,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_940542-MLA79511087822_102024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_800377-MLA79758150189_102024-F.jpg"
     ],
+    "ean": "753122943167",
+    "mlIds": [
+      "MLB41550937"
+    ],
+    "mlParentId": "MLB38269759",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "tônico facial",
       "natural outcome"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:32.387Z",
+    "updatedAt": "2026-03-03T16:35:32.387Z"
   },
   {
     "id": "p17725557323871809",
@@ -18329,13 +24250,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_670376-MLU70969033320_082023-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_713104-MLU71005046875_082023-F.jpg"
     ],
+    "ean": "8690131108830",
+    "mlIds": [
+      "MLB25918517"
+    ],
+    "mlParentId": "MLB25918497",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "tônico facial",
       "farmasi"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:32.387Z",
+    "updatedAt": "2026-03-03T16:35:32.387Z"
   },
   {
     "id": "p17725557323871811",
@@ -18351,13 +24280,20 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_626785-MLA105540852281_012026-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_633614-MLA105541181015_012026-F.jpg"
     ],
+    "ean": "641628002283",
+    "mlIds": [
+      "MLB64814376"
+    ],
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "tônico facial",
       "elemis"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:32.387Z",
+    "updatedAt": "2026-03-03T16:35:32.387Z"
   },
   {
     "id": "p17725557323871812",
@@ -18372,13 +24308,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_712581-MLA104156519076_012026-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_670217-MLA104155985130_012026-F.jpg"
     ],
+    "ean": "8809443284716",
+    "mlIds": [
+      "MLB64244393"
+    ],
+    "mlParentId": "MLB64244392",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "tônico facial",
       "orjena"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:32.387Z",
+    "updatedAt": "2026-03-03T16:35:32.387Z"
   },
   {
     "id": "p17725557323871813",
@@ -18390,13 +24334,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_936506-MLU75165107907_032024-F.jpg"
     ],
+    "ean": "7898266623766",
+    "mlIds": [
+      "MLB23255536"
+    ],
+    "mlParentId": "MLB23255532",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "tônico facial",
       "koloss"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:32.387Z",
+    "updatedAt": "2026-03-03T16:35:32.387Z"
   },
   {
     "id": "p17725557336551814",
@@ -18408,13 +24360,20 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_880065-MLU73844566037_012024-F.jpg"
     ],
+    "ean": "798985602509",
+    "mlIds": [
+      "MLB29509422"
+    ],
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "tônico facial",
       "studio gear cosmetics"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:33.655Z",
+    "updatedAt": "2026-03-03T16:35:33.655Z"
   },
   {
     "id": "p17725557336551815",
@@ -18427,13 +24386,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_698774-MLU72444017137_102023-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_762287-MLU72443640935_102023-F.jpg"
     ],
+    "ean": "810021201214",
+    "mlIds": [
+      "MLB27859345"
+    ],
+    "mlParentId": "MLB27859344",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "tônico facial",
       "dr.jart+"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:33.655Z",
+    "updatedAt": "2026-03-03T16:35:33.655Z"
   },
   {
     "id": "p17725557336561816",
@@ -18446,13 +24413,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_751738-MLA83438971524_042025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_864406-MLA83438971530_042025-F.jpg"
     ],
+    "ean": "810052963709",
+    "mlIds": [
+      "MLB47939889"
+    ],
+    "mlParentId": "MLB47939887",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "tônico facial",
       "glow recipe"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:33.656Z",
+    "updatedAt": "2026-03-03T16:35:33.656Z"
   },
   {
     "id": "p17725557336561817",
@@ -18468,13 +24443,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_725855-MLU74276768019_012024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_849536-MLU74165215800_012024-F.jpg"
     ],
+    "ean": "672818086462",
+    "mlIds": [
+      "MLB30915153"
+    ],
+    "mlParentId": "MLB30915152",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "tônico facial",
       "dear klairs"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:33.656Z",
+    "updatedAt": "2026-03-03T16:35:33.656Z"
   },
   {
     "id": "p17725557336561818",
@@ -18486,13 +24469,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_809323-MLU77834411362_072024-F.jpg"
     ],
+    "ean": "810027130570",
+    "mlIds": [
+      "MLB38749471"
+    ],
+    "mlParentId": "MLB36661306",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "tônico facial",
       "rael"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:33.656Z",
+    "updatedAt": "2026-03-03T16:35:33.656Z"
   },
   {
     "id": "p17725557336561819",
@@ -18504,13 +24495,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_735887-MLU74394568368_022024-F.jpg"
     ],
+    "ean": "860005766000",
+    "mlIds": [
+      "MLB32963600"
+    ],
+    "mlParentId": "MLB32963599",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "tônico facial",
       "alkaglam"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:33.656Z",
+    "updatedAt": "2026-03-03T16:35:33.656Z"
   },
   {
     "id": "p17725557336561820",
@@ -18526,13 +24525,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_775623-MLU75854334223_042024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_850481-MLU75854423013_042024-F.jpg"
     ],
+    "ean": "641628012220",
+    "mlIds": [
+      "MLB35893866"
+    ],
+    "mlParentId": "MLB35893864",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "tônico facial",
       "elemis"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:33.656Z",
+    "updatedAt": "2026-03-03T16:35:33.656Z"
   },
   {
     "id": "p17725557336561821",
@@ -18544,13 +24551,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_818809-MLU74428818545_022024-F.jpg"
     ],
+    "ean": "7898292997862",
+    "mlIds": [
+      "MLB32341672"
+    ],
+    "mlParentId": "MLB32341669",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "tônico facial",
       "tropicália cosméticos"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:33.656Z",
+    "updatedAt": "2026-03-03T16:35:33.656Z"
   },
   {
     "id": "p17725557336571822",
@@ -18562,13 +24577,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_906658-MLC48233126509_112021-F.jpg"
     ],
+    "ean": "760412330064",
+    "mlIds": [
+      "MLB19836072"
+    ],
+    "mlParentId": "MLB19836051",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "tônico facial",
       "flamenco"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:33.657Z",
+    "updatedAt": "2026-03-03T16:35:33.657Z"
   },
   {
     "id": "p17725557336571823",
@@ -18580,13 +24603,22 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_726607-MLB74136918418_012024-F.jpg"
     ],
+    "ean": "7899360235251",
+    "mlIds": [
+      "MLB20275067",
+      "MLB20699992"
+    ],
+    "mlParentId": "MLB20275048",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "tônico facial",
       "fenzza"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:33.657Z",
+    "updatedAt": "2026-03-03T16:35:34.938Z"
   },
   {
     "id": "p17725557336571824",
@@ -18599,13 +24631,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_907692-MLU74376721730_022024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_821464-MLU74376721734_022024-F.jpg"
     ],
+    "ean": "5901887029649",
+    "mlIds": [
+      "MLB32671308"
+    ],
+    "mlParentId": "MLB32671307",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "tônico facial",
       "ziaja"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:33.657Z",
+    "updatedAt": "2026-03-03T16:35:33.657Z"
   },
   {
     "id": "p17725557336571825",
@@ -18617,13 +24657,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_640498-MLU73689704464_012024-F.jpg"
     ],
+    "ean": "7898945702676",
+    "mlIds": [
+      "MLB22915113"
+    ],
+    "mlParentId": "MLB22915083",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "tônico facial",
       "magical dermocosméticos"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:33.657Z",
+    "updatedAt": "2026-03-03T16:35:33.657Z"
   },
   {
     "id": "p17725557349381826",
@@ -18637,13 +24685,20 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_716047-MLU73048713161_112023-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_739068-MLU73048732791_112023-F.jpg"
     ],
+    "ean": "785364204034",
+    "mlIds": [
+      "MLB28348034"
+    ],
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "tônico facial",
       "mario badescu"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:34.938Z",
+    "updatedAt": "2026-03-03T16:35:34.938Z"
   },
   {
     "id": "p17725557349381828",
@@ -18655,13 +24710,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_748158-MLU74724540760_032024-F.jpg"
     ],
+    "ean": "7899956826511",
+    "mlIds": [
+      "MLB21338453"
+    ],
+    "mlParentId": "MLB21338435",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "tônico facial",
       "dapop care"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:34.938Z",
+    "updatedAt": "2026-03-03T16:35:34.938Z"
   },
   {
     "id": "p17725557349391829",
@@ -18676,13 +24739,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_821547-MLU71108115064_082023-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_758436-MLU71108115062_082023-F.jpg"
     ],
+    "ean": "8809738315354",
+    "mlIds": [
+      "MLB26197962"
+    ],
+    "mlParentId": "MLB26197942",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "tônico facial",
       "cleyo"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:34.939Z",
+    "updatedAt": "2026-03-03T16:35:34.939Z"
   },
   {
     "id": "p17725557349391830",
@@ -18698,13 +24769,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_932634-MLA83787558851_042025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_726743-MLA83787735651_042025-F.jpg"
     ],
+    "ean": "781159085741",
+    "mlIds": [
+      "MLB48466692"
+    ],
+    "mlParentId": "MLB48466687",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "tônico facial",
       "orgliz"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:34.939Z",
+    "updatedAt": "2026-03-03T16:35:34.939Z"
   },
   {
     "id": "p17725557349391831",
@@ -18716,13 +24795,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_612715-MLA83492040488_042025-F.jpg"
     ],
+    "ean": "89902508777",
+    "mlIds": [
+      "MLB48459648"
+    ],
+    "mlParentId": "MLB48459644",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "tônico facial",
       "simply radiant beauty"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:34.939Z",
+    "updatedAt": "2026-03-03T16:35:34.939Z"
   },
   {
     "id": "p17725557349391832",
@@ -18738,13 +24825,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_909770-MLU76705399523_052024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_724313-MLU76507718778_052024-F.jpg"
     ],
+    "ean": "7899852017945, 7891033917945",
+    "mlIds": [
+      "MLB21568707"
+    ],
+    "mlParentId": "MLB21568705",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "tônico facial",
       "vult"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:34.939Z",
+    "updatedAt": "2026-03-03T16:35:34.939Z"
   },
   {
     "id": "p17725557349391833",
@@ -18760,13 +24855,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_667554-MLA83800071851_042025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_872315-MLA83507274234_042025-F.jpg"
     ],
+    "ean": "8809990450299",
+    "mlIds": [
+      "MLB48494726"
+    ],
+    "mlParentId": "MLB48494723",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "tônico facial",
       "p.calm"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:34.939Z",
+    "updatedAt": "2026-03-03T16:35:34.939Z"
   },
   {
     "id": "p17725557349391834",
@@ -18782,13 +24885,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_890795-MLU70654896254_072023-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_618040-MLU70654762794_072023-F.jpg"
     ],
+    "ean": "80119999372",
+    "mlIds": [
+      "MLB25024847"
+    ],
+    "mlParentId": "MLB25024827",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "tônico facial",
       "victorias body shoppe"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:34.939Z",
+    "updatedAt": "2026-03-03T16:35:34.939Z"
   },
   {
     "id": "p17725557349391835",
@@ -18800,13 +24911,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_604155-MLU77833278917_072024-F.jpg"
     ],
+    "ean": "7183342210870",
+    "mlIds": [
+      "MLB38498432"
+    ],
+    "mlParentId": "MLB38498431",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "tônico facial",
       "georgette"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:34.939Z",
+    "updatedAt": "2026-03-03T16:35:34.939Z"
   },
   {
     "id": "p17725557349391836",
@@ -18822,13 +24941,20 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_792684-MLU73005464572_112023-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_733611-MLU73086935421_112023-F.jpg"
     ],
+    "ean": "8809821010128",
+    "mlIds": [
+      "MLB28453091"
+    ],
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "tônico facial",
       "vinoir"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:34.939Z",
+    "updatedAt": "2026-03-03T16:35:34.939Z"
   },
   {
     "id": "p17725557349391837",
@@ -18840,13 +24966,19 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_895372-MLU71548273675_092023-F.jpg"
     ],
+    "mlIds": [
+      "MLB20821314"
+    ],
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "tônico facial",
       "veganis"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:34.939Z",
+    "updatedAt": "2026-03-03T16:35:34.939Z"
   },
   {
     "id": "p17725557349391838",
@@ -18859,13 +24991,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_864865-MLU75026775154_032024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_610447-MLU71078668383_082023-F.jpg"
     ],
+    "ean": "8803348033745",
+    "mlIds": [
+      "MLB25957751"
+    ],
+    "mlParentId": "MLB25957736",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "tônico facial",
       "frudia"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:34.939Z",
+    "updatedAt": "2026-03-03T16:35:34.939Z"
   },
   {
     "id": "p17725557349391840",
@@ -18877,13 +25017,20 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_754495-MLU75272416701_032024-F.jpg"
     ],
+    "ean": "7730913022112",
+    "mlIds": [
+      "MLB34705910"
+    ],
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "tônico facial",
       "actenz"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:34.939Z",
+    "updatedAt": "2026-03-03T16:35:34.939Z"
   },
   {
     "id": "p17725557362191841",
@@ -18899,13 +25046,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_792400-MLU71104207279_082023-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_848687-MLU71104207283_082023-F.jpg"
     ],
+    "ean": "7506041060476",
+    "mlIds": [
+      "MLB26072062"
+    ],
+    "mlParentId": "MLB26072013",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "tônico facial",
       "colorton"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:36.219Z",
+    "updatedAt": "2026-03-03T16:35:36.219Z"
   },
   {
     "id": "p17725557362201842",
@@ -18920,13 +25075,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_962302-MLA107328111473_022026-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_806582-MLA107328169237_022026-F.jpg"
     ],
+    "ean": "3666057216886",
+    "mlIds": [
+      "MLB65693862"
+    ],
+    "mlParentId": "MLB65693861",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "tônico facial",
       "clarins"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:36.220Z",
+    "updatedAt": "2026-03-03T16:35:36.220Z"
   },
   {
     "id": "p17725557362201843",
@@ -18938,13 +25101,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_658213-MLA80587128637_112024-F.jpg"
     ],
+    "ean": "7908236557363",
+    "mlIds": [
+      "MLB36635055"
+    ],
+    "mlParentId": "MLB36635053",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "tônico facial",
       "nascitta cosméticos"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:36.220Z",
+    "updatedAt": "2026-03-03T16:35:36.220Z"
   },
   {
     "id": "p17725557362201844",
@@ -18956,13 +25127,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_841837-MLB74182509485_012024-F.jpg"
     ],
+    "ean": "7894875977085",
+    "mlIds": [
+      "MLB21429894"
+    ],
+    "mlParentId": "MLB21429892",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "tônico facial",
       "vitturia"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:36.220Z",
+    "updatedAt": "2026-03-03T16:35:36.220Z"
   },
   {
     "id": "p17725557362201845",
@@ -18976,13 +25155,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_784253-MLU70969538944_082023-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_839527-MLU71005539231_082023-F.jpg"
     ],
+    "ean": "7709784572514",
+    "mlIds": [
+      "MLB25919906"
+    ],
+    "mlParentId": "MLB25919903",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "tônico facial",
       "ame"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:36.220Z",
+    "updatedAt": "2026-03-03T16:35:36.220Z"
   },
   {
     "id": "p17725557362201846",
@@ -18995,13 +25182,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_883232-MLU75022987578_032024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_627071-MLU70953230426_082023-F.jpg"
     ],
+    "ean": "736372444035",
+    "mlIds": [
+      "MLB25910461"
+    ],
+    "mlParentId": "MLB25910454",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "tônico facial",
       "mf cosmetics"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:36.220Z",
+    "updatedAt": "2026-03-03T16:35:36.220Z"
   },
   {
     "id": "p17725557362201847",
@@ -19014,13 +25209,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_677672-MLA83116223256_032025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_785302-MLA83116359684_032025-F.jpg"
     ],
+    "ean": "64323374767",
+    "mlIds": [
+      "MLB47562592"
+    ],
+    "mlParentId": "MLB47562591",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "tônico facial",
       "erase your face"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:36.220Z",
+    "updatedAt": "2026-03-03T16:35:36.220Z"
   },
   {
     "id": "p17725557362201848",
@@ -19035,13 +25238,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_808206-MLA84536962240_052025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_985830-MLA84835269697_052025-F.jpg"
     ],
+    "ean": "7896132128575",
+    "mlIds": [
+      "MLB20641334"
+    ],
+    "mlParentId": "MLB20641324",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "tônico facial",
       "marchetti"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:36.220Z",
+    "updatedAt": "2026-03-03T16:35:36.220Z"
   },
   {
     "id": "p17725557362211849",
@@ -19053,13 +25264,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_637166-MLU74607701483_022024-F.jpg"
     ],
+    "ean": "7899999515670",
+    "mlIds": [
+      "MLB32193142"
+    ],
+    "mlParentId": "MLB32193139",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "tônico facial",
       "fanccy"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:36.221Z",
+    "updatedAt": "2026-03-03T16:35:36.221Z"
   },
   {
     "id": "p17725557362211850",
@@ -19071,13 +25290,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_890002-MLC52502088755_112022-F.jpg"
     ],
+    "ean": "7805230420016",
+    "mlIds": [
+      "MLB21186621"
+    ],
+    "mlParentId": "MLB21186620",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "tônico facial",
       "cherimoya"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:36.221Z",
+    "updatedAt": "2026-03-03T16:35:36.221Z"
   },
   {
     "id": "p17725557362211851",
@@ -19090,13 +25317,20 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_666165-MLA87788549278_072025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_826094-MLA87788539662_072025-F.jpg"
     ],
+    "mlIds": [
+      "MLB52723512"
+    ],
+    "mlParentId": "MLB52723499",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "tônico facial",
       "botica bella terra"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:36.221Z",
+    "updatedAt": "2026-03-03T16:35:36.221Z"
   },
   {
     "id": "p17725557362211852",
@@ -19108,13 +25342,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_636540-MLA80242993781_102024-F.jpg"
     ],
+    "ean": "726798262818",
+    "mlIds": [
+      "MLB42352514"
+    ],
+    "mlParentId": "MLB42352509",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "tônico facial",
       "nouf"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:36.221Z",
+    "updatedAt": "2026-03-03T16:35:36.221Z"
   },
   {
     "id": "p17725557362211853",
@@ -19126,13 +25368,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_783575-MLC51710599674_092022-F.jpg"
     ],
+    "ean": "3517360008685",
+    "mlIds": [
+      "MLB21453434"
+    ],
+    "mlParentId": "MLB21453432",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "tônico facial",
       "so’bio étic"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:36.221Z",
+    "updatedAt": "2026-03-03T16:35:36.221Z"
   },
   {
     "id": "p17725557362211854",
@@ -19144,13 +25394,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_625468-MLB74163657853_012024-F.jpg"
     ],
+    "ean": "7908389300274",
+    "mlIds": [
+      "MLB21454667"
+    ],
+    "mlParentId": "MLB21454659",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "tônico facial",
       "ravenna"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:36.221Z",
+    "updatedAt": "2026-03-03T16:35:36.221Z"
   },
   {
     "id": "p17725557362211855",
@@ -19162,13 +25420,19 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_901357-MLU74245727075_012024-F.jpg"
     ],
+    "mlIds": [
+      "MLB20525900"
+    ],
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "tônico facial",
       "cicatricure"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:36.221Z",
+    "updatedAt": "2026-03-03T16:35:36.221Z"
   },
   {
     "id": "p17725557362211856",
@@ -19180,13 +25444,20 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_614466-MCO47093663779_082021-F.jpg"
     ],
+    "mlIds": [
+      "MLB20525911"
+    ],
+    "mlParentId": "MLB20525904",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "tônico facial",
       "l'oréal paris"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:36.221Z",
+    "updatedAt": "2026-03-03T16:35:36.221Z"
   },
   {
     "id": "p17725557362211857",
@@ -19200,13 +25471,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_831572-MLU70667358020_072023-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_783902-MLU70696778157_072023-F.jpg"
     ],
+    "ean": "7896371997376",
+    "mlIds": [
+      "MLB25070465"
+    ],
+    "mlParentId": "MLB25070429",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "tônico facial",
       "mony cosméticos"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:36.221Z",
+    "updatedAt": "2026-03-03T16:35:36.221Z"
   },
   {
     "id": "p17725557362211858",
@@ -19218,13 +25497,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_627700-MLU74484104716_022024-F.jpg"
     ],
+    "ean": "7803291596633",
+    "mlIds": [
+      "MLB32640666"
+    ],
+    "mlParentId": "MLB32640665",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "tônico facial",
       "botica erva doce"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:36.221Z",
+    "updatedAt": "2026-03-03T16:35:36.221Z"
   },
   {
     "id": "p17725557375071862",
@@ -19238,13 +25525,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_820902-MLU70638599850_072023-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_606406-MLU70666564445_072023-F.jpg"
     ],
+    "ean": "3473311415707",
+    "mlIds": [
+      "MLB24877062"
+    ],
+    "mlParentId": "MLB24877042",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "limpeza facial",
       "sisley"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:37.507Z",
+    "updatedAt": "2026-03-03T16:35:37.507Z"
   },
   {
     "id": "p17725557375071863",
@@ -19256,13 +25551,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_695821-MLU76766019643_062024-F.jpg"
     ],
+    "ean": "7898723916554",
+    "mlIds": [
+      "MLB37389851"
+    ],
+    "mlParentId": "MLB37389846",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "limpeza facial",
       "majestic nails"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:37.507Z",
+    "updatedAt": "2026-03-03T16:35:37.507Z"
   },
   {
     "id": "p17725557375071865",
@@ -19274,13 +25577,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_810511-MLU76815173232_062024-F.jpg"
     ],
+    "ean": "7898920503380",
+    "mlIds": [
+      "MLB37743714"
+    ],
+    "mlParentId": "MLB37743713",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "limpeza facial",
       "facinatus cosméticos"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:37.507Z",
+    "updatedAt": "2026-03-03T16:35:37.507Z"
   },
   {
     "id": "p17725557375071866",
@@ -19292,13 +25603,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_724747-MLB52184958424_102022-F.jpg"
     ],
+    "ean": "4901301342904",
+    "mlIds": [
+      "MLB21171018"
+    ],
+    "mlParentId": "MLB21171017",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "limpeza facial",
       "bioré"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:37.507Z",
+    "updatedAt": "2026-03-03T16:35:37.507Z"
   },
   {
     "id": "p17725557375071868",
@@ -19312,13 +25631,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_757576-MLA85311314323_052025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_605049-MLA85010504186_052025-F.jpg"
     ],
+    "ean": "7898177950050",
+    "mlIds": [
+      "MLB50565526"
+    ],
+    "mlParentId": "MLB50565524",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "limpeza facial",
       "theraskin"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:37.507Z",
+    "updatedAt": "2026-03-03T16:35:37.507Z"
   },
   {
     "id": "p17725557387941870",
@@ -19333,13 +25660,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_929662-MLA95090807727_102025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_989168-MLA94658796324_102025-F.jpg"
     ],
+    "ean": "7891150096486",
+    "mlIds": [
+      "MLB45700521"
+    ],
+    "mlParentId": "MLB41919205",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "limpeza facial",
       "dove"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:38.794Z",
+    "updatedAt": "2026-03-03T16:35:38.794Z"
   },
   {
     "id": "p17725557387941871",
@@ -19351,13 +25686,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_706140-MLU76093052898_052024-F.jpg"
     ],
+    "ean": "7896235354369",
+    "mlIds": [
+      "MLB36757875"
+    ],
+    "mlParentId": "MLB36757867",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "limpeza facial",
       "monange"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:38.794Z",
+    "updatedAt": "2026-03-03T16:35:38.794Z"
   },
   {
     "id": "p17725557387941872",
@@ -19371,13 +25714,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_616956-MLA83133274893_032025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_856962-MLU70877218883_082023-F.jpg"
     ],
+    "ean": "3282770388541",
+    "mlIds": [
+      "MLB25780467"
+    ],
+    "mlParentId": "MLB25780419",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "limpeza facial",
       "actine"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:38.794Z",
+    "updatedAt": "2026-03-03T16:35:38.794Z"
   },
   {
     "id": "p17725557387941874",
@@ -19390,13 +25741,20 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_671689-MLA84850914973_052025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_733784-MLA84552512512_052025-F.jpg"
     ],
+    "ean": "7805090305867",
+    "mlIds": [
+      "MLB24205368"
+    ],
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "limpeza facial",
       "o boticário"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:38.794Z",
+    "updatedAt": "2026-03-03T16:35:38.794Z"
   },
   {
     "id": "p17725557387951878",
@@ -19412,13 +25770,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_817677-MLA97798530936_112025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_683250-MLA97798570650_112025-F.jpg"
     ],
+    "ean": "7898750580797",
+    "mlIds": [
+      "MLB62132802"
+    ],
+    "mlParentId": "MLB62132801",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "limpeza facial",
       "simple organic"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:38.795Z",
+    "updatedAt": "2026-03-03T16:35:38.795Z"
   },
   {
     "id": "p17725557387951879",
@@ -19433,13 +25799,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_610157-MLU70045245068_062023-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_751917-MLU72575669440_112023-F.jpg"
     ],
+    "ean": "7896658032714",
+    "mlIds": [
+      "MLB20801919"
+    ],
+    "mlParentId": "MLB20801871",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "limpeza facial",
       "profuse"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:38.795Z",
+    "updatedAt": "2026-03-03T16:35:38.795Z"
   },
   {
     "id": "p17725557387951881",
@@ -19451,13 +25825,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_899287-MLA88305374579_072025-F.jpg"
     ],
+    "ean": "7908289310533",
+    "mlIds": [
+      "MLB53019938"
+    ],
+    "mlParentId": "MLB53019937",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "limpeza facial",
       "via charm cosméticos"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:38.795Z",
+    "updatedAt": "2026-03-03T16:35:38.795Z"
   },
   {
     "id": "p17725557387961883",
@@ -19470,13 +25852,20 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_779774-MLA79633356965_092024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_902274-MLA86704162039_062025-F.jpg"
     ],
+    "ean": "7898501763868",
+    "mlIds": [
+      "MLB41282770"
+    ],
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "limpeza facial",
       "via aroma"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:38.796Z",
+    "updatedAt": "2026-03-03T16:35:38.796Z"
   },
   {
     "id": "p17725557387961884",
@@ -19492,13 +25881,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_829319-MLU76361340914_052024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_895449-MLU75215916357_032024-F.jpg"
     ],
+    "ean": "7898587766043",
+    "mlIds": [
+      "MLB19132210"
+    ],
+    "mlParentId": "MLB19132207",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "limpeza facial",
       "la roche-posay"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:38.796Z",
+    "updatedAt": "2026-03-03T16:35:38.796Z"
   },
   {
     "id": "p17725557387971885",
@@ -19510,13 +25907,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_785355-MLA82643174491_022025-F.jpg"
     ],
+    "ean": "789116229498",
+    "mlIds": [
+      "MLB46342619"
+    ],
+    "mlParentId": "MLB46342615",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "limpeza facial",
       "smart gr"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:38.797Z",
+    "updatedAt": "2026-03-03T16:35:38.797Z"
   },
   {
     "id": "p17725557400771888",
@@ -19528,13 +25933,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_929631-MLA84193608320_052025-F.jpg"
     ],
+    "ean": "7896094921986",
+    "mlIds": [
+      "MLB49119656"
+    ],
+    "mlParentId": "MLB49119651",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "limpeza facial",
       "bayer"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:40.077Z",
+    "updatedAt": "2026-03-03T16:35:40.077Z"
   },
   {
     "id": "p17725557400781891",
@@ -19546,13 +25959,20 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_622300-MLA92214010249_092025-F.jpg"
     ],
+    "ean": "7702856913239",
+    "mlIds": [
+      "MLB55770881"
+    ],
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "limpeza facial",
       "fiamme"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:40.078Z",
+    "updatedAt": "2026-03-03T16:35:40.078Z"
   },
   {
     "id": "p17725557400781892",
@@ -19566,13 +25986,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_688031-MLA87070810249_072025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_676211-MLA87070760829_072025-F.jpg"
     ],
+    "ean": "42827957815",
+    "mlIds": [
+      "MLB51916348"
+    ],
+    "mlParentId": "MLB51916342",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "limpeza facial",
       "nupill"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:40.078Z",
+    "updatedAt": "2026-03-03T16:35:40.078Z"
   },
   {
     "id": "p17725557400781893",
@@ -19584,13 +26012,20 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_694685-MLA105477757826_012026-F.jpg"
     ],
+    "mlIds": [
+      "MLB65034938"
+    ],
+    "mlParentId": "MLB65034936",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "limpeza facial",
       "substância"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:40.078Z",
+    "updatedAt": "2026-03-03T16:35:40.078Z"
   },
   {
     "id": "p17725557400781894",
@@ -19606,13 +26041,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_663215-MLU75719513116_042024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_655895-MLU75886251205_042024-F.jpg"
     ],
+    "ean": "7908380703364",
+    "mlIds": [
+      "MLB35968338"
+    ],
+    "mlParentId": "MLB35968336",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "limpeza facial",
       "lfpro"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:40.078Z",
+    "updatedAt": "2026-03-03T16:35:40.078Z"
   },
   {
     "id": "p17725557400781895",
@@ -19625,13 +26068,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_813812-MLA91533787367_092025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_706158-MLA87074340011_072025-F.jpg"
     ],
+    "ean": "7896369163707",
+    "mlIds": [
+      "MLB21487703"
+    ],
+    "mlParentId": "MLB21487683",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "limpeza facial",
       "hidramais"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:40.078Z",
+    "updatedAt": "2026-03-03T16:35:40.078Z"
   },
   {
     "id": "p17725557400791897",
@@ -19643,13 +26094,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_787035-MLU74180429779_012024-F.jpg"
     ],
+    "ean": "7898570774505",
+    "mlIds": [
+      "MLB22835143"
+    ],
+    "mlParentId": "MLB22835124",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "limpeza facial",
       "cosmobeauty"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:40.079Z",
+    "updatedAt": "2026-03-03T16:35:40.079Z"
   },
   {
     "id": "p17725557400791898",
@@ -19663,13 +26122,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_888462-MLA99931821894_122025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_947569-MLA99932635968_122025-F.jpg"
     ],
+    "ean": "7908380707768",
+    "mlIds": [
+      "MLB62855465"
+    ],
+    "mlParentId": "MLB62855463",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "limpeza facial",
       "lfpro"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:40.079Z",
+    "updatedAt": "2026-03-03T16:35:40.079Z"
   },
   {
     "id": "p17725557400791900",
@@ -19681,13 +26148,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_749073-MLB74178531113_012024-F.jpg"
     ],
+    "ean": "7908324401080",
+    "mlIds": [
+      "MLB22312188"
+    ],
+    "mlParentId": "MLB22312174",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "limpeza facial",
       "phytobeautè"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:40.079Z",
+    "updatedAt": "2026-03-03T16:35:40.079Z"
   },
   {
     "id": "p17725557400791901",
@@ -19703,13 +26178,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_722262-MLU76996114329_062024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_648554-MLU76790012108_062024-F.jpg"
     ],
+    "ean": "7502288290102",
+    "mlIds": [
+      "MLB37717553"
+    ],
+    "mlParentId": "MLB44113517",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "limpeza facial",
       "espinela"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:40.079Z",
+    "updatedAt": "2026-03-03T16:35:40.079Z"
   },
   {
     "id": "p17725557413641910",
@@ -19723,13 +26206,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_930811-MLU78155611827_082024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_691780-MLU77932341372_082024-F.jpg"
     ],
+    "ean": "7849225845637",
+    "mlIds": [
+      "MLB38938543"
+    ],
+    "mlParentId": "MLB38938541",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "limpeza facial",
       "moyocel"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:41.364Z",
+    "updatedAt": "2026-03-03T16:35:41.364Z"
   },
   {
     "id": "p17725557413651911",
@@ -19745,13 +26236,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_952201-MLU77638352308_072024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_836038-MLU77857586819_072024-F.jpg"
     ],
+    "ean": "853502008810",
+    "mlIds": [
+      "MLB38519157"
+    ],
+    "mlParentId": "MLB38519156",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "limpeza facial",
       "seen"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:41.365Z",
+    "updatedAt": "2026-03-03T16:35:41.365Z"
   },
   {
     "id": "p17725557413651912",
@@ -19763,13 +26262,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_624853-MLU77828754013_072024-F.jpg"
     ],
+    "ean": "7849225827756",
+    "mlIds": [
+      "MLB38495061"
+    ],
+    "mlParentId": "MLB38495060",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "limpeza facial",
       "the"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:41.365Z",
+    "updatedAt": "2026-03-03T16:35:41.365Z"
   },
   {
     "id": "p17725557413651913",
@@ -19781,13 +26288,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_926881-MLA79609434200_102024-F.jpg"
     ],
+    "ean": "604716216924",
+    "mlIds": [
+      "MLB41706598"
+    ],
+    "mlParentId": "MLB41706597",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "limpeza facial",
       "sheló nabel"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:41.365Z",
+    "updatedAt": "2026-03-03T16:35:41.365Z"
   },
   {
     "id": "p17725557413651914",
@@ -19800,13 +26315,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_891124-MLU77717505936_072024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_963744-MLU77715713208_072024-F.jpg"
     ],
+    "ean": "7849225824281",
+    "mlIds": [
+      "MLB38646285"
+    ],
+    "mlParentId": "MLB38646284",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "limpeza facial",
       "unisaif"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:41.365Z",
+    "updatedAt": "2026-03-03T16:35:41.365Z"
   },
   {
     "id": "p17725557413651915",
@@ -19818,13 +26341,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_706150-MLU78154542703_082024-F.jpg"
     ],
+    "ean": "7849225845583",
+    "mlIds": [
+      "MLB38936136"
+    ],
+    "mlParentId": "MLB38936134",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "limpeza facial",
       "sccaxig"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:41.365Z",
+    "updatedAt": "2026-03-03T16:35:41.365Z"
   },
   {
     "id": "p17725557413651916",
@@ -19840,13 +26371,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_713710-MLA82558920648_032025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_730317-MLA82559187948_032025-F.jpg"
     ],
+    "ean": "855657003276",
+    "mlIds": [
+      "MLB46658596"
+    ],
+    "mlParentId": "MLB46658594",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "limpeza facial",
       "warren london"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:41.365Z",
+    "updatedAt": "2026-03-03T16:35:41.365Z"
   },
   {
     "id": "p17725557413661917",
@@ -19862,13 +26401,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_861975-MLU72830020127_112023-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_724398-MLU72830020143_112023-F.jpg"
     ],
+    "ean": "7506041060360",
+    "mlIds": [
+      "MLB19915147"
+    ],
+    "mlParentId": "MLB19915124",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "limpeza facial",
       "colorton"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:41.366Z",
+    "updatedAt": "2026-03-03T16:35:41.366Z"
   },
   {
     "id": "p17725557413661918",
@@ -19883,13 +26430,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_959130-MLA87782742870_072025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_653804-MLA87782742886_072025-F.jpg"
     ],
+    "ean": "7892784130003",
+    "mlIds": [
+      "MLB52680816"
+    ],
+    "mlParentId": "MLB52680801",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "limpeza facial",
       "tracta"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:41.366Z",
+    "updatedAt": "2026-03-03T16:35:41.366Z"
   },
   {
     "id": "p17725557413661919",
@@ -19901,13 +26456,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_999096-MLU77834225703_072024-F.jpg"
     ],
+    "ean": "7849225837823",
+    "mlIds": [
+      "MLB38499460"
+    ],
+    "mlParentId": "MLB38499458",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "limpeza facial",
       "natrulo"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:41.366Z",
+    "updatedAt": "2026-03-03T16:35:41.366Z"
   },
   {
     "id": "p17725557413661920",
@@ -19919,13 +26482,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_939021-MLA85065025324_052025-F.jpg"
     ],
+    "ean": "99996008107",
+    "mlIds": [
+      "MLB50619002"
+    ],
+    "mlParentId": "MLB50748408",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "limpeza facial",
       "hepkat provisioners"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:41.366Z",
+    "updatedAt": "2026-03-03T16:35:41.366Z"
   },
   {
     "id": "p17725557413661921",
@@ -19937,13 +26508,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_792983-MLM41025453004_032020-F.jpg"
     ],
+    "ean": "7506358400422",
+    "mlIds": [
+      "MLB20492026"
+    ],
+    "mlParentId": "MLB20491999",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "limpeza facial",
       "glenmark"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:41.366Z",
+    "updatedAt": "2026-03-03T16:35:41.366Z"
   },
   {
     "id": "p17725557426361922",
@@ -19957,13 +26536,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_701493-MLU74135202126_012024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_849579-MLU74245836319_012024-F.jpg"
     ],
+    "ean": "707129725110",
+    "mlIds": [
+      "MLB30401852"
+    ],
+    "mlParentId": "MLB30401849",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "limpeza facial",
       "supply"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:42.636Z",
+    "updatedAt": "2026-03-03T16:35:42.636Z"
   },
   {
     "id": "p17725557426361923",
@@ -19975,13 +26562,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_696808-MLU74318412103_012024-F.jpg"
     ],
+    "ean": "3380810500103",
+    "mlIds": [
+      "MLB24584742"
+    ],
+    "mlParentId": "MLB24584736",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "limpeza facial",
       "clarins"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:42.636Z",
+    "updatedAt": "2026-03-03T16:35:42.636Z"
   },
   {
     "id": "p17725557426371924",
@@ -19994,13 +26589,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_863055-MLU78154677263_082024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_640666-MLU78154539283_082024-F.jpg"
     ],
+    "ean": "7849225845576",
+    "mlIds": [
+      "MLB38934518"
+    ],
+    "mlParentId": "MLB38934517",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "limpeza facial",
       "kicikol"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:42.637Z",
+    "updatedAt": "2026-03-03T16:35:42.637Z"
   },
   {
     "id": "p17725557426371925",
@@ -20012,13 +26615,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_830258-MLA93179732917_092025-F.jpg"
     ],
+    "ean": "602644028145",
+    "mlIds": [
+      "MLB57458234"
+    ],
+    "mlParentId": "MLB57458233",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "limpeza facial",
       "earthbath"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:42.637Z",
+    "updatedAt": "2026-03-03T16:35:42.637Z"
   },
   {
     "id": "p17725557426371926",
@@ -20030,13 +26641,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_996638-MLU77073561509_062024-F.jpg"
     ],
+    "ean": "741718255053",
+    "mlIds": [
+      "MLB37785995"
+    ],
+    "mlParentId": "MLB37785994",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "limpeza facial",
       "natrulo"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:42.637Z",
+    "updatedAt": "2026-03-03T16:35:42.637Z"
   },
   {
     "id": "p17725557426371927",
@@ -20052,13 +26671,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_770413-MLA79648130434_102024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_677031-MLA79897063521_102024-F.jpg"
     ],
+    "ean": "7849225838431",
+    "mlIds": [
+      "MLB41790338"
+    ],
+    "mlParentId": "MLB41790337",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "limpeza facial",
       "healov"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:42.637Z",
+    "updatedAt": "2026-03-03T16:35:42.637Z"
   },
   {
     "id": "p17725557426371928",
@@ -20071,13 +26698,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_933387-MLU77960195242_082024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_921714-MLU77959514248_082024-F.jpg"
     ],
+    "ean": "7849225845521",
+    "mlIds": [
+      "MLB39009951"
+    ],
+    "mlParentId": "MLB39009950",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "limpeza facial",
       "ballboyz"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:42.637Z",
+    "updatedAt": "2026-03-03T16:35:42.637Z"
   },
   {
     "id": "p17725557426371929",
@@ -20089,13 +26724,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_714620-MLU75870492747_042024-F.jpg"
     ],
+    "ean": "7896522931082",
+    "mlIds": [
+      "MLB35956135"
+    ],
+    "mlParentId": "MLB35956131",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "limpeza facial",
       "viver company"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:42.637Z",
+    "updatedAt": "2026-03-03T16:35:42.637Z"
   },
   {
     "id": "p17725557426371930",
@@ -20107,13 +26750,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_764828-MLU78415762286_082024-F.jpg"
     ],
+    "ean": "7908774812221",
+    "mlIds": [
+      "MLB39457166"
+    ],
+    "mlParentId": "MLB39457163",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "limpeza facial",
       "ámenos"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:42.637Z",
+    "updatedAt": "2026-03-03T16:35:42.637Z"
   },
   {
     "id": "p17725557426371931",
@@ -20125,13 +26776,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_698745-MLU73041664473_112023-F.jpg"
     ],
+    "ean": "7702118800697",
+    "mlIds": [
+      "MLB28295003"
+    ],
+    "mlParentId": "MLB28295002",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "limpeza facial",
       "lemaitre"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:42.637Z",
+    "updatedAt": "2026-03-03T16:35:42.637Z"
   },
   {
     "id": "p17725557426371932",
@@ -20143,13 +26802,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_919617-MLU74396017716_022024-F.jpg"
     ],
+    "ean": "8809408260502",
+    "mlIds": [
+      "MLB32972768"
+    ],
+    "mlParentId": "MLB32972767",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "limpeza facial",
       "abib"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:42.637Z",
+    "updatedAt": "2026-03-03T16:35:42.637Z"
   },
   {
     "id": "p17725557426371933",
@@ -20165,13 +26832,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_773940-MLA90357274062_082025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_722805-MLA91516196233_092025-F.jpg"
     ],
+    "ean": "7908774814447",
+    "mlIds": [
+      "MLB53227671"
+    ],
+    "mlParentId": "MLB53227668",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "limpeza facial",
       "kuanta vita"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:42.637Z",
+    "updatedAt": "2026-03-03T16:35:42.637Z"
   },
   {
     "id": "p17725557426371934",
@@ -20183,13 +26858,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_677173-MLU78097726655_072024-F.jpg"
     ],
+    "ean": "198168645451",
+    "mlIds": [
+      "MLB38793115"
+    ],
+    "mlParentId": "MLB38793113",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "limpeza facial",
       "organic jaguar"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:42.637Z",
+    "updatedAt": "2026-03-03T16:35:42.637Z"
   },
   {
     "id": "p17725557439261935",
@@ -20203,6 +26886,16 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_967817-MLU75550161892_042024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_671012-MLU75710241647_042024-F.jpg"
     ],
+    "mlIds": [
+      "MLB35612680"
+    ],
+    "mlParentId": "MLB35612678",
+    "colors": [
+      {
+        "name": "Preto",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_791862-MLU75710241631_042024-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -20210,12 +26903,8 @@ const catalogProducts = [
       "máscara facial",
       "barbijo"
     ],
-    "colors": [
-      {
-        "name": "Preto",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_791862-MLU75710241631_042024-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:35:43.926Z",
+    "updatedAt": "2026-03-03T16:35:43.926Z"
   },
   {
     "id": "p17725557439271936",
@@ -20231,6 +26920,16 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_778576-MLA82932515975_032025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_694933-MLA82932476461_032025-F.jpg"
     ],
+    "mlIds": [
+      "MLB46920810"
+    ],
+    "mlParentId": "MLB46917004",
+    "colors": [
+      {
+        "name": "Polarizado",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_649285-MLA82932506053_032025-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -20238,12 +26937,8 @@ const catalogProducts = [
       "máscara facial",
       "boun"
     ],
-    "colors": [
-      {
-        "name": "Polarizado",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_649285-MLA82932506053_032025-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:35:43.927Z",
+    "updatedAt": "2026-03-03T16:35:43.927Z"
   },
   {
     "id": "p17725557439271937",
@@ -20255,13 +26950,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_723867-MLM41488303158_042020-F.jpg"
     ],
+    "ean": "4026056003624",
+    "mlIds": [
+      "MLB21646807"
+    ],
+    "mlParentId": "MLB21646800",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "máscara facial",
       "dräger"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:43.927Z",
+    "updatedAt": "2026-03-03T16:35:43.927Z"
   },
   {
     "id": "p17725557439271938",
@@ -20273,13 +26976,20 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_839559-MLU76550320612_052024-F.jpg"
     ],
+    "ean": "8793134369489",
+    "mlIds": [
+      "MLB37362893"
+    ],
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "máscara facial",
       "dongfalong"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:43.927Z",
+    "updatedAt": "2026-03-03T16:35:43.927Z"
   },
   {
     "id": "p17725557439271939",
@@ -20293,13 +27003,20 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_866619-MLU78164422350_082024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_772633-MLU78393008313_082024-F.jpg"
     ],
+    "mlIds": [
+      "MLB35020968"
+    ],
+    "mlParentId": "MLB29687161",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "máscara facial",
       "dt"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:43.927Z",
+    "updatedAt": "2026-03-03T16:35:43.927Z"
   },
   {
     "id": "p17725557439271940",
@@ -20314,13 +27031,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_986858-MLA79582286672_102024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_660130-MLA79830986289_102024-F.jpg"
     ],
+    "ean": "859506002137",
+    "mlIds": [
+      "MLB38530338"
+    ],
+    "mlParentId": "MLB38530336",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "máscara facial",
       "zakia s morocco"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:43.927Z",
+    "updatedAt": "2026-03-03T16:35:43.927Z"
   },
   {
     "id": "p17725557439281941",
@@ -20332,13 +27057,20 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_627517-MLU74560768519_022024-F.jpg"
     ],
+    "ean": "7898936737533",
+    "mlIds": [
+      "MLB27761713"
+    ],
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "máscara facial",
       "essenze di pozzi"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:43.928Z",
+    "updatedAt": "2026-03-03T16:35:43.928Z"
   },
   {
     "id": "p17725557439281942",
@@ -20351,13 +27083,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_919088-MLU77935444295_072024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_827199-MLU77935513927_072024-F.jpg"
     ],
+    "ean": "4749686928531",
+    "mlIds": [
+      "MLB38646920"
+    ],
+    "mlParentId": "MLB38646918",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "máscara facial",
       "mi nature"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:43.928Z",
+    "updatedAt": "2026-03-03T16:35:43.928Z"
   },
   {
     "id": "p17725557439281943",
@@ -20370,13 +27110,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_731315-MLU77838434012_072024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_972794-MLU78060315613_072024-F.jpg"
     ],
+    "ean": "661537024015",
+    "mlIds": [
+      "MLB38756673"
+    ],
+    "mlParentId": "MLB38756670",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "máscara facial",
       "wyos"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:43.928Z",
+    "updatedAt": "2026-03-03T16:35:43.928Z"
   },
   {
     "id": "p17725557439281944",
@@ -20388,13 +27136,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_715659-MLU75163911253_032024-F.jpg"
     ],
+    "ean": "7909463437442",
+    "mlIds": [
+      "MLB25117613"
+    ],
+    "mlParentId": "MLB25117588",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "máscara facial",
       "dokmos cosméticos"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:43.928Z",
+    "updatedAt": "2026-03-03T16:35:43.928Z"
   },
   {
     "id": "p17725557439281945",
@@ -20407,6 +27163,17 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_626563-MLA85072756012_052025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_910160-MLA85072707276_052025-F.jpg"
     ],
+    "ean": "2017472879384",
+    "mlIds": [
+      "MLB50629621"
+    ],
+    "mlParentId": "MLB50629613",
+    "colors": [
+      {
+        "name": "Branco",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_626563-MLA85072756012_052025-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -20414,12 +27181,8 @@ const catalogProducts = [
       "máscara facial",
       "oceanside health products lp"
     ],
-    "colors": [
-      {
-        "name": "Branco",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_626563-MLA85072756012_052025-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:35:43.928Z",
+    "updatedAt": "2026-03-03T16:35:43.928Z"
   },
   {
     "id": "p17725557439281946",
@@ -20431,13 +27194,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_867412-MLA79909574668_102024-F.jpg"
     ],
+    "ean": "196852755646",
+    "mlIds": [
+      "MLB27073009"
+    ],
+    "mlParentId": "MLB27072978",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "máscara facial",
       "bemsco"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:43.928Z",
+    "updatedAt": "2026-03-03T16:35:43.928Z"
   },
   {
     "id": "p17725557439281947",
@@ -20449,13 +27220,19 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_649986-MLU71828808273_092023-F.jpg"
     ],
+    "mlIds": [
+      "MLB22971112"
+    ],
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "máscara facial",
       "flamenco"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:43.928Z",
+    "updatedAt": "2026-03-03T16:35:43.928Z"
   },
   {
     "id": "p17725557439281948",
@@ -20468,13 +27245,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_795078-MLU77660219610_072024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_711076-MLU77879347925_072024-F.jpg"
     ],
+    "ean": "7890423361054",
+    "mlIds": [
+      "MLB38540997"
+    ],
+    "mlParentId": "MLB38540996",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "máscara facial",
       "cheiro brasil"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:43.928Z",
+    "updatedAt": "2026-03-03T16:35:43.928Z"
   },
   {
     "id": "p17725557439281949",
@@ -20486,13 +27271,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_747148-MLU73554357198_122023-F.jpg"
     ],
+    "ean": "720310891258",
+    "mlIds": [
+      "MLB29330189"
+    ],
+    "mlParentId": "MLB29330188",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "máscara facial",
       "eco spa saúde e beleza"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:43.928Z",
+    "updatedAt": "2026-03-03T16:35:43.928Z"
   },
   {
     "id": "p17725557439281950",
@@ -20504,13 +27297,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_844071-MLU78050170926_082024-F.jpg"
     ],
+    "ean": "7898738460530",
+    "mlIds": [
+      "MLB39206378"
+    ],
+    "mlParentId": "MLB39206377",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "máscara facial",
       "l'odorat"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:43.928Z",
+    "updatedAt": "2026-03-03T16:35:43.928Z"
   },
   {
     "id": "p17725557439281951",
@@ -20524,13 +27325,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_839438-MLU77779343311_072024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_737131-MLU77780526597_072024-F.jpg"
     ],
+    "ean": "3326100000892",
+    "mlIds": [
+      "MLB38410602"
+    ],
+    "mlParentId": "MLB38410600",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "máscara facial",
       "argiletz"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:43.928Z",
+    "updatedAt": "2026-03-03T16:35:43.928Z"
   },
   {
     "id": "p17725557439281952",
@@ -20546,13 +27355,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_712635-MLU70654471860_072023-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_937713-MLU70683570129_072023-F.jpg"
     ],
+    "ean": "7898603380635",
+    "mlIds": [
+      "MLB24970181"
+    ],
+    "mlParentId": "MLB24970147",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "máscara facial",
       "bioessencia"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:43.928Z",
+    "updatedAt": "2026-03-03T16:35:43.928Z"
   },
   {
     "id": "p17725557439281953",
@@ -20564,13 +27381,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_722546-MLA92622379569_092025-F.jpg"
     ],
+    "ean": "7897517937508",
+    "mlIds": [
+      "MLB26414831"
+    ],
+    "mlParentId": "MLB26414775",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "máscara facial",
       "ricca"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:43.928Z",
+    "updatedAt": "2026-03-03T16:35:43.928Z"
   },
   {
     "id": "p17725557439281954",
@@ -20584,13 +27409,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_994332-MLA81462669877_122024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_714291-MLA81462718967_122024-F.jpg"
     ],
+    "ean": "7898606480127",
+    "mlIds": [
+      "MLB44856803"
+    ],
+    "mlParentId": "MLB44856801",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "máscara facial",
       "ekonativo"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:43.928Z",
+    "updatedAt": "2026-03-03T16:35:43.928Z"
   },
   {
     "id": "p17725557439281955",
@@ -20605,13 +27438,22 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_789708-MLA93552944844_102025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_912797-MLA93552875376_102025-F.jpg"
     ],
+    "ean": "7898612644971",
+    "mlIds": [
+      "MLB45507801",
+      "MLB45431279"
+    ],
+    "mlParentId": "MLB45507800",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "máscara facial",
       "flora pura"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:43.928Z",
+    "updatedAt": "2026-03-03T16:35:46.482Z"
   },
   {
     "id": "p17725557439281956",
@@ -20623,13 +27465,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_832649-MLU77324390694_072024-F.jpg"
     ],
+    "ean": "606529247461",
+    "mlIds": [
+      "MLB38054914"
+    ],
+    "mlParentId": "MLB38054913",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "máscara facial",
       "simple organic"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:43.928Z",
+    "updatedAt": "2026-03-03T16:35:43.928Z"
   },
   {
     "id": "p17725557439281957",
@@ -20641,13 +27491,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_745085-MLU70654499400_072023-F.jpg"
     ],
+    "ean": "7894305000635",
+    "mlIds": [
+      "MLB24970212"
+    ],
+    "mlParentId": "MLB24970204",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "máscara facial",
       "fontanelle"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:43.928Z",
+    "updatedAt": "2026-03-03T16:35:43.928Z"
   },
   {
     "id": "p17725557452081958",
@@ -20659,6 +27517,17 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_851655-MLM49296767457_032022-F.jpg"
     ],
+    "ean": "8938533130005",
+    "mlIds": [
+      "MLB21532887"
+    ],
+    "mlParentId": "MLB21532862",
+    "colors": [
+      {
+        "name": "Azul",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_851655-MLM49296767457_032022-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -20666,12 +27535,8 @@ const catalogProducts = [
       "máscara facial",
       "humetec"
     ],
-    "colors": [
-      {
-        "name": "Azul",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_851655-MLM49296767457_032022-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:35:45.208Z",
+    "updatedAt": "2026-03-03T16:35:45.208Z"
   },
   {
     "id": "p17725557452081959",
@@ -20687,13 +27552,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_926772-MLA82955445635_032025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_600578-MLA82668352340_032025-F.jpg"
     ],
+    "ean": "198168918678",
+    "mlIds": [
+      "MLB46990094"
+    ],
+    "mlParentId": "MLB46990093",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "máscara facial",
       "koa life"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:45.208Z",
+    "updatedAt": "2026-03-03T16:35:45.208Z"
   },
   {
     "id": "p17725557452081960",
@@ -20705,13 +27578,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_906078-MLA85119280977_052025-F.jpg"
     ],
+    "ean": "8400600824358",
+    "mlIds": [
+      "MLB50367898"
+    ],
+    "mlParentId": "MLB50367896",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "máscara facial",
       "reatiful"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:45.208Z",
+    "updatedAt": "2026-03-03T16:35:45.208Z"
   },
   {
     "id": "p17725557452081961",
@@ -20723,13 +27604,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_814368-MLB51854344249_102022-F.jpg"
     ],
+    "ean": "7893161003354",
+    "mlIds": [
+      "MLB22506595"
+    ],
+    "mlParentId": "MLB22506593",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "máscara facial",
       "nutri azuos"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:45.208Z",
+    "updatedAt": "2026-03-03T16:35:45.208Z"
   },
   {
     "id": "p17725557452081962",
@@ -20745,13 +27634,20 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_755401-MLA100098655990_122025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_628945-MLA100098656004_122025-F.jpg"
     ],
+    "mlIds": [
+      "MLB62923062"
+    ],
+    "mlParentId": "MLB62923061",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "máscara facial",
       "nuspa"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:45.208Z",
+    "updatedAt": "2026-03-03T16:35:45.208Z"
   },
   {
     "id": "p17725557452091963",
@@ -20767,13 +27663,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_890900-MLU70718303025_072023-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_895151-MLU70718303031_072023-F.jpg"
     ],
+    "ean": "5065003140066",
+    "mlIds": [
+      "MLB25238252"
+    ],
+    "mlParentId": "MLB25238220",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "máscara facial",
       "soonkie"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:45.209Z",
+    "updatedAt": "2026-03-03T16:35:45.209Z"
   },
   {
     "id": "p17725557452091964",
@@ -20788,13 +27692,20 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_680122-MLA107279192928_032026-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_944741-MLA107279133436_032026-F.jpg"
     ],
+    "mlIds": [
+      "MLB66135646"
+    ],
+    "mlParentId": "MLB66135645",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "máscara facial",
       "linghaolh"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:45.209Z",
+    "updatedAt": "2026-03-03T16:35:45.209Z"
   },
   {
     "id": "p17725557452091965",
@@ -20806,13 +27717,20 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_792270-MLU76599557425_052024-F.jpg"
     ],
+    "ean": "8604332209722",
+    "mlIds": [
+      "MLB37102907"
+    ],
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "máscara facial",
       "xiangtian"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:45.209Z",
+    "updatedAt": "2026-03-03T16:35:45.209Z"
   },
   {
     "id": "p17725557452091966",
@@ -20825,13 +27743,19 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_793527-MLA93338753126_092025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_908940-MLA93757188807_092025-F.jpg"
     ],
+    "mlIds": [
+      "MLB20848254"
+    ],
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "máscara facial",
       "idraet"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:45.209Z",
+    "updatedAt": "2026-03-03T16:35:45.209Z"
   },
   {
     "id": "p17725557452091967",
@@ -20846,6 +27770,17 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_977140-MLA104908739064_012026-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_622886-MLA104908566996_012026-F.jpg"
     ],
+    "ean": "737655085167",
+    "mlIds": [
+      "MLB64700121"
+    ],
+    "mlParentId": "MLB64700119",
+    "colors": [
+      {
+        "name": "Azul Rosa",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_878563-MLA105477350545_012026-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -20853,12 +27788,8 @@ const catalogProducts = [
       "máscara facial",
       "punta belleza"
     ],
-    "colors": [
-      {
-        "name": "Azul Rosa",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_878563-MLA105477350545_012026-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:35:45.209Z",
+    "updatedAt": "2026-03-03T16:35:45.209Z"
   },
   {
     "id": "p17725557452091968",
@@ -20872,13 +27803,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_846365-MLU75729033753_042024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_776172-MLU75568114146_042024-F.jpg"
     ],
+    "ean": "9368500357842",
+    "mlIds": [
+      "MLB35712756"
+    ],
+    "mlParentId": "MLB35712755",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "máscara facial",
       "rehobot"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:45.209Z",
+    "updatedAt": "2026-03-03T16:35:45.209Z"
   },
   {
     "id": "p17725557452091969",
@@ -20890,13 +27829,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_712841-MLU74135930080_012024-F.jpg"
     ],
+    "ean": "8809627010018",
+    "mlIds": [
+      "MLB30403330"
+    ],
+    "mlParentId": "MLB30403329",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "máscara facial",
       "urang"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:45.209Z",
+    "updatedAt": "2026-03-03T16:35:45.209Z"
   },
   {
     "id": "p17725557452091970",
@@ -20912,13 +27859,20 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_642743-MLA99022033428_112025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_962811-MLA99022112484_112025-F.jpg"
     ],
+    "mlIds": [
+      "MLB62525786"
+    ],
+    "mlParentId": "MLB62525783",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "máscara facial",
       "yoyily"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:45.209Z",
+    "updatedAt": "2026-03-03T16:35:45.209Z"
   },
   {
     "id": "p17725557452091971",
@@ -20930,13 +27884,20 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_923764-MLA84531130761_052025-F.jpg"
     ],
+    "ean": "392503175843",
+    "mlIds": [
+      "MLB49246296"
+    ],
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "máscara facial",
       "soyub"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:45.209Z",
+    "updatedAt": "2026-03-03T16:35:45.209Z"
   },
   {
     "id": "p17725557452091972",
@@ -20948,13 +27909,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_863476-MLA82390171033_022025-F.jpg"
     ],
+    "ean": "787302099153",
+    "mlIds": [
+      "MLB46033554"
+    ],
+    "mlParentId": "MLB46033552",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "máscara facial",
       "wilma schumann"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:45.209Z",
+    "updatedAt": "2026-03-03T16:35:45.209Z"
   },
   {
     "id": "p17725557452091973",
@@ -20966,13 +27935,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_669906-MLU75697366292_042024-F.jpg"
     ],
+    "ean": "4580504131005",
+    "mlIds": [
+      "MLB35939030"
+    ],
+    "mlParentId": "MLB35939024",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "máscara facial",
       "cocochi"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:45.209Z",
+    "updatedAt": "2026-03-03T16:35:45.209Z"
   },
   {
     "id": "p17725557452091974",
@@ -20984,13 +27961,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_791703-MLU71531637601_092023-F.jpg"
     ],
+    "ean": "7890055313193",
+    "mlIds": [
+      "MLB26828186"
+    ],
+    "mlParentId": "MLB26828175",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "máscara facial",
       "pem cosméticos"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:45.209Z",
+    "updatedAt": "2026-03-03T16:35:45.209Z"
   },
   {
     "id": "p17725557452101975",
@@ -21006,13 +27991,20 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_901617-MLA94580726740_102025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_706998-MLA95012475693_102025-F.jpg"
     ],
+    "mlIds": [
+      "MLB60065362"
+    ],
+    "mlParentId": "MLB60065360",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "máscara facial",
       "fomi"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:45.209Z",
+    "updatedAt": "2026-03-03T16:35:45.209Z"
   },
   {
     "id": "p17725557452101976",
@@ -21024,13 +28016,20 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_824525-MLA69739590816_062023-F.jpg"
     ],
+    "mlIds": [
+      "MLB23556602"
+    ],
+    "mlParentId": "MLB23556601",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "máscara facial",
       "flores & vegetais"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:45.210Z",
+    "updatedAt": "2026-03-03T16:35:45.210Z"
   },
   {
     "id": "p17725557452101977",
@@ -21046,13 +28045,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_972747-MLA91063503521_082025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_782946-MLA98285822448_112025-F.jpg"
     ],
+    "ean": "7898951282216",
+    "mlIds": [
+      "MLB23997591"
+    ],
+    "mlParentId": "MLB23997582",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "máscara facial",
       "dermare"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:45.210Z",
+    "updatedAt": "2026-03-03T16:35:45.210Z"
   },
   {
     "id": "p17725557452101978",
@@ -21067,13 +28074,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_603087-MLU78048638241_072024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_737147-MLU78048638247_072024-F.jpg"
     ],
+    "ean": "7509552806649",
+    "mlIds": [
+      "MLB19712279"
+    ],
+    "mlParentId": "MLB19712265",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "máscara facial",
       "l'oréal paris"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:45.210Z",
+    "updatedAt": "2026-03-03T16:35:45.210Z"
   },
   {
     "id": "p17725557452101979",
@@ -21085,13 +28100,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_888233-MLU74086477067_012024-F.jpg"
     ],
+    "ean": "7898940951024",
+    "mlIds": [
+      "MLB26981656"
+    ],
+    "mlParentId": "MLB26981644",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "máscara facial",
       "noviole"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:45.210Z",
+    "updatedAt": "2026-03-03T16:35:45.210Z"
   },
   {
     "id": "p17725557452101980",
@@ -21103,13 +28126,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_880822-MLU74395143766_022024-F.jpg"
     ],
+    "ean": "850047885081",
+    "mlIds": [
+      "MLB32972086"
+    ],
+    "mlParentId": "MLB32972085",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "máscara facial",
       "akal+roh"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:45.210Z",
+    "updatedAt": "2026-03-03T16:35:45.210Z"
   },
   {
     "id": "p17725557452101981",
@@ -21124,6 +28155,17 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_796137-MLU70655779300_072023-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_759202-MLU73683661032_012024-F.jpg"
     ],
+    "ean": "7898956643289",
+    "mlIds": [
+      "MLB26736832"
+    ],
+    "mlParentId": "MLB26736821",
+    "colors": [
+      {
+        "name": "Esfoliante",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_922867-MLU71430356988_092023-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -21131,12 +28173,8 @@ const catalogProducts = [
       "máscara facial",
       "ruby rose"
     ],
-    "colors": [
-      {
-        "name": "Esfoliante",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_922867-MLU71430356988_092023-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:35:45.210Z",
+    "updatedAt": "2026-03-03T16:35:45.210Z"
   },
   {
     "id": "p17725557452101982",
@@ -21149,13 +28187,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_674519-MLB45128718734_032021-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_949323-MLA104403533604_012026-F.jpg"
     ],
+    "ean": "7898280960359",
+    "mlIds": [
+      "MLB21193672"
+    ],
+    "mlParentId": "MLB21193669",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "máscara facial",
       "arte dos aromas"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:45.210Z",
+    "updatedAt": "2026-03-03T16:35:45.210Z"
   },
   {
     "id": "p17725557452101983",
@@ -21167,13 +28213,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_601229-MLB43791825423_102020-F.jpg"
     ],
+    "ean": "7898212285475",
+    "mlIds": [
+      "MLB20631040"
+    ],
+    "mlParentId": "MLB20631035",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "máscara facial",
       "raavi"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:45.210Z",
+    "updatedAt": "2026-03-03T16:35:45.210Z"
   },
   {
     "id": "p17725557464811984",
@@ -21185,13 +28239,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_964732-MLA94025491626_102025-F.jpg"
     ],
+    "ean": "7792853384279",
+    "mlIds": [
+      "MLB59201189"
+    ],
+    "mlParentId": "MLB59201186",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "máscara facial",
       "l.herboriste"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:46.481Z",
+    "updatedAt": "2026-03-03T16:35:46.481Z"
   },
   {
     "id": "p17725557477572010",
@@ -21203,13 +28265,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_858639-MLA86102027947_062025-F.jpg"
     ],
+    "ean": "860004689751",
+    "mlIds": [
+      "MLB51232139"
+    ],
+    "mlParentId": "MLB51232133",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "esfoliante",
       "juniper aspen"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:47.757Z",
+    "updatedAt": "2026-03-03T16:35:47.757Z"
   },
   {
     "id": "p17725557477572011",
@@ -21222,13 +28292,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_862757-MLU78154460267_082024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_804175-MLU78154538903_082024-F.jpg"
     ],
+    "ean": "850040138337",
+    "mlIds": [
+      "MLB38934204"
+    ],
+    "mlParentId": "MLB38934201",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "esfoliante",
       "honeyskin"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:47.757Z",
+    "updatedAt": "2026-03-03T16:35:47.757Z"
   },
   {
     "id": "p17725557477572012",
@@ -21244,13 +28322,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_740512-MLU70667760392_072023-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_801895-MLU70667362702_072023-F.jpg"
     ],
+    "ean": "195893346189",
+    "mlIds": [
+      "MLB25075633"
+    ],
+    "mlParentId": "MLB25075601",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "esfoliante",
       "natural elements botanicals"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:47.757Z",
+    "updatedAt": "2026-03-03T16:35:47.757Z"
   },
   {
     "id": "p17725557477572013",
@@ -21263,13 +28349,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_646514-MLU74051961032_012024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_773626-MLU71942060431_092023-F.jpg"
     ],
+    "ean": "755332015672",
+    "mlIds": [
+      "MLB27285419"
+    ],
+    "mlParentId": "MLB27285413",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "esfoliante",
       "hyalogic"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:47.757Z",
+    "updatedAt": "2026-03-03T16:35:47.757Z"
   },
   {
     "id": "p17725557477572014",
@@ -21282,13 +28376,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_713404-MLU78019419681_072024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_977524-MLU77798915792_072024-F.jpg"
     ],
+    "ean": "740016977353",
+    "mlIds": [
+      "MLB38708133"
+    ],
+    "mlParentId": "MLB38708132",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "esfoliante",
       "toulon"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:47.757Z",
+    "updatedAt": "2026-03-03T16:35:47.757Z"
   },
   {
     "id": "p17725557477572015",
@@ -21300,13 +28402,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_867287-MLU77857221199_072024-F.jpg"
     ],
+    "ean": "850452007856",
+    "mlIds": [
+      "MLB38519489"
+    ],
+    "mlParentId": "MLB38519487",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "esfoliante",
       "beauty"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:47.757Z",
+    "updatedAt": "2026-03-03T16:35:47.757Z"
   },
   {
     "id": "p17725557477572016",
@@ -21318,13 +28428,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_649898-MLU77857218747_072024-F.jpg"
     ],
+    "ean": "850241007272",
+    "mlIds": [
+      "MLB38518626"
+    ],
+    "mlParentId": "MLB38518625",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "esfoliante",
       "era"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:47.757Z",
+    "updatedAt": "2026-03-03T16:35:47.757Z"
   },
   {
     "id": "p17725557477572017",
@@ -21336,13 +28454,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_620504-MLU77609043800_072024-F.jpg"
     ],
+    "ean": "7849225830978",
+    "mlIds": [
+      "MLB38492903"
+    ],
+    "mlParentId": "MLB38492902",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "esfoliante",
       "jvr"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:47.757Z",
+    "updatedAt": "2026-03-03T16:35:47.757Z"
   },
   {
     "id": "p17725557477572018",
@@ -21355,13 +28481,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_943547-MLU76187573858_052024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_995328-MLU76188164752_052024-F.jpg"
     ],
+    "ean": "752771110319",
+    "mlIds": [
+      "MLB36936939"
+    ],
+    "mlParentId": "MLB36936937",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "esfoliante",
       "mooyam"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:47.757Z",
+    "updatedAt": "2026-03-03T16:35:47.757Z"
   },
   {
     "id": "p17725557477572019",
@@ -21373,13 +28507,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_646422-MLU77614601328_072024-F.jpg"
     ],
+    "ean": "860001271027",
+    "mlIds": [
+      "MLB38499535"
+    ],
+    "mlParentId": "MLB38499534",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "esfoliante",
       "viking"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:47.757Z",
+    "updatedAt": "2026-03-03T16:35:47.757Z"
   },
   {
     "id": "p17725557477582020",
@@ -21395,13 +28537,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_770747-MLA101174755296_122025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_981049-MLA101674724977_122025-F.jpg"
     ],
+    "ean": "75182022270",
+    "mlIds": [
+      "MLB63232242"
+    ],
+    "mlParentId": "MLB63232239",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "esfoliante",
       "s & t inc."
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:47.758Z",
+    "updatedAt": "2026-03-03T16:35:47.758Z"
   },
   {
     "id": "p17725557477582021",
@@ -21416,13 +28566,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_605994-MLU76208774893_052024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_799448-MLU76027925550_052024-F.jpg"
     ],
+    "ean": "850042708002",
+    "mlIds": [
+      "MLB36635970"
+    ],
+    "mlParentId": "MLB36635967",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "esfoliante",
       "ah wellness md"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:47.758Z",
+    "updatedAt": "2026-03-03T16:35:47.758Z"
   },
   {
     "id": "p17725557477582022",
@@ -21436,13 +28594,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_970155-MLU77231559280_072024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_918343-MLU77445654271_072024-F.jpg"
     ],
+    "ean": "855166003026",
+    "mlIds": [
+      "MLB38002449"
+    ],
+    "mlParentId": "MLB38002448",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "esfoliante",
       "eraclea"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:47.758Z",
+    "updatedAt": "2026-03-03T16:35:47.758Z"
   },
   {
     "id": "p17725557477582023",
@@ -21454,13 +28620,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_994485-MLA106535982625_022026-F.jpg"
     ],
+    "ean": "689513231356",
+    "mlIds": [
+      "MLB38491946"
+    ],
+    "mlParentId": "MLB38491945",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "esfoliante",
       "skin"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:47.758Z",
+    "updatedAt": "2026-03-03T16:35:47.758Z"
   },
   {
     "id": "p17725557477582024",
@@ -21476,13 +28650,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_750737-MLU70696881961_072023-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_828627-MLU70667760940_072023-F.jpg"
     ],
+    "ean": "8809237077517",
+    "mlIds": [
+      "MLB25075341"
+    ],
+    "mlParentId": "MLB25075321",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "esfoliante",
       "plu"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:47.758Z",
+    "updatedAt": "2026-03-03T16:35:47.758Z"
   },
   {
     "id": "p17725557477582025",
@@ -21498,13 +28680,20 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_811539-MLA94257870274_102025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_711172-MLA94686812573_102025-F.jpg"
     ],
+    "mlIds": [
+      "MLB59606322"
+    ],
+    "mlParentId": "MLB59606314",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "esfoliante",
       "ytraju"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:47.758Z",
+    "updatedAt": "2026-03-03T16:35:47.758Z"
   },
   {
     "id": "p17725557477582026",
@@ -21520,13 +28709,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_810222-MLA106071026480_022026-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_660450-MLA106690172501_022026-F.jpg"
     ],
+    "ean": "769887973486",
+    "mlIds": [
+      "MLB65341467"
+    ],
+    "mlParentId": "MLB65302915",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "esfoliante",
       "quarxery br"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:47.758Z",
+    "updatedAt": "2026-03-03T16:35:47.758Z"
   },
   {
     "id": "p17725557477582027",
@@ -21538,13 +28735,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_751443-MLM49778572151_042022-F.jpg"
     ],
+    "ean": "20714125608",
+    "mlIds": [
+      "MLB22507775"
+    ],
+    "mlParentId": "MLB22507762",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "esfoliante",
       "clinique"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:47.758Z",
+    "updatedAt": "2026-03-03T16:35:47.758Z"
   },
   {
     "id": "p17725557477592028",
@@ -21560,13 +28765,20 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_824217-MLA94456113644_102025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_729708-MLA94886663053_102025-F.jpg"
     ],
+    "mlIds": [
+      "MLB59978200"
+    ],
+    "mlParentId": "MLB59978199",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "esfoliante",
       "czzxi"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:47.759Z",
+    "updatedAt": "2026-03-03T16:35:47.759Z"
   },
   {
     "id": "p17725557477592029",
@@ -21581,13 +28793,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_912579-MLA83309356660_042025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_860936-MLA83600694425_042025-F.jpg"
     ],
+    "ean": "740016977445",
+    "mlIds": [
+      "MLB47778425"
+    ],
+    "mlParentId": "MLB47778424",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "esfoliante",
       "toulon"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:47.759Z",
+    "updatedAt": "2026-03-03T16:35:47.759Z"
   },
   {
     "id": "p17725557477592030",
@@ -21600,6 +28820,16 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_750956-MLA107448528565_022026-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_675928-MLA106778309074_022026-F.jpg"
     ],
+    "ean": "641756380918",
+    "mlIds": [
+      "MLB65810790"
+    ],
+    "colors": [
+      {
+        "name": "Kit",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_963170-MLA106291354614_022026-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -21607,12 +28837,8 @@ const catalogProducts = [
       "esfoliante",
       "phállebeauty"
     ],
-    "colors": [
-      {
-        "name": "Kit",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_963170-MLA106291354614_022026-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:35:47.759Z",
+    "updatedAt": "2026-03-03T16:35:47.759Z"
   },
   {
     "id": "p17725557477592032",
@@ -21628,13 +28854,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_667240-MLU77237784750_072024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_771035-MLU77451569877_072024-F.jpg"
     ],
+    "ean": "755332264148",
+    "mlIds": [
+      "MLB38011122"
+    ],
+    "mlParentId": "MLB28375224",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "esfoliante",
       "mychelle dermaceuticals"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:47.759Z",
+    "updatedAt": "2026-03-03T16:35:47.759Z"
   },
   {
     "id": "p17725557477592033",
@@ -21646,13 +28880,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_990791-MLU69220594840_052023-F.jpg"
     ],
+    "ean": "8423372040337",
+    "mlIds": [
+      "MLB22963320"
+    ],
+    "mlParentId": "MLB22963317",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "esfoliante",
       "fluidbase"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:47.759Z",
+    "updatedAt": "2026-03-03T16:35:47.759Z"
   },
   {
     "id": "p17725557477592035",
@@ -21665,13 +28907,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_856348-MLU73565132138_122023-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_608095-MLA74181390781_012024-F.jpg"
     ],
+    "ean": "7798311151650",
+    "mlIds": [
+      "MLB21089456"
+    ],
+    "mlParentId": "MLB21089449",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "esfoliante",
       "dapop"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:47.759Z",
+    "updatedAt": "2026-03-03T16:35:47.759Z"
   },
   {
     "id": "p17725557477592036",
@@ -21683,13 +28933,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_881306-MLU75008334905_032024-F.jpg"
     ],
+    "ean": "713152994201, 810197170765",
+    "mlIds": [
+      "MLB24511111"
+    ],
+    "mlParentId": "MLB24511077",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "esfoliante",
       "b life"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:47.759Z",
+    "updatedAt": "2026-03-03T16:35:47.759Z"
   },
   {
     "id": "p17725557477592037",
@@ -21705,13 +28963,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_621744-MLU70969033070_082023-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_863687-MLU73605673744_122023-F.jpg"
     ],
+    "ean": "810016291886",
+    "mlIds": [
+      "MLB25918350"
+    ],
+    "mlParentId": "MLB25918330",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "esfoliante",
       "sun + moon"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:47.759Z",
+    "updatedAt": "2026-03-03T16:35:47.759Z"
   },
   {
     "id": "p17725557490372038",
@@ -21723,13 +28989,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_853271-MLA97379040505_112025-F.jpg"
     ],
+    "ean": "850014228552",
+    "mlIds": [
+      "MLB61756215"
+    ],
+    "mlParentId": "MLB61756214",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "esfoliante",
       "city beauty"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:49.037Z",
+    "updatedAt": "2026-03-03T16:35:49.037Z"
   },
   {
     "id": "p17725557490382039",
@@ -21743,13 +29017,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_865041-MLA83748578671_042025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_874747-MLA83748637191_042025-F.jpg"
     ],
+    "ean": "8906153490670",
+    "mlIds": [
+      "MLB48293048"
+    ],
+    "mlParentId": "MLB48293046",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "esfoliante",
       "unisaif"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:49.038Z",
+    "updatedAt": "2026-03-03T16:35:49.038Z"
   },
   {
     "id": "p17725557490382040",
@@ -21762,13 +29044,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_990993-MLU76009750090_052024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_620743-MLU76189601017_052024-F.jpg"
     ],
+    "ean": "860002948546",
+    "mlIds": [
+      "MLB36614041"
+    ],
+    "mlParentId": "MLB36614039",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "esfoliante",
       "starface world"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:49.038Z",
+    "updatedAt": "2026-03-03T16:35:49.038Z"
   },
   {
     "id": "p17725557490382041",
@@ -21784,13 +29074,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_725519-MLA86034546216_062025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_938688-MLA86034546234_062025-F.jpg"
     ],
+    "ean": "739750789773",
+    "mlIds": [
+      "MLB51382932"
+    ],
+    "mlParentId": "MLB51382931",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "esfoliante",
       "harmei"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:49.038Z",
+    "updatedAt": "2026-03-03T16:35:49.038Z"
   },
   {
     "id": "p17725557490382042",
@@ -21803,13 +29101,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_692738-MLU76132685918_052024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_951710-MLU76132054240_052024-F.jpg"
     ],
+    "ean": "7908774804950",
+    "mlIds": [
+      "MLB36823034"
+    ],
+    "mlParentId": "MLB44097680",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "esfoliante",
       "evidencie"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:49.038Z",
+    "updatedAt": "2026-03-03T16:35:49.038Z"
   },
   {
     "id": "p17725557490382043",
@@ -21823,13 +29129,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_802330-MLA85805590161_062025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_712146-MLA85805590179_062025-F.jpg"
     ],
+    "ean": "7896132133869",
+    "mlIds": [
+      "MLB51056508"
+    ],
+    "mlParentId": "MLB51056494",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "esfoliante",
       "marchetti"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:49.038Z",
+    "updatedAt": "2026-03-03T16:35:49.038Z"
   },
   {
     "id": "p17725557490392044",
@@ -21842,13 +29156,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_835628-MLU71004923257_082023-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_601220-MLU71004923259_082023-F.jpg"
     ],
+    "ean": "72076113212",
+    "mlIds": [
+      "MLB25918273"
+    ],
+    "mlParentId": "MLB25918253",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "esfoliante",
       "hartfelt"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:49.039Z",
+    "updatedAt": "2026-03-03T16:35:49.039Z"
   },
   {
     "id": "p17725557490392045",
@@ -21860,13 +29182,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_621973-MLB74154692801_012024-F.jpg"
     ],
+    "ean": "7898655093248",
+    "mlIds": [
+      "MLB21003641"
+    ],
+    "mlParentId": "MLB21003622",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "esfoliante",
       "piunature"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:49.039Z",
+    "updatedAt": "2026-03-03T16:35:49.039Z"
   },
   {
     "id": "p17725557490392046",
@@ -21879,13 +29209,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_941241-MLU78183055719_082024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_653934-MLU78183055721_082024-F.jpg"
     ],
+    "ean": "810140591418",
+    "mlIds": [
+      "MLB39008060"
+    ],
+    "mlParentId": "MLB39008059",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "esfoliante",
       "wonder"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:49.039Z",
+    "updatedAt": "2026-03-03T16:35:49.039Z"
   },
   {
     "id": "p17725557490392047",
@@ -21901,13 +29239,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_746778-MLA79272101032_092024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_684602-MLA79515134539_092024-F.jpg"
     ],
+    "ean": "873152007513",
+    "mlIds": [
+      "MLB41145279"
+    ],
+    "mlParentId": "MLB35940852",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "esfoliante",
       "sumbody"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:49.039Z",
+    "updatedAt": "2026-03-03T16:35:49.039Z"
   },
   {
     "id": "p17725557490392048",
@@ -21921,13 +29267,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_885970-MLU78362096046_082024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_628437-MLU78593036253_082024-F.jpg"
     ],
+    "ean": "675765041454",
+    "mlIds": [
+      "MLB39433837"
+    ],
+    "mlParentId": "MLB36173887",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "esfoliante",
       "repechage"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:49.039Z",
+    "updatedAt": "2026-03-03T16:35:49.039Z"
   },
   {
     "id": "p17725557490392049",
@@ -21941,13 +29295,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_729214-MLA80925790458_122024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_629561-MLA81192268593_122024-F.jpg"
     ],
+    "ean": "7798360950075",
+    "mlIds": [
+      "MLB44482186"
+    ],
+    "mlParentId": "MLB44482178",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "esfoliante",
       "lure by mariana saric"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:49.039Z",
+    "updatedAt": "2026-03-03T16:35:49.039Z"
   },
   {
     "id": "p17725557490402050",
@@ -21959,13 +29321,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_868109-MLU77930278778_082024-F.jpg"
     ],
+    "ean": "27685346865",
+    "mlIds": [
+      "MLB38929640"
+    ],
+    "mlParentId": "MLB38929632",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "esfoliante",
       "inihxnio"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:49.040Z",
+    "updatedAt": "2026-03-03T16:35:49.040Z"
   },
   {
     "id": "p17725557490402051",
@@ -21977,13 +29347,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_761499-MLU76031302218_052024-F.jpg"
     ],
+    "ean": "856899007206",
+    "mlIds": [
+      "MLB36655893"
+    ],
+    "mlParentId": "MLB36655892",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "esfoliante",
       "skogen"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:49.040Z",
+    "updatedAt": "2026-03-03T16:35:49.040Z"
   },
   {
     "id": "p17725557490402052",
@@ -21995,13 +29373,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_662403-MLU70666553425_072023-F.jpg"
     ],
+    "ean": "897598005957",
+    "mlIds": [
+      "MLB24876609"
+    ],
+    "mlParentId": "MLB24876589",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "esfoliante",
       "goldfaden md"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:49.040Z",
+    "updatedAt": "2026-03-03T16:35:49.040Z"
   },
   {
     "id": "p17725557490402053",
@@ -22015,13 +29401,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_929151-MLA83523315122_042025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_860442-MLA83815820021_042025-F.jpg"
     ],
+    "ean": "5391521282088",
+    "mlIds": [
+      "MLB48548335"
+    ],
+    "mlParentId": "MLB47957206",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "esfoliante",
       "human + kind"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:49.040Z",
+    "updatedAt": "2026-03-03T16:35:49.040Z"
   },
   {
     "id": "p17725557490402054",
@@ -22037,13 +29431,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_938780-MLU70638601182_072023-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_851599-MLU70638123276_072023-F.jpg"
     ],
+    "ean": "850009136107",
+    "mlIds": [
+      "MLB24876975"
+    ],
+    "mlParentId": "MLB24876955",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "esfoliante",
       "shore magic"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:49.040Z",
+    "updatedAt": "2026-03-03T16:35:49.040Z"
   },
   {
     "id": "p17725557490402055",
@@ -22059,13 +29461,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_806344-MLU70667907268_072023-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_793110-MLU70667363012_072023-F.jpg"
     ],
+    "ean": "362032571010",
+    "mlIds": [
+      "MLB25073407"
+    ],
+    "mlParentId": "MLB25073378",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "esfoliante",
       "obagi clinical"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:49.040Z",
+    "updatedAt": "2026-03-03T16:35:49.040Z"
   },
   {
     "id": "p17725557490402056",
@@ -22077,13 +29487,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_859319-MLU77793179115_072024-F.jpg"
     ],
+    "ean": "5025042927172",
+    "mlIds": [
+      "MLB38433512"
+    ],
+    "mlParentId": "MLB38433510",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "esfoliante",
       "urban veda"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:49.040Z",
+    "updatedAt": "2026-03-03T16:35:49.040Z"
   },
   {
     "id": "p17725557503202057",
@@ -22096,13 +29514,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_979393-MLU78921785283_092024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_656565-MLU78686848600_092024-F.jpg"
     ],
+    "ean": "7898965966331",
+    "mlIds": [
+      "MLB40223994"
+    ],
+    "mlParentId": "MLB40223985",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "esfoliante",
       "relax cosméticos naturais"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:50.320Z",
+    "updatedAt": "2026-03-03T16:35:50.320Z"
   },
   {
     "id": "p17725557503202058",
@@ -22114,13 +29540,19 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_874986-MLU74228017091_012024-F.jpg"
     ],
+    "mlIds": [
+      "MLB20879481"
+    ],
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "esfoliante",
       "eternal secret"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:50.320Z",
+    "updatedAt": "2026-03-03T16:35:50.320Z"
   },
   {
     "id": "p17725557503212059",
@@ -22132,13 +29564,20 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_826529-MLU73670481055_122023-F.jpg"
     ],
+    "ean": "793573760852",
+    "mlIds": [
+      "MLB29342988"
+    ],
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "esfoliante",
       "vika`s essentials"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:50.321Z",
+    "updatedAt": "2026-03-03T16:35:50.321Z"
   },
   {
     "id": "p17725557503212060",
@@ -22154,13 +29593,19 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_600972-MLM54721642820_032023-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_937968-MLM54721642826_032023-F.jpg"
     ],
+    "mlIds": [
+      "MLB22511737"
+    ],
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "esfoliante",
       "eucerin"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:50.321Z",
+    "updatedAt": "2026-03-03T16:35:50.321Z"
   },
   {
     "id": "p17725557503212061",
@@ -22173,13 +29618,20 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_888154-MLU71457485623_092023-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_646122-MLU71412335970_092023-F.jpg"
     ],
+    "ean": "7501022111567",
+    "mlIds": [
+      "MLB26707509"
+    ],
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "esfoliante",
       "axel control"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:50.321Z",
+    "updatedAt": "2026-03-03T16:35:50.321Z"
   },
   {
     "id": "p17725557515992066",
@@ -22193,13 +29645,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_732531-MLU73807656187_012024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_809693-MLU70668941062_072023-F.jpg"
     ],
+    "ean": "7909463309695",
+    "mlIds": [
+      "MLB25108632"
+    ],
+    "mlParentId": "MLB25108608",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "creme para olhos",
       "ana hickmann"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:51.599Z",
+    "updatedAt": "2026-03-03T16:35:51.599Z"
   },
   {
     "id": "p17725557515992067",
@@ -22215,13 +29675,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_622481-MLU70065427321_062023-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_734399-MLU70065254521_062023-F.jpg"
     ],
+    "ean": "3461022002019",
+    "mlIds": [
+      "MLB21003368"
+    ],
+    "mlParentId": "MLB21003350",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "creme para olhos",
       "esthederm"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:51.599Z",
+    "updatedAt": "2026-03-03T16:35:51.599Z"
   },
   {
     "id": "p17725557515992068",
@@ -22237,13 +29705,20 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_694819-MLA84539553734_052025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_669983-MLA84837793989_052025-F.jpg"
     ],
+    "ean": "7890448402831",
+    "mlIds": [
+      "MLB35175531"
+    ],
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "creme para olhos",
       "océane"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:51.599Z",
+    "updatedAt": "2026-03-03T16:35:51.599Z"
   },
   {
     "id": "p17725557516002069",
@@ -22255,13 +29730,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_660967-MLB74113918059_012024-F.jpg"
     ],
+    "ean": "3380810272079",
+    "mlIds": [
+      "MLB21365170"
+    ],
+    "mlParentId": "MLB21365165",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "creme para olhos",
       "clarins"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:51.600Z",
+    "updatedAt": "2026-03-03T16:35:51.600Z"
   },
   {
     "id": "p17725557516002072",
@@ -22273,13 +29756,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_604918-MLU74246690853_012024-F.jpg"
     ],
+    "ean": "7891010882990",
+    "mlIds": [
+      "MLB18390559"
+    ],
+    "mlParentId": "MLB18390560",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "creme para olhos",
       "neutrogena"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:51.600Z",
+    "updatedAt": "2026-03-03T16:35:51.600Z"
   },
   {
     "id": "p17725557516002073",
@@ -22291,13 +29782,20 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_727477-MLU75179624936_032024-F.jpg"
     ],
+    "mlIds": [
+      "MLB11898121"
+    ],
+    "mlParentId": "MLB11898120",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "creme para olhos",
       "renew"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:51.600Z",
+    "updatedAt": "2026-03-03T16:35:51.600Z"
   },
   {
     "id": "p17725557516002074",
@@ -22311,13 +29809,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_809576-MLU70783449642_082023-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_951425-MLU70783340902_082023-F.jpg"
     ],
+    "ean": "6940824170951",
+    "mlIds": [
+      "MLB25575173"
+    ],
+    "mlParentId": "MLB25575147",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "creme para olhos",
       "fábrica do micropigmentador"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:51.600Z",
+    "updatedAt": "2026-03-03T16:35:51.600Z"
   },
   {
     "id": "p17725557516002078",
@@ -22333,13 +29839,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_977244-MLU77584337068_072024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_821766-MLU77802061215_072024-F.jpg"
     ],
+    "ean": "7908380704095",
+    "mlIds": [
+      "MLB38451134"
+    ],
+    "mlParentId": "MLB38451133",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "creme para olhos",
       "lfpro"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:51.600Z",
+    "updatedAt": "2026-03-03T16:35:51.600Z"
   },
   {
     "id": "p17725557516002079",
@@ -22355,13 +29869,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_869866-MLA91928127104_092025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_726496-MLA91928108128_092025-F.jpg"
     ],
+    "ean": "710585359157",
+    "mlIds": [
+      "MLB55919648"
+    ],
+    "mlParentId": "MLB55919637",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "creme para olhos",
       "laikou"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:51.600Z",
+    "updatedAt": "2026-03-03T16:35:51.600Z"
   },
   {
     "id": "p17725557516002080",
@@ -22377,13 +29899,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_766738-MLA94806194563_102025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_915026-MLA94376495336_102025-F.jpg"
     ],
+    "ean": "3461020004947",
+    "mlIds": [
+      "MLB59799592"
+    ],
+    "mlParentId": "MLB59799590",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "creme para olhos",
       "institut esthederm"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:51.600Z",
+    "updatedAt": "2026-03-03T16:35:51.600Z"
   },
   {
     "id": "p17725557516002081",
@@ -22399,13 +29929,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_616650-MLA88900447294_082025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_667668-MLA88900407910_082025-F.jpg"
     ],
+    "ean": "887167393271",
+    "mlIds": [
+      "MLB22683890"
+    ],
+    "mlParentId": "MLB22683854",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "creme para olhos",
       "estée lauder"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:51.600Z",
+    "updatedAt": "2026-03-03T16:35:51.600Z"
   },
   {
     "id": "p17725557516002082",
@@ -22419,13 +29957,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_651389-MLA87891182071_072025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_704738-MLA87891435009_072025-F.jpg"
     ],
+    "ean": "7908799011739",
+    "mlIds": [
+      "MLB52360566"
+    ],
+    "mlParentId": "MLB52360565",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "creme para olhos",
       "abelha rainha"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:51.600Z",
+    "updatedAt": "2026-03-03T16:35:51.600Z"
   },
   {
     "id": "p17725557516012087",
@@ -22439,13 +29985,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_902492-MLA79506350418_102024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_660261-MLU73609847814_122023-F.jpg"
     ],
+    "ean": "20714382742",
+    "mlIds": [
+      "MLB24770605"
+    ],
+    "mlParentId": "MLB24770586",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "creme para olhos",
       "clinique"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:51.601Z",
+    "updatedAt": "2026-03-03T16:35:51.601Z"
   },
   {
     "id": "p17725557528672088",
@@ -22461,13 +30015,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_847505-MLU70667904770_072023-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_923210-MLU70667757456_072023-F.jpg"
     ],
+    "ean": "724399716273",
+    "mlIds": [
+      "MLB25073919"
+    ],
+    "mlParentId": "MLB25073895",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "creme para olhos",
       "nature theory"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:52.867Z",
+    "updatedAt": "2026-03-03T16:35:52.867Z"
   },
   {
     "id": "p17725557528672089",
@@ -22481,13 +30043,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_953148-MLU75979540290_052024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_983561-MLU75979540310_052024-F.jpg"
     ],
+    "ean": "850026152555",
+    "mlIds": [
+      "MLB36524334"
+    ],
+    "mlParentId": "MLB36524333",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "creme para olhos",
       "dot"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:52.867Z",
+    "updatedAt": "2026-03-03T16:35:52.867Z"
   },
   {
     "id": "p17725557528682094",
@@ -22502,6 +30072,17 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_900100-MLA92318179256_092025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_808743-MLA92726041455_092025-F.jpg"
     ],
+    "ean": "9402676742481",
+    "mlIds": [
+      "MLB56675127"
+    ],
+    "mlParentId": "MLB56675126",
+    "colors": [
+      {
+        "name": "Creme para Olhos CELYN 30ml",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_617502-MLA92725883905_092025-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -22509,12 +30090,8 @@ const catalogProducts = [
       "creme para olhos",
       "oem"
     ],
-    "colors": [
-      {
-        "name": "Creme para Olhos CELYN 30ml",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_617502-MLA92725883905_092025-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:35:52.868Z",
+    "updatedAt": "2026-03-03T16:35:52.868Z"
   },
   {
     "id": "p17725557528692097",
@@ -22530,13 +30107,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_640296-MLA99596569304_122025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_998016-MLA99596569314_122025-F.jpg"
     ],
+    "ean": "7899233220445",
+    "mlIds": [
+      "MLB62723283"
+    ],
+    "mlParentId": "MLB62723282",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "creme para olhos",
       "belara - medicube"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:52.869Z",
+    "updatedAt": "2026-03-03T16:35:52.869Z"
   },
   {
     "id": "p17725557528692099",
@@ -22548,13 +30133,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_766479-MLB51638469449_092022-F.jpg"
     ],
+    "ean": "850005353027",
+    "mlIds": [
+      "MLB21568923"
+    ],
+    "mlParentId": "MLB21568906",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "creme para olhos",
       "kylie skin"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:52.869Z",
+    "updatedAt": "2026-03-03T16:35:52.869Z"
   },
   {
     "id": "p17725557528702101",
@@ -22568,13 +30161,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_960694-MLU70423328308_072023-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_758642-MLU70448131271_072023-F.jpg"
     ],
+    "ean": "761469177305",
+    "mlIds": [
+      "MLB24412627"
+    ],
+    "mlParentId": "MLB24412585",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "creme para olhos",
       "ephraival"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:52.870Z",
+    "updatedAt": "2026-03-03T16:35:52.870Z"
   },
   {
     "id": "p17725557541482104",
@@ -22590,13 +30191,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_795851-MLA80479452901_112024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_973205-MLA80479462569_112024-F.jpg"
     ],
+    "ean": "816645029128",
+    "mlIds": [
+      "MLB42737056"
+    ],
+    "mlParentId": "MLB42737055",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "creme para olhos",
       "the honest company"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:54.148Z",
+    "updatedAt": "2026-03-03T16:35:54.148Z"
   },
   {
     "id": "p17725557541482105",
@@ -22608,13 +30217,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_976461-MLA106593142112_022026-F.jpg"
     ],
+    "ean": "3282770394313",
+    "mlIds": [
+      "MLB65600604"
+    ],
+    "mlParentId": "MLB65600603",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "creme para olhos",
       "avène"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:54.148Z",
+    "updatedAt": "2026-03-03T16:35:54.148Z"
   },
   {
     "id": "p17725557541492108",
@@ -22630,13 +30247,20 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_924931-MLU76862880359_062024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_890164-MLU76862674175_062024-F.jpg"
     ],
+    "ean": "717444230275",
+    "mlIds": [
+      "MLB37508628"
+    ],
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "creme para olhos",
       "antilog"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:54.149Z",
+    "updatedAt": "2026-03-03T16:35:54.149Z"
   },
   {
     "id": "p17725557541492109",
@@ -22652,13 +30276,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_891516-MLA93982749821_102025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_706414-MLA93982632835_102025-F.jpg"
     ],
+    "ean": "7891157801304",
+    "mlIds": [
+      "MLB58690792"
+    ],
+    "mlParentId": "MLB58690789",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "creme para olhos",
       "cicatricure"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:54.149Z",
+    "updatedAt": "2026-03-03T16:35:54.149Z"
   },
   {
     "id": "p17725557592502172",
@@ -22670,13 +30302,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_819010-MLU79332998067_092024-F.jpg"
     ],
+    "ean": "7793890258165",
+    "mlIds": [
+      "MLB40900374"
+    ],
+    "mlParentId": "MLB40900372",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "perfume",
       "millanel"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:59.250Z",
+    "updatedAt": "2026-03-03T16:35:59.250Z"
   },
   {
     "id": "p17725557592502173",
@@ -22689,13 +30329,11 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_930803-MLA98197837828_112025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_788083-MLA98197533250_112025-F.jpg"
     ],
-    "averageRating": 0,
-    "reviewCount": 0,
-    "prices": [],
-    "tags": [
-      "perfume",
-      "amodil"
+    "ean": "7790801010164",
+    "mlIds": [
+      "MLB62266503"
     ],
+    "mlParentId": "MLB62266501",
     "colors": [
       {
         "name": "Eau Parfum",
@@ -22705,7 +30343,16 @@ const catalogProducts = [
         "name": "Miss",
         "image": "https://http2.mlstatic.com/D_NQ_NP_925421-MLU74162195327_012024-F.jpg"
       }
-    ]
+    ],
+    "averageRating": 0,
+    "reviewCount": 0,
+    "prices": [],
+    "tags": [
+      "perfume",
+      "amodil"
+    ],
+    "createdAt": "2026-03-03T16:35:59.250Z",
+    "updatedAt": "2026-03-03T16:35:59.250Z"
   },
   {
     "id": "p17725557592512174",
@@ -22718,13 +30365,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_974363-MLU72409503439_102023-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_955961-MLU74143195751_012024-F.jpg"
     ],
+    "ean": "7894557747265",
+    "mlIds": [
+      "MLB27835735"
+    ],
+    "mlParentId": "MLB27835734",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "perfume",
       "ibotira"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:59.251Z",
+    "updatedAt": "2026-03-03T16:35:59.251Z"
   },
   {
     "id": "p17725557592512175",
@@ -22738,13 +30393,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_859358-MLU78161976762_082024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_648559-MLU78161573120_082024-F.jpg"
     ],
+    "ean": "6972072297302",
+    "mlIds": [
+      "MLB39317052"
+    ],
+    "mlParentId": "MLB39317050",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "perfume",
       "mumuso"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:59.251Z",
+    "updatedAt": "2026-03-03T16:35:59.251Z"
   },
   {
     "id": "p17725557592512176",
@@ -22760,13 +30423,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_622166-MLA87303562999_072025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_779569-MLA87303542933_072025-F.jpg"
     ],
+    "ean": "6287042282548",
+    "mlIds": [
+      "MLB52060701"
+    ],
+    "mlParentId": "MLB52060700",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "perfume",
       "la verne"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:59.251Z",
+    "updatedAt": "2026-03-03T16:35:59.251Z"
   },
   {
     "id": "p17725557592512177",
@@ -22782,13 +30453,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_847697-MLA100501170997_122025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_802189-MLA100012458648_122025-F.jpg"
     ],
+    "ean": "7063154240534",
+    "mlIds": [
+      "MLB62890094"
+    ],
+    "mlParentId": "MLB62890093",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "perfume",
       "reino"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:59.251Z",
+    "updatedAt": "2026-03-03T16:35:59.251Z"
   },
   {
     "id": "p17725557592512178",
@@ -22801,13 +30480,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_908234-MLU70660452091_072023-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_986058-MLU70660452093_072023-F.jpg"
     ],
+    "ean": "7898662432733",
+    "mlIds": [
+      "MLB24829256"
+    ],
+    "mlParentId": "MLB24829253",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "perfume",
       "rabanne"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:59.251Z",
+    "updatedAt": "2026-03-03T16:35:59.251Z"
   },
   {
     "id": "p17725557592512179",
@@ -22819,13 +30506,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_862554-MLM51966188801_102022-F.jpg"
     ],
+    "ean": "693235429298",
+    "mlIds": [
+      "MLB21196951"
+    ],
+    "mlParentId": "MLB21196947",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "perfume",
       "zermat"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:59.251Z",
+    "updatedAt": "2026-03-03T16:35:59.251Z"
   },
   {
     "id": "p17725557592512180",
@@ -22838,13 +30533,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_795242-MLA102480705370_122025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_671560-MLA105957202021_012026-F.jpg"
     ],
+    "ean": "7908618306626",
+    "mlIds": [
+      "MLB63650147"
+    ],
+    "mlParentId": "MLB63650146",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "perfume",
       "gperfumes"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:59.251Z",
+    "updatedAt": "2026-03-03T16:35:59.251Z"
   },
   {
     "id": "p17725557592512181",
@@ -22857,13 +30560,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_645426-MLA86681598940_062025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_904846-MLA86681512134_062025-F.jpg"
     ],
+    "ean": "8011003070305",
+    "mlIds": [
+      "MLB51877224"
+    ],
+    "mlParentId": "MLB51877221",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "perfume",
       "dolce & gabbana"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:59.251Z",
+    "updatedAt": "2026-03-03T16:35:59.251Z"
   },
   {
     "id": "p17725557592512182",
@@ -22876,13 +30587,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_929702-MLU74154675151_012024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_899270-MLU74143252673_012024-F.jpg"
     ],
+    "ean": "7898431316905",
+    "mlIds": [
+      "MLB27849308"
+    ],
+    "mlParentId": "MLB27849307",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "perfume",
       "you take on"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:59.251Z",
+    "updatedAt": "2026-03-03T16:35:59.251Z"
   },
   {
     "id": "p17725557592512183",
@@ -22894,13 +30613,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_670386-MLA84554050700_052025-F.jpg"
     ],
+    "ean": "7898969582292",
+    "mlIds": [
+      "MLB39325642"
+    ],
+    "mlParentId": "MLB39325641",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "perfume",
       "thera cosméticos"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:59.251Z",
+    "updatedAt": "2026-03-03T16:35:59.251Z"
   },
   {
     "id": "p17725557592512185",
@@ -22915,13 +30642,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_605862-MLU75777297125_042024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_910152-MLU75614875218_042024-F.jpg"
     ],
+    "ean": "6015047130164",
+    "mlIds": [
+      "MLB21909642"
+    ],
+    "mlParentId": "MLB21909622",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "perfume",
       "hinode"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:59.251Z",
+    "updatedAt": "2026-03-03T16:35:59.251Z"
   },
   {
     "id": "p17725557592512186",
@@ -22935,13 +30670,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_858850-MLU70080267266_062023-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_666796-MLU70080198234_062023-F.jpg"
     ],
+    "ean": "8435415004664",
+    "mlIds": [
+      "MLB24088726"
+    ],
+    "mlParentId": "MLB22912337",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "perfume",
       "jean paul gaultier"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:59.251Z",
+    "updatedAt": "2026-03-03T16:35:59.251Z"
   },
   {
     "id": "p17725557592512187",
@@ -22957,13 +30700,10 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_632034-MLA100183312801_122025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_948219-MLA99697938724_122025-F.jpg"
     ],
-    "averageRating": 0,
-    "reviewCount": 0,
-    "prices": [],
-    "tags": [
-      "perfume",
-      "cyzone"
+    "mlIds": [
+      "MLB62317065"
     ],
+    "mlParentId": "MLB62317064",
     "colors": [
       {
         "name": "Girlink",
@@ -22977,7 +30717,16 @@ const catalogProducts = [
         "name": "Pure Bloom",
         "image": "https://http2.mlstatic.com/D_NQ_NP_688123-MLA100183283119_122025-F.jpg"
       }
-    ]
+    ],
+    "averageRating": 0,
+    "reviewCount": 0,
+    "prices": [],
+    "tags": [
+      "perfume",
+      "cyzone"
+    ],
+    "createdAt": "2026-03-03T16:35:59.251Z",
+    "updatedAt": "2026-03-03T16:35:59.251Z"
   },
   {
     "id": "p17725557592512189",
@@ -22991,13 +30740,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_831320-MLA106509413311_022026-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_860511-MLA106510446409_022026-F.jpg"
     ],
+    "ean": "5425039223025",
+    "mlIds": [
+      "MLB65238032"
+    ],
+    "mlParentId": "MLB65238031",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "perfume",
       "fragluxe"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:59.251Z",
+    "updatedAt": "2026-03-03T16:35:59.251Z"
   },
   {
     "id": "p17725557592512190",
@@ -23012,13 +30769,11 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_986015-MLA87450312227_072025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_613247-MLA87123951360_072025-F.jpg"
     ],
-    "averageRating": 0,
-    "reviewCount": 0,
-    "prices": [],
-    "tags": [
-      "perfume",
-      "novaventa"
+    "ean": "7705790420054",
+    "mlIds": [
+      "MLB63207667"
     ],
+    "mlParentId": "MLB63207666",
     "colors": [
       {
         "name": "Ayla",
@@ -23032,7 +30787,16 @@ const catalogProducts = [
         "name": "Bloom",
         "image": "https://http2.mlstatic.com/D_NQ_NP_715226-MLA105340620019_012026-F.jpg"
       }
-    ]
+    ],
+    "averageRating": 0,
+    "reviewCount": 0,
+    "prices": [],
+    "tags": [
+      "perfume",
+      "novaventa"
+    ],
+    "createdAt": "2026-03-03T16:35:59.251Z",
+    "updatedAt": "2026-03-03T16:35:59.251Z"
   },
   {
     "id": "p17725557592512191",
@@ -23046,13 +30810,11 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_916815-MLU73128387722_122023-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_734980-MLU73128446164_122023-F.jpg"
     ],
-    "averageRating": 0,
-    "reviewCount": 0,
-    "prices": [],
-    "tags": [
-      "perfume",
-      "avon"
+    "ean": "7909189054923",
+    "mlIds": [
+      "MLB34110980"
     ],
+    "mlParentId": "MLB34110979",
     "colors": [
       {
         "name": "Luminata",
@@ -23066,7 +30828,16 @@ const catalogProducts = [
         "name": "Rare Pearls",
         "image": "https://http2.mlstatic.com/D_NQ_NP_669341-MLU71501779504_092023-F.jpg"
       }
-    ]
+    ],
+    "averageRating": 0,
+    "reviewCount": 0,
+    "prices": [],
+    "tags": [
+      "perfume",
+      "avon"
+    ],
+    "createdAt": "2026-03-03T16:35:59.251Z",
+    "updatedAt": "2026-03-03T16:35:59.251Z"
   },
   {
     "id": "p17725557592512192",
@@ -23082,13 +30853,11 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_704922-MLU71858600486_092023-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_777432-MLU71913207947_092023-F.jpg"
     ],
-    "averageRating": 0,
-    "reviewCount": 0,
-    "prices": [],
-    "tags": [
-      "perfume",
-      "jafra"
+    "ean": "7891177166230",
+    "mlIds": [
+      "MLB29609865"
     ],
+    "mlParentId": "MLB29609864",
     "colors": [
       {
         "name": "Vesen",
@@ -23098,7 +30867,16 @@ const catalogProducts = [
         "name": "Jande",
         "image": "https://http2.mlstatic.com/D_NQ_NP_679117-MLU74111591233_012024-F.jpg"
       }
-    ]
+    ],
+    "averageRating": 0,
+    "reviewCount": 0,
+    "prices": [],
+    "tags": [
+      "perfume",
+      "jafra"
+    ],
+    "createdAt": "2026-03-03T16:35:59.251Z",
+    "updatedAt": "2026-03-03T16:35:59.251Z"
   },
   {
     "id": "p17725557592512193",
@@ -23110,13 +30888,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_766581-MLA84852056389_052025-F.jpg"
     ],
+    "ean": "7898969582742",
+    "mlIds": [
+      "MLB41379976"
+    ],
+    "mlParentId": "MLB41379975",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "perfume",
       "thera cosméticos"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:59.251Z",
+    "updatedAt": "2026-03-03T16:35:59.251Z"
   },
   {
     "id": "p17725557592512194",
@@ -23128,13 +30914,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_997121-MLA81616913143_122024-F.jpg"
     ],
+    "ean": "7897373177810",
+    "mlIds": [
+      "MLB45093797"
+    ],
+    "mlParentId": "MLB45093795",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "perfume",
       "stefory gunna"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:59.251Z",
+    "updatedAt": "2026-03-03T16:35:59.251Z"
   },
   {
     "id": "p17725557592512195",
@@ -23148,13 +30942,11 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_841448-MLA82302497610_022025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_802605-MLA82302478074_022025-F.jpg"
     ],
-    "averageRating": 0,
-    "reviewCount": 0,
-    "prices": [],
-    "tags": [
-      "perfume",
-      "l'bel"
+    "ean": "5462605601825",
+    "mlIds": [
+      "MLB46218490"
     ],
+    "mlParentId": "MLB46218485",
     "colors": [
       {
         "name": "Bel",
@@ -23164,7 +30956,16 @@ const catalogProducts = [
         "name": "Lumiere",
         "image": "https://http2.mlstatic.com/D_NQ_NP_660845-MLU74084791419_012024-F.jpg"
       }
-    ]
+    ],
+    "averageRating": 0,
+    "reviewCount": 0,
+    "prices": [],
+    "tags": [
+      "perfume",
+      "l'bel"
+    ],
+    "createdAt": "2026-03-03T16:35:59.251Z",
+    "updatedAt": "2026-03-03T16:35:59.251Z"
   },
   {
     "id": "p17725557592512196",
@@ -23178,13 +30979,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_765046-MLA99583729618_122025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_893829-MLA99583759616_122025-F.jpg"
     ],
+    "ean": "760412267049",
+    "mlIds": [
+      "MLB62716620"
+    ],
+    "mlParentId": "MLB62716619",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "perfume",
       "max belle"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:59.251Z",
+    "updatedAt": "2026-03-03T16:35:59.251Z"
   },
   {
     "id": "p17725557592512197",
@@ -23200,13 +31009,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_661058-MLU79107695064_092024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_815018-MLU79348730391_092024-F.jpg"
     ],
+    "ean": "6928075644537",
+    "mlIds": [
+      "MLB40925422"
+    ],
+    "mlParentId": "MLB40925421",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "perfume",
       "miniso"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:59.251Z",
+    "updatedAt": "2026-03-03T16:35:59.251Z"
   },
   {
     "id": "p17725557592512198",
@@ -23219,13 +31036,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_952644-MLU54981217690_042023-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_916679-MLU73882978091_012024-F.jpg"
     ],
+    "ean": "3605470400410",
+    "mlIds": [
+      "MLB22901889"
+    ],
+    "mlParentId": "MLB22901862",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "perfume",
       "montana"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:59.251Z",
+    "updatedAt": "2026-03-03T16:35:59.251Z"
   },
   {
     "id": "p17725557592512199",
@@ -23237,13 +31062,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_918946-MLA43240397188_082020-F.jpg"
     ],
+    "ean": "7909189109258",
+    "mlIds": [
+      "MLB22305158"
+    ],
+    "mlParentId": "MLB22305145",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "perfume",
       "avon"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:59.251Z",
+    "updatedAt": "2026-03-03T16:35:59.251Z"
   },
   {
     "id": "p17725557592512201",
@@ -23256,13 +31089,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_949968-MLU73801873289_012024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_845765-MLU69392510332_052023-F.jpg"
     ],
+    "ean": "693235421988",
+    "mlIds": [
+      "MLB22912196"
+    ],
+    "mlParentId": "MLB22912176",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "perfume",
       "zermat"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:59.251Z",
+    "updatedAt": "2026-03-03T16:35:59.251Z"
   },
   {
     "id": "p17725557592512202",
@@ -23278,13 +31119,11 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_689324-MLA95447027111_102025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_797817-MLA95447027123_102025-F.jpg"
     ],
-    "averageRating": 0,
-    "reviewCount": 0,
-    "prices": [],
-    "tags": [
-      "perfume",
-      "reino"
+    "ean": "763154240462",
+    "mlIds": [
+      "MLB60327806"
     ],
+    "mlParentId": "MLB60327802",
     "colors": [
       {
         "name": "Alma",
@@ -23294,7 +31133,16 @@ const catalogProducts = [
         "name": "Natali",
         "image": "https://http2.mlstatic.com/D_NQ_NP_936398-MLA74073021922_012024-F.jpg"
       }
-    ]
+    ],
+    "averageRating": 0,
+    "reviewCount": 0,
+    "prices": [],
+    "tags": [
+      "perfume",
+      "reino"
+    ],
+    "createdAt": "2026-03-03T16:35:59.251Z",
+    "updatedAt": "2026-03-03T16:35:59.251Z"
   },
   {
     "id": "p17725557592512203",
@@ -23308,13 +31156,11 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_726514-MLU74218926325_012024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_830288-MLU74226068735_012024-F.jpg"
     ],
-    "averageRating": 0,
-    "reviewCount": 0,
-    "prices": [],
-    "tags": [
-      "perfume",
-      "tropea"
+    "ean": "7798179589930, 7798179589947",
+    "mlIds": [
+      "MLB20885078"
     ],
+    "mlParentId": "MLB20885075",
     "colors": [
       {
         "name": "Spell",
@@ -23324,7 +31170,16 @@ const catalogProducts = [
         "name": "Odissey",
         "image": "https://http2.mlstatic.com/D_NQ_NP_754304-MLU73416915831_122023-F.jpg"
       }
-    ]
+    ],
+    "averageRating": 0,
+    "reviewCount": 0,
+    "prices": [],
+    "tags": [
+      "perfume",
+      "tropea"
+    ],
+    "createdAt": "2026-03-03T16:35:59.251Z",
+    "updatedAt": "2026-03-03T16:35:59.251Z"
   },
   {
     "id": "p17725557592512205",
@@ -23336,13 +31191,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_613157-MLU73673340455_122023-F.jpg"
     ],
+    "ean": "7908240822686, 601961593428",
+    "mlIds": [
+      "MLB22948141"
+    ],
+    "mlParentId": "MLB22948133",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "perfume",
       "l'bel"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:59.251Z",
+    "updatedAt": "2026-03-03T16:35:59.251Z"
   },
   {
     "id": "p17725557592512206",
@@ -23354,13 +31217,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_637735-MLA79832142801_102024-F.jpg"
     ],
+    "ean": "885513534583",
+    "mlIds": [
+      "MLB39005771"
+    ],
+    "mlParentId": "MLB39005770",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "perfume",
       "clinique"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:59.251Z",
+    "updatedAt": "2026-03-03T16:35:59.251Z"
   },
   {
     "id": "p17725557592512207",
@@ -23372,13 +31243,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_879339-MLA95244961763_102025-F.jpg"
     ],
+    "ean": "7798444550214",
+    "mlIds": [
+      "MLB60130387"
+    ],
+    "mlParentId": "MLB60130386",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "perfume",
       "saphirus"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:59.251Z",
+    "updatedAt": "2026-03-03T16:35:59.251Z"
   },
   {
     "id": "p17725557592512210",
@@ -23392,13 +31271,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_622210-MLU73421219930_122023-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_773905-MLU74157921033_012024-F.jpg"
     ],
+    "ean": "6971291289075",
+    "mlIds": [
+      "MLB29064367"
+    ],
+    "mlParentId": "MLB29064365",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "perfume",
       "mumuso"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:59.251Z",
+    "updatedAt": "2026-03-03T16:35:59.251Z"
   },
   {
     "id": "p17725557592522212",
@@ -23413,13 +31300,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_975728-MLA106638569070_022026-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_650057-MLA106638509636_022026-F.jpg"
     ],
+    "ean": "7908762103799",
+    "mlIds": [
+      "MLB65664900"
+    ],
+    "mlParentId": "MLB65664899",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "perfume",
       "touti"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:59.252Z",
+    "updatedAt": "2026-03-03T16:35:59.252Z"
   },
   {
     "id": "p17725557592522213",
@@ -23432,13 +31327,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_712833-MLU75003548479_032024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_633371-MLU69361007469_052023-F.jpg"
     ],
+    "ean": "810175021676",
+    "mlIds": [
+      "MLB23181287"
+    ],
+    "mlParentId": "MLB23181271",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "perfume",
       "hinode"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:35:59.252Z",
+    "updatedAt": "2026-03-03T16:35:59.252Z"
   },
   {
     "id": "p17725557606482216",
@@ -23453,13 +31356,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_822632-MLA100015289622_122025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_945950-MLA100504362689_122025-F.jpg"
     ],
+    "ean": "763154240479",
+    "mlIds": [
+      "MLB62895900"
+    ],
+    "mlParentId": "MLB62895899",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "perfume",
       "reino"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:00.648Z",
+    "updatedAt": "2026-03-03T16:36:00.648Z"
   },
   {
     "id": "p17725557606482217",
@@ -23475,13 +31386,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_684044-MLU72804955219_112023-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_877814-MLU72730476040_112023-F.jpg"
     ],
+    "ean": "7798349420025",
+    "mlIds": [
+      "MLB19719934"
+    ],
+    "mlParentId": "MLB19719898",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "perfume",
       "mac gregor"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:00.648Z",
+    "updatedAt": "2026-03-03T16:36:00.648Z"
   },
   {
     "id": "p17725557606482218",
@@ -23494,13 +31413,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_740800-MLU69083271533_042023-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_891203-MLU73704761618_012024-F.jpg"
     ],
+    "ean": "5050456000036",
+    "mlIds": [
+      "MLB22753514"
+    ],
+    "mlParentId": "MLB22753496",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "perfume",
       "designer parfums"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:00.648Z",
+    "updatedAt": "2026-03-03T16:36:00.648Z"
   },
   {
     "id": "p17725557606482219",
@@ -23515,13 +31442,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_761079-MLU72343569736_102023-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_720944-MLU72343502168_102023-F.jpg"
     ],
+    "ean": "7807535110999",
+    "mlIds": [
+      "MLB27835836"
+    ],
+    "mlParentId": "MLB27835835",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "perfume",
       "carolina herrera"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:00.648Z",
+    "updatedAt": "2026-03-03T16:36:00.648Z"
   },
   {
     "id": "p17725557606482220",
@@ -23536,13 +31471,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_979965-MLU78484089302_082024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_693316-MLU78483952096_082024-F.jpg"
     ],
+    "ean": "7890017604949",
+    "mlIds": [
+      "MLB39914741"
+    ],
+    "mlParentId": "MLB39914739",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "perfume",
       "natura"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:00.648Z",
+    "updatedAt": "2026-03-03T16:36:00.648Z"
   },
   {
     "id": "p17725557606482221",
@@ -23555,13 +31498,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_880709-MLU69351669904_052023-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_798037-MLU69351669906_052023-F.jpg"
     ],
+    "ean": "3423478836952",
+    "mlIds": [
+      "MLB23180885"
+    ],
+    "mlParentId": "MLB18718409",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "perfume",
       "narciso rodriguez"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:00.648Z",
+    "updatedAt": "2026-03-03T16:36:00.648Z"
   },
   {
     "id": "p17725557606482222",
@@ -23573,13 +31524,22 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_633698-MLA96499258662_112025-F.jpg"
     ],
+    "ean": "7898969582803",
+    "mlIds": [
+      "MLB61592641",
+      "MLB50316481"
+    ],
+    "mlParentId": "MLB61592640",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "perfume",
       "thera cosméticos"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:00.648Z",
+    "updatedAt": "2026-03-03T16:36:00.648Z"
   },
   {
     "id": "p17725557606482223",
@@ -23592,13 +31552,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_737178-MLA105024180907_012026-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_747054-MLA105023237093_012026-F.jpg"
     ],
+    "ean": "7899870648473",
+    "mlIds": [
+      "MLB64389988"
+    ],
+    "mlParentId": "MLB64389987",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "perfume",
       "essência do brasil"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:00.648Z",
+    "updatedAt": "2026-03-03T16:36:00.648Z"
   },
   {
     "id": "p17725557606482224",
@@ -23614,13 +31582,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_704253-MLA100576247576_122025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_635308-MLA101070828547_122025-F.jpg"
     ],
+    "ean": "7791960681004",
+    "mlIds": [
+      "MLB63068870"
+    ],
+    "mlParentId": "MLB63068869",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "perfume",
       "47 street"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:00.648Z",
+    "updatedAt": "2026-03-03T16:36:00.648Z"
   },
   {
     "id": "p17725557606482225",
@@ -23635,13 +31611,11 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_618372-MLA84236217821_042025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_993411-MLA83941279010_042025-F.jpg"
     ],
-    "averageRating": 0,
-    "reviewCount": 0,
-    "prices": [],
-    "tags": [
-      "perfume",
-      "primacial"
+    "ean": "7898969742832",
+    "mlIds": [
+      "MLB51035112"
     ],
+    "mlParentId": "MLB51035079",
     "colors": [
       {
         "name": "Declarer",
@@ -23679,7 +31653,16 @@ const catalogProducts = [
         "name": "Lavine",
         "image": "https://http2.mlstatic.com/D_NQ_NP_684535-MLA84541605538_052025-F.jpg"
       }
-    ]
+    ],
+    "averageRating": 0,
+    "reviewCount": 0,
+    "prices": [],
+    "tags": [
+      "perfume",
+      "primacial"
+    ],
+    "createdAt": "2026-03-03T16:36:00.648Z",
+    "updatedAt": "2026-03-03T16:36:00.648Z"
   },
   {
     "id": "p17725557606482226",
@@ -23692,13 +31675,23 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_804182-MLA79442171050_102024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_988420-MLA79442237248_102024-F.jpg"
     ],
+    "ean": "7898619836379",
+    "mlIds": [
+      "MLB41347424",
+      "MLB41367269",
+      "MLB41362999"
+    ],
+    "mlParentId": "MLB41347423",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "perfume",
       "01life"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:00.648Z",
+    "updatedAt": "2026-03-03T16:36:00.648Z"
   },
   {
     "id": "p17725557606482229",
@@ -23710,13 +31703,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_908616-MLU74726764724_032024-F.jpg"
     ],
+    "ean": "7908371678282",
+    "mlIds": [
+      "MLB22335729"
+    ],
+    "mlParentId": "MLB22335709",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "perfume",
       "natura"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:00.648Z",
+    "updatedAt": "2026-03-03T16:36:00.648Z"
   },
   {
     "id": "p17725557606482231",
@@ -23730,13 +31731,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_800678-MLA86547557090_062025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_812313-MLA86547586414_062025-F.jpg"
     ],
+    "ean": "5060909982864",
+    "mlIds": [
+      "MLB51784856"
+    ],
+    "mlParentId": "MLB51784854",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "perfume",
       "global"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:00.648Z",
+    "updatedAt": "2026-03-03T16:36:00.648Z"
   },
   {
     "id": "p17725557606482236",
@@ -23748,13 +31757,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_840882-MLU76207197849_052024-F.jpg"
     ],
+    "ean": "7898238401323",
+    "mlIds": [
+      "MLB36630078"
+    ],
+    "mlParentId": "MLB36630076",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "perfume",
       "essência do brasil"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:00.648Z",
+    "updatedAt": "2026-03-03T16:36:00.648Z"
   },
   {
     "id": "p17725557606482237",
@@ -23770,13 +31787,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_695423-MLA82082655901_012025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_977561-MLA90768113027_082025-F.jpg"
     ],
+    "ean": "7898667072958",
+    "mlIds": [
+      "MLB45672477"
+    ],
+    "mlParentId": "MLB45672476",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "perfume",
       "sacratu"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:00.648Z",
+    "updatedAt": "2026-03-03T16:36:00.648Z"
   },
   {
     "id": "p17725557633172336",
@@ -23791,13 +31816,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_714438-MLA104248905324_012026-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_996737-MLA104248413678_012026-F.jpg"
     ],
+    "ean": "9364075563244",
+    "mlIds": [
+      "MLB64277363"
+    ],
+    "mlParentId": "MLB64277362",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "perfume homem",
       "armef"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:03.317Z",
+    "updatedAt": "2026-03-03T16:36:03.317Z"
   },
   {
     "id": "p17725557658692393",
@@ -23809,13 +31842,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_778850-MLA83196016538_042025-F.jpg"
     ],
+    "ean": "749379689606",
+    "mlIds": [
+      "MLB47646498"
+    ],
+    "mlParentId": "MLB47646497",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "perfume homem",
       "universal"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:05.869Z",
+    "updatedAt": "2026-03-03T16:36:05.869Z"
   },
   {
     "id": "p17725557671552457",
@@ -23831,13 +31872,20 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_881972-MLA94245641918_102025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_923848-MLA94245750928_102025-F.jpg"
     ],
+    "mlIds": [
+      "MLB59539035"
+    ],
+    "mlParentId": "MLB59539030",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "perfume homem",
       "haniel"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:07.155Z",
+    "updatedAt": "2026-03-03T16:36:07.155Z"
   },
   {
     "id": "p17725557697102535",
@@ -23849,13 +31897,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_894979-MLU74157295559_012024-F.jpg"
     ],
+    "ean": "7899767408050",
+    "mlIds": [
+      "MLB27840097"
+    ],
+    "mlParentId": "MLB27840096",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "shampoo",
       "glamurosa"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:09.710Z",
+    "updatedAt": "2026-03-03T16:36:09.710Z"
   },
   {
     "id": "p17725557697112537",
@@ -23867,13 +31923,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_628109-MLU78447302815_082024-F.jpg"
     ],
+    "ean": "8717185380149",
+    "mlIds": [
+      "MLB21601754"
+    ],
+    "mlParentId": "MLB21601725",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "shampoo",
       "keune"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:09.711Z",
+    "updatedAt": "2026-03-03T16:36:09.711Z"
   },
   {
     "id": "p17725557697112538",
@@ -23885,13 +31949,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_738869-MLA101923313509_122025-F.jpg"
     ],
+    "ean": "7890767320410",
+    "mlIds": [
+      "MLB63359679"
+    ],
+    "mlParentId": "MLB63359675",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "shampoo",
       "haskell"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:09.711Z",
+    "updatedAt": "2026-03-03T16:36:09.711Z"
   },
   {
     "id": "p17725557697112539",
@@ -23907,13 +31979,11 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_907560-MLU72581300552_112023-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_989955-MLU72653645259_112023-F.jpg"
     ],
-    "averageRating": 0,
-    "reviewCount": 0,
-    "prices": [],
-    "tags": [
-      "shampoo",
-      "go"
+    "ean": "7899938600238",
+    "mlIds": [
+      "MLB20673895"
     ],
+    "mlParentId": "MLB20673878",
     "colors": [
       {
         "name": "Antiqueda",
@@ -23927,7 +31997,16 @@ const catalogProducts = [
         "name": "Antioleosidade",
         "image": "https://http2.mlstatic.com/D_NQ_NP_985887-MLB74049227286_012024-F.jpg"
       }
-    ]
+    ],
+    "averageRating": 0,
+    "reviewCount": 0,
+    "prices": [],
+    "tags": [
+      "shampoo",
+      "go"
+    ],
+    "createdAt": "2026-03-03T16:36:09.711Z",
+    "updatedAt": "2026-03-03T16:36:09.711Z"
   },
   {
     "id": "p17725557697122540",
@@ -23940,13 +32019,20 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_667871-MLA99420382378_112025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_987364-MLA99421491698_112025-F.jpg"
     ],
+    "ean": "7898566992890",
+    "mlIds": [
+      "MLB53154181"
+    ],
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "shampoo",
       "ecosmetics"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:09.712Z",
+    "updatedAt": "2026-03-03T16:36:09.712Z"
   },
   {
     "id": "p17725557697122541",
@@ -23958,13 +32044,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_639468-MLU73829843396_012024-F.jpg"
     ],
+    "ean": "7898592340931",
+    "mlIds": [
+      "MLB25206067"
+    ],
+    "mlParentId": "MLB25206019",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "shampoo",
       "begônia cosméticos"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:09.712Z",
+    "updatedAt": "2026-03-03T16:36:09.712Z"
   },
   {
     "id": "p17725557697122542",
@@ -23976,13 +32070,20 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_693311-MLU76276897603_052024-F.jpg"
     ],
+    "ean": "7898700162325",
+    "mlIds": [
+      "MLB36756715"
+    ],
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "shampoo",
       "salles"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:09.712Z",
+    "updatedAt": "2026-03-03T16:36:09.712Z"
   },
   {
     "id": "p17725557697132544",
@@ -23995,13 +32096,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_630037-MLA49880632610_052022-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_722238-MLU73212783109_122023-F.jpg"
     ],
+    "ean": "4045787264548",
+    "mlIds": [
+      "MLB19780007"
+    ],
+    "mlParentId": "MLB19779990",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "shampoo",
       "schwarzkopf professional"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:09.713Z",
+    "updatedAt": "2026-03-03T16:36:09.713Z"
   },
   {
     "id": "p17725557697132545",
@@ -24014,13 +32123,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_674367-MLA99370920658_112025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_884765-MLA95023780302_102025-F.jpg"
     ],
+    "ean": "3253581967447",
+    "mlIds": [
+      "MLB20977583"
+    ],
+    "mlParentId": "MLB20977548",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "shampoo",
       "l'occitane au brésil"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:09.713Z",
+    "updatedAt": "2026-03-03T16:36:09.713Z"
   },
   {
     "id": "p17725557697132546",
@@ -24034,13 +32151,24 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_829596-MLA96756217481_102025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_710434-MLA99842178507_112025-F.jpg"
     ],
+    "ean": "7908132264037",
+    "mlIds": [
+      "MLB20689458",
+      "MLB61440698",
+      "MLB45706248",
+      "MLB21549627"
+    ],
+    "mlParentId": "MLB20689434",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "shampoo",
       "natura"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:09.713Z",
+    "updatedAt": "2026-03-03T16:36:12.272Z"
   },
   {
     "id": "p17725557697132547",
@@ -24052,13 +32180,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_938890-MLU74058387696_012024-F.jpg"
     ],
+    "ean": "7898601558890",
+    "mlIds": [
+      "MLB29792561"
+    ],
+    "mlParentId": "MLB29792557",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "shampoo",
       "true brasil professional"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:09.713Z",
+    "updatedAt": "2026-03-03T16:36:09.713Z"
   },
   {
     "id": "p17725557697132549",
@@ -24070,13 +32206,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_844671-MLA86738502506_072025-F.jpg"
     ],
+    "ean": "7898037171144",
+    "mlIds": [
+      "MLB51905717"
+    ],
+    "mlParentId": "MLB51905709",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "shampoo",
       "midori"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:09.713Z",
+    "updatedAt": "2026-03-03T16:36:09.713Z"
   },
   {
     "id": "p17725557697132550",
@@ -24088,13 +32232,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_925024-MLA99847756833_112025-F.jpg"
     ],
+    "ean": "7896868604893",
+    "mlIds": [
+      "MLB20577868"
+    ],
+    "mlParentId": "MLB20577848",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "shampoo",
       "hidrabell"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:09.713Z",
+    "updatedAt": "2026-03-03T16:36:09.713Z"
   },
   {
     "id": "p17725557697132552",
@@ -24107,13 +32259,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_829540-MLA107489909581_022026-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_690186-MLA106816233502_022026-F.jpg"
     ],
+    "ean": "7890371658886",
+    "mlIds": [
+      "MLB65903081"
+    ],
+    "mlParentId": "MLB65903079",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "shampoo",
       "bothanico"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:09.713Z",
+    "updatedAt": "2026-03-03T16:36:09.713Z"
   },
   {
     "id": "p17725557697142553",
@@ -24125,13 +32285,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_801299-MLU74306157804_022024-F.jpg"
     ],
+    "ean": "7909463199500",
+    "mlIds": [
+      "MLB32294454"
+    ],
+    "mlParentId": "MLB32294451",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "shampoo",
       "havida cosmeticos"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:09.714Z",
+    "updatedAt": "2026-03-03T16:36:09.714Z"
   },
   {
     "id": "p17725557697142555",
@@ -24143,13 +32311,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_606247-MLB74087905118_012024-F.jpg"
     ],
+    "ean": "7898955134160",
+    "mlIds": [
+      "MLB21498274"
+    ],
+    "mlParentId": "MLB21498248",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "shampoo",
       "jacques janine"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:09.714Z",
+    "updatedAt": "2026-03-03T16:36:09.714Z"
   },
   {
     "id": "p17725557697142556",
@@ -24162,13 +32338,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_946928-MLA99862758665_112025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_873498-MLA99383749556_112025-F.jpg"
     ],
+    "ean": "7909189327362",
+    "mlIds": [
+      "MLB39786969"
+    ],
+    "mlParentId": "MLB39786968",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "shampoo",
       "avon"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:09.714Z",
+    "updatedAt": "2026-03-03T16:36:09.714Z"
   },
   {
     "id": "p17725557697142557",
@@ -24180,13 +32364,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_911063-MLU79063172438_092024-F.jpg"
     ],
+    "ean": "7898126409066",
+    "mlIds": [
+      "MLB19703297"
+    ],
+    "mlParentId": "MLB19703277",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "shampoo",
       "aneethun"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:09.714Z",
+    "updatedAt": "2026-03-03T16:36:09.714Z"
   },
   {
     "id": "p17725557697152558",
@@ -24198,6 +32390,16 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_999684-MLA89307587877_082025-F.jpg"
     ],
+    "mlIds": [
+      "MLB53391429"
+    ],
+    "mlParentId": "MLB53391428",
+    "colors": [
+      {
+        "name": "Preto",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_999684-MLA89307587877_082025-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -24205,12 +32407,8 @@ const catalogProducts = [
       "shampoo",
       "cepillo"
     ],
-    "colors": [
-      {
-        "name": "Preto",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_999684-MLA89307587877_082025-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:36:09.715Z",
+    "updatedAt": "2026-03-03T16:36:09.715Z"
   },
   {
     "id": "p17725557709852559",
@@ -24222,13 +32420,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_860015-MLU76162104906_052024-F.jpg"
     ],
+    "ean": "7898961280103",
+    "mlIds": [
+      "MLB36879416"
+    ],
+    "mlParentId": "MLB36879414",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "shampoo",
       "barber jack"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:10.985Z",
+    "updatedAt": "2026-03-03T16:36:10.985Z"
   },
   {
     "id": "p17725557709862560",
@@ -24240,13 +32446,20 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_691571-MLB47357642514_092021-F.jpg"
     ],
+    "ean": "7896279117036",
+    "mlIds": [
+      "MLB19531227"
+    ],
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "shampoo",
       "muriel"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:10.986Z",
+    "updatedAt": "2026-03-03T16:36:10.986Z"
   },
   {
     "id": "p17725557709862561",
@@ -24259,13 +32472,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_640842-MLU72530940201_102023-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_738379-MLU74197822035_012024-F.jpg"
     ],
+    "ean": "7898658627648",
+    "mlIds": [
+      "MLB27791473"
+    ],
+    "mlParentId": "MLB27791472",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "shampoo",
       "keraform"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:10.986Z",
+    "updatedAt": "2026-03-03T16:36:10.986Z"
   },
   {
     "id": "p17725557709862562",
@@ -24281,13 +32502,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_924180-MLU79357956275_092024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_658538-MLU79357946545_092024-F.jpg"
     ],
+    "ean": "695248878278",
+    "mlIds": [
+      "MLB40941339"
+    ],
+    "mlParentId": "MLB40941338",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "shampoo",
       "eelhoe"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:10.986Z",
+    "updatedAt": "2026-03-03T16:36:10.986Z"
   },
   {
     "id": "p17725557709862563",
@@ -24299,13 +32528,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_832101-MLA99443791366_112025-F.jpg"
     ],
+    "ean": "7890996669250",
+    "mlIds": [
+      "MLB20309605"
+    ],
+    "mlParentId": "MLB20309574",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "shampoo",
       "bio extratus"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:10.986Z",
+    "updatedAt": "2026-03-03T16:36:10.986Z"
   },
   {
     "id": "p17725557709862564",
@@ -24317,13 +32554,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_926447-MLU74229982547_012024-F.jpg"
     ],
+    "ean": "7898218313172",
+    "mlIds": [
+      "MLB30242757"
+    ],
+    "mlParentId": "MLB30242751",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "shampoo",
       "macpaul professional"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:10.986Z",
+    "updatedAt": "2026-03-03T16:36:10.986Z"
   },
   {
     "id": "p17725557709862565",
@@ -24338,6 +32583,17 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_786778-MLA99833786581_112025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_905493-MLA99350481118_112025-F.jpg"
     ],
+    "ean": "7898556757270",
+    "mlIds": [
+      "MLB56340581"
+    ],
+    "mlParentId": "MLB56340579",
+    "colors": [
+      {
+        "name": "Full",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_860415-MLA107239583873_022026-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -24345,12 +32601,8 @@ const catalogProducts = [
       "shampoo",
       "lowell"
     ],
-    "colors": [
-      {
-        "name": "Full",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_860415-MLA107239583873_022026-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:36:10.986Z",
+    "updatedAt": "2026-03-03T16:36:10.986Z"
   },
   {
     "id": "p17725557709862566",
@@ -24362,13 +32614,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_740545-MLU74608481773_022024-F.jpg"
     ],
+    "ean": "7909189128419",
+    "mlIds": [
+      "MLB32331373"
+    ],
+    "mlParentId": "MLB32331371",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "shampoo",
       "avon"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:10.986Z",
+    "updatedAt": "2026-03-03T16:36:10.986Z"
   },
   {
     "id": "p17725557709862567",
@@ -24381,13 +32641,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_849842-MLA99364836256_112025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_659819-MLU74227330129_012024-F.jpg"
     ],
+    "ean": "7891033772728",
+    "mlIds": [
+      "MLB19703323"
+    ],
+    "mlParentId": "MLB19703304",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "shampoo",
       "o boticário"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:10.986Z",
+    "updatedAt": "2026-03-03T16:36:10.986Z"
   },
   {
     "id": "p17725557709872568",
@@ -24401,13 +32669,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_796520-MLA97740457765_112025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_711489-MLA97740304031_112025-F.jpg"
     ],
+    "ean": "7908371673911",
+    "mlIds": [
+      "MLB19702952"
+    ],
+    "mlParentId": "MLB19702934",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "shampoo",
       "natura"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:10.987Z",
+    "updatedAt": "2026-03-03T16:36:10.987Z"
   },
   {
     "id": "p17725557709872569",
@@ -24420,13 +32696,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_634942-MLU70847103413_082023-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_868597-MLU70847103397_082023-F.jpg"
     ],
+    "ean": "7898964301102",
+    "mlIds": [
+      "MLB25708564"
+    ],
+    "mlParentId": "MLB25708547",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "shampoo",
       "neutrocare"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:10.987Z",
+    "updatedAt": "2026-03-03T16:36:10.987Z"
   },
   {
     "id": "p17725557709872570",
@@ -24438,13 +32722,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_605875-MLU73930801823_012024-F.jpg"
     ],
+    "ean": "7896605210868",
+    "mlIds": [
+      "MLB25466502"
+    ],
+    "mlParentId": "MLB25466482",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "shampoo",
       "kelma"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:10.987Z",
+    "updatedAt": "2026-03-03T16:36:10.987Z"
   },
   {
     "id": "p17725557709872571",
@@ -24457,13 +32749,20 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_674673-MLA99848894123_112025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_715350-MLA99851836027_112025-F.jpg"
     ],
+    "mlIds": [
+      "MLB35250121"
+    ],
+    "mlParentId": "MLB35250118",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "shampoo",
       "professional paris"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:10.987Z",
+    "updatedAt": "2026-03-03T16:36:10.987Z"
   },
   {
     "id": "p17725557709872572",
@@ -24476,13 +32775,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_850962-MLA83768928037_042025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_704044-MLA83768928041_042025-F.jpg"
     ],
+    "ean": "7898973026201",
+    "mlIds": [
+      "MLB48381779"
+    ],
+    "mlParentId": "MLB48381776",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "shampoo",
       "kaizen"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:10.987Z",
+    "updatedAt": "2026-03-03T16:36:10.987Z"
   },
   {
     "id": "p17725557709872573",
@@ -24495,13 +32802,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_824735-MLB74247891917_012024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_893460-MLA79657560869_092024-F.jpg"
     ],
+    "ean": "7899047404871",
+    "mlIds": [
+      "MLB20283211"
+    ],
+    "mlParentId": "MLB20283157",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "shampoo",
       "bittes hair profissional"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:10.987Z",
+    "updatedAt": "2026-03-03T16:36:10.987Z"
   },
   {
     "id": "p17725557709872574",
@@ -24514,13 +32829,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_672200-MLA99827191879_112025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_947553-MLA92754993491_092025-F.jpg"
     ],
+    "ean": "7891033572588",
+    "mlIds": [
+      "MLB45334518"
+    ],
+    "mlParentId": "MLB45334517",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "shampoo",
       "eudora"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:10.987Z",
+    "updatedAt": "2026-03-03T16:36:10.987Z"
   },
   {
     "id": "p17725557709882575",
@@ -24532,13 +32855,22 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_771797-MLB74226093635_012024-F.jpg"
     ],
+    "ean": "7898961280080",
+    "mlIds": [
+      "MLB20259142",
+      "MLB20578235"
+    ],
+    "mlParentId": "MLB20259109",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "shampoo",
       "barber jack"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:10.988Z",
+    "updatedAt": "2026-03-03T16:36:10.988Z"
   },
   {
     "id": "p17725557709882576",
@@ -24550,13 +32882,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_692667-MLB74134637272_012024-F.jpg"
     ],
+    "ean": "7898965402327",
+    "mlIds": [
+      "MLB19915215"
+    ],
+    "mlParentId": "MLB19915170",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "shampoo",
       "amazônia new face cosmetics"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:10.988Z",
+    "updatedAt": "2026-03-03T16:36:10.988Z"
   },
   {
     "id": "p17725557709882577",
@@ -24568,13 +32908,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_669079-MLU75166861415_032024-F.jpg"
     ],
+    "ean": "8022297032832",
+    "mlIds": [
+      "MLB20494109"
+    ],
+    "mlParentId": "MLB20494068",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "shampoo",
       "alfaparf"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:10.988Z",
+    "updatedAt": "2026-03-03T16:36:10.988Z"
   },
   {
     "id": "p17725557709882578",
@@ -24586,13 +32934,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_981135-MLA99872548055_112025-F.jpg"
     ],
+    "ean": "7899508803816",
+    "mlIds": [
+      "MLB59171094"
+    ],
+    "mlParentId": "MLB59171093",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "shampoo",
       "marie louise"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:10.988Z",
+    "updatedAt": "2026-03-03T16:36:10.988Z"
   },
   {
     "id": "p17725557709882580",
@@ -24607,13 +32963,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_643053-MLA84557656464_052025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_772673-MLA84557675040_052025-F.jpg"
     ],
+    "ean": "742832191456",
+    "mlIds": [
+      "MLB45132931"
+    ],
+    "mlParentId": "MLB45132924",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "shampoo",
       "menfirst"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:10.988Z",
+    "updatedAt": "2026-03-03T16:36:10.988Z"
   },
   {
     "id": "p17725557722672581",
@@ -24625,13 +32989,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_601077-MLB74221495627_012024-F.jpg"
     ],
+    "ean": "7909189140893",
+    "mlIds": [
+      "MLB20570696"
+    ],
+    "mlParentId": "MLB20570665",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "shampoo",
       "avon"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:12.267Z",
+    "updatedAt": "2026-03-03T16:36:12.267Z"
   },
   {
     "id": "p17725557722672582",
@@ -24643,13 +33015,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_878942-MLU74409031599_022024-F.jpg"
     ],
+    "ean": "7890013103286",
+    "mlIds": [
+      "MLB32165903"
+    ],
+    "mlParentId": "MLB32165902",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "shampoo",
       "personalizando"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:12.267Z",
+    "updatedAt": "2026-03-03T16:36:12.267Z"
   },
   {
     "id": "p17725557722672583",
@@ -24661,13 +33041,23 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_989804-MLB74246731965_012024-F.jpg"
     ],
+    "ean": "7909189151233",
+    "mlIds": [
+      "MLB20562623",
+      "MLB19831575",
+      "MLB28556719"
+    ],
+    "mlParentId": "MLB20562603",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "shampoo",
       "avon"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:12.267Z",
+    "updatedAt": "2026-03-03T16:36:12.271Z"
   },
   {
     "id": "p17725557722682584",
@@ -24679,13 +33069,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_956128-MLB74221426769_012024-F.jpg"
     ],
+    "ean": "4045787462333",
+    "mlIds": [
+      "MLB20562662"
+    ],
+    "mlParentId": "MLB20562642",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "shampoo",
       "schwarzkopf professional"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:12.268Z",
+    "updatedAt": "2026-03-03T16:36:12.268Z"
   },
   {
     "id": "p17725557722682586",
@@ -24698,13 +33096,11 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_836111-MLA99908732929_112025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_992130-MLA99918859813_112025-F.jpg"
     ],
-    "averageRating": 0,
-    "reviewCount": 0,
-    "prices": [],
-    "tags": [
-      "shampoo",
-      "avon"
+    "ean": "7909189239603",
+    "mlIds": [
+      "MLB27140569"
     ],
+    "mlParentId": "MLB27140549",
     "colors": [
       {
         "name": "Impact",
@@ -24714,7 +33110,16 @@ const catalogProducts = [
         "name": "True",
         "image": "https://http2.mlstatic.com/D_NQ_NP_865266-MLA99419178794_112025-F.jpg"
       }
-    ]
+    ],
+    "averageRating": 0,
+    "reviewCount": 0,
+    "prices": [],
+    "tags": [
+      "shampoo",
+      "avon"
+    ],
+    "createdAt": "2026-03-03T16:36:12.268Z",
+    "updatedAt": "2026-03-03T16:36:12.268Z"
   },
   {
     "id": "p17725557722682587",
@@ -24727,13 +33132,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_899189-MLA84533677325_052025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_926652-MLA84533825741_052025-F.jpg"
     ],
+    "ean": "7802263349659",
+    "mlIds": [
+      "MLB49268567"
+    ],
+    "mlParentId": "MLB49268557",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "shampoo",
       "bio extratus"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:12.268Z",
+    "updatedAt": "2026-03-03T16:36:12.268Z"
   },
   {
     "id": "p17725557722682588",
@@ -24745,13 +33158,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_951393-MLB74117439584_012024-F.jpg"
     ],
+    "ean": "7899846082539",
+    "mlIds": [
+      "MLB20684658"
+    ],
+    "mlParentId": "MLB20684638",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "shampoo",
       "natura"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:12.268Z",
+    "updatedAt": "2026-03-03T16:36:12.268Z"
   },
   {
     "id": "p17725557722692590",
@@ -24763,13 +33184,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_936904-MLA99909145713_112025-F.jpg"
     ],
+    "ean": "7898050663930",
+    "mlIds": [
+      "MLB34803283"
+    ],
+    "mlParentId": "MLB34803282",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "shampoo",
       "griffus"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:12.269Z",
+    "updatedAt": "2026-03-03T16:36:12.269Z"
   },
   {
     "id": "p17725557722692591",
@@ -24781,13 +33210,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_918503-MLA104561879329_012026-F.jpg"
     ],
+    "ean": "7908132239226",
+    "mlIds": [
+      "MLB21148931"
+    ],
+    "mlParentId": "MLB21148906",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "shampoo",
       "natura"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:12.269Z",
+    "updatedAt": "2026-03-03T16:36:12.269Z"
   },
   {
     "id": "p17725557722692592",
@@ -24803,13 +33240,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_780067-MLA106534149083_022026-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_879088-MLA105922215130_022026-F.jpg"
     ],
+    "ean": "7905207801333",
+    "mlIds": [
+      "MLB65257429"
+    ],
+    "mlParentId": "MLB65257428",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "shampoo",
       "braé"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:12.269Z",
+    "updatedAt": "2026-03-03T16:36:12.269Z"
   },
   {
     "id": "p17725557735622610",
@@ -24821,13 +33266,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_808090-MLU74607662859_022024-F.jpg"
     ],
+    "ean": "7898592340948",
+    "mlIds": [
+      "MLB32286034"
+    ],
+    "mlParentId": "MLB32286028",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "condicionador",
       "begônia cosméticos"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:13.562Z",
+    "updatedAt": "2026-03-03T16:36:13.562Z"
   },
   {
     "id": "p17725557735622611",
@@ -24839,13 +33292,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_726795-MLB74195008563_012024-F.jpg"
     ],
+    "ean": "654050909723",
+    "mlIds": [
+      "MLB21549551"
+    ],
+    "mlParentId": "MLB21549531",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "condicionador",
       "lanza"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:13.562Z",
+    "updatedAt": "2026-03-03T16:36:13.562Z"
   },
   {
     "id": "p17725557735622612",
@@ -24857,13 +33318,11 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_805272-MLB74111672724_012024-F.jpg"
     ],
-    "averageRating": 0,
-    "reviewCount": 0,
-    "prices": [],
-    "tags": [
-      "condicionador",
-      "força vitamina"
+    "ean": "7891150074132",
+    "mlIds": [
+      "MLB19702875"
     ],
+    "mlParentId": "MLB19702856",
     "colors": [
       {
         "name": "Liso",
@@ -24877,7 +33336,16 @@ const catalogProducts = [
         "name": "Ondulado",
         "image": "https://http2.mlstatic.com/D_NQ_NP_744777-MLU74810519742_032024-F.jpg"
       }
-    ]
+    ],
+    "averageRating": 0,
+    "reviewCount": 0,
+    "prices": [],
+    "tags": [
+      "condicionador",
+      "força vitamina"
+    ],
+    "createdAt": "2026-03-03T16:36:13.562Z",
+    "updatedAt": "2026-03-03T16:36:13.562Z"
   },
   {
     "id": "p17725557735622614",
@@ -24889,13 +33357,11 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_724108-MLA99450547340_112025-F.jpg"
     ],
-    "averageRating": 0,
-    "reviewCount": 0,
-    "prices": [],
-    "tags": [
-      "condicionador",
-      "l'arrëe"
+    "ean": "7899760800936",
+    "mlIds": [
+      "MLB35865472"
     ],
+    "mlParentId": "MLB35865468",
     "colors": [
       {
         "name": "Fragilizado",
@@ -24905,7 +33371,16 @@ const catalogProducts = [
         "name": "Kinoa Ojon",
         "image": "https://http2.mlstatic.com/D_NQ_NP_731160-MLA99382880466_112025-F.jpg"
       }
-    ]
+    ],
+    "averageRating": 0,
+    "reviewCount": 0,
+    "prices": [],
+    "tags": [
+      "condicionador",
+      "l'arrëe"
+    ],
+    "createdAt": "2026-03-03T16:36:13.562Z",
+    "updatedAt": "2026-03-03T16:36:13.562Z"
   },
   {
     "id": "p17725557735622616",
@@ -24917,13 +33392,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_970761-MLU78058308477_072024-F.jpg"
     ],
+    "ean": "7908236535576",
+    "mlIds": [
+      "MLB38753644"
+    ],
+    "mlParentId": "MLB38753643",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "condicionador",
       "havida cosmeticos"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:13.562Z",
+    "updatedAt": "2026-03-03T16:36:13.562Z"
   },
   {
     "id": "p17725557735632617",
@@ -24935,13 +33418,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_696433-MLB74089428520_012024-F.jpg"
     ],
+    "ean": "7896102200126",
+    "mlIds": [
+      "MLB20976967"
+    ],
+    "mlParentId": "MLB20976935",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "condicionador",
       "alpha line"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:13.563Z",
+    "updatedAt": "2026-03-03T16:36:13.563Z"
   },
   {
     "id": "p17725557735632618",
@@ -24953,13 +33444,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_655269-MLA99286957710_112025-F.jpg"
     ],
+    "ean": "7896868604909",
+    "mlIds": [
+      "MLB32455232"
+    ],
+    "mlParentId": "MLB32455229",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "condicionador",
       "hidrabell"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:13.563Z",
+    "updatedAt": "2026-03-03T16:36:13.563Z"
   },
   {
     "id": "p17725557735632619",
@@ -24973,13 +33472,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_922558-MLU74870482254_032024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_783937-MLB43316079767_082020-F.jpg"
     ],
+    "ean": "7908016652493",
+    "mlIds": [
+      "MLB19508988"
+    ],
+    "mlParentId": "MLB19508925",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "condicionador",
       "natura"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:13.563Z",
+    "updatedAt": "2026-03-03T16:36:13.563Z"
   },
   {
     "id": "p17725557735632620",
@@ -24991,13 +33498,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_600450-MLA99849818857_112025-F.jpg"
     ],
+    "ean": "7898658980835",
+    "mlIds": [
+      "MLB19703397"
+    ],
+    "mlParentId": "MLB19703380",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "condicionador",
       "portier"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:13.563Z",
+    "updatedAt": "2026-03-03T16:36:13.563Z"
   },
   {
     "id": "p17725557735632621",
@@ -25010,13 +33525,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_664721-MLA99872732813_112025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_602398-MLU73564620271_122023-F.jpg"
     ],
+    "ean": "7898945746380",
+    "mlIds": [
+      "MLB23064499"
+    ],
+    "mlParentId": "MLB23064487",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "condicionador",
       "barba forte"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:13.563Z",
+    "updatedAt": "2026-03-03T16:36:13.563Z"
   },
   {
     "id": "p17725557735642622",
@@ -25028,13 +33551,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_858874-MLB74134690180_012024-F.jpg"
     ],
+    "ean": "7897193325040",
+    "mlIds": [
+      "MLB20283300"
+    ],
+    "mlParentId": "MLB20283266",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "condicionador",
       "crescenew"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:13.564Z",
+    "updatedAt": "2026-03-03T16:36:13.564Z"
   },
   {
     "id": "p17725557735642623",
@@ -25046,13 +33577,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_805430-MLA99422315504_112025-F.jpg"
     ],
+    "ean": "7898710930198",
+    "mlIds": [
+      "MLB23804351"
+    ],
+    "mlParentId": "MLB23804314",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "condicionador",
       "maxi hair"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:13.564Z",
+    "updatedAt": "2026-03-03T16:36:13.564Z"
   },
   {
     "id": "p17725557735642624",
@@ -25068,13 +33607,22 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_691945-MLA86751491959_062025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_795533-MLA86751491969_062025-F.jpg"
     ],
+    "ean": "7898256691157",
+    "mlIds": [
+      "MLB37389352",
+      "MLB60086621"
+    ],
+    "mlParentId": "MLB37389349",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "condicionador",
       "tróia hair"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:13.564Z",
+    "updatedAt": "2026-03-03T16:36:13.564Z"
   },
   {
     "id": "p17725557735642625",
@@ -25087,13 +33635,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_673058-MLA85365642801_052025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_981762-MLA85365765633_052025-F.jpg"
     ],
+    "ean": "7905081477211",
+    "mlIds": [
+      "MLB50617105",
+      "MLB38822829"
+    ],
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "condicionador",
       "ebin"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:13.564Z",
+    "updatedAt": "2026-03-03T16:36:13.565Z"
   },
   {
     "id": "p17725557735642627",
@@ -25105,13 +33661,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_732717-MLA99875645689_112025-F.jpg"
     ],
+    "ean": "7794188508955",
+    "mlIds": [
+      "MLB54953978"
+    ],
+    "mlParentId": "MLB54953977",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "condicionador",
       "buba"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:13.564Z",
+    "updatedAt": "2026-03-03T16:36:13.564Z"
   },
   {
     "id": "p17725557735642628",
@@ -25127,13 +33691,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_925447-MLA87834381038_072025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_679321-MLA99387082252_112025-F.jpg"
     ],
+    "ean": "618341460560",
+    "mlIds": [
+      "MLB52907270"
+    ],
+    "mlParentId": "MLB52907268",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "condicionador",
       "onduleze"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:13.564Z",
+    "updatedAt": "2026-03-03T16:36:13.564Z"
   },
   {
     "id": "p17725557735642630",
@@ -25146,13 +33718,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_739754-MLB74136900142_012024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_921582-MLA82738497549_022025-F.jpg"
     ],
+    "ean": "7908038600489",
+    "mlIds": [
+      "MLB20673896"
+    ],
+    "mlParentId": "MLB20673879",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "condicionador",
       "forever liss professional"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:13.564Z",
+    "updatedAt": "2026-03-03T16:36:13.564Z"
   },
   {
     "id": "p17725557735642631",
@@ -25166,13 +33746,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_762918-MLA106521944519_022026-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_745885-MLA106522707969_022026-F.jpg"
     ],
+    "ean": "7898132981235",
+    "mlIds": [
+      "MLB19703631"
+    ],
+    "mlParentId": "MLB19703612",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "condicionador",
       "chikas"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:13.564Z",
+    "updatedAt": "2026-03-03T16:36:13.564Z"
   },
   {
     "id": "p17725557735652632",
@@ -25186,13 +33774,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_863323-MLU74420422762_022024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_639396-MLU75177904828_032024-F.jpg"
     ],
+    "ean": "7898921214292",
+    "mlIds": [
+      "MLB20282543"
+    ],
+    "mlParentId": "MLB20282520",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "condicionador",
       "wins brasil"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:13.565Z",
+    "updatedAt": "2026-03-03T16:36:13.565Z"
   },
   {
     "id": "p17725557735652633",
@@ -25206,13 +33802,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_678983-MLU78747711017_082024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_913294-MLU78515208802_082024-F.jpg"
     ],
+    "ean": "7793248123404",
+    "mlIds": [
+      "MLB37491885"
+    ],
+    "mlParentId": "MLB37491884",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "condicionador",
       "zhang hair"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:13.565Z",
+    "updatedAt": "2026-03-03T16:36:13.565Z"
   },
   {
     "id": "p17725557735652634",
@@ -25228,13 +33832,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_712102-MLA83438964532_042025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_710033-MLA83438973646_042025-F.jpg"
     ],
+    "ean": "698409500025",
+    "mlIds": [
+      "MLB47940468"
+    ],
+    "mlParentId": "MLB47940462",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "condicionador",
       "prive"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:13.565Z",
+    "updatedAt": "2026-03-03T16:36:13.565Z"
   },
   {
     "id": "p17725557735652635",
@@ -25249,6 +33861,18 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_733605-MLA106592490592_022026-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_601956-MLA107242511777_022026-F.jpg"
     ],
+    "ean": "7895177910350",
+    "mlIds": [
+      "MLB39568100",
+      "MLB38709569"
+    ],
+    "mlParentId": "MLB39568096",
+    "colors": [
+      {
+        "name": "Grandha",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_640871-MLA99922574763_112025-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -25256,12 +33880,8 @@ const catalogProducts = [
       "condicionador",
       "grandha"
     ],
-    "colors": [
-      {
-        "name": "Grandha",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_640871-MLA99922574763_112025-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:36:13.565Z",
+    "updatedAt": "2026-03-03T16:36:14.851Z"
   },
   {
     "id": "p17725557735652637",
@@ -25273,13 +33893,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_979656-MLB74112988716_012024-F.jpg"
     ],
+    "ean": "7898965402464",
+    "mlIds": [
+      "MLB19893967"
+    ],
+    "mlParentId": "MLB19893928",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "condicionador",
       "amazônia new face cosmetics"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:13.565Z",
+    "updatedAt": "2026-03-03T16:36:13.565Z"
   },
   {
     "id": "p17725557748512639",
@@ -25291,13 +33919,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_825109-MLB74221432523_012024-F.jpg"
     ],
+    "ean": "7897193300405",
+    "mlIds": [
+      "MLB20638776"
+    ],
+    "mlParentId": "MLB20638743",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "condicionador",
       "crescenew"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:14.851Z",
+    "updatedAt": "2026-03-03T16:36:14.851Z"
   },
   {
     "id": "p17725557748512640",
@@ -25309,13 +33945,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_778044-MLA104593200831_012026-F.jpg"
     ],
+    "ean": "7906843812462",
+    "mlIds": [
+      "MLB64200037"
+    ],
+    "mlParentId": "MLB64200036",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "condicionador",
       "granado"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:14.851Z",
+    "updatedAt": "2026-03-03T16:36:14.851Z"
   },
   {
     "id": "p17725557748522642",
@@ -25327,13 +33971,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_960903-MLA99353932540_112025-F.jpg"
     ],
+    "ean": "7899760800899",
+    "mlIds": [
+      "MLB23764193"
+    ],
+    "mlParentId": "MLB23764082",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "condicionador",
       "l'arrëe"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:14.852Z",
+    "updatedAt": "2026-03-03T16:36:14.852Z"
   },
   {
     "id": "p17725557748522643",
@@ -25348,13 +34000,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_616881-MLA80123519705_102024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_615531-MLA99918202935_112025-F.jpg"
     ],
+    "ean": "7899938600467",
+    "mlIds": [
+      "MLB19831621"
+    ],
+    "mlParentId": "MLB19831615",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "condicionador",
       "go"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:14.852Z",
+    "updatedAt": "2026-03-03T16:36:14.852Z"
   },
   {
     "id": "p17725557748522644",
@@ -25366,13 +34026,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_861572-MLU69451086939_052023-F.jpg"
     ],
+    "ean": "7905264284407",
+    "mlIds": [
+      "MLB23334459"
+    ],
+    "mlParentId": "MLB23334449",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "condicionador",
       "farmaervas"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:14.852Z",
+    "updatedAt": "2026-03-03T16:36:14.852Z"
   },
   {
     "id": "p17725557748522645",
@@ -25388,13 +34056,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_667040-MLU78133482095_082024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_708517-MLU77911474784_082024-F.jpg"
     ],
+    "ean": "7500435188340",
+    "mlIds": [
+      "MLB19770895"
+    ],
+    "mlParentId": "MLB19770886",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "condicionador",
       "aussie mega moist"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:14.852Z",
+    "updatedAt": "2026-03-03T16:36:14.852Z"
   },
   {
     "id": "p17725557748522646",
@@ -25406,13 +34082,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_677333-MLA99864539679_112025-F.jpg"
     ],
+    "ean": "7899760800165",
+    "mlIds": [
+      "MLB36798176"
+    ],
+    "mlParentId": "MLB36798175",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "condicionador",
       "l'arrëe"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:14.852Z",
+    "updatedAt": "2026-03-03T16:36:14.852Z"
   },
   {
     "id": "p17725557748522647",
@@ -25424,13 +34108,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_926523-MLU76262085470_052024-F.jpg"
     ],
+    "ean": "7898938882941",
+    "mlIds": [
+      "MLB36976516"
+    ],
+    "mlParentId": "MLB36976515",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "condicionador",
       "timberman"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:14.852Z",
+    "updatedAt": "2026-03-03T16:36:14.852Z"
   },
   {
     "id": "p17725557748522648",
@@ -25443,13 +34135,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_724341-MLA99862535649_112025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_791621-MLA99866994123_112025-F.jpg"
     ],
+    "ean": "7891917295039",
+    "mlIds": [
+      "MLB51654221"
+    ],
+    "mlParentId": "MLB51654219",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "condicionador",
       "haskell"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:14.852Z",
+    "updatedAt": "2026-03-03T16:36:14.852Z"
   },
   {
     "id": "p17725557748532650",
@@ -25464,13 +34164,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_726903-MLA82944320249_032025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_925072-MLA82944436153_032025-F.jpg"
     ],
+    "ean": "7896085814112",
+    "mlIds": [
+      "MLB46950437"
+    ],
+    "mlParentId": "MLB46950432",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "condicionador",
       "férus cosméticos"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:14.853Z",
+    "updatedAt": "2026-03-03T16:36:14.853Z"
   },
   {
     "id": "p17725557748532651",
@@ -25485,13 +34193,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_706419-MLU79332436841_092024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_921170-MLU79091178468_092024-F.jpg"
     ],
+    "ean": "7794754959532",
+    "mlIds": [
+      "MLB40897667"
+    ],
+    "mlParentId": "MLB40897664",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "condicionador",
       "viking"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:14.853Z",
+    "updatedAt": "2026-03-03T16:36:14.853Z"
   },
   {
     "id": "p17725557748532652",
@@ -25506,13 +34222,22 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_730238-MLA92295890530_092025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_977386-MLA92295871074_092025-F.jpg"
     ],
+    "ean": "7899054020606",
+    "mlIds": [
+      "MLB46338307",
+      "MLB50223997"
+    ],
+    "mlParentId": "MLB46338302",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "condicionador",
       "ferus"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:14.853Z",
+    "updatedAt": "2026-03-03T16:36:14.853Z"
   },
   {
     "id": "p17725557748532653",
@@ -25528,13 +34253,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_987371-MLA99356148804_112025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_786528-MLA103251968760_012026-F.jpg"
     ],
+    "ean": "615908426717",
+    "mlIds": [
+      "MLB21882729"
+    ],
+    "mlParentId": "MLB21882720",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "condicionador",
       "tigi"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:14.853Z",
+    "updatedAt": "2026-03-03T16:36:14.853Z"
   },
   {
     "id": "p17725557748532655",
@@ -25546,13 +34279,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_708038-MLA99415745486_112025-F.jpg"
     ],
+    "ean": "7899760800240",
+    "mlIds": [
+      "MLB35866883"
+    ],
+    "mlParentId": "MLB35866881",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "condicionador",
       "l'arrëe"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:14.853Z",
+    "updatedAt": "2026-03-03T16:36:14.853Z"
   },
   {
     "id": "p17725557748542656",
@@ -25564,13 +34305,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_640770-MLU74755638985_022024-F.jpg"
     ],
+    "ean": "7898584621390",
+    "mlIds": [
+      "MLB34087110"
+    ],
+    "mlParentId": "MLB34087108",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "condicionador",
       "sweet professional"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:14.854Z",
+    "updatedAt": "2026-03-03T16:36:14.854Z"
   },
   {
     "id": "p17725557748542657",
@@ -25582,13 +34331,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_846307-MLB74245728327_012024-F.jpg"
     ],
+    "ean": "8022297049649",
+    "mlIds": [
+      "MLB26130152"
+    ],
+    "mlParentId": "MLB26130139",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "condicionador",
       "alfaparf"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:14.854Z",
+    "updatedAt": "2026-03-03T16:36:14.854Z"
   },
   {
     "id": "p17725557748542658",
@@ -25602,13 +34359,11 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_720072-MLA96786574904_112025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_969954-MLA97241731527_112025-F.jpg"
     ],
-    "averageRating": 0,
-    "reviewCount": 0,
-    "prices": [],
-    "tags": [
-      "condicionador",
-      "go"
+    "ean": "7899938600542",
+    "mlIds": [
+      "MLB20211293"
     ],
+    "mlParentId": "MLB20211253",
     "colors": [
       {
         "name": "Gold",
@@ -25618,7 +34373,16 @@ const catalogProducts = [
         "name": "Forca Nutricao",
         "image": "https://http2.mlstatic.com/D_NQ_NP_904685-MLB74134594624_012024-F.jpg"
       }
-    ]
+    ],
+    "averageRating": 0,
+    "reviewCount": 0,
+    "prices": [],
+    "tags": [
+      "condicionador",
+      "go"
+    ],
+    "createdAt": "2026-03-03T16:36:14.854Z",
+    "updatedAt": "2026-03-03T16:36:14.854Z"
   },
   {
     "id": "p17725557748542659",
@@ -25630,13 +34394,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_931674-MLB49476582427_032022-F.jpg"
     ],
+    "ean": "3282779314817",
+    "mlIds": [
+      "MLB21454769"
+    ],
+    "mlParentId": "MLB21454752",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "condicionador",
       "klorane"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:14.854Z",
+    "updatedAt": "2026-03-03T16:36:14.854Z"
   },
   {
     "id": "p17725557748542660",
@@ -25648,13 +34420,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_758530-MLA99358531764_112025-F.jpg"
     ],
+    "ean": "7897158723300",
+    "mlIds": [
+      "MLB36410595"
+    ],
+    "mlParentId": "MLB36410591",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "condicionador",
       "gota dourada"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:14.854Z",
+    "updatedAt": "2026-03-03T16:36:14.854Z"
   },
   {
     "id": "p17725557748542661",
@@ -25670,13 +34450,22 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_840650-MLA84126035102_052025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_616462-MLA84126044820_052025-F.jpg"
     ],
+    "ean": "7898256669866",
+    "mlIds": [
+      "MLB21690986",
+      "MLB21652769"
+    ],
+    "mlParentId": "MLB21690984",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "condicionador",
       "tróia hair"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:14.854Z",
+    "updatedAt": "2026-03-03T16:36:16.137Z"
   },
   {
     "id": "p17725557748542662",
@@ -25692,13 +34481,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_986681-MLU79003789376_092024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_991181-MLU79242882407_092024-F.jpg"
     ],
+    "ean": "7908371629581",
+    "mlIds": [
+      "MLB40739715"
+    ],
+    "mlParentId": "MLB40739709",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "condicionador",
       "natura"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:14.854Z",
+    "updatedAt": "2026-03-03T16:36:14.854Z"
   },
   {
     "id": "p17725557761332663",
@@ -25710,13 +34507,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_929081-MLA99830600983_112025-F.jpg"
     ],
+    "ean": "7898450150269",
+    "mlIds": [
+      "MLB20977889"
+    ],
+    "mlParentId": "MLB20977858",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "condicionador",
       "maycrene"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:16.133Z",
+    "updatedAt": "2026-03-03T16:36:16.133Z"
   },
   {
     "id": "p17725557761342664",
@@ -25730,13 +34535,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_950606-MLA80780023926_112024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_669261-MLA99849705401_112025-F.jpg"
     ],
+    "ean": "7899760801179",
+    "mlIds": [
+      "MLB36851662"
+    ],
+    "mlParentId": "MLB36851660",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "condicionador",
       "l'arrëe"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:16.134Z",
+    "updatedAt": "2026-03-03T16:36:16.134Z"
   },
   {
     "id": "p17725557761342665",
@@ -25750,13 +34563,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_718406-MLA81056355929_112024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_924840-MLA81056355935_112024-F.jpg"
     ],
+    "ean": "7909883161194",
+    "mlIds": [
+      "MLB44164384"
+    ],
+    "mlParentId": "MLB44164381",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "condicionador",
       "natura"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:16.134Z",
+    "updatedAt": "2026-03-03T16:36:16.134Z"
   },
   {
     "id": "p17725557761342666",
@@ -25771,13 +34592,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_717936-MLA97741607169_112025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_929790-MLA97280751864_112025-F.jpg"
     ],
+    "ean": "7892846433561",
+    "mlIds": [
+      "MLB61972360"
+    ],
+    "mlParentId": "MLB61972359",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "condicionador",
       "premisse"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:16.134Z",
+    "updatedAt": "2026-03-03T16:36:16.134Z"
   },
   {
     "id": "p17725557761352667",
@@ -25793,13 +34622,22 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_730914-MLA87044321969_072025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_964762-MLA99889046059_112025-F.jpg"
     ],
+    "ean": "7796555223706",
+    "mlIds": [
+      "MLB51897800",
+      "MLB51884630"
+    ],
+    "mlParentId": "MLB51897799",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "condicionador",
       "eudora"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:16.135Z",
+    "updatedAt": "2026-03-03T16:36:16.137Z"
   },
   {
     "id": "p17725557761352668",
@@ -25811,13 +34649,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_833129-MLU71701050346_092023-F.jpg"
     ],
+    "ean": "7898953575507",
+    "mlIds": [
+      "MLB27028107"
+    ],
+    "mlParentId": "MLB27028087",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "condicionador",
       "pravda cosmética"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:16.135Z",
+    "updatedAt": "2026-03-03T16:36:16.135Z"
   },
   {
     "id": "p17725557774172687",
@@ -25832,13 +34678,20 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_692927-MLA84578471721_052025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_806493-MLA84578528967_052025-F.jpg"
     ],
+    "ean": "759159788740",
+    "mlIds": [
+      "MLB49560299"
+    ],
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "máscara capilar",
       "fuya"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:17.417Z",
+    "updatedAt": "2026-03-03T16:36:17.417Z"
   },
   {
     "id": "p17725557774172688",
@@ -25853,13 +34706,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_817196-MLA83445647138_042025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_988365-MLA83445647146_042025-F.jpg"
     ],
+    "ean": "729927588407",
+    "mlIds": [
+      "MLB48119762"
+    ],
+    "mlParentId": "MLB48119728",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "máscara capilar",
       "rosamix"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:17.417Z",
+    "updatedAt": "2026-03-03T16:36:17.417Z"
   },
   {
     "id": "p17725557774172689",
@@ -25871,13 +34732,20 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_605057-MLA84238834866_052025-F.jpg"
     ],
+    "ean": "762716359468",
+    "mlIds": [
+      "MLB49316287"
+    ],
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "máscara capilar",
       "wyblzpxz"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:17.417Z",
+    "updatedAt": "2026-03-03T16:36:17.417Z"
   },
   {
     "id": "p17725557774172690",
@@ -25893,13 +34761,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_979795-MLA79799773537_102024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_630754-MLA79799773551_102024-F.jpg"
     ],
+    "ean": "7896305520380",
+    "mlIds": [
+      "MLB33421682"
+    ],
+    "mlParentId": "MLB33421677",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "máscara capilar",
       "deva curl"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:17.417Z",
+    "updatedAt": "2026-03-03T16:36:17.417Z"
   },
   {
     "id": "p17725557774172691",
@@ -25913,13 +34789,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_901698-MLA83777553997_042025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_671525-MLA83485635270_042025-F.jpg"
     ],
+    "ean": "298934843194",
+    "mlIds": [
+      "MLB48437344"
+    ],
+    "mlParentId": "MLB48437339",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "máscara capilar",
       "finally hair"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:17.417Z",
+    "updatedAt": "2026-03-03T16:36:17.417Z"
   },
   {
     "id": "p17725557774182692",
@@ -25935,13 +34819,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_697945-MLA83509929818_042025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_713770-MLA83802796787_042025-F.jpg"
     ],
+    "ean": "762716351073",
+    "mlIds": [
+      "MLB48508247"
+    ],
+    "mlParentId": "MLB48508242",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "máscara capilar",
       "xmxuemei"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:17.418Z",
+    "updatedAt": "2026-03-03T16:36:17.418Z"
   },
   {
     "id": "p17725557774182693",
@@ -25955,13 +34847,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_935058-MLA92191101446_092025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_616842-MLA92597549451_092025-F.jpg"
     ],
+    "ean": "7908082300625",
+    "mlIds": [
+      "MLB34133283"
+    ],
+    "mlParentId": "MLB34133281",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "máscara capilar",
       "semélle hair"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:17.418Z",
+    "updatedAt": "2026-03-03T16:36:17.418Z"
   },
   {
     "id": "p17725557774182694",
@@ -25973,13 +34873,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_743461-MLU74054794526_012024-F.jpg"
     ],
+    "ean": "7898970668022",
+    "mlIds": [
+      "MLB28136661"
+    ],
+    "mlParentId": "MLB28136660",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "máscara capilar",
       "lcs"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:17.418Z",
+    "updatedAt": "2026-03-03T16:36:17.418Z"
   },
   {
     "id": "p17725557774182696",
@@ -25995,13 +34903,23 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_696372-MLA105118445872_012026-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_814247-MLA105697833803_012026-F.jpg"
     ],
+    "ean": "7897571745323",
+    "mlIds": [
+      "MLB64903343",
+      "MLB23185886",
+      "MLB53207360"
+    ],
+    "mlParentId": "MLB64903342",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "máscara capilar",
       "facinatus cosméticos"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:17.418Z",
+    "updatedAt": "2026-03-03T16:36:17.418Z"
   },
   {
     "id": "p17725557774182697",
@@ -26014,13 +34932,11 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_930037-MLU75486762899_032024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_958936-MLU71041600288_082023-F.jpg"
     ],
-    "averageRating": 0,
-    "reviewCount": 0,
-    "prices": [],
-    "tags": [
-      "máscara capilar",
-      "keratex"
+    "ean": "7898211383516",
+    "mlIds": [
+      "MLB25958902"
     ],
+    "mlParentId": "MLB25958882",
     "colors": [
       {
         "name": "Reconstrucao",
@@ -26030,7 +34946,16 @@ const catalogProducts = [
         "name": "Profissional",
         "image": "https://http2.mlstatic.com/D_NQ_NP_814510-MLU71065893506_082023-F.jpg"
       }
-    ]
+    ],
+    "averageRating": 0,
+    "reviewCount": 0,
+    "prices": [],
+    "tags": [
+      "máscara capilar",
+      "keratex"
+    ],
+    "createdAt": "2026-03-03T16:36:17.418Z",
+    "updatedAt": "2026-03-03T16:36:17.418Z"
   },
   {
     "id": "p17725557774182700",
@@ -26042,13 +34967,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_605068-MLA99815462945_112025-F.jpg"
     ],
+    "ean": "6015240839840",
+    "mlIds": [
+      "MLB35913839"
+    ],
+    "mlParentId": "MLB35913831",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "máscara capilar",
       "magis science"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:17.418Z",
+    "updatedAt": "2026-03-03T16:36:17.418Z"
   },
   {
     "id": "p17725557774192702",
@@ -26060,13 +34993,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_773062-MLU69351674572_052023-F.jpg"
     ],
+    "ean": "7897572115187",
+    "mlIds": [
+      "MLB23188419"
+    ],
+    "mlParentId": "MLB23188334",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "máscara capilar",
       "kpriche"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:17.419Z",
+    "updatedAt": "2026-03-03T16:36:17.419Z"
   },
   {
     "id": "p17725557774192703",
@@ -26082,13 +35023,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_803822-MLA107008266151_022026-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_617572-MLA107008619787_022026-F.jpg"
     ],
+    "ean": "7898619854526",
+    "mlIds": [
+      "MLB20973691"
+    ],
+    "mlParentId": "MLB20973665",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "máscara capilar",
       "hanova"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:17.419Z",
+    "updatedAt": "2026-03-03T16:36:17.419Z"
   },
   {
     "id": "p17725557774192705",
@@ -26104,13 +35053,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_918120-MLA80950290903_112024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_800012-MLA80950261273_112024-F.jpg"
     ],
+    "ean": "7798903558065",
+    "mlIds": [
+      "MLB43808515"
+    ],
+    "mlParentId": "MLB43808505",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "máscara capilar",
       "eudora"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:17.419Z",
+    "updatedAt": "2026-03-03T16:36:17.419Z"
   },
   {
     "id": "p17725557774202706",
@@ -26124,13 +35081,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_709236-MLU70678219042_072023-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_683948-MLU70707510819_072023-F.jpg"
     ],
+    "ean": "742832184847",
+    "mlIds": [
+      "MLB25178460"
+    ],
+    "mlParentId": "MLB25178440",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "máscara capilar",
       "hábito cosméticos"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:17.420Z",
+    "updatedAt": "2026-03-03T16:36:17.420Z"
   },
   {
     "id": "p17725557774202707",
@@ -26142,13 +35107,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_707032-MLB31966702663_082019-F.jpg"
     ],
+    "ean": "7898558645421",
+    "mlIds": [
+      "MLB20973910"
+    ],
+    "mlParentId": "MLB20973875",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "máscara capilar",
       "eico"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:17.420Z",
+    "updatedAt": "2026-03-03T16:36:17.420Z"
   },
   {
     "id": "p17725557774202708",
@@ -26160,13 +35133,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_631792-MLA106980017830_022026-F.jpg"
     ],
+    "ean": "07895667765880",
+    "mlIds": [
+      "MLB65983221"
+    ],
+    "mlParentId": "MLB65983220",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "máscara capilar",
       "haskell"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:17.420Z",
+    "updatedAt": "2026-03-03T16:36:17.420Z"
   },
   {
     "id": "p17725557774202709",
@@ -26178,13 +35159,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_655571-MLU72785982052_112023-F.jpg"
     ],
+    "ean": "7893994914810",
+    "mlIds": [
+      "MLB28104949"
+    ],
+    "mlParentId": "MLB28104946",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "máscara capilar",
       "forever liss professional"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:17.420Z",
+    "updatedAt": "2026-03-03T16:36:17.420Z"
   },
   {
     "id": "p17725557774202710",
@@ -26200,13 +35189,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_763087-MLA83730507797_042025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_732218-MLA83730507803_042025-F.jpg"
     ],
+    "ean": "298931538321",
+    "mlIds": [
+      "MLB47927178"
+    ],
+    "mlParentId": "MLB47927174",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "máscara capilar",
       "revitaglow"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:17.420Z",
+    "updatedAt": "2026-03-03T16:36:17.420Z"
   },
   {
     "id": "p17725557787082711",
@@ -26219,13 +35216,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_855889-MLU77415146764_072024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_625104-MLU77631589181_072024-F.jpg"
     ],
+    "ean": "7898946050141",
+    "mlIds": [
+      "MLB38145595"
+    ],
+    "mlParentId": "MLB38145594",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "máscara capilar",
       "fashion"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:18.708Z",
+    "updatedAt": "2026-03-03T16:36:18.708Z"
   },
   {
     "id": "p17725557787082712",
@@ -26240,13 +35245,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_888390-MLA101783688816_122025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_665611-MLA99906722393_112025-F.jpg"
     ],
+    "ean": "7290011521141, 102820994443",
+    "mlIds": [
+      "MLB20599579"
+    ],
+    "mlParentId": "MLB20599561",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "máscara capilar",
       "moroccanoil"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:18.708Z",
+    "updatedAt": "2026-03-03T16:36:18.708Z"
   },
   {
     "id": "p17725557787092713",
@@ -26259,13 +35272,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_988028-MLU69803905540_062023-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_927524-MLU73810433561_012024-F.jpg"
     ],
+    "ean": "7898914011648",
+    "mlIds": [
+      "MLB23750287"
+    ],
+    "mlParentId": "MLB23750270",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "máscara capilar",
       "aea"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:18.709Z",
+    "updatedAt": "2026-03-03T16:36:18.709Z"
   },
   {
     "id": "p17725557787092714",
@@ -26279,13 +35300,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_705364-MLU74587685023_022024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_680986-MLU74464241916_022024-F.jpg"
     ],
+    "ean": "3282779178679",
+    "mlIds": [
+      "MLB33669192"
+    ],
+    "mlParentId": "MLB33669188",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "máscara capilar",
       "ducray"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:18.709Z",
+    "updatedAt": "2026-03-03T16:36:18.709Z"
   },
   {
     "id": "p17725557787102715",
@@ -26297,13 +35326,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_810445-MLB74192228939_012024-F.jpg"
     ],
+    "ean": "7898967588234",
+    "mlIds": [
+      "MLB20977700"
+    ],
+    "mlParentId": "MLB20977665",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "máscara capilar",
       "lana brasiles"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:18.709Z",
+    "updatedAt": "2026-03-03T16:36:18.709Z"
   },
   {
     "id": "p17725557787102716",
@@ -26318,13 +35355,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_889804-MLA91453733043_092025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_933715-MLA99362968850_112025-F.jpg"
     ],
+    "ean": "7898413019671",
+    "mlIds": [
+      "MLB54457594"
+    ],
+    "mlParentId": "MLB54457591",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "máscara capilar",
       "étoile de la vie"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:18.710Z",
+    "updatedAt": "2026-03-03T16:36:18.710Z"
   },
   {
     "id": "p17725557787102717",
@@ -26336,13 +35381,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_943024-MLA106685640300_022026-F.jpg"
     ],
+    "ean": "7908357403334",
+    "mlIds": [
+      "MLB65702384"
+    ],
+    "mlParentId": "MLB65702381",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "máscara capilar",
       "barbour’s beauty"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:18.710Z",
+    "updatedAt": "2026-03-03T16:36:18.710Z"
   },
   {
     "id": "p17725557787102718",
@@ -26355,13 +35408,22 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_888741-MLU75329999414_032024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_980909-MLU75482176405_032024-F.jpg"
     ],
+    "ean": "7898914011617",
+    "mlIds": [
+      "MLB21468174",
+      "MLB21468619"
+    ],
+    "mlParentId": "MLB21468154",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "máscara capilar",
       "a&a"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:18.710Z",
+    "updatedAt": "2026-03-03T16:36:18.710Z"
   },
   {
     "id": "p17725557787112720",
@@ -26377,13 +35439,11 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_820853-MLU72728923758_112023-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_698577-MLU72728933862_112023-F.jpg"
     ],
-    "averageRating": 0,
-    "reviewCount": 0,
-    "prices": [],
-    "tags": [
-      "máscara capilar",
-      "arvensis"
+    "ean": "7898562215979",
+    "mlIds": [
+      "MLB57036456"
     ],
+    "mlParentId": "MLB57036449",
     "colors": [
       {
         "name": "Reconstrucao",
@@ -26393,7 +35453,16 @@ const catalogProducts = [
         "name": "Desamareladora",
         "image": "https://http2.mlstatic.com/D_NQ_NP_612890-MLA99853788969_112025-F.jpg"
       }
-    ]
+    ],
+    "averageRating": 0,
+    "reviewCount": 0,
+    "prices": [],
+    "tags": [
+      "máscara capilar",
+      "arvensis"
+    ],
+    "createdAt": "2026-03-03T16:36:18.711Z",
+    "updatedAt": "2026-03-03T16:36:18.711Z"
   },
   {
     "id": "p17725557787112721",
@@ -26405,13 +35474,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_622272-MLA104771085756_012026-F.jpg"
     ],
+    "ean": "7898318101013",
+    "mlIds": [
+      "MLB64565813"
+    ],
+    "mlParentId": "MLB64565810",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "máscara capilar",
       "griffin cosméticos"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:18.711Z",
+    "updatedAt": "2026-03-03T16:36:18.711Z"
   },
   {
     "id": "p17725557787112722",
@@ -26423,13 +35500,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_868643-MLU73048251063_112023-F.jpg"
     ],
+    "ean": "7898004331694",
+    "mlIds": [
+      "MLB28343683"
+    ],
+    "mlParentId": "MLB28343682",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "máscara capilar",
       "mutari"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:18.711Z",
+    "updatedAt": "2026-03-03T16:36:18.711Z"
   },
   {
     "id": "p17725557787112723",
@@ -26441,13 +35526,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_883553-MLU78419106275_082024-F.jpg"
     ],
+    "ean": "7908433417484",
+    "mlIds": [
+      "MLB39346789"
+    ],
+    "mlParentId": "MLB39346788",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "máscara capilar",
       "kieza"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:18.711Z",
+    "updatedAt": "2026-03-03T16:36:18.711Z"
   },
   {
     "id": "p17725557787112724",
@@ -26459,13 +35552,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_690750-MLA79880181860_102024-F.jpg"
     ],
+    "ean": "7898639062772",
+    "mlIds": [
+      "MLB42180712"
+    ],
+    "mlParentId": "MLB42180711",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "máscara capilar",
       "hozis"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:18.711Z",
+    "updatedAt": "2026-03-03T16:36:18.711Z"
   },
   {
     "id": "p17725557787112725",
@@ -26477,13 +35578,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_962259-MLB48751385977_012022-F.jpg"
     ],
+    "ean": "7898649841695",
+    "mlIds": [
+      "MLB21516323"
+    ],
+    "mlParentId": "MLB21516303",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "máscara capilar",
       "beautech - vegana"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:18.711Z",
+    "updatedAt": "2026-03-03T16:36:18.711Z"
   },
   {
     "id": "p17725557787112726",
@@ -26495,13 +35604,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_705214-MLA99815798037_112025-F.jpg"
     ],
+    "ean": "7898004331663",
+    "mlIds": [
+      "MLB28135826"
+    ],
+    "mlParentId": "MLB28135824",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "máscara capilar",
       "mutari"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:18.711Z",
+    "updatedAt": "2026-03-03T16:36:18.711Z"
   },
   {
     "id": "p17725557787112727",
@@ -26513,13 +35630,20 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_837831-MLA99432677038_112025-F.jpg"
     ],
+    "ean": "7898359982565",
+    "mlIds": [
+      "MLB33393104"
+    ],
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "máscara capilar",
       "dalsan cosméticos"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:18.711Z",
+    "updatedAt": "2026-03-03T16:36:18.711Z"
   },
   {
     "id": "p17725557787112728",
@@ -26531,13 +35655,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_652806-MLU73807343921_012024-F.jpg"
     ],
+    "ean": "7898619835778",
+    "mlIds": [
+      "MLB29491289"
+    ],
+    "mlParentId": "MLB29491288",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "máscara capilar",
       "fashion"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:18.711Z",
+    "updatedAt": "2026-03-03T16:36:18.711Z"
   },
   {
     "id": "p17725557787112729",
@@ -26552,13 +35684,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_649435-MLA84606073651_052025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_683043-MLA84606073665_052025-F.jpg"
     ],
+    "ean": "850052591458",
+    "mlIds": [
+      "MLB49682296"
+    ],
+    "mlParentId": "MLB49682281",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "máscara capilar",
       "freewill"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:18.711Z",
+    "updatedAt": "2026-03-03T16:36:18.711Z"
   },
   {
     "id": "p17725557787112730",
@@ -26573,13 +35713,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_652343-MLU73183173981_122023-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_906321-MLU73183173985_122023-F.jpg"
     ],
+    "ean": "7896249904093",
+    "mlIds": [
+      "MLB28605413"
+    ],
+    "mlParentId": "MLB28605412",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "máscara capilar",
       "de sirius"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:18.711Z",
+    "updatedAt": "2026-03-03T16:36:18.711Z"
   },
   {
     "id": "p17725557787122731",
@@ -26591,13 +35739,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_835027-MLA105691906270_012026-F.jpg"
     ],
+    "ean": "79010014052636",
+    "mlIds": [
+      "MLB65146963"
+    ],
+    "mlParentId": "MLB65146962",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "máscara capilar",
       "máscara capilar siàge"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:18.712Z",
+    "updatedAt": "2026-03-03T16:36:18.712Z"
   },
   {
     "id": "p17725557787122732",
@@ -26611,13 +35767,22 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_660084-MLA101090089695_122025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_627007-MLA100595064238_122025-F.jpg"
     ],
+    "ean": "7898734630678",
+    "mlIds": [
+      "MLB63087121",
+      "MLB59624887"
+    ],
+    "mlParentId": "MLB63087120",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "máscara capilar",
       "mahair"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:18.712Z",
+    "updatedAt": "2026-03-03T16:36:20.007Z"
   },
   {
     "id": "p17725557787122733",
@@ -26629,13 +35794,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_821988-MLA99413637326_112025-F.jpg"
     ],
+    "ean": "7898599852819",
+    "mlIds": [
+      "MLB19760025"
+    ],
+    "mlParentId": "MLB19759982",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "máscara capilar",
       "lakkoa"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:18.712Z",
+    "updatedAt": "2026-03-03T16:36:18.712Z"
   },
   {
     "id": "p17725557787122734",
@@ -26651,13 +35824,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_962180-MLU70065132691_062023-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_784681-MLU70045197292_062023-F.jpg"
     ],
+    "ean": "7898940201686",
+    "mlIds": [
+      "MLB19514574"
+    ],
+    "mlParentId": "MLB19514555",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "máscara capilar",
       "kbello"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:18.712Z",
+    "updatedAt": "2026-03-03T16:36:18.712Z"
   },
   {
     "id": "p17725557787122735",
@@ -26670,13 +35851,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_947889-MLA99903475743_112025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_648281-MLA85461222851_052025-F.jpg"
     ],
+    "ean": "7898955078204",
+    "mlIds": [
+      "MLB50746953"
+    ],
+    "mlParentId": "MLB50746946",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "máscara capilar",
       "haike profissional"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:18.712Z",
+    "updatedAt": "2026-03-03T16:36:18.712Z"
   },
   {
     "id": "p17725557787132736",
@@ -26688,13 +35877,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_862720-MLA79692803585_102024-F.jpg"
     ],
+    "ean": "7898278783267",
+    "mlIds": [
+      "MLB41356185"
+    ],
+    "mlParentId": "MLB41356177",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "máscara capilar",
       "suave fragrance"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:18.713Z",
+    "updatedAt": "2026-03-03T16:36:18.713Z"
   },
   {
     "id": "p17725557787132737",
@@ -26706,13 +35903,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_655703-MLA83172161890_042025-F.jpg"
     ],
+    "ean": "5786273698551",
+    "mlIds": [
+      "MLB47624854"
+    ],
+    "mlParentId": "MLB47624849",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "máscara capilar",
       "oshi goshi"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:18.713Z",
+    "updatedAt": "2026-03-03T16:36:18.713Z"
   },
   {
     "id": "p17725557800072738",
@@ -26724,13 +35929,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_681147-MLU75855589575_042024-F.jpg"
     ],
+    "ean": "938978917986",
+    "mlIds": [
+      "MLB35918149"
+    ],
+    "mlParentId": "MLB35918145",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "máscara capilar",
       "other,mascarilla aerochamber"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:20.007Z",
+    "updatedAt": "2026-03-03T16:36:20.007Z"
   },
   {
     "id": "p17725557800072741",
@@ -26745,13 +35958,23 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_616447-MLA104793085410_012026-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_840747-MLA105357791075_012026-F.jpg"
     ],
+    "ean": "7894197133671",
+    "mlIds": [
+      "MLB64595677",
+      "MLB65453786",
+      "MLB59182196"
+    ],
+    "mlParentId": "MLB64595676",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "máscara capilar",
       "natumaxx"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:20.007Z",
+    "updatedAt": "2026-03-03T16:36:20.008Z"
   },
   {
     "id": "p17725557800072742",
@@ -26764,13 +35987,11 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_775665-MLA99863315147_112025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_916727-MLA99864040939_112025-F.jpg"
     ],
-    "averageRating": 0,
-    "reviewCount": 0,
-    "prices": [],
-    "tags": [
-      "máscara capilar",
-      "kiuse cosméticos"
+    "ean": "7895141422902",
+    "mlIds": [
+      "MLB40963479"
     ],
+    "mlParentId": "MLB40963476",
     "colors": [
       {
         "name": "Impact",
@@ -26780,7 +36001,16 @@ const catalogProducts = [
         "name": "Nutrisse",
         "image": "https://http2.mlstatic.com/D_NQ_NP_727884-MLU74384117558_022024-F.jpg"
       }
-    ]
+    ],
+    "averageRating": 0,
+    "reviewCount": 0,
+    "prices": [],
+    "tags": [
+      "máscara capilar",
+      "kiuse cosméticos"
+    ],
+    "createdAt": "2026-03-03T16:36:20.007Z",
+    "updatedAt": "2026-03-03T16:36:20.007Z"
   },
   {
     "id": "p17725557800072745",
@@ -26793,13 +36023,11 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_874083-MLU72719921484_112023-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_780827-MLU72794417391_112023-F.jpg"
     ],
-    "averageRating": 0,
-    "reviewCount": 0,
-    "prices": [],
-    "tags": [
-      "máscara capilar",
-      "arovida"
+    "ean": "7898346533152",
+    "mlIds": [
+      "MLB20331374"
     ],
+    "mlParentId": "MLB20331353",
     "colors": [
       {
         "name": "Argan",
@@ -26809,7 +36037,16 @@ const catalogProducts = [
         "name": "Hialuronico",
         "image": "https://http2.mlstatic.com/D_NQ_NP_874083-MLU72719921484_112023-F.jpg"
       }
-    ]
+    ],
+    "averageRating": 0,
+    "reviewCount": 0,
+    "prices": [],
+    "tags": [
+      "máscara capilar",
+      "arovida"
+    ],
+    "createdAt": "2026-03-03T16:36:20.007Z",
+    "updatedAt": "2026-03-03T16:36:20.007Z"
   },
   {
     "id": "p17725557800082748",
@@ -26821,13 +36058,20 @@ const catalogProducts = [
     "images": [
       "https://mlb-s1-p.mlstatic.com/739257-MLB49140403731_022022-F.jpg"
     ],
+    "ean": "7896240209661",
+    "mlIds": [
+      "MLB18940041"
+    ],
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "máscara capilar",
       "orgânica"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:20.008Z",
+    "updatedAt": "2026-03-03T16:36:20.008Z"
   },
   {
     "id": "p17725557813022762",
@@ -26839,13 +36083,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_910628-MLA99332838940_112025-F.jpg"
     ],
+    "ean": "7896868604923",
+    "mlIds": [
+      "MLB21543969"
+    ],
+    "mlParentId": "MLB21543946",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "leave-in",
       "hidrabell"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:21.302Z",
+    "updatedAt": "2026-03-03T16:36:21.302Z"
   },
   {
     "id": "p17725557813022763",
@@ -26861,13 +36113,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_837674-MLA80143204645_102024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_726892-MLA79889903756_102024-F.jpg"
     ],
+    "ean": "7898999369412",
+    "mlIds": [
+      "MLB42200766"
+    ],
+    "mlParentId": "MLB42200759",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "leave-in",
       "versaty for men profissional"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:21.302Z",
+    "updatedAt": "2026-03-03T16:36:21.302Z"
   },
   {
     "id": "p17725557813022764",
@@ -26882,13 +36142,11 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_815740-MLA83251024703_032025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_836630-MLA83251140285_032025-F.jpg"
     ],
-    "averageRating": 0,
-    "reviewCount": 0,
-    "prices": [],
-    "tags": [
-      "leave-in",
-      "forever liss professional"
+    "ean": "7794698058704",
+    "mlIds": [
+      "MLB47357989"
     ],
+    "mlParentId": "MLB47357988",
     "colors": [
       {
         "name": "Hidratacao",
@@ -26910,7 +36168,16 @@ const catalogProducts = [
         "name": "Fitoterapico Cresce",
         "image": "https://http2.mlstatic.com/D_NQ_NP_892238-MLU76095802943_042024-F.jpg"
       }
-    ]
+    ],
+    "averageRating": 0,
+    "reviewCount": 0,
+    "prices": [],
+    "tags": [
+      "leave-in",
+      "forever liss professional"
+    ],
+    "createdAt": "2026-03-03T16:36:21.302Z",
+    "updatedAt": "2026-03-03T16:36:21.302Z"
   },
   {
     "id": "p17725557813022765",
@@ -26926,12 +36193,9 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_898958-MLU77791281499_072024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_972534-MLU77573387528_072024-F.jpg"
     ],
-    "averageRating": 0,
-    "reviewCount": 0,
-    "prices": [],
-    "tags": [
-      "leave-in",
-      "don alcides"
+    "ean": "7898123541776",
+    "mlIds": [
+      "MLB37810249"
     ],
     "colors": [
       {
@@ -26954,7 +36218,16 @@ const catalogProducts = [
         "name": "Lemon Bone",
         "image": "https://http2.mlstatic.com/D_NQ_NP_865009-MLA99396316442_112025-F.jpg"
       }
-    ]
+    ],
+    "averageRating": 0,
+    "reviewCount": 0,
+    "prices": [],
+    "tags": [
+      "leave-in",
+      "don alcides"
+    ],
+    "createdAt": "2026-03-03T16:36:21.302Z",
+    "updatedAt": "2026-03-03T16:36:21.302Z"
   },
   {
     "id": "p17725557813022767",
@@ -26970,13 +36243,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_883859-MLU77204907159_062024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_688873-MLU77204184677_062024-F.jpg"
     ],
+    "ean": "7893939848224",
+    "mlIds": [
+      "MLB37868704"
+    ],
+    "mlParentId": "MLB37868700",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "leave-in",
       "don alcides"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:21.302Z",
+    "updatedAt": "2026-03-03T16:36:21.302Z"
   },
   {
     "id": "p17725557813032770",
@@ -26992,13 +36273,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_900648-MLU73420525695_122023-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_924167-MLU73420555459_122023-F.jpg"
     ],
+    "ean": "7908722200612",
+    "mlIds": [
+      "MLB28898595"
+    ],
+    "mlParentId": "MLB28898586",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "leave-in",
       "k.pro professional profissional"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:21.303Z",
+    "updatedAt": "2026-03-03T16:36:21.303Z"
   },
   {
     "id": "p17725557813032771",
@@ -27010,13 +36299,20 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_711050-MLU76132343793_052024-F.jpg"
     ],
+    "ean": "7898933060146",
+    "mlIds": [
+      "MLB36474553"
+    ],
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "leave-in",
       "voken"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:21.303Z",
+    "updatedAt": "2026-03-03T16:36:21.303Z"
   },
   {
     "id": "p17725557813032772",
@@ -27031,13 +36327,22 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_731684-MLA89692528306_082025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_666322-MLA89692448738_082025-F.jpg"
     ],
+    "ean": "7797788703515",
+    "mlIds": [
+      "MLB34091119",
+      "MLB38282103"
+    ],
+    "mlParentId": "MLB34091116",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "leave-in",
       "forever liss profissional"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:21.303Z",
+    "updatedAt": "2026-03-03T16:36:21.303Z"
   },
   {
     "id": "p17725557813032775",
@@ -27053,13 +36358,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_634443-MLA84175742604_052025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_870677-MLA84175654492_052025-F.jpg"
     ],
+    "ean": "7898430170454",
+    "mlIds": [
+      "MLB19514152"
+    ],
+    "mlParentId": "MLB19514133",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "leave-in",
       "trivitt"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:21.303Z",
+    "updatedAt": "2026-03-03T16:36:21.303Z"
   },
   {
     "id": "p17725557813032776",
@@ -27071,13 +36384,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_956234-MLB46925443914_072021-F.jpg"
     ],
+    "ean": "7891239010822",
+    "mlIds": [
+      "MLB20974036"
+    ],
+    "mlParentId": "MLB20973998",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "leave-in",
       "anaconda"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:21.303Z",
+    "updatedAt": "2026-03-03T16:36:21.303Z"
   },
   {
     "id": "p17725557813032777",
@@ -27091,13 +36412,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_979699-MLA83087633188_032025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_853555-MLA83378042841_032025-F.jpg"
     ],
+    "ean": "7899999551371",
+    "mlIds": [
+      "MLB47491171"
+    ],
+    "mlParentId": "MLB47491166",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "leave-in",
       "ilike profissional"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:21.303Z",
+    "updatedAt": "2026-03-03T16:36:21.303Z"
   },
   {
     "id": "p17725557813032778",
@@ -27113,13 +36442,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_717589-MLA81700424601_122024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_953426-MLA81431086528_122024-F.jpg"
     ],
+    "ean": "7898582398195",
+    "mlIds": [
+      "MLB45207317"
+    ],
+    "mlParentId": "MLB45207308",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "leave-in",
       "ybera paris"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:21.303Z",
+    "updatedAt": "2026-03-03T16:36:21.303Z"
   },
   {
     "id": "p17725557813042779",
@@ -27135,13 +36472,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_694306-MLA107512966315_022026-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_647019-MLU70669710458_072023-F.jpg"
     ],
+    "ean": "7898520152926",
+    "mlIds": [
+      "MLB24821417"
+    ],
+    "mlParentId": "MLB24821397",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "leave-in",
       "natumaxx"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:21.304Z",
+    "updatedAt": "2026-03-03T16:36:21.304Z"
   },
   {
     "id": "p17725557813042780",
@@ -27157,13 +36502,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_855369-MLU78834511733_082024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_812164-MLU78834798429_082024-F.jpg"
     ],
+    "ean": "7898256699573",
+    "mlIds": [
+      "MLB40059942"
+    ],
+    "mlParentId": "MLB40059938",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "leave-in",
       "tróia hair"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:21.304Z",
+    "updatedAt": "2026-03-03T16:36:21.304Z"
   },
   {
     "id": "p17725557813042781",
@@ -27179,13 +36532,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_646249-MLA105258152387_012026-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_957130-MLA104695893242_012026-F.jpg"
     ],
+    "ean": "7898037173148",
+    "mlIds": [
+      "MLB21962894"
+    ],
+    "mlParentId": "MLB21962887",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "leave-in",
       "termo ativo profissional"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:21.304Z",
+    "updatedAt": "2026-03-03T16:36:21.304Z"
   },
   {
     "id": "p17725557813042782",
@@ -27197,13 +36558,22 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_615249-MLA86101077166_062025-F.jpg"
     ],
+    "ean": "7899085176372",
+    "mlIds": [
+      "MLB51438113",
+      "MLB20976131"
+    ],
+    "mlParentId": "MLB51438112",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "leave-in",
       "tchuska"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:21.304Z",
+    "updatedAt": "2026-03-03T16:36:22.585Z"
   },
   {
     "id": "p17725557813042783",
@@ -27215,13 +36585,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_753821-MLU73673564419_122023-F.jpg"
     ],
+    "ean": "7898671601366",
+    "mlIds": [
+      "MLB22715520"
+    ],
+    "mlParentId": "MLB22715495",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "leave-in",
       "glatten"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:21.304Z",
+    "updatedAt": "2026-03-03T16:36:21.304Z"
   },
   {
     "id": "p17725557813042784",
@@ -27233,13 +36611,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_600218-MLA80329585832_112024-F.jpg"
     ],
+    "ean": "7898935109997",
+    "mlIds": [
+      "MLB36143569"
+    ],
+    "mlParentId": "MLB36143566",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "leave-in",
       "thribös affinität"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:21.304Z",
+    "updatedAt": "2026-03-03T16:36:21.304Z"
   },
   {
     "id": "p17725557813042785",
@@ -27251,13 +36637,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_663631-MLU77346480348_072024-F.jpg"
     ],
+    "ean": "7898595921267",
+    "mlIds": [
+      "MLB38068379"
+    ],
+    "mlParentId": "MLB38068378",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "leave-in",
       "resvera vitta"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:21.304Z",
+    "updatedAt": "2026-03-03T16:36:21.304Z"
   },
   {
     "id": "p17725557825852786",
@@ -27269,13 +36663,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_808696-MLB48298506831_112021-F.jpg"
     ],
+    "ean": "739955166522",
+    "mlIds": [
+      "MLB20974235"
+    ],
+    "mlParentId": "MLB20974197",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "leave-in",
       "paris 9 hair"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:22.584Z",
+    "updatedAt": "2026-03-03T16:36:22.584Z"
   },
   {
     "id": "p17725557825852787",
@@ -27291,13 +36693,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_643191-MLU76267837635_052024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_868369-MLU76084398586_052024-F.jpg"
     ],
+    "ean": "7898967026644",
+    "mlIds": [
+      "MLB33407702"
+    ],
+    "mlParentId": "MLB37950794",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "leave-in",
       "lagares profissional"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:22.585Z",
+    "updatedAt": "2026-03-03T16:36:22.585Z"
   },
   {
     "id": "p17725557825852788",
@@ -27309,13 +36719,22 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_736723-MLB74246855345_012024-F.jpg"
     ],
+    "ean": "7898553234996",
+    "mlIds": [
+      "MLB20646297",
+      "MLB28766217"
+    ],
+    "mlParentId": "MLB20646262",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "leave-in",
       "hair extrattus"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:22.585Z",
+    "updatedAt": "2026-03-03T16:36:22.585Z"
   },
   {
     "id": "p17725557825852791",
@@ -27327,13 +36746,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_822010-MLB74049157600_012024-F.jpg"
     ],
+    "ean": "7898399009147",
+    "mlIds": [
+      "MLB20974222"
+    ],
+    "mlParentId": "MLB20974174",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "leave-in",
       "maxi hair"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:22.585Z",
+    "updatedAt": "2026-03-03T16:36:22.585Z"
   },
   {
     "id": "p17725557825852792",
@@ -27346,13 +36773,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_710551-MLA99392043944_112025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_754056-MLA85543851085_062025-F.jpg"
     ],
+    "ean": "7898606480486",
+    "mlIds": [
+      "MLB22675908"
+    ],
+    "mlParentId": "MLB22675882",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "leave-in",
       "bhava biocosméticos"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:22.585Z",
+    "updatedAt": "2026-03-03T16:36:22.585Z"
   },
   {
     "id": "p17725557825852793",
@@ -27367,13 +36802,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_995351-MLU74049154944_012024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_813014-MLU70678955024_072023-F.jpg"
     ],
+    "ean": "7906866306092",
+    "mlIds": [
+      "MLB25178425"
+    ],
+    "mlParentId": "MLB25178405",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "leave-in",
       "doctor prime professional"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:22.585Z",
+    "updatedAt": "2026-03-03T16:36:22.585Z"
   },
   {
     "id": "p17725557825852794",
@@ -27388,13 +36831,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_858467-MLA99350054430_112025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_945088-MLA99350554786_112025-F.jpg"
     ],
+    "ean": "7890926395990",
+    "mlIds": [
+      "MLB23189903"
+    ],
+    "mlParentId": "MLB23189857",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "leave-in",
       "lola cosmetics"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:22.585Z",
+    "updatedAt": "2026-03-03T16:36:22.585Z"
   },
   {
     "id": "p17725557825852795",
@@ -27408,13 +36859,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_841760-MLA87444667769_072025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_766395-MLA99428008360_112025-F.jpg"
     ],
+    "ean": "7808460785597",
+    "mlIds": [
+      "MLB52113549"
+    ],
+    "mlParentId": "MLB52113548",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "leave-in",
       "truss"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:22.585Z",
+    "updatedAt": "2026-03-03T16:36:22.585Z"
   },
   {
     "id": "p17725557825862796",
@@ -27426,13 +36885,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_983619-MLA106140093336_022026-F.jpg"
     ],
+    "ean": "79030104642059",
+    "mlIds": [
+      "MLB65387308"
+    ],
+    "mlParentId": "MLB65387304",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "leave-in",
       "leave in creme"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:22.586Z",
+    "updatedAt": "2026-03-03T16:36:22.586Z"
   },
   {
     "id": "p17725557825862797",
@@ -27446,13 +36913,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_651397-MLU74109187312_012024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_841007-MLU74218237299_012024-F.jpg"
     ],
+    "ean": "7898491412487",
+    "mlIds": [
+      "MLB30142225"
+    ],
+    "mlParentId": "MLB30142216",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "leave-in",
       "hobety"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:22.586Z",
+    "updatedAt": "2026-03-03T16:36:22.586Z"
   },
   {
     "id": "p17725557825862798",
@@ -27465,13 +36940,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_901238-MLA82923001954_032025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_915639-MLA83211988385_032025-F.jpg"
     ],
+    "ean": "7899999535357",
+    "mlIds": [
+      "MLB47302115"
+    ],
+    "mlParentId": "MLB47302114",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "leave-in",
       "tout lissie"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:22.586Z",
+    "updatedAt": "2026-03-03T16:36:22.586Z"
   },
   {
     "id": "p17725557825862799",
@@ -27485,13 +36968,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_881513-MLA99783208030_122025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_787347-MLA100270396561_122025-F.jpg"
     ],
+    "ean": "7908964306660",
+    "mlIds": [
+      "MLB62813148"
+    ],
+    "mlParentId": "MLB62813146",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "leave-in",
       "lola from rio"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:22.586Z",
+    "updatedAt": "2026-03-03T16:36:22.586Z"
   },
   {
     "id": "p17725557825862800",
@@ -27504,13 +36995,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_861577-MLA99831984073_112025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_622851-MLA99700513232_122025-F.jpg"
     ],
+    "ean": "7898556755863",
+    "mlIds": [
+      "MLB21724866"
+    ],
+    "mlParentId": "MLB21724851",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "leave-in",
       "lowell"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:22.586Z",
+    "updatedAt": "2026-03-03T16:36:22.586Z"
   },
   {
     "id": "p17725557825862802",
@@ -27525,13 +37024,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_992126-MLA107074162592_022026-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_865184-MLA107764361347_022026-F.jpg"
     ],
+    "ean": "06695802268242",
+    "mlIds": [
+      "MLB66042726"
+    ],
+    "mlParentId": "MLB66042724",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "leave-in",
       "me ame"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:22.586Z",
+    "updatedAt": "2026-03-03T16:36:22.586Z"
   },
   {
     "id": "p17725557825862805",
@@ -27545,13 +37052,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_913697-MLA97276977260_112025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_684814-MLA97276967390_112025-F.jpg"
     ],
+    "ean": "7898483152605",
+    "mlIds": [
+      "MLB61963098"
+    ],
+    "mlParentId": "MLB61963097",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "leave-in",
       "knut hair care"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:22.586Z",
+    "updatedAt": "2026-03-03T16:36:22.586Z"
   },
   {
     "id": "p17725557825872806",
@@ -27563,13 +37078,20 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_830578-MLU75438603206_042024-F.jpg"
     ],
+    "ean": "7898558920481",
+    "mlIds": [
+      "MLB34915540"
+    ],
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "leave-in",
       "crescetrat"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:22.587Z",
+    "updatedAt": "2026-03-03T16:36:22.587Z"
   },
   {
     "id": "p17725557825872807",
@@ -27581,13 +37103,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_710747-MLU73926148919_012024-F.jpg"
     ],
+    "ean": "7896522034233",
+    "mlIds": [
+      "MLB26035859"
+    ],
+    "mlParentId": "MLB26035830",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "leave-in",
       "capicilin"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:22.587Z",
+    "updatedAt": "2026-03-03T16:36:22.587Z"
   },
   {
     "id": "p17725557825872808",
@@ -27601,13 +37131,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_742288-MLA101920238495_122025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_661808-MLA101920073527_122025-F.jpg"
     ],
+    "ean": "7905639148723",
+    "mlIds": [
+      "MLB63351761"
+    ],
+    "mlParentId": "MLB63351758",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "leave-in",
       "inblue"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:22.587Z",
+    "updatedAt": "2026-03-03T16:36:22.587Z"
   },
   {
     "id": "p17725557825872809",
@@ -27620,13 +37158,20 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_799570-MLA84310952094_052025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_925361-MLA84608286089_052025-F.jpg"
     ],
+    "ean": "860008402707",
+    "mlIds": [
+      "MLB49695255"
+    ],
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "leave-in",
       "addendum hair"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:22.587Z",
+    "updatedAt": "2026-03-03T16:36:22.587Z"
   },
   {
     "id": "p17725557825872810",
@@ -27641,13 +37186,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_604904-MLA86049968496_062025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_660641-MLA99353532938_112025-F.jpg"
     ],
+    "ean": "7808460715921",
+    "mlIds": [
+      "MLB51396956"
+    ],
+    "mlParentId": "MLB51396953",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "leave-in",
       "truss"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:22.587Z",
+    "updatedAt": "2026-03-03T16:36:22.587Z"
   },
   {
     "id": "p17725557838572811",
@@ -27661,6 +37214,17 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_972601-MLU74727588960_032024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_634902-MLU73334123451_122023-F.jpg"
     ],
+    "ean": "7898492300264",
+    "mlIds": [
+      "MLB28740393"
+    ],
+    "mlParentId": "MLB28740388",
+    "colors": [
+      {
+        "name": "Kit Itens",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_898311-MLA99438324758_112025-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -27668,12 +37232,8 @@ const catalogProducts = [
       "leave-in",
       "hobety"
     ],
-    "colors": [
-      {
-        "name": "Kit Itens",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_898311-MLA99438324758_112025-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:36:23.857Z",
+    "updatedAt": "2026-03-03T16:36:23.857Z"
   },
   {
     "id": "p17725557838572812",
@@ -27689,13 +37249,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_842461-MLA99358055410_112025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_634273-MLA99358055414_112025-F.jpg"
     ],
+    "ean": "7898542695746",
+    "mlIds": [
+      "MLB57429599"
+    ],
+    "mlParentId": "MLB57429595",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "leave-in",
       "hobety"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:23.857Z",
+    "updatedAt": "2026-03-03T16:36:23.857Z"
   },
   {
     "id": "p17725557838572813",
@@ -27709,13 +37277,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_880786-MLA92963089551_092025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_823787-MLA92963236111_092025-F.jpg"
     ],
+    "ean": "7896852631454",
+    "mlIds": [
+      "MLB57067880"
+    ],
+    "mlParentId": "MLB57067872",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "leave-in",
       "amend"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:23.857Z",
+    "updatedAt": "2026-03-03T16:36:23.857Z"
   },
   {
     "id": "p17725557838572814",
@@ -27729,13 +37305,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_915652-MLA93198764617_092025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_846981-MLA93199002265_092025-F.jpg"
     ],
+    "ean": "7899109102240",
+    "mlIds": [
+      "MLB57476874"
+    ],
+    "mlParentId": "MLB57476873",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "leave-in",
       "trihair"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:23.857Z",
+    "updatedAt": "2026-03-03T16:36:23.857Z"
   },
   {
     "id": "p17725557838582815",
@@ -27751,13 +37335,20 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_948836-MLU78527736356_082024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_723084-MLU78760627369_082024-F.jpg"
     ],
+    "ean": "7898483150281",
+    "mlIds": [
+      "MLB20253633"
+    ],
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "leave-in",
       "knut hair care"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:23.858Z",
+    "updatedAt": "2026-03-03T16:36:23.858Z"
   },
   {
     "id": "p17725557838582816",
@@ -27771,13 +37362,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_675344-MLA93642467175_092025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_729215-MLA93642142377_092025-F.jpg"
     ],
+    "ean": "7898170658540",
+    "mlIds": [
+      "MLB20815887"
+    ],
+    "mlParentId": "MLB20815881",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "leave-in",
       "vitiss"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:23.858Z",
+    "updatedAt": "2026-03-03T16:36:23.858Z"
   },
   {
     "id": "p17725557838582817",
@@ -27789,13 +37388,20 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_695167-MLU76221162066_052024-F.jpg"
     ],
+    "ean": "7898553235146",
+    "mlIds": [
+      "MLB36963609"
+    ],
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "leave-in",
       "hair extrattus"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:23.858Z",
+    "updatedAt": "2026-03-03T16:36:23.858Z"
   },
   {
     "id": "p17725557838582818",
@@ -27807,13 +37413,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_883232-MLB74113917543_012024-F.jpg"
     ],
+    "ean": "7891033209309",
+    "mlIds": [
+      "MLB21558965"
+    ],
+    "mlParentId": "MLB21558946",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "leave-in",
       "beautybox"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:23.858Z",
+    "updatedAt": "2026-03-03T16:36:23.858Z"
   },
   {
     "id": "p17725557838582819",
@@ -27825,13 +37439,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_807724-MLU77680167844_072024-F.jpg"
     ],
+    "ean": "7500435140683",
+    "mlIds": [
+      "MLB38603774"
+    ],
+    "mlParentId": "MLB38603773",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "leave-in",
       "aussie"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:23.858Z",
+    "updatedAt": "2026-03-03T16:36:23.858Z"
   },
   {
     "id": "p17725557838582821",
@@ -27845,13 +37467,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_854619-MLA80120756521_102024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_608850-MLA79867834036_102024-F.jpg"
     ],
+    "ean": "7896868606811",
+    "mlIds": [
+      "MLB42170497"
+    ],
+    "mlParentId": "MLB42170494",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "leave-in",
       "hidrabell"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:23.858Z",
+    "updatedAt": "2026-03-03T16:36:23.858Z"
   },
   {
     "id": "p17725557838582822",
@@ -27863,13 +37493,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_851812-MLU74571613648_022024-F.jpg"
     ],
+    "ean": "7898654630659",
+    "mlIds": [
+      "MLB34020315"
+    ],
+    "mlParentId": "MLB34020312",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "leave-in",
       "eizz"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:23.858Z",
+    "updatedAt": "2026-03-03T16:36:23.858Z"
   },
   {
     "id": "p17725557851342839",
@@ -27881,13 +37519,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_715654-MLU78219472046_082024-F.jpg"
     ],
+    "ean": "7805092958764",
+    "mlIds": [
+      "MLB39363606"
+    ],
+    "mlParentId": "MLB39363604",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "óleo capilar",
       "siáge"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:25.134Z",
+    "updatedAt": "2026-03-03T16:36:25.134Z"
   },
   {
     "id": "p17725557851352840",
@@ -27900,13 +37546,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_900976-MLU74422199849_022024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_661473-MLU74422180249_022024-F.jpg"
     ],
+    "ean": "7896768410310",
+    "mlIds": [
+      "MLB32289379"
+    ],
+    "mlParentId": "MLB32289375",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "óleo capilar",
       "up2you"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:25.135Z",
+    "updatedAt": "2026-03-03T16:36:25.135Z"
   },
   {
     "id": "p17725557851352841",
@@ -27919,13 +37573,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_646392-MLA99365958564_112025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_871120-MLA99849746827_112025-F.jpg"
     ],
+    "ean": "7897158727223",
+    "mlIds": [
+      "MLB37517467"
+    ],
+    "mlParentId": "MLB37517465",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "óleo capilar",
       "gota dourada"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:25.135Z",
+    "updatedAt": "2026-03-03T16:36:25.135Z"
   },
   {
     "id": "p17725557851352842",
@@ -27937,13 +37599,11 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_999536-MLB45468146657_042021-F.jpg"
     ],
-    "averageRating": 0,
-    "reviewCount": 0,
-    "prices": [],
-    "tags": [
-      "óleo capilar",
-      "arovida"
+    "ean": "7898346533039",
+    "mlIds": [
+      "MLB19835068"
     ],
+    "mlParentId": "MLB19835007",
     "colors": [
       {
         "name": "Ceramidas",
@@ -27973,7 +37633,16 @@ const catalogProducts = [
         "name": "Broto Bambu",
         "image": "https://http2.mlstatic.com/D_NQ_NP_664487-MLB45468007862_042021-F.jpg"
       }
-    ]
+    ],
+    "averageRating": 0,
+    "reviewCount": 0,
+    "prices": [],
+    "tags": [
+      "óleo capilar",
+      "arovida"
+    ],
+    "createdAt": "2026-03-03T16:36:25.135Z",
+    "updatedAt": "2026-03-03T16:36:25.135Z"
   },
   {
     "id": "p17725557851352843",
@@ -27986,13 +37655,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_623655-MLU73983281504_012024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_930652-MLU73266654973_122023-F.jpg"
     ],
+    "ean": "7799140654978",
+    "mlIds": [
+      "MLB28642137"
+    ],
+    "mlParentId": "MLB28642136",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "óleo capilar",
       "harmonie aromaterapia"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:25.135Z",
+    "updatedAt": "2026-03-03T16:36:25.135Z"
   },
   {
     "id": "p17725557851352845",
@@ -28004,13 +37681,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_764714-MLU74297826467_012024-F.jpg"
     ],
+    "ean": "7898210427402",
+    "mlIds": [
+      "MLB29783431"
+    ],
+    "mlParentId": "MLB29783429",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "óleo capilar",
       "bella donna"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:25.135Z",
+    "updatedAt": "2026-03-03T16:36:25.135Z"
   },
   {
     "id": "p17725557851352846",
@@ -28025,13 +37710,11 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_864513-MLA86299927749_062025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_776120-MLA99849669687_112025-F.jpg"
     ],
-    "averageRating": 0,
-    "reviewCount": 0,
-    "prices": [],
-    "tags": [
-      "óleo capilar",
-      "sertfarma"
+    "ean": "7893663421922",
+    "mlIds": [
+      "MLB51347982"
     ],
+    "mlParentId": "MLB51347978",
     "colors": [
       {
         "name": "Alecrim Crescimento",
@@ -28045,7 +37728,16 @@ const catalogProducts = [
         "name": "Antisseptico Melaleuca",
         "image": "https://http2.mlstatic.com/D_NQ_NP_671343-MLA99815680361_112025-F.jpg"
       }
-    ]
+    ],
+    "averageRating": 0,
+    "reviewCount": 0,
+    "prices": [],
+    "tags": [
+      "óleo capilar",
+      "sertfarma"
+    ],
+    "createdAt": "2026-03-03T16:36:25.135Z",
+    "updatedAt": "2026-03-03T16:36:25.135Z"
   },
   {
     "id": "p17725557851362850",
@@ -28058,13 +37750,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_838758-MLA80039306498_102024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_648944-MLA80294924721_102024-F.jpg"
     ],
+    "ean": "7898670906707",
+    "mlIds": [
+      "MLB42408237"
+    ],
+    "mlParentId": "MLB42408233",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "óleo capilar",
       "isacare"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:25.136Z",
+    "updatedAt": "2026-03-03T16:36:25.136Z"
   },
   {
     "id": "p17725557851362852",
@@ -28077,13 +37777,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_814352-MLA84261464654_052025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_764240-MLA84558631489_052025-F.jpg"
     ],
+    "ean": "860007450990",
+    "mlIds": [
+      "MLB49463580"
+    ],
+    "mlParentId": "MLB49463575",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "óleo capilar",
       "paavani"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:25.136Z",
+    "updatedAt": "2026-03-03T16:36:25.136Z"
   },
   {
     "id": "p17725557851362853",
@@ -28097,13 +37805,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_723027-MLA90936915008_082025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_820137-MLA99416136826_112025-F.jpg"
     ],
+    "ean": "7899124105936",
+    "mlIds": [
+      "MLB54251408"
+    ],
+    "mlParentId": "MLB54251407",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "óleo capilar",
       "sanro cosméticos"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:25.136Z",
+    "updatedAt": "2026-03-03T16:36:25.136Z"
   },
   {
     "id": "p17725557851362854",
@@ -28115,13 +37831,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_800162-MLB45200966334_032021-F.jpg"
     ],
+    "ean": "7898005718371",
+    "mlIds": [
+      "MLB21324192"
+    ],
+    "mlParentId": "MLB21324156",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "óleo capilar",
       "pinapow"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:25.136Z",
+    "updatedAt": "2026-03-03T16:36:25.136Z"
   },
   {
     "id": "p17725557851362855",
@@ -28133,13 +37857,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_899887-MLU75321390199_032024-F.jpg"
     ],
+    "ean": "7898551868605",
+    "mlIds": [
+      "MLB20637329"
+    ],
+    "mlParentId": "MLB20637286",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "óleo capilar",
       "abela"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:25.136Z",
+    "updatedAt": "2026-03-03T16:36:25.136Z"
   },
   {
     "id": "p17725557851362856",
@@ -28155,13 +37887,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_627833-MLA84741125730_052025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_959010-MLA84741009676_052025-F.jpg"
     ],
+    "ean": "7899999543147",
+    "mlIds": [
+      "MLB50231503"
+    ],
+    "mlParentId": "MLB50231502",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "óleo capilar",
       "elements"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:25.136Z",
+    "updatedAt": "2026-03-03T16:36:25.136Z"
   },
   {
     "id": "p17725557851362857",
@@ -28176,13 +37916,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_915876-MLU74537923735_022024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_685600-MLU70065125675_062023-F.jpg"
     ],
+    "ean": "7290011521981",
+    "mlIds": [
+      "MLB19513845"
+    ],
+    "mlParentId": "MLB19513826",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "óleo capilar",
       "moroccanoil"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:25.136Z",
+    "updatedAt": "2026-03-03T16:36:25.136Z"
   },
   {
     "id": "p17725557851362858",
@@ -28197,13 +37945,20 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_909195-MLA81774801665_012025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_724700-MLA81504726484_012025-F.jpg"
     ],
+    "ean": "7898346535040",
+    "mlIds": [
+      "MLB45289299"
+    ],
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "óleo capilar",
       "arovida"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:25.136Z",
+    "updatedAt": "2026-03-03T16:36:25.136Z"
   },
   {
     "id": "p17725557864112860",
@@ -28215,13 +37970,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_815044-MLA107900259051_032026-F.jpg"
     ],
+    "ean": "07892787080497",
+    "mlIds": [
+      "MLB66099721"
+    ],
+    "mlParentId": "MLB66099720",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "óleo capilar",
       "inoar"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:26.411Z",
+    "updatedAt": "2026-03-03T16:36:26.411Z"
   },
   {
     "id": "p17725557864122861",
@@ -28235,13 +37998,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_999731-MLA91513540554_092025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_809374-MLA99412446858_112025-F.jpg"
     ],
+    "ean": "7893189991770",
+    "mlIds": [
+      "MLB54931662"
+    ],
+    "mlParentId": "MLB54931658",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "óleo capilar",
       "panvel"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:26.412Z",
+    "updatedAt": "2026-03-03T16:36:26.412Z"
   },
   {
     "id": "p17725557864122862",
@@ -28253,13 +38024,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_653418-MLB74222875159_012024-F.jpg"
     ],
+    "ean": "7898632470666",
+    "mlIds": [
+      "MLB19900557"
+    ],
+    "mlParentId": "MLB19900538",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "óleo capilar",
       "labotrat"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:26.412Z",
+    "updatedAt": "2026-03-03T16:36:26.412Z"
   },
   {
     "id": "p17725557864122863",
@@ -28271,13 +38050,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_807788-MLB74221476397_012024-F.jpg"
     ],
+    "ean": "7891033775651",
+    "mlIds": [
+      "MLB20253750"
+    ],
+    "mlParentId": "MLB20253730",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "óleo capilar",
       "eume"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:26.412Z",
+    "updatedAt": "2026-03-03T16:36:26.412Z"
   },
   {
     "id": "p17725557864122864",
@@ -28291,13 +38078,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_959522-MLU72648375034_112023-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_989434-MLU72720818215_112023-F.jpg"
     ],
+    "ean": "7898450023761",
+    "mlIds": [
+      "MLB27976042"
+    ],
+    "mlParentId": "MLB27976040",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "óleo capilar",
       "nutrilan"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:26.412Z",
+    "updatedAt": "2026-03-03T16:36:26.412Z"
   },
   {
     "id": "p17725557864122865",
@@ -28313,13 +38108,20 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_795657-MLU73410896169_122023-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_875875-MLU73410722195_122023-F.jpg"
     ],
+    "ean": "798256386152",
+    "mlIds": [
+      "MLB28834059"
+    ],
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "óleo capilar",
       "dabur"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:26.412Z",
+    "updatedAt": "2026-03-03T16:36:26.412Z"
   },
   {
     "id": "p17725557864132866",
@@ -28333,13 +38135,11 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_751620-MLU72564878244_112023-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_939062-MLB44740044516_012021-F.jpg"
     ],
-    "averageRating": 0,
-    "reviewCount": 0,
-    "prices": [],
-    "tags": [
-      "óleo capilar",
-      "keratex"
+    "ean": "7898211384568",
+    "mlIds": [
+      "MLB53114805"
     ],
+    "mlParentId": "MLB53114804",
     "colors": [
       {
         "name": "Ojon",
@@ -28361,7 +38161,16 @@ const catalogProducts = [
         "name": "Jaborandi",
         "image": "https://http2.mlstatic.com/D_NQ_NP_890102-MLA99367409024_112025-F.jpg"
       }
-    ]
+    ],
+    "averageRating": 0,
+    "reviewCount": 0,
+    "prices": [],
+    "tags": [
+      "óleo capilar",
+      "keratex"
+    ],
+    "createdAt": "2026-03-03T16:36:26.413Z",
+    "updatedAt": "2026-03-03T16:36:26.413Z"
   },
   {
     "id": "p17725557864132868",
@@ -28374,12 +38183,9 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_860090-MLA99889054115_112025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_922634-MLA99906405721_112025-F.jpg"
     ],
-    "averageRating": 0,
-    "reviewCount": 0,
-    "prices": [],
-    "tags": [
-      "óleo capilar",
-      "trihair"
+    "ean": "7899109100574",
+    "mlIds": [
+      "MLB60858727"
     ],
     "colors": [
       {
@@ -28390,7 +38196,16 @@ const catalogProducts = [
         "name": "Menta",
         "image": "https://http2.mlstatic.com/D_NQ_NP_860090-MLA99889054115_112025-F.jpg"
       }
-    ]
+    ],
+    "averageRating": 0,
+    "reviewCount": 0,
+    "prices": [],
+    "tags": [
+      "óleo capilar",
+      "trihair"
+    ],
+    "createdAt": "2026-03-03T16:36:26.413Z",
+    "updatedAt": "2026-03-03T16:36:26.413Z"
   },
   {
     "id": "p17725557864132869",
@@ -28402,13 +38217,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_799194-MLA99827111939_112025-F.jpg"
     ],
+    "ean": "7898211383271",
+    "mlIds": [
+      "MLB34124591"
+    ],
+    "mlParentId": "MLB34124589",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "óleo capilar",
       "fixed"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:26.413Z",
+    "updatedAt": "2026-03-03T16:36:26.413Z"
   },
   {
     "id": "p17725557864132870",
@@ -28421,13 +38244,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_707334-MLA99815789827_112025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_961199-MLA89438836447_082025-F.jpg"
     ],
+    "ean": "7898930509860",
+    "mlIds": [
+      "MLB20817131"
+    ],
+    "mlParentId": "MLB20817111",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "óleo capilar",
       "soft fix"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:26.413Z",
+    "updatedAt": "2026-03-03T16:36:26.413Z"
   },
   {
     "id": "p17725557864132871",
@@ -28442,13 +38273,11 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_610754-MLA83310277086_042025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_992608-MLA83310365440_042025-F.jpg"
     ],
-    "averageRating": 0,
-    "reviewCount": 0,
-    "prices": [],
-    "tags": [
-      "óleo capilar",
-      "pepilon"
+    "ean": "7898973517037",
+    "mlIds": [
+      "MLB62880371"
     ],
+    "mlParentId": "MLB62880370",
     "colors": [
       {
         "name": "Coco",
@@ -28458,7 +38287,16 @@ const catalogProducts = [
         "name": "Mosqueta",
         "image": "https://http2.mlstatic.com/D_NQ_NP_730110-MLA99869207219_112025-F.jpg"
       }
-    ]
+    ],
+    "averageRating": 0,
+    "reviewCount": 0,
+    "prices": [],
+    "tags": [
+      "óleo capilar",
+      "pepilon"
+    ],
+    "createdAt": "2026-03-03T16:36:26.413Z",
+    "updatedAt": "2026-03-03T16:36:26.413Z"
   },
   {
     "id": "p17725557864142873",
@@ -28474,13 +38312,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_617329-MLA92300028497_092025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_665536-MLA92300068275_092025-F.jpg"
     ],
+    "ean": "7898749571935",
+    "mlIds": [
+      "MLB55889196"
+    ],
+    "mlParentId": "MLB55889195",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "óleo capilar",
       "hidratei"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:26.414Z",
+    "updatedAt": "2026-03-03T16:36:26.414Z"
   },
   {
     "id": "p17725557864142874",
@@ -28493,13 +38339,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_960689-MLA94661218490_102025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_967612-MLA95093358229_102025-F.jpg"
     ],
+    "ean": "7896229909513",
+    "mlIds": [
+      "MLB20568663"
+    ],
+    "mlParentId": "MLB20568644",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "óleo capilar",
       "natu hair"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:26.414Z",
+    "updatedAt": "2026-03-03T16:36:26.414Z"
   },
   {
     "id": "p17725557864142875",
@@ -28514,13 +38368,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_863294-MLA84836659851_052025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_803191-MLA84836659901_052025-F.jpg"
     ],
+    "ean": "7908625100040",
+    "mlIds": [
+      "MLB40501184"
+    ],
+    "mlParentId": "MLB40501182",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "óleo capilar",
       "yasmin beauty"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:26.414Z",
+    "updatedAt": "2026-03-03T16:36:26.414Z"
   },
   {
     "id": "p17725557864142876",
@@ -28532,13 +38394,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_617762-MLB74134600196_012024-F.jpg"
     ],
+    "ean": "7896279115308",
+    "mlIds": [
+      "MLB20714729"
+    ],
+    "mlParentId": "MLB20714723",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "óleo capilar",
       "muriel"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:26.414Z",
+    "updatedAt": "2026-03-03T16:36:26.414Z"
   },
   {
     "id": "p17725557864152878",
@@ -28550,13 +38420,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_968357-MLU74162556613_012024-F.jpg"
     ],
+    "ean": "7898472870435",
+    "mlIds": [
+      "MLB29773262"
+    ],
+    "mlParentId": "MLB29773260",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "óleo capilar",
       "liver"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:26.415Z",
+    "updatedAt": "2026-03-03T16:36:26.415Z"
   },
   {
     "id": "p17725557864152880",
@@ -28572,13 +38450,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_695302-MLA96079852009_102025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_897827-MLA96079881483_102025-F.jpg"
     ],
+    "ean": "7893325208113",
+    "mlIds": [
+      "MLB56338699"
+    ],
+    "mlParentId": "MLB56338695",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "óleo capilar",
       "elseve"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:26.415Z",
+    "updatedAt": "2026-03-03T16:36:26.415Z"
   },
   {
     "id": "p17725557864152882",
@@ -28590,13 +38476,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_649324-MLU74089148958_012024-F.jpg"
     ],
+    "ean": "7898210427396",
+    "mlIds": [
+      "MLB29894131"
+    ],
+    "mlParentId": "MLB29894127",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "óleo capilar",
       "bella donna"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:26.415Z",
+    "updatedAt": "2026-03-03T16:36:26.415Z"
   },
   {
     "id": "p17725557864152883",
@@ -28608,13 +38502,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_687330-MLA99292015057_112025-F.jpg"
     ],
+    "ean": "7898686241038",
+    "mlIds": [
+      "MLB62468018"
+    ],
+    "mlParentId": "MLB62468017",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "óleo capilar",
       "vie professional"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:26.415Z",
+    "updatedAt": "2026-03-03T16:36:26.415Z"
   },
   {
     "id": "p17725557864152884",
@@ -28629,13 +38531,20 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_944901-MLU73068523641_112023-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_758381-MLU72987914886_112023-F.jpg"
     ],
+    "ean": "7895045914022",
+    "mlIds": [
+      "MLB28389837"
+    ],
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "óleo capilar",
       "l'oréal professionnel"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:26.415Z",
+    "updatedAt": "2026-03-03T16:36:26.415Z"
   },
   {
     "id": "p17725557864152885",
@@ -28649,13 +38558,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_765225-MLU75847665782_042024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_640874-MLU75847665784_042024-F.jpg"
     ],
+    "ean": "7805092637621",
+    "mlIds": [
+      "MLB36218250"
+    ],
+    "mlParentId": "MLB36218247",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "óleo capilar",
       "match."
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:26.415Z",
+    "updatedAt": "2026-03-03T16:36:26.415Z"
   },
   {
     "id": "p17725557864152886",
@@ -28669,13 +38586,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_715385-MLA81889650270_012025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_838625-MLA81889621678_012025-F.jpg"
     ],
+    "ean": "7897185008487",
+    "mlIds": [
+      "MLB20764883"
+    ],
+    "mlParentId": "MLB20764864",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "óleo capilar",
       "yabae"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:26.415Z",
+    "updatedAt": "2026-03-03T16:36:26.415Z"
   },
   {
     "id": "p17725557864152887",
@@ -28688,13 +38613,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_685550-MLU75694656909_042024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_767812-MLU75694656919_042024-F.jpg"
     ],
+    "ean": "17909605004096",
+    "mlIds": [
+      "MLB35552083"
+    ],
+    "mlParentId": "MLB35552081",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "óleo capilar",
       "di grezzo"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:26.415Z",
+    "updatedAt": "2026-03-03T16:36:26.415Z"
   },
   {
     "id": "p17725557864152888",
@@ -28709,13 +38642,11 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_783155-MLU74423645778_022024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_819328-MLU74545232003_022024-F.jpg"
     ],
-    "averageRating": 0,
-    "reviewCount": 0,
-    "prices": [],
-    "tags": [
-      "óleo capilar",
-      "le salon pro"
+    "ean": "7898919324934",
+    "mlIds": [
+      "MLB20561257"
     ],
+    "mlParentId": "MLB20561252",
     "colors": [
       {
         "name": "Vegetal Fortalecimento",
@@ -28725,7 +38656,16 @@ const catalogProducts = [
         "name": "Coco Alecrim",
         "image": "https://http2.mlstatic.com/D_NQ_NP_845592-MLU75482982731_032024-F.jpg"
       }
-    ]
+    ],
+    "averageRating": 0,
+    "reviewCount": 0,
+    "prices": [],
+    "tags": [
+      "óleo capilar",
+      "le salon pro"
+    ],
+    "createdAt": "2026-03-03T16:36:26.415Z",
+    "updatedAt": "2026-03-03T16:36:26.415Z"
   },
   {
     "id": "p17725557876992890",
@@ -28741,13 +38681,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_911533-MLA101943419882_122025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_857170-MLA101943419888_122025-F.jpg"
     ],
+    "ean": "7890729824178",
+    "mlIds": [
+      "MLB63484010"
+    ],
+    "mlParentId": "MLB63484006",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "óleo capilar",
       "braé"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:27.699Z",
+    "updatedAt": "2026-03-03T16:36:27.699Z"
   },
   {
     "id": "p17725557876992891",
@@ -28760,13 +38708,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_668966-MLA92436267861_092025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_874389-MLA92031889438_092025-F.jpg"
     ],
+    "ean": "7898773022946",
+    "mlIds": [
+      "MLB50657582"
+    ],
+    "mlParentId": "MLB50657580",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "óleo capilar",
       "aroom"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:27.699Z",
+    "updatedAt": "2026-03-03T16:36:27.699Z"
   },
   {
     "id": "p17725557876992892",
@@ -28782,13 +38738,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_997861-MLA89128311100_082025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_976729-MLA89128519376_082025-F.jpg"
     ],
+    "ean": "17898625792574",
+    "mlIds": [
+      "MLB53462569"
+    ],
+    "mlParentId": "MLB53462568",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "óleo capilar",
       "truss"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:27.699Z",
+    "updatedAt": "2026-03-03T16:36:27.699Z"
   },
   {
     "id": "p17725557876992893",
@@ -28800,13 +38764,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_616847-MLA100485113255_122025-F.jpg"
     ],
+    "ean": "7896833062635",
+    "mlIds": [
+      "MLB62872484"
+    ],
+    "mlParentId": "MLB62872482",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "óleo capilar",
       "fullmarket company"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:27.699Z",
+    "updatedAt": "2026-03-03T16:36:27.699Z"
   },
   {
     "id": "p17725557876992895",
@@ -28821,13 +38793,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_900357-MLA105391297646_012026-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_749035-MLA105391655804_012026-F.jpg"
     ],
+    "ean": "7894621143184",
+    "mlIds": [
+      "MLB53925535"
+    ],
+    "mlParentId": "MLB53925534",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "óleo capilar",
       "wella"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:27.699Z",
+    "updatedAt": "2026-03-03T16:36:27.699Z"
   },
   {
     "id": "p17725557876992897",
@@ -28839,13 +38819,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_896589-MLU74129744461_012024-F.jpg"
     ],
+    "ean": "7898970853107",
+    "mlIds": [
+      "MLB28441545"
+    ],
+    "mlParentId": "MLB28441542",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "óleo capilar",
       "protect hair"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:27.699Z",
+    "updatedAt": "2026-03-03T16:36:27.699Z"
   },
   {
     "id": "p17725557876992898",
@@ -28857,13 +38845,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_978139-MLU74557783471_022024-F.jpg"
     ],
+    "ean": "7898583344603",
+    "mlIds": [
+      "MLB29046055"
+    ],
+    "mlParentId": "MLB29046054",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "óleo capilar",
       "niraj"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:27.699Z",
+    "updatedAt": "2026-03-03T16:36:27.699Z"
   },
   {
     "id": "p17725557877002899",
@@ -28879,13 +38875,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_756696-MLA85058445884_052025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_828777-MLA85360104919_052025-F.jpg"
     ],
+    "ean": "7290011521677",
+    "mlIds": [
+      "MLB20677187"
+    ],
+    "mlParentId": "MLB20677161",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "óleo capilar",
       "moroccanoil"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:27.700Z",
+    "updatedAt": "2026-03-03T16:36:27.700Z"
   },
   {
     "id": "p17725557877002901",
@@ -28897,13 +38901,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_862843-MLU74437350890_022024-F.jpg"
     ],
+    "ean": "7891033775675",
+    "mlIds": [
+      "MLB21543818"
+    ],
+    "mlParentId": "MLB21543772",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "óleo capilar",
       "eume"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:27.700Z",
+    "updatedAt": "2026-03-03T16:36:27.700Z"
   },
   {
     "id": "p17725557877002902",
@@ -28915,13 +38927,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_653582-MLA99835853209_112025-F.jpg"
     ],
+    "ean": "7899572809806",
+    "mlIds": [
+      "MLB20973909"
+    ],
+    "mlParentId": "MLB20973872",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "óleo capilar",
       "lola cosmetics"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:27.700Z",
+    "updatedAt": "2026-03-03T16:36:27.700Z"
   },
   {
     "id": "p17725557877002903",
@@ -28934,13 +38954,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_964958-MLU74049154998_012024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_609238-MLU73094425578_112023-F.jpg"
     ],
+    "ean": "90000001435",
+    "mlIds": [
+      "MLB28575795"
+    ],
+    "mlParentId": "MLB28575794",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "óleo capilar",
       "blueken professional"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:27.700Z",
+    "updatedAt": "2026-03-03T16:36:27.700Z"
   },
   {
     "id": "p17725557889842919",
@@ -28956,13 +38984,13 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_847499-MLU78471951551_082024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_704286-MLU78242599186_082024-F.jpg"
     ],
-    "averageRating": 0,
-    "reviewCount": 0,
-    "prices": [],
-    "tags": [
-      "tintura",
-      "versa"
+    "ean": "7890922102868",
+    "mlIds": [
+      "MLB37142315",
+      "MLB37206927",
+      "MLB37142887"
     ],
+    "mlParentId": "MLB37142313",
     "colors": [
       {
         "name": "Purple",
@@ -28976,7 +39004,16 @@ const catalogProducts = [
         "name": "Pink",
         "image": "https://http2.mlstatic.com/D_NQ_NP_707683-MLU78471892969_082024-F.jpg"
       }
-    ]
+    ],
+    "averageRating": 0,
+    "reviewCount": 0,
+    "prices": [],
+    "tags": [
+      "tintura",
+      "versa"
+    ],
+    "createdAt": "2026-03-03T16:36:28.984Z",
+    "updatedAt": "2026-03-03T16:36:28.987Z"
   },
   {
     "id": "p17725557889842920",
@@ -28992,13 +39029,20 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_664291-MLA94879704311_102025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_662954-MLA94879802925_102025-F.jpg"
     ],
+    "mlIds": [
+      "MLB59926431"
+    ],
+    "mlParentId": "MLB59926430",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "tintura",
       "belezalib"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:28.984Z",
+    "updatedAt": "2026-03-03T16:36:28.984Z"
   },
   {
     "id": "p17725557889842921",
@@ -29013,13 +39057,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_736642-MLB74075248872_012024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_887793-MLU78418402891_082024-F.jpg"
     ],
+    "ean": "7898566291337",
+    "mlIds": [
+      "MLB21883444"
+    ],
+    "mlParentId": "MLB21883432",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "tintura",
       "acquaflora"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:28.984Z",
+    "updatedAt": "2026-03-03T16:36:28.984Z"
   },
   {
     "id": "p17725557889862922",
@@ -29031,6 +39083,17 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_930894-MLA80080001959_102024-F.jpg"
     ],
+    "ean": "7896818261299",
+    "mlIds": [
+      "MLB42127192"
+    ],
+    "mlParentId": "MLB42127191",
+    "colors": [
+      {
+        "name": "Preto",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_930894-MLA80080001959_102024-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -29038,12 +39101,8 @@ const catalogProducts = [
       "tintura",
       "marilu"
     ],
-    "colors": [
-      {
-        "name": "Preto",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_930894-MLA80080001959_102024-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:36:28.986Z",
+    "updatedAt": "2026-03-03T16:36:28.986Z"
   },
   {
     "id": "p17725557889862923",
@@ -29059,6 +39118,16 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_677477-MLA104547562025_012026-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_925441-MLA104547889665_012026-F.jpg"
     ],
+    "mlIds": [
+      "MLB64183793"
+    ],
+    "mlParentId": "MLB64183792",
+    "colors": [
+      {
+        "name": "Preto",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_874499-MLA104011039710_012026-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -29066,12 +39135,8 @@ const catalogProducts = [
       "tintura",
       "m&o"
     ],
-    "colors": [
-      {
-        "name": "Preto",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_874499-MLA104011039710_012026-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:36:28.986Z",
+    "updatedAt": "2026-03-03T16:36:28.986Z"
   },
   {
     "id": "p17725557889862924",
@@ -29085,13 +39150,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_653848-MLU78100453564_082024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_891814-MLA88083898712_072025-F.jpg"
     ],
+    "ean": "7899884204788",
+    "mlIds": [
+      "MLB26649563"
+    ],
+    "mlParentId": "MLB26649543",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "tintura",
       "alta moda"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:28.986Z",
+    "updatedAt": "2026-03-03T16:36:28.986Z"
   },
   {
     "id": "p17725557889862925",
@@ -29107,13 +39180,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_791362-MLA106939497905_022026-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_715417-MLA106938608989_022026-F.jpg"
     ],
+    "ean": "7898617524230",
+    "mlIds": [
+      "MLB23160024"
+    ],
+    "mlParentId": "MLB20618124",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "tintura",
       "probelle"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:28.986Z",
+    "updatedAt": "2026-03-03T16:36:28.986Z"
   },
   {
     "id": "p17725557889862926",
@@ -29126,13 +39207,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_906554-MLA94056483811_102025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_715608-MLA93634966560_102025-F.jpg"
     ],
+    "ean": "7791973023082",
+    "mlIds": [
+      "MLB58882790"
+    ],
+    "mlParentId": "MLB58882784",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "tintura",
       "silkey mundial"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:28.986Z",
+    "updatedAt": "2026-03-03T16:36:28.986Z"
   },
   {
     "id": "p17725557889872928",
@@ -29146,13 +39235,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_820333-MLA91570899656_092025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_600034-MLU74983229284_032024-F.jpg"
     ],
+    "ean": "7899884204771",
+    "mlIds": [
+      "MLB26652453"
+    ],
+    "mlParentId": "MLB26652433",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "tintura",
       "alta moda"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:28.987Z",
+    "updatedAt": "2026-03-03T16:36:28.987Z"
   },
   {
     "id": "p17725557889872929",
@@ -29166,13 +39263,11 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_700417-MLA91968433095_092025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_850745-MLA91968433115_092025-F.jpg"
     ],
-    "averageRating": 0,
-    "reviewCount": 0,
-    "prices": [],
-    "tags": [
-      "tintura",
-      "kamaleão color"
+    "ean": "7904607921566",
+    "mlIds": [
+      "MLB51838998"
     ],
+    "mlParentId": "MLB51838996",
     "colors": [
       {
         "name": "Boto",
@@ -29206,7 +39301,16 @@ const catalogProducts = [
         "name": "Pigmentante",
         "image": "https://http2.mlstatic.com/D_NQ_NP_617529-MLA99453164712_112025-F.jpg"
       }
-    ]
+    ],
+    "averageRating": 0,
+    "reviewCount": 0,
+    "prices": [],
+    "tags": [
+      "tintura",
+      "kamaleão color"
+    ],
+    "createdAt": "2026-03-03T16:36:28.987Z",
+    "updatedAt": "2026-03-03T16:36:28.987Z"
   },
   {
     "id": "p17725557889872930",
@@ -29219,6 +39323,17 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_603528-MLA89941124397_082025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_674311-MLA106645388770_022026-F.jpg"
     ],
+    "ean": "7897169298071",
+    "mlIds": [
+      "MLB53788956"
+    ],
+    "mlParentId": "MLB53788955",
+    "colors": [
+      {
+        "name": "Preto",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_603528-MLA89941124397_082025-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -29226,12 +39341,8 @@ const catalogProducts = [
       "tintura",
       "santa clara"
     ],
-    "colors": [
-      {
-        "name": "Preto",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_603528-MLA89941124397_082025-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:36:28.987Z",
+    "updatedAt": "2026-03-03T16:36:28.987Z"
   },
   {
     "id": "p17725557889872932",
@@ -29243,13 +39354,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_620921-MLA100082849271_122025-F.jpg"
     ],
+    "ean": "7896013502937",
+    "mlIds": [
+      "MLB19719639"
+    ],
+    "mlParentId": "MLB19689014",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "tintura",
       "natucor"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:28.987Z",
+    "updatedAt": "2026-03-03T16:36:28.987Z"
   },
   {
     "id": "p17725557889872934",
@@ -29264,13 +39383,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_801862-MLA91969601503_092025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_802333-MLU72542366258_112023-F.jpg"
     ],
+    "ean": "6012501658639, 7898739950528",
+    "mlIds": [
+      "MLB21462693"
+    ],
+    "mlParentId": "MLB21462689",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "tintura",
       "dyusar cosméticos"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:28.987Z",
+    "updatedAt": "2026-03-03T16:36:28.987Z"
   },
   {
     "id": "p17725557889872935",
@@ -29286,13 +39413,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_853647-MLA82380417826_022025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_724364-MLA82380332100_022025-F.jpg"
     ],
+    "ean": "7897517903596",
+    "mlIds": [
+      "MLB36172238"
+    ],
+    "mlParentId": "MLB36172233",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "tintura",
       "lxy"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:28.987Z",
+    "updatedAt": "2026-03-03T16:36:28.987Z"
   },
   {
     "id": "p17725557889872936",
@@ -29305,13 +39440,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_888347-MLA99938097473_112025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_719123-MLB52977819461_122022-F.jpg"
     ],
+    "ean": "7898566291221",
+    "mlIds": [
+      "MLB22191998"
+    ],
+    "mlParentId": "MLB22191996",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "tintura",
       "acquaflora"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:28.987Z",
+    "updatedAt": "2026-03-03T16:36:28.987Z"
   },
   {
     "id": "p17725557889872938",
@@ -29323,13 +39466,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_777228-MLA97929565036_112025-F.jpg"
     ],
+    "ean": "7898360687947",
+    "mlIds": [
+      "MLB62178507"
+    ],
+    "mlParentId": "MLB62178506",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "tintura",
       "hidralyfe mairibel"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:28.987Z",
+    "updatedAt": "2026-03-03T16:36:28.987Z"
   },
   {
     "id": "p17725557889882939",
@@ -29345,13 +39496,11 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_894349-MLU73578740994_122023-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_824395-MLU70865960216_082023-F.jpg"
     ],
-    "averageRating": 0,
-    "reviewCount": 0,
-    "prices": [],
-    "tags": [
-      "tintura",
-      "schwarzkopf professional"
+    "ean": "7702045539912",
+    "mlIds": [
+      "MLB25144394"
     ],
+    "mlParentId": "MLB25144374",
     "colors": [
       {
         "name": "Oxidante Vol",
@@ -29365,7 +39514,16 @@ const catalogProducts = [
         "name": "Kit X3",
         "image": "https://http2.mlstatic.com/D_NQ_NP_718034-MLU70899261399_082023-F.jpg"
       }
-    ]
+    ],
+    "averageRating": 0,
+    "reviewCount": 0,
+    "prices": [],
+    "tags": [
+      "tintura",
+      "schwarzkopf professional"
+    ],
+    "createdAt": "2026-03-03T16:36:28.988Z",
+    "updatedAt": "2026-03-03T16:36:28.988Z"
   },
   {
     "id": "p17725557889882940",
@@ -29381,13 +39539,11 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_775399-MLA93299379471_092025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_775290-MLA92885948806_092025-F.jpg"
     ],
-    "averageRating": 0,
-    "reviewCount": 0,
-    "prices": [],
-    "tags": [
-      "tintura",
-      "kenwee"
+    "ean": "7795819079424",
+    "mlIds": [
+      "MLB65353871"
     ],
+    "mlParentId": "MLB65353870",
     "colors": [
       {
         "name": "Castanho",
@@ -29425,7 +39581,16 @@ const catalogProducts = [
         "name": "Claro Tabaco",
         "image": "https://http2.mlstatic.com/D_NQ_NP_862300-MLA105011098159_012026-F.jpg"
       }
-    ]
+    ],
+    "averageRating": 0,
+    "reviewCount": 0,
+    "prices": [],
+    "tags": [
+      "tintura",
+      "kenwee"
+    ],
+    "createdAt": "2026-03-03T16:36:28.988Z",
+    "updatedAt": "2026-03-03T16:36:28.988Z"
   },
   {
     "id": "p17725557902612942",
@@ -29437,13 +39602,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_745703-MLA99456388432_112025-F.jpg"
     ],
+    "ean": "7908825742286",
+    "mlIds": [
+      "MLB35165145"
+    ],
+    "mlParentId": "MLB35165148",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "tintura",
       "soft color"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:30.261Z",
+    "updatedAt": "2026-03-03T16:36:30.261Z"
   },
   {
     "id": "p17725557902612943",
@@ -29455,13 +39628,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_941942-MLA99993551405_112025-F.jpg"
     ],
+    "ean": "7908825745669",
+    "mlIds": [
+      "MLB35063912"
+    ],
+    "mlParentId": "MLB35063913",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "tintura",
       "acquaflora"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:30.261Z",
+    "updatedAt": "2026-03-03T16:36:30.261Z"
   },
   {
     "id": "p17725557902622946",
@@ -29476,13 +39657,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_846021-MLU78671157143_082024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_789382-MLU78670982563_082024-F.jpg"
     ],
+    "ean": "9331797552108",
+    "mlIds": [
+      "MLB37889438"
+    ],
+    "mlParentId": "MLB37889437",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "tintura",
       "karan xuan"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:30.262Z",
+    "updatedAt": "2026-03-03T16:36:30.262Z"
   },
   {
     "id": "p17725557902622947",
@@ -29494,13 +39683,11 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_650490-MLA99443029226_112025-F.jpg"
     ],
-    "averageRating": 0,
-    "reviewCount": 0,
-    "prices": [],
-    "tags": [
-      "tintura",
-      "itely"
+    "ean": "8029840018787",
+    "mlIds": [
+      "MLB37931369"
     ],
+    "mlParentId": "MLB44149227",
     "colors": [
       {
         "name": "Iterraneo",
@@ -29510,7 +39697,16 @@ const catalogProducts = [
         "name": "Me Vegana",
         "image": "https://http2.mlstatic.com/D_NQ_NP_664255-MLA99584399872_122025-F.jpg"
       }
-    ]
+    ],
+    "averageRating": 0,
+    "reviewCount": 0,
+    "prices": [],
+    "tags": [
+      "tintura",
+      "itely"
+    ],
+    "createdAt": "2026-03-03T16:36:30.262Z",
+    "updatedAt": "2026-03-03T16:36:30.262Z"
   },
   {
     "id": "p17725557902622948",
@@ -29522,13 +39718,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_637577-MLA100096318445_122025-F.jpg"
     ],
+    "ean": "7898958542160",
+    "mlIds": [
+      "MLB22315085"
+    ],
+    "mlParentId": "MLB22315064",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "tintura",
       "felps professional"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:30.262Z",
+    "updatedAt": "2026-03-03T16:36:30.262Z"
   },
   {
     "id": "p17725557902622949",
@@ -29540,13 +39744,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_783093-MLA99987370121_112025-F.jpg"
     ],
+    "ean": "7899627600983",
+    "mlIds": [
+      "MLB50462191"
+    ],
+    "mlParentId": "MLB50462190",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "tintura",
       "floracollor"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:30.262Z",
+    "updatedAt": "2026-03-03T16:36:30.262Z"
   },
   {
     "id": "p17725557902622950",
@@ -29558,13 +39770,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_714408-MLA99538595288_122025-F.jpg"
     ],
+    "ean": "7908885388523",
+    "mlIds": [
+      "MLB40122302"
+    ],
+    "mlParentId": "MLB44087474",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "tintura",
       "imedia"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:30.262Z",
+    "updatedAt": "2026-03-03T16:36:30.262Z"
   },
   {
     "id": "p17725557902622954",
@@ -29579,13 +39799,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_656795-MLA91962960681_092025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_621703-MLU72728943158_112023-F.jpg"
     ],
+    "ean": "7891182026703",
+    "mlIds": [
+      "MLB19612516"
+    ],
+    "mlParentId": "MLB19607009",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "tintura",
       "biocolor"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:30.262Z",
+    "updatedAt": "2026-03-03T16:36:30.262Z"
   },
   {
     "id": "p17725557902622955",
@@ -29597,13 +39825,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_933271-MLA99466739316_112025-F.jpg"
     ],
+    "ean": "7908825748172",
+    "mlIds": [
+      "MLB35494930"
+    ],
+    "mlParentId": "MLB35494931",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "tintura",
       "natucor"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:30.262Z",
+    "updatedAt": "2026-03-03T16:36:30.262Z"
   },
   {
     "id": "p17725557902632961",
@@ -29616,13 +39852,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_897454-MLA99968243553_112025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_731310-MLA79686381071_102024-F.jpg"
     ],
+    "ean": "7898958542474",
+    "mlIds": [
+      "MLB22363492"
+    ],
+    "mlParentId": "MLB22363460",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "tintura",
       "felps professional"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:30.263Z",
+    "updatedAt": "2026-03-03T16:36:30.263Z"
   },
   {
     "id": "p17725557902632962",
@@ -29635,13 +39879,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_816241-MLA99976837343_112025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_787089-MLA99977185845_112025-F.jpg"
     ],
+    "ean": "7892652804159",
+    "mlIds": [
+      "MLB52060869"
+    ],
+    "mlParentId": "MLB52060867",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "tintura",
       "kamaleão color"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:30.263Z",
+    "updatedAt": "2026-03-03T16:36:30.263Z"
   },
   {
     "id": "p17725557902632964",
@@ -29656,13 +39908,11 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_738705-MLA102988427729_122025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_623109-MLA102987542955_122025-F.jpg"
     ],
-    "averageRating": 0,
-    "reviewCount": 0,
-    "prices": [],
-    "tags": [
-      "tintura",
-      "nov"
+    "ean": "7798189585847",
+    "mlIds": [
+      "MLB46680500"
     ],
+    "mlParentId": "MLB46680499",
     "colors": [
       {
         "name": "Borgonha",
@@ -29696,7 +39946,16 @@ const catalogProducts = [
         "name": "Louro Malva",
         "image": "https://http2.mlstatic.com/D_NQ_NP_684292-MLA83182260548_042025-F.jpg"
       }
-    ]
+    ],
+    "averageRating": 0,
+    "reviewCount": 0,
+    "prices": [],
+    "tags": [
+      "tintura",
+      "nov"
+    ],
+    "createdAt": "2026-03-03T16:36:30.263Z",
+    "updatedAt": "2026-03-03T16:36:30.263Z"
   },
   {
     "id": "p17725557915412967",
@@ -29712,13 +39971,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_938136-MLA81006066959_112024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_920941-MLA80741225708_112024-F.jpg"
     ],
+    "ean": "4045787290677",
+    "mlIds": [
+      "MLB44009006"
+    ],
+    "mlParentId": "MLB44009005",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "tintura",
       "lucydan"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:31.541Z",
+    "updatedAt": "2026-03-03T16:36:31.541Z"
   },
   {
     "id": "p17725557915412968",
@@ -29731,6 +39998,17 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_874344-MLU73068488107_112023-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_770714-MLU77927003866_082024-F.jpg"
     ],
+    "ean": "8022297099439",
+    "mlIds": [
+      "MLB28384155"
+    ],
+    "mlParentId": "MLB28384153",
+    "colors": [
+      {
+        "name": "Claro",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_721232-MLU70683880185_072023-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -29738,12 +40016,8 @@ const catalogProducts = [
       "tintura",
       "alfaparf"
     ],
-    "colors": [
-      {
-        "name": "Claro",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_721232-MLU70683880185_072023-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:36:31.541Z",
+    "updatedAt": "2026-03-03T16:36:31.541Z"
   },
   {
     "id": "p17725557915412969",
@@ -29759,13 +40033,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_753490-MLU78480463088_082024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_885996-MLU78712935655_082024-F.jpg"
     ],
+    "ean": "4045787319972",
+    "mlIds": [
+      "MLB28697356"
+    ],
+    "mlParentId": "MLB28697355",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "tintura",
       "schwarzkopf professional"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:31.541Z",
+    "updatedAt": "2026-03-03T16:36:31.541Z"
   },
   {
     "id": "p17725557915412970",
@@ -29777,13 +40059,20 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_814054-MLU75704431113_042024-F.jpg"
     ],
+    "mlIds": [
+      "MLB35599837"
+    ],
+    "mlParentId": "MLB35599836",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "tintura",
       "l'oréal professionnel"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:31.541Z",
+    "updatedAt": "2026-03-03T16:36:31.541Z"
   },
   {
     "id": "p17725557915422972",
@@ -29795,13 +40084,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_946539-MLU79329050715_092024-F.jpg"
     ],
+    "ean": "4015600056629",
+    "mlIds": [
+      "MLB35949280"
+    ],
+    "mlParentId": "MLB35949279",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "tintura",
       "wella"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:31.542Z",
+    "updatedAt": "2026-03-03T16:36:31.542Z"
   },
   {
     "id": "p17725557915422973",
@@ -29816,13 +40113,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_940470-MLA105340630293_012026-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_933822-MLA99480439888_112025-F.jpg"
     ],
+    "ean": "7898483152193",
+    "mlIds": [
+      "MLB20940503"
+    ],
+    "mlParentId": "MLB20940490",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "tintura",
       "knut hair care"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:31.542Z",
+    "updatedAt": "2026-03-03T16:36:31.542Z"
   },
   {
     "id": "p17725557915422974",
@@ -29834,13 +40139,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_620916-MLA99925031933_112025-F.jpg"
     ],
+    "ean": "7891182980050",
+    "mlIds": [
+      "MLB22315093"
+    ],
+    "mlParentId": "MLB21722548",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "tintura",
       "biocolor"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:31.542Z",
+    "updatedAt": "2026-03-03T16:36:31.542Z"
   },
   {
     "id": "p17725557915422978",
@@ -29853,13 +40166,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_651777-MLA83181419710_042025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_650498-MLA83181419728_042025-F.jpg"
     ],
+    "ean": "799439320352",
+    "mlIds": [
+      "MLB47633939"
+    ],
+    "mlParentId": "MLB47633927",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "tintura",
       "dexe"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:31.542Z",
+    "updatedAt": "2026-03-03T16:36:31.542Z"
   },
   {
     "id": "p17725557915432982",
@@ -29872,13 +40193,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_813416-MLA99936666689_112025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_686187-MLA91614149960_092025-F.jpg"
     ],
+    "ean": "7898606740450",
+    "mlIds": [
+      "MLB22262429"
+    ],
+    "mlParentId": "MLB22262422",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "tintura",
       "cadiveu professional"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:31.543Z",
+    "updatedAt": "2026-03-03T16:36:31.543Z"
   },
   {
     "id": "p17725557915432983",
@@ -29894,13 +40223,12 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_701878-MLA100699022974_122025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_766789-MLA101195246733_122025-F.jpg"
     ],
-    "averageRating": 0,
-    "reviewCount": 0,
-    "prices": [],
-    "tags": [
-      "tintura",
-      "santa clara"
+    "ean": "7892717407011",
+    "mlIds": [
+      "MLB63126283",
+      "MLB63159170"
     ],
+    "mlParentId": "MLB63126281",
     "colors": [
       {
         "name": "Rosa",
@@ -29910,7 +40238,16 @@ const catalogProducts = [
         "name": "Roxo",
         "image": "https://http2.mlstatic.com/D_NQ_NP_642170-MLA100846797560_122025-F.jpg"
       }
-    ]
+    ],
+    "averageRating": 0,
+    "reviewCount": 0,
+    "prices": [],
+    "tags": [
+      "tintura",
+      "santa clara"
+    ],
+    "createdAt": "2026-03-03T16:36:31.543Z",
+    "updatedAt": "2026-03-03T16:36:31.543Z"
   },
   {
     "id": "p17725557915442989",
@@ -29924,13 +40261,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_979062-MLA86599621834_062025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_727822-MLA86921023451_062025-F.jpg"
     ],
+    "ean": "7895614424846",
+    "mlIds": [
+      "MLB43984529"
+    ],
+    "mlParentId": "MLB43984527",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "tintura",
       "alpha line"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:31.544Z",
+    "updatedAt": "2026-03-03T16:36:31.544Z"
   },
   {
     "id": "p17725557915442990",
@@ -29946,13 +40291,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_939085-MLA99032674026_112025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_949039-MLA99513061381_112025-F.jpg"
     ],
+    "ean": "7892473923350",
+    "mlIds": [
+      "MLB62535866"
+    ],
+    "mlParentId": "MLB62535863",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "tintura",
       "fragranciaria"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:31.544Z",
+    "updatedAt": "2026-03-03T16:36:31.544Z"
   },
   {
     "id": "p17725557915442991",
@@ -29967,13 +40320,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_967707-MLA79591709903_092024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_850780-MLA79591709913_092024-F.jpg"
     ],
+    "ean": "8857390955753",
+    "mlIds": [
+      "MLB41230357"
+    ],
+    "mlParentId": "MLB41230356",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "tintura",
       "beaupretty"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:31.544Z",
+    "updatedAt": "2026-03-03T16:36:31.544Z"
   },
   {
     "id": "p17725557915442992",
@@ -29987,13 +40348,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_660806-MLU77773273831_072024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_830631-MLU77555347070_072024-F.jpg"
     ],
+    "ean": "7893596037429",
+    "mlIds": [
+      "MLB38385247"
+    ],
+    "mlParentId": "MLB38385246",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "tintura",
       "acquaflora"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:31.544Z",
+    "updatedAt": "2026-03-03T16:36:31.544Z"
   },
   {
     "id": "p17725557915452993",
@@ -30005,13 +40374,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_659265-MLA83359466223_032025-F.jpg"
     ],
+    "ean": "7908458306404",
+    "mlIds": [
+      "MLB19694819"
+    ],
+    "mlParentId": "MLB19647544",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "tintura",
       "salon line"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:31.545Z",
+    "updatedAt": "2026-03-03T16:36:31.545Z"
   },
   {
     "id": "p17725557928212994",
@@ -30025,13 +40402,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_871803-MLU77490820168_072024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_834458-MLU77490820172_072024-F.jpg"
     ],
+    "ean": "7896371996683",
+    "mlIds": [
+      "MLB38275185"
+    ],
+    "mlParentId": "MLB38275184",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "finalizador",
       "zsete paris"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:32.821Z",
+    "updatedAt": "2026-03-03T16:36:32.821Z"
   },
   {
     "id": "p17725557928212995",
@@ -30043,13 +40428,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_818315-MLB74194828045_012024-F.jpg"
     ],
+    "ean": "7898688241173",
+    "mlIds": [
+      "MLB21643983"
+    ],
+    "mlParentId": "MLB21643945",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "finalizador",
       "eico"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:32.821Z",
+    "updatedAt": "2026-03-03T16:36:32.821Z"
   },
   {
     "id": "p17725557928222998",
@@ -30063,6 +40456,16 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_710419-MLU78324654021_082024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_733403-MLU78097393920_082024-F.jpg"
     ],
+    "ean": "7895312427798",
+    "mlIds": [
+      "MLB35167205"
+    ],
+    "colors": [
+      {
+        "name": "Branco",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_720782-MLU78097451608_082024-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -30070,12 +40473,8 @@ const catalogProducts = [
       "finalizador",
       "modelador cachos portátil"
     ],
-    "colors": [
-      {
-        "name": "Branco",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_720782-MLU78097451608_082024-F.jpg"
-      }
-    ]
+    "createdAt": "2026-03-03T16:36:32.822Z",
+    "updatedAt": "2026-03-03T16:36:32.822Z"
   },
   {
     "id": "p17725557928222999",
@@ -30087,13 +40486,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_680040-MLA99386199034_112025-F.jpg"
     ],
+    "ean": "769503614403",
+    "mlIds": [
+      "MLB26610468"
+    ],
+    "mlParentId": "MLB26610463",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "finalizador",
       "nv nando vasconcelos"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:32.822Z",
+    "updatedAt": "2026-03-03T16:36:32.822Z"
   },
   {
     "id": "p17725557928223001",
@@ -30105,13 +40512,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_656211-MLU74085543834_012024-F.jpg"
     ],
+    "ean": "3341594162512",
+    "mlIds": [
+      "MLB28526685"
+    ],
+    "mlParentId": "MLB28526681",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "finalizador",
       "western"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:32.822Z",
+    "updatedAt": "2026-03-03T16:36:32.822Z"
   },
   {
     "id": "p17725557928223002",
@@ -30123,13 +40538,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_796466-MLU75491717149_032024-F.jpg"
     ],
+    "ean": "7898132981297",
+    "mlIds": [
+      "MLB19892865"
+    ],
+    "mlParentId": "MLB19892837",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "finalizador",
       "chikas"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:32.822Z",
+    "updatedAt": "2026-03-03T16:36:32.822Z"
   },
   {
     "id": "p17725557928223003",
@@ -30143,13 +40566,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_638474-MLU77893853459_072024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_717526-MLU77893853461_072024-F.jpg"
     ],
+    "ean": "7898491412586",
+    "mlIds": [
+      "MLB38587074"
+    ],
+    "mlParentId": "MLB38587069",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "finalizador",
       "hobety"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:32.822Z",
+    "updatedAt": "2026-03-03T16:36:32.822Z"
   },
   {
     "id": "p17725557928223005",
@@ -30161,13 +40592,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_716195-MLA97779704414_112025-F.jpg"
     ],
+    "ean": "7908909600846",
+    "mlIds": [
+      "MLB62118374"
+    ],
+    "mlParentId": "MLB62118373",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "finalizador",
       "bio extratus"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:32.822Z",
+    "updatedAt": "2026-03-03T16:36:32.822Z"
   },
   {
     "id": "p17725557928223006",
@@ -30179,13 +40618,22 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_963534-MLA99344270192_112025-F.jpg"
     ],
+    "ean": "7898132988845",
+    "mlIds": [
+      "MLB41781472",
+      "MLB41765765"
+    ],
+    "mlParentId": "MLB41781467",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "finalizador",
       "bio extratus"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:32.822Z",
+    "updatedAt": "2026-03-03T16:36:32.823Z"
   },
   {
     "id": "p17725557928223007",
@@ -30197,13 +40645,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_666859-MLA80119993727_102024-F.jpg"
     ],
+    "ean": "8991524112848",
+    "mlIds": [
+      "MLB42169045"
+    ],
+    "mlParentId": "MLB42169043",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "finalizador",
       "london"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:32.822Z",
+    "updatedAt": "2026-03-03T16:36:32.822Z"
   },
   {
     "id": "p17725557928233009",
@@ -30216,13 +40672,12 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_665741-MLA99441977416_112025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_900139-MLA96181882749_102025-F.jpg"
     ],
-    "averageRating": 0,
-    "reviewCount": 0,
-    "prices": [],
-    "tags": [
-      "finalizador",
-      "haskell"
+    "ean": "7903287635336",
+    "mlIds": [
+      "MLB61078205",
+      "MLB52962331"
     ],
+    "mlParentId": "MLB61078204",
     "colors": [
       {
         "name": "Fluido Haskell",
@@ -30232,7 +40687,16 @@ const catalogProducts = [
         "name": "Kit Lourre",
         "image": "https://http2.mlstatic.com/D_NQ_NP_875451-MLA99892408243_112025-F.jpg"
       }
-    ]
+    ],
+    "averageRating": 0,
+    "reviewCount": 0,
+    "prices": [],
+    "tags": [
+      "finalizador",
+      "haskell"
+    ],
+    "createdAt": "2026-03-03T16:36:32.823Z",
+    "updatedAt": "2026-03-03T16:36:34.107Z"
   },
   {
     "id": "p17725557928233010",
@@ -30244,13 +40708,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_961339-MLA86252461813_062025-F.jpg"
     ],
+    "ean": "7908236564095",
+    "mlIds": [
+      "MLB51329943"
+    ],
+    "mlParentId": "MLB51329941",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "finalizador",
       "cortex professional"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:32.823Z",
+    "updatedAt": "2026-03-03T16:36:32.823Z"
   },
   {
     "id": "p17725557928233011",
@@ -30262,13 +40734,20 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_825399-MLA99375056926_112025-F.jpg"
     ],
+    "ean": "7898359981315",
+    "mlIds": [
+      "MLB33672753"
+    ],
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "finalizador",
       "dalsan cosméticos"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:32.823Z",
+    "updatedAt": "2026-03-03T16:36:32.823Z"
   },
   {
     "id": "p17725557928233012",
@@ -30280,13 +40759,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_679471-MLB74135791570_012024-F.jpg"
     ],
+    "ean": "7896279115292",
+    "mlIds": [
+      "MLB20278497"
+    ],
+    "mlParentId": "MLB20278489",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "finalizador",
       "muriel"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:32.823Z",
+    "updatedAt": "2026-03-03T16:36:32.823Z"
   },
   {
     "id": "p17725557928233013",
@@ -30299,13 +40786,22 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_790469-MLA99382704410_112025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_725179-MLA99389748612_112025-F.jpg"
     ],
+    "ean": "7898132989194",
+    "mlIds": [
+      "MLB41889564",
+      "MLB41953168"
+    ],
+    "mlParentId": "MLB41889563",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "finalizador",
       "bio extratus"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:32.823Z",
+    "updatedAt": "2026-03-03T16:36:34.107Z"
   },
   {
     "id": "p17725557928233014",
@@ -30318,13 +40814,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_759007-MLA99361331280_112025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_839064-MLU73749809749_012024-F.jpg"
     ],
+    "ean": "7908476100084",
+    "mlIds": [
+      "MLB29448678"
+    ],
+    "mlParentId": "MLB29448673",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "finalizador",
       "beto bita"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:32.823Z",
+    "updatedAt": "2026-03-03T16:36:32.823Z"
   },
   {
     "id": "p17725557928233015",
@@ -30336,13 +40840,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_600252-MLA99380629966_112025-F.jpg"
     ],
+    "ean": "7898359980103",
+    "mlIds": [
+      "MLB28136322"
+    ],
+    "mlParentId": "MLB28136319",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "finalizador",
       "dalsan"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:32.823Z",
+    "updatedAt": "2026-03-03T16:36:32.823Z"
   },
   {
     "id": "p17725557928233016",
@@ -30357,13 +40869,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_646082-MLA83851669579_042025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_962571-MLA99404918876_112025-F.jpg"
     ],
+    "ean": "7898757631256",
+    "mlIds": [
+      "MLB48623016"
+    ],
+    "mlParentId": "MLB48623003",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "finalizador",
       "beleza ruiva"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:32.823Z",
+    "updatedAt": "2026-03-03T16:36:32.823Z"
   },
   {
     "id": "p17725557941073019",
@@ -30375,13 +40895,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_894958-MLA99391118970_112025-F.jpg"
     ],
+    "ean": "7899703613784",
+    "mlIds": [
+      "MLB21543624"
+    ],
+    "mlParentId": "MLB21543604",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "finalizador",
       "onduladus"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:34.107Z",
+    "updatedAt": "2026-03-03T16:36:34.107Z"
   },
   {
     "id": "p17725557941073022",
@@ -30393,13 +40921,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_770600-MLU73803044615_012024-F.jpg"
     ],
+    "ean": "7896102200133",
+    "mlIds": [
+      "MLB23186264"
+    ],
+    "mlParentId": "MLB23186222",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "finalizador",
       "alpha line"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:34.107Z",
+    "updatedAt": "2026-03-03T16:36:34.107Z"
   },
   {
     "id": "p17725557941073023",
@@ -30411,13 +40947,20 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_956569-MLA99341886190_112025-F.jpg"
     ],
+    "ean": "7898132988333",
+    "mlIds": [
+      "MLB33426054"
+    ],
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "finalizador",
       "chikas"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:34.107Z",
+    "updatedAt": "2026-03-03T16:36:34.107Z"
   },
   {
     "id": "p17725557941083025",
@@ -30433,13 +40976,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_747990-MLA92726062639_092025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_942990-MLA92725954125_092025-F.jpg"
     ],
+    "ean": "7795386786749",
+    "mlIds": [
+      "MLB56675236"
+    ],
+    "mlParentId": "MLB56675232",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "finalizador",
       "fecapelli"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:34.108Z",
+    "updatedAt": "2026-03-03T16:36:34.108Z"
   },
   {
     "id": "p17725557941083026",
@@ -30453,13 +41004,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_705438-MLA82451215854_022025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_941490-MLA82451244718_022025-F.jpg"
     ],
+    "ean": "7898648421683",
+    "mlIds": [
+      "MLB20568718"
+    ],
+    "mlParentId": "MLB20568698",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "finalizador",
       "groove"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:34.108Z",
+    "updatedAt": "2026-03-03T16:36:34.108Z"
   },
   {
     "id": "p17725557941083027",
@@ -30472,13 +41031,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_644587-MLA99819917745_112025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_730239-MLA79181053898_092024-F.jpg"
     ],
+    "ean": "7898742040940",
+    "mlIds": [
+      "MLB37816058"
+    ],
+    "mlParentId": "MLB37816057",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "finalizador",
       "aneethun"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:34.108Z",
+    "updatedAt": "2026-03-03T16:36:34.108Z"
   },
   {
     "id": "p17725557941083028",
@@ -30490,13 +41057,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_785258-MLA99407585516_112025-F.jpg"
     ],
+    "ean": "7898132981815",
+    "mlIds": [
+      "MLB19663321"
+    ],
+    "mlParentId": "MLB19663303",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "finalizador",
       "bio extratus"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:34.108Z",
+    "updatedAt": "2026-03-03T16:36:34.108Z"
   },
   {
     "id": "p17725557941083029",
@@ -30508,13 +41083,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_868886-MLA102205733874_122025-F.jpg"
     ],
+    "ean": "7908458335114",
+    "mlIds": [
+      "MLB63575114"
+    ],
+    "mlParentId": "MLB63575113",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "finalizador",
       "salon line"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:34.108Z",
+    "updatedAt": "2026-03-03T16:36:34.108Z"
   },
   {
     "id": "p17725557941083030",
@@ -30528,13 +41111,20 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_926165-MLA99350051426_112025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_824115-MLA99833162395_112025-F.jpg"
     ],
+    "mlIds": [
+      "MLB19752613"
+    ],
+    "mlParentId": "MLB19752571",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "finalizador",
       "raiz latina"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:34.108Z",
+    "updatedAt": "2026-03-03T16:36:34.108Z"
   },
   {
     "id": "p17725557941083032",
@@ -30547,13 +41137,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_601675-MLA99853980963_112025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_658408-MLA99372593080_112025-F.jpg"
     ],
+    "ean": "7898132988685",
+    "mlIds": [
+      "MLB37984396"
+    ],
+    "mlParentId": "MLB37984393",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "finalizador",
       "bio extratus"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:34.108Z",
+    "updatedAt": "2026-03-03T16:36:34.108Z"
   },
   {
     "id": "p17725557941083033",
@@ -30566,13 +41164,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_862944-MLA99845635379_112025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_795801-MLA93663304248_102025-F.jpg"
     ],
+    "ean": "860005042456",
+    "mlIds": [
+      "MLB51544361"
+    ],
+    "mlParentId": "MLB51544348",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "finalizador",
       "image"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:34.108Z",
+    "updatedAt": "2026-03-03T16:36:34.108Z"
   },
   {
     "id": "p17725557941083034",
@@ -30584,13 +41190,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_724673-MLA106496028479_022026-F.jpg"
     ],
+    "ean": "7899703617782",
+    "mlIds": [
+      "MLB38662180"
+    ],
+    "mlParentId": "MLB38662179",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "finalizador",
       "boldhi"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:34.108Z",
+    "updatedAt": "2026-03-03T16:36:34.108Z"
   },
   {
     "id": "p17725557941083035",
@@ -30602,13 +41216,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_853238-MLU78724425899_082024-F.jpg"
     ],
+    "ean": "7898593810310",
+    "mlIds": [
+      "MLB39929708"
+    ],
+    "mlParentId": "MLB39929704",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "finalizador",
       "leads care"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:34.108Z",
+    "updatedAt": "2026-03-03T16:36:34.108Z"
   },
   {
     "id": "p17725557941083036",
@@ -30620,13 +41242,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_978984-MLU74238347312_022024-F.jpg"
     ],
+    "ean": "7909664579859",
+    "mlIds": [
+      "MLB31201925"
+    ],
+    "mlParentId": "MLB31201922",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "finalizador",
       "cherry"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:34.108Z",
+    "updatedAt": "2026-03-03T16:36:34.108Z"
   },
   {
     "id": "p17725557941093037",
@@ -30638,13 +41268,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_783397-MLU75179423450_032024-F.jpg"
     ],
+    "ean": "7893011866955",
+    "mlIds": [
+      "MLB25958912"
+    ],
+    "mlParentId": "MLB25958889",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "finalizador",
       "natura"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:34.109Z",
+    "updatedAt": "2026-03-03T16:36:34.109Z"
   },
   {
     "id": "p17725557941093038",
@@ -30658,13 +41296,11 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_786420-MLU76565980006_062024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_961938-MLU76565980014_062024-F.jpg"
     ],
-    "averageRating": 0,
-    "reviewCount": 0,
-    "prices": [],
-    "tags": [
-      "finalizador",
-      "aneethun"
+    "ean": "7896004874340",
+    "mlIds": [
+      "MLB21436676"
     ],
+    "mlParentId": "MLB21436663",
     "colors": [
       {
         "name": "3x250g",
@@ -30674,7 +41310,16 @@ const catalogProducts = [
         "name": "2x250g",
         "image": "https://http2.mlstatic.com/D_NQ_NP_652919-MLA99378015532_112025-F.jpg"
       }
-    ]
+    ],
+    "averageRating": 0,
+    "reviewCount": 0,
+    "prices": [],
+    "tags": [
+      "finalizador",
+      "aneethun"
+    ],
+    "createdAt": "2026-03-03T16:36:34.109Z",
+    "updatedAt": "2026-03-03T16:36:34.109Z"
   },
   {
     "id": "p17725557941093039",
@@ -30687,13 +41332,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_716087-MLU75175401362_032024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_952637-MLU73181091404_122023-F.jpg"
     ],
+    "ean": "7791806327103",
+    "mlIds": [
+      "MLB28639636"
+    ],
+    "mlParentId": "MLB28639633",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "finalizador",
       "mairibel"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:34.109Z",
+    "updatedAt": "2026-03-03T16:36:34.109Z"
   },
   {
     "id": "p17725557941093040",
@@ -30705,13 +41358,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_863954-MLA79880162408_102024-F.jpg"
     ],
+    "ean": "7896279115186",
+    "mlIds": [
+      "MLB42180714"
+    ],
+    "mlParentId": "MLB42180713",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "finalizador",
       "muriel"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:34.109Z",
+    "updatedAt": "2026-03-03T16:36:34.109Z"
   },
   {
     "id": "p17725557941093042",
@@ -30723,13 +41384,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_813607-MLU77347592381_062024-F.jpg"
     ],
+    "ean": "7898412655719",
+    "mlIds": [
+      "MLB37944257"
+    ],
+    "mlParentId": "MLB37944254",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "finalizador",
       "sofisticatto"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:34.109Z",
+    "updatedAt": "2026-03-03T16:36:34.109Z"
   },
   {
     "id": "p17725557941093043",
@@ -30742,13 +41411,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_652972-MLA99899811097_112025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_855559-MLU74958565299_032024-F.jpg"
     ],
+    "ean": "4765554985956",
+    "mlIds": [
+      "MLB20790092"
+    ],
+    "mlParentId": "MLB20790079",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "finalizador",
       "mairibel"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:34.109Z",
+    "updatedAt": "2026-03-03T16:36:34.109Z"
   },
   {
     "id": "p17725557953973044",
@@ -30764,13 +41441,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_940042-MLA80559717298_112024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_890073-MLA80559562932_112024-F.jpg"
     ],
+    "ean": "7898744862465",
+    "mlIds": [
+      "MLB43430351"
+    ],
+    "mlParentId": "MLB43430350",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "finalizador",
       "prohall"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:35.397Z",
+    "updatedAt": "2026-03-03T16:36:35.397Z"
   },
   {
     "id": "p17725557953973045",
@@ -30782,13 +41467,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_714673-MLU75165068843_032024-F.jpg"
     ],
+    "ean": "7898562790964",
+    "mlIds": [
+      "MLB20977990"
+    ],
+    "mlParentId": "MLB20977967",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "finalizador",
       "london the evolution of hair"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:35.397Z",
+    "updatedAt": "2026-03-03T16:36:35.397Z"
   },
   {
     "id": "p17725557953973047",
@@ -30800,13 +41493,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_726778-MLB74126699549_012024-F.jpg"
     ],
+    "ean": "7898962971666",
+    "mlIds": [
+      "MLB21460173"
+    ],
+    "mlParentId": "MLB21460153",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "finalizador",
       "voare professional"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:35.397Z",
+    "updatedAt": "2026-03-03T16:36:35.397Z"
   },
   {
     "id": "p17725557953973048",
@@ -30822,13 +41523,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_638834-MLA91918992344_092025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_826787-MLA91919099804_092025-F.jpg"
     ],
+    "ean": "7899852023564",
+    "mlIds": [
+      "MLB55903272"
+    ],
+    "mlParentId": "MLB55903260",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "finalizador",
       "vult"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:35.397Z",
+    "updatedAt": "2026-03-03T16:36:35.397Z"
   },
   {
     "id": "p17725557953973049",
@@ -30841,13 +41550,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_631154-MLA99364220454_112025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_783861-MLA99364458436_112025-F.jpg"
     ],
+    "ean": "7898590441364",
+    "mlIds": [
+      "MLB20978245"
+    ],
+    "mlParentId": "MLB20978215",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "finalizador",
       "vita seva"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:35.397Z",
+    "updatedAt": "2026-03-03T16:36:35.397Z"
   },
   {
     "id": "p17725557953973051",
@@ -30861,13 +41578,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_796296-MLA80140316201_102024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_831973-MLA80140316213_102024-F.jpg"
     ],
+    "ean": "7898706476600",
+    "mlIds": [
+      "MLB42192891"
+    ],
+    "mlParentId": "MLB42192887",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "finalizador",
       "cavalera"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:35.397Z",
+    "updatedAt": "2026-03-03T16:36:35.397Z"
   },
   {
     "id": "p17725557953973052",
@@ -30881,13 +41606,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_958994-MLA84439911660_052025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_964229-MLA84737641703_052025-F.jpg"
     ],
+    "ean": "7899289525204",
+    "mlIds": [
+      "MLB50028123"
+    ],
+    "mlParentId": "MLB50028114",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "finalizador",
       "cadiveu professional"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:35.397Z",
+    "updatedAt": "2026-03-03T16:36:35.397Z"
   },
   {
     "id": "p17725557953983053",
@@ -30900,13 +41633,20 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_855283-MLB49950259541_052022-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_775482-MLU75010551758_032024-F.jpg"
     ],
+    "ean": "7896279114677",
+    "mlIds": [
+      "MLB21705775"
+    ],
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "finalizador",
       "muriel"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:35.398Z",
+    "updatedAt": "2026-03-03T16:36:35.398Z"
   },
   {
     "id": "p17725557953983056",
@@ -30921,13 +41661,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_721027-MLU77517800764_072024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_617888-MLU77517850138_072024-F.jpg"
     ],
+    "ean": "7896551614314",
+    "mlIds": [
+      "MLB38289350"
+    ],
+    "mlParentId": "MLB38289349",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "finalizador",
       "truss"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:35.398Z",
+    "updatedAt": "2026-03-03T16:36:35.398Z"
   },
   {
     "id": "p17725557953983057",
@@ -30939,13 +41687,20 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_870680-MLU75027378046_032024-F.jpg"
     ],
+    "ean": "7501502340265",
+    "mlIds": [
+      "MLB21292395"
+    ],
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "finalizador",
       "viu balance"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:35.398Z",
+    "updatedAt": "2026-03-03T16:36:35.398Z"
   },
   {
     "id": "p17725557953983058",
@@ -30959,13 +41714,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_965996-MLA107906220487_032026-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_826383-MLA107204589080_032026-F.jpg"
     ],
+    "ean": "07893827936859",
+    "mlIds": [
+      "MLB66110638"
+    ],
+    "mlParentId": "MLB66110634",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "finalizador",
       "onixx brasil, produtos de cabelo"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:35.398Z",
+    "updatedAt": "2026-03-03T16:36:35.398Z"
   },
   {
     "id": "p17725557953983059",
@@ -30977,13 +41740,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_787995-MLA99418648020_112025-F.jpg"
     ],
+    "ean": "7898649841992",
+    "mlIds": [
+      "MLB21468051"
+    ],
+    "mlParentId": "MLB21468031",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "finalizador",
       "beautech"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:35.398Z",
+    "updatedAt": "2026-03-03T16:36:35.398Z"
   },
   {
     "id": "p17725557966863067",
@@ -30995,13 +41766,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_955542-MLA99847012411_112025-F.jpg"
     ],
+    "ean": "7898553233845",
+    "mlIds": [
+      "MLB36394901"
+    ],
+    "mlParentId": "MLB36394898",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "cabelo homem",
       "hair extrattus"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:36.686Z",
+    "updatedAt": "2026-03-03T16:36:36.686Z"
   },
   {
     "id": "p17725557966863068",
@@ -31013,13 +41792,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_666536-MLU73096777224_112023-F.jpg"
     ],
+    "ean": "7898170655259",
+    "mlIds": [
+      "MLB28592466"
+    ],
+    "mlParentId": "MLB28592461",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "cabelo homem",
       "vitiss"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:36.686Z",
+    "updatedAt": "2026-03-03T16:36:36.686Z"
   },
   {
     "id": "p17725557966863069",
@@ -31031,13 +41818,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_925305-MLU74331629610_022024-F.jpg"
     ],
+    "ean": "7898352912545",
+    "mlIds": [
+      "MLB19941889"
+    ],
+    "mlParentId": "MLB19941877",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "cabelo homem",
       "bothânico cosméticos"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:36.686Z",
+    "updatedAt": "2026-03-03T16:36:36.686Z"
   },
   {
     "id": "p17725557966863070",
@@ -31053,13 +41848,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_750225-MLU70096651171_062023-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_838533-MLU70096651177_062023-F.jpg"
     ],
+    "ean": "7890018584783",
+    "mlIds": [
+      "MLB24069286"
+    ],
+    "mlParentId": "MLB24069249",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "cabelo homem",
       "mantecorp"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:36.686Z",
+    "updatedAt": "2026-03-03T16:36:36.686Z"
   },
   {
     "id": "p17725557966863071",
@@ -31072,13 +41875,11 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_676634-MLA99411355702_112025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_976712-MLA99908323723_112025-F.jpg"
     ],
-    "averageRating": 0,
-    "reviewCount": 0,
-    "prices": [],
-    "tags": [
-      "cabelo homem",
-      "bio extratus"
+    "ean": "7898126409523",
+    "mlIds": [
+      "MLB19589843"
     ],
+    "mlParentId": "MLB19589834",
     "colors": [
       {
         "name": "Anticaspa Antiqueda",
@@ -31088,7 +41889,16 @@ const catalogProducts = [
         "name": "Cabelos Grizalhos",
         "image": "https://http2.mlstatic.com/D_NQ_NP_676634-MLA99411355702_112025-F.jpg"
       }
-    ]
+    ],
+    "averageRating": 0,
+    "reviewCount": 0,
+    "prices": [],
+    "tags": [
+      "cabelo homem",
+      "bio extratus"
+    ],
+    "createdAt": "2026-03-03T16:36:36.686Z",
+    "updatedAt": "2026-03-03T16:36:36.686Z"
   },
   {
     "id": "p17725557966863074",
@@ -31100,13 +41910,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_942511-MLU77528770784_072024-F.jpg"
     ],
+    "ean": "7898639303325",
+    "mlIds": [
+      "MLB38314732"
+    ],
+    "mlParentId": "MLB38314728",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "cabelo homem",
       "nutriex"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:36.686Z",
+    "updatedAt": "2026-03-03T16:36:36.686Z"
   },
   {
     "id": "p17725557966863075",
@@ -31121,13 +41939,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_634943-MLU73108924283_112023-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_602770-MLU73109090647_112023-F.jpg"
     ],
+    "ean": "7906200579939",
+    "mlIds": [
+      "MLB28487055"
+    ],
+    "mlParentId": "MLB28487053",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "cabelo homem",
       "gota dourada"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:36.686Z",
+    "updatedAt": "2026-03-03T16:36:36.686Z"
   },
   {
     "id": "p17725557966873076",
@@ -31141,13 +41967,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_770249-MLA96483037584_112025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_640281-MLA96483047446_112025-F.jpg"
     ],
+    "ean": "7899910903883",
+    "mlIds": [
+      "MLB61579090"
+    ],
+    "mlParentId": "MLB61579085",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "cabelo homem",
       "salvatore laevia"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:36.687Z",
+    "updatedAt": "2026-03-03T16:36:36.687Z"
   },
   {
     "id": "p17725557966873077",
@@ -31159,13 +41993,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_768575-MLA99358211750_112025-F.jpg"
     ],
+    "ean": "67651263123",
+    "mlIds": [
+      "MLB53211384"
+    ],
+    "mlParentId": "MLB53211381",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "cabelo homem",
       "bio extratus"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:36.687Z",
+    "updatedAt": "2026-03-03T16:36:36.687Z"
   },
   {
     "id": "p17725557966873078",
@@ -31177,13 +42019,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_970311-MLA99770642929_112025-F.jpg"
     ],
+    "ean": "7898649844054",
+    "mlIds": [
+      "MLB36810839"
+    ],
+    "mlParentId": "MLB36810838",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "cabelo homem",
       "medix"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:36.687Z",
+    "updatedAt": "2026-03-03T16:36:36.687Z"
   },
   {
     "id": "p17725557966873079",
@@ -31199,13 +42049,11 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_982641-MLA92211050707_092025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_836323-MLA91809392438_092025-F.jpg"
     ],
-    "averageRating": 0,
-    "reviewCount": 0,
-    "prices": [],
-    "tags": [
-      "cabelo homem",
-      "gota dourada"
+    "ean": "4800120009145",
+    "mlIds": [
+      "MLB55766186"
     ],
+    "mlParentId": "MLB55766177",
     "colors": [
       {
         "name": "3un",
@@ -31215,7 +42063,16 @@ const catalogProducts = [
         "name": "5un",
         "image": "https://http2.mlstatic.com/D_NQ_NP_646762-MLA99394511530_112025-F.jpg"
       }
-    ]
+    ],
+    "averageRating": 0,
+    "reviewCount": 0,
+    "prices": [],
+    "tags": [
+      "cabelo homem",
+      "gota dourada"
+    ],
+    "createdAt": "2026-03-03T16:36:36.687Z",
+    "updatedAt": "2026-03-03T16:36:36.687Z"
   },
   {
     "id": "p17725557966873081",
@@ -31228,13 +42085,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_676837-MLB43609614574_092020-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_644273-MLB74113072850_012024-F.jpg"
     ],
+    "ean": "7908240821030",
+    "mlIds": [
+      "MLB19506023"
+    ],
+    "mlParentId": "MLB19506003",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "cabelo homem",
       "natura"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:36.687Z",
+    "updatedAt": "2026-03-03T16:36:36.687Z"
   },
   {
     "id": "p17725557966873082",
@@ -31249,13 +42114,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_964795-MLA96481857276_112025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_928773-MLA96481857284_112025-F.jpg"
     ],
+    "ean": "7899910903876",
+    "mlIds": [
+      "MLB61578487"
+    ],
+    "mlParentId": "MLB61578486",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "cabelo homem",
       "salvatore laevia"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:36.687Z",
+    "updatedAt": "2026-03-03T16:36:36.687Z"
   },
   {
     "id": "p17725557982963096",
@@ -31268,13 +42141,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_867191-MLA107907492391_032026-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_667120-MLA107907634601_032026-F.jpg"
     ],
+    "ean": "07900277257608",
+    "mlIds": [
+      "MLB66114675"
+    ],
+    "mlParentId": "MLB66114674",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "cabelo homem",
       "bothanico"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:38.296Z",
+    "updatedAt": "2026-03-03T16:36:38.296Z"
   },
   {
     "id": "p17725557995813121",
@@ -31286,13 +42167,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_901962-MLA99359375440_112025-F.jpg"
     ],
+    "ean": "7898599852727",
+    "mlIds": [
+      "MLB20703579"
+    ],
+    "mlParentId": "MLB20703559",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "cabelo homem",
       "lakkoa"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:39.581Z",
+    "updatedAt": "2026-03-03T16:36:39.581Z"
   },
   {
     "id": "p17725558008563145",
@@ -31305,13 +42194,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_705740-MLA99365212856_112025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_883135-MLA84867427486_052025-F.jpg"
     ],
+    "ean": "7890407430028",
+    "mlIds": [
+      "MLB50414871"
+    ],
+    "mlParentId": "MLB50414870",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "cabelo homem",
       "above"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:40.856Z",
+    "updatedAt": "2026-03-03T16:36:40.856Z"
   },
   {
     "id": "p17725558008563146",
@@ -31327,13 +42224,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_976026-MLA83508091754_042025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_738665-MLA83800900187_042025-F.jpg"
     ],
+    "ean": "7793710010133",
+    "mlIds": [
+      "MLB48499559"
+    ],
+    "mlParentId": "MLB48499558",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "cabelo homem",
       "rauk cosméticos"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:40.856Z",
+    "updatedAt": "2026-03-03T16:36:40.856Z"
   },
   {
     "id": "p17725558008563148",
@@ -31348,13 +42253,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_982298-MLA79981830372_102024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_879729-MLA80236770969_102024-F.jpg"
     ],
+    "ean": "7890011221319",
+    "mlIds": [
+      "MLB35008388"
+    ],
+    "mlParentId": "MLB35008386",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "cabelo homem",
       "personalizando"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:40.856Z",
+    "updatedAt": "2026-03-03T16:36:40.856Z"
   },
   {
     "id": "p17725558008563150",
@@ -31367,13 +42280,11 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_789633-MLA99442567584_112025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_813156-MLU72534187077_102023-F.jpg"
     ],
-    "averageRating": 0,
-    "reviewCount": 0,
-    "prices": [],
-    "tags": [
-      "cabelo homem",
-      "natura"
+    "ean": "7908371626535",
+    "mlIds": [
+      "MLB27521929"
     ],
+    "mlParentId": "MLB27521928",
     "colors": [
       {
         "name": "Impacto",
@@ -31387,7 +42298,16 @@ const catalogProducts = [
         "name": "Natura Classico",
         "image": "https://http2.mlstatic.com/D_NQ_NP_865200-MLU74858917909_032024-F.jpg"
       }
-    ]
+    ],
+    "averageRating": 0,
+    "reviewCount": 0,
+    "prices": [],
+    "tags": [
+      "cabelo homem",
+      "natura"
+    ],
+    "createdAt": "2026-03-03T16:36:40.856Z",
+    "updatedAt": "2026-03-03T16:36:40.856Z"
   },
   {
     "id": "p17725558008563151",
@@ -31401,13 +42321,20 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_959214-MLU74512534151_022024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_663397-MLU74512669981_022024-F.jpg"
     ],
+    "ean": "751320710062",
+    "mlIds": [
+      "MLB32932594"
+    ],
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "cabelo homem",
       "zyon cosméticos"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:40.856Z",
+    "updatedAt": "2026-03-03T16:36:40.856Z"
   },
   {
     "id": "p17725558008563153",
@@ -31423,13 +42350,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_779398-MLA83741251233_042025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_610566-MLA83449105462_042025-F.jpg"
     ],
+    "ean": "414007558547",
+    "mlIds": [
+      "MLB48178775"
+    ],
+    "mlParentId": "MLB48178759",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "cabelo homem",
       "missedsen"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:40.856Z",
+    "updatedAt": "2026-03-03T16:36:40.856Z"
   },
   {
     "id": "p17725558008563154",
@@ -31441,13 +42376,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_792531-MLB49656184567_042022-F.jpg"
     ],
+    "ean": "7899846061503",
+    "mlIds": [
+      "MLB19849592"
+    ],
+    "mlParentId": "MLB19849556",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "cabelo homem",
       "natura"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:40.856Z",
+    "updatedAt": "2026-03-03T16:36:40.856Z"
   },
   {
     "id": "p17725558008563156",
@@ -31459,13 +42402,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_863127-MLU75945864691_042024-F.jpg"
     ],
+    "ean": "7897984712196",
+    "mlIds": [
+      "MLB36070301"
+    ],
+    "mlParentId": "MLB36070298",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "cabelo homem",
       "vini lady"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:40.856Z",
+    "updatedAt": "2026-03-03T16:36:40.856Z"
   },
   {
     "id": "p17725558008573158",
@@ -31478,13 +42429,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_623013-MLA99881514463_112025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_763017-MLA85832810595_062025-F.jpg"
     ],
+    "ean": "7908289322604",
+    "mlIds": [
+      "MLB51094614"
+    ],
+    "mlParentId": "MLB51094613",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "cabelo homem",
       "macho-lândia"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:40.857Z",
+    "updatedAt": "2026-03-03T16:36:40.857Z"
   },
   {
     "id": "p17725558008573159",
@@ -31496,13 +42455,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_826450-MLA79581204562_102024-F.jpg"
     ],
+    "ean": "7898961139852",
+    "mlIds": [
+      "MLB38321915"
+    ],
+    "mlParentId": "MLB38321912",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "cabelo homem",
       "infinity aloe"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:40.857Z",
+    "updatedAt": "2026-03-03T16:36:40.857Z"
   },
   {
     "id": "p17725558008573160",
@@ -31518,13 +42485,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_698116-MLA98474048744_112025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_854047-MLA82735822785_022025-F.jpg"
     ],
+    "ean": "7897185008333",
+    "mlIds": [
+      "MLB20714974"
+    ],
+    "mlParentId": "MLB20714957",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "cabelo homem",
       "yabae"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:40.857Z",
+    "updatedAt": "2026-03-03T16:36:40.857Z"
   },
   {
     "id": "p17725558008573161",
@@ -31536,13 +42511,11 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_820598-MLA99878080061_112025-F.jpg"
     ],
-    "averageRating": 0,
-    "reviewCount": 0,
-    "prices": [],
-    "tags": [
-      "cabelo homem",
-      "o boticário"
+    "ean": "7891033502301",
+    "mlIds": [
+      "MLB28042147"
     ],
+    "mlParentId": "MLB28042145",
     "colors": [
       {
         "name": "Antioleosidade",
@@ -31552,7 +42525,16 @@ const catalogProducts = [
         "name": "Grisalhos Boticario",
         "image": "https://http2.mlstatic.com/D_NQ_NP_663389-MLA99844220623_112025-F.jpg"
       }
-    ]
+    ],
+    "averageRating": 0,
+    "reviewCount": 0,
+    "prices": [],
+    "tags": [
+      "cabelo homem",
+      "o boticário"
+    ],
+    "createdAt": "2026-03-03T16:36:40.857Z",
+    "updatedAt": "2026-03-03T16:36:40.857Z"
   },
   {
     "id": "p17725558008573162",
@@ -31564,13 +42546,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_910251-MLB74110431616_012024-F.jpg"
     ],
+    "ean": "7898567892748",
+    "mlIds": [
+      "MLB20747851"
+    ],
+    "mlParentId": "MLB20747839",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "cabelo homem",
       "abelha rainha"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:40.857Z",
+    "updatedAt": "2026-03-03T16:36:40.857Z"
   },
   {
     "id": "p17725558008573163",
@@ -31586,13 +42576,23 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_862085-MLU71044034994_082023-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_766575-MLU71043772086_082023-F.jpg"
     ],
+    "ean": "7899674037190",
+    "mlIds": [
+      "MLB21461982",
+      "MLB26005986",
+      "MLB25990972"
+    ],
+    "mlParentId": "MLB21461962",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "cabelo homem",
       "above"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:40.857Z",
+    "updatedAt": "2026-03-03T16:36:42.132Z"
   },
   {
     "id": "p17725558008573164",
@@ -31604,13 +42604,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_971046-MLB74245583693_012024-F.jpg"
     ],
+    "ean": "7899702305321",
+    "mlIds": [
+      "MLB20235441"
+    ],
+    "mlParentId": "MLB20235360",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "cabelo homem",
       "truh."
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:40.857Z",
+    "updatedAt": "2026-03-03T16:36:40.857Z"
   },
   {
     "id": "p17725558008573165",
@@ -31622,13 +42630,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_843850-MLU75938795168_042024-F.jpg"
     ],
+    "ean": "7894321597133",
+    "mlIds": [
+      "MLB36407161"
+    ],
+    "mlParentId": "MLB36407156",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "cabelo homem",
       "sir fausto"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:40.857Z",
+    "updatedAt": "2026-03-03T16:36:40.857Z"
   },
   {
     "id": "p17725558008573166",
@@ -31644,13 +42660,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_680288-MLA79567218269_092024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_731736-MLA79567218273_092024-F.jpg"
     ],
+    "ean": "7898971621729",
+    "mlIds": [
+      "MLB41204667"
+    ],
+    "mlParentId": "MLB41204664",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "cabelo homem",
       "xampu hidratação brilho oleosidade"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:40.857Z",
+    "updatedAt": "2026-03-03T16:36:40.857Z"
   },
   {
     "id": "p17725558008573167",
@@ -31664,13 +42688,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_692004-MLU76763199322_062024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_867004-MLU76968968723_062024-F.jpg"
     ],
+    "ean": "27899674035251",
+    "mlIds": [
+      "MLB37699392"
+    ],
+    "mlParentId": "MLB37699389",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "cabelo homem",
       "above"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:40.857Z",
+    "updatedAt": "2026-03-03T16:36:40.857Z"
   },
   {
     "id": "p17725558008573168",
@@ -31686,13 +42718,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_724836-MLU70841627756_082023-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_831005-MLU70841757134_082023-F.jpg"
     ],
+    "ean": "7894714242343",
+    "mlIds": [
+      "MLB25763454"
+    ],
+    "mlParentId": "MLB25763434",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "cabelo homem",
       "above"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:40.857Z",
+    "updatedAt": "2026-03-03T16:36:40.857Z"
   },
   {
     "id": "p17725558008583170",
@@ -31704,13 +42744,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_851092-MLA88821482817_072025-F.jpg"
     ],
+    "ean": "7898610372449",
+    "mlIds": [
+      "MLB19506522"
+    ],
+    "mlParentId": "MLB19506502",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "cabelo homem",
       "haskell"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:40.858Z",
+    "updatedAt": "2026-03-03T16:36:40.858Z"
   },
   {
     "id": "p17725558021293171",
@@ -31724,13 +42772,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_648131-MLA92572409954_092025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_755829-MLA92572331336_092025-F.jpg"
     ],
+    "ean": "7898602524481",
+    "mlIds": [
+      "MLB57251641"
+    ],
+    "mlParentId": "MLB57251638",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "cabelo homem",
       "viking"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:42.129Z",
+    "updatedAt": "2026-03-03T16:36:42.129Z"
   },
   {
     "id": "p17725558021293172",
@@ -31745,13 +42801,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_709641-MLA106308827425_012026-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_775644-MLA106309032329_012026-F.jpg"
     ],
+    "ean": "7895129539431",
+    "mlIds": [
+      "MLB65154748"
+    ],
+    "mlParentId": "MLB65154745",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "cabelo homem",
       "bell corpus"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:42.129Z",
+    "updatedAt": "2026-03-03T16:36:42.129Z"
   },
   {
     "id": "p17725558021293173",
@@ -31764,13 +42828,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_834902-MLA99362150692_112025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_725206-MLU73212776675_122023-F.jpg"
     ],
+    "ean": "618341196759",
+    "mlIds": [
+      "MLB22762262"
+    ],
+    "mlParentId": "MLB22762227",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "cabelo homem",
       "barba urbana"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:42.129Z",
+    "updatedAt": "2026-03-03T16:36:42.129Z"
   },
   {
     "id": "p17725558021293175",
@@ -31782,13 +42854,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_945687-MLB74135897924_012024-F.jpg"
     ],
+    "ean": "7898994841449",
+    "mlIds": [
+      "MLB20788325"
+    ],
+    "mlParentId": "MLB20788305",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "cabelo homem",
       "abioná"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:42.129Z",
+    "updatedAt": "2026-03-03T16:36:42.129Z"
   },
   {
     "id": "p17725558021293176",
@@ -31804,13 +42884,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_789276-MLA106814183412_022026-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_928355-MLA107487084707_022026-F.jpg"
     ],
+    "ean": "7903892976855",
+    "mlIds": [
+      "MLB65897203"
+    ],
+    "mlParentId": "MLB65897202",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "cabelo homem",
       "embaixador"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:42.129Z",
+    "updatedAt": "2026-03-03T16:36:42.129Z"
   },
   {
     "id": "p17725558021303177",
@@ -31822,13 +42910,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_669606-MLA84221949268_052025-F.jpg"
     ],
+    "ean": "7907318465213",
+    "mlIds": [
+      "MLB49214535"
+    ],
+    "mlParentId": "MLB49214528",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "cabelo homem",
       "siàge eudora"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:42.130Z",
+    "updatedAt": "2026-03-03T16:36:42.130Z"
   },
   {
     "id": "p17725558021303178",
@@ -31844,13 +42940,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_678057-MLA80923780395_112024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_974855-MLA80660369074_112024-F.jpg"
     ],
+    "ean": "7892561014205",
+    "mlIds": [
+      "MLB43687936"
+    ],
+    "mlParentId": "MLB43687934",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "cabelo homem",
       "cavalera"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:42.130Z",
+    "updatedAt": "2026-03-03T16:36:42.130Z"
   },
   {
     "id": "p17725558021303179",
@@ -31863,13 +42967,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_863775-MLA99823204367_112025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_817850-MLA79593470607_092024-F.jpg"
     ],
+    "ean": "7907135614900",
+    "mlIds": [
+      "MLB41234460"
+    ],
+    "mlParentId": "MLB41234459",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "cabelo homem",
       "bio extratus"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:42.130Z",
+    "updatedAt": "2026-03-03T16:36:42.130Z"
   },
   {
     "id": "p17725558021303180",
@@ -31881,13 +42993,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_949092-MLB74071628160_012024-F.jpg"
     ],
+    "ean": "7898158170620",
+    "mlIds": [
+      "MLB21549515"
+    ],
+    "mlParentId": "MLB21549495",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "cabelo homem",
       "lunix cosméticos"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:42.130Z",
+    "updatedAt": "2026-03-03T16:36:42.130Z"
   },
   {
     "id": "p17725558021303181",
@@ -31903,13 +43023,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_954430-MLA106811628952_022026-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_752976-MLA106811397342_022026-F.jpg"
     ],
+    "ean": "7699873876213",
+    "mlIds": [
+      "MLB65891311"
+    ],
+    "mlParentId": "MLB65891310",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "cabelo homem",
       "general"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:42.130Z",
+    "updatedAt": "2026-03-03T16:36:42.130Z"
   },
   {
     "id": "p17725558021303182",
@@ -31921,13 +43049,21 @@ const catalogProducts = [
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_614010-MLU75289767951_032024-F.jpg"
     ],
+    "ean": "7891033795703",
+    "mlIds": [
+      "MLB19703148"
+    ],
+    "mlParentId": "MLB19703129",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "cabelo homem",
       "o boticário"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:42.130Z",
+    "updatedAt": "2026-03-03T16:36:42.130Z"
   },
   {
     "id": "p17725558021303184",
@@ -31943,13 +43079,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_669290-MLA82502121656_022025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_734822-MLA82502286884_022025-F.jpg"
     ],
+    "ean": "7792716287785",
+    "mlIds": [
+      "MLB38672835"
+    ],
+    "mlParentId": "MLB38672834",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "cabelo homem",
       "nupill"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:42.130Z",
+    "updatedAt": "2026-03-03T16:36:42.130Z"
   },
   {
     "id": "p17725558021303185",
@@ -31962,13 +43106,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_755385-MLA99366486820_112025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_620760-MLA80320826019_102024-F.jpg"
     ],
+    "ean": "7898920501720",
+    "mlIds": [
+      "MLB36219726"
+    ],
+    "mlParentId": "MLB36219725",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "cabelo homem",
       "facinatus cosméticos"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:42.130Z",
+    "updatedAt": "2026-03-03T16:36:42.130Z"
   },
   {
     "id": "p17725558021303186",
@@ -31981,13 +43133,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_965809-MLB74246701383_012024-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_720910-MLU75881825131_042024-F.jpg"
     ],
+    "ean": "7908371628539",
+    "mlIds": [
+      "MLB19704272"
+    ],
+    "mlParentId": "MLB19704253",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "cabelo homem",
       "natura"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:42.130Z",
+    "updatedAt": "2026-03-03T16:36:42.130Z"
   },
   {
     "id": "p17725558021303187",
@@ -32000,13 +43160,21 @@ const catalogProducts = [
       "https://http2.mlstatic.com/D_NQ_NP_797508-MLU73592001760_122023-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_655855-MLU69139267232_042023-F.jpg"
     ],
+    "ean": "7898824523262",
+    "mlIds": [
+      "MLB22921262"
+    ],
+    "mlParentId": "MLB22921219",
+    "colors": [],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
     "tags": [
       "cabelo homem",
       "diamante profissional"
-    ]
+    ],
+    "createdAt": "2026-03-03T16:36:42.130Z",
+    "updatedAt": "2026-03-03T16:36:42.130Z"
   }
 ] as Product[];
 

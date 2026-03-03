@@ -104,13 +104,27 @@ const KEYWORD_RULES: KeywordRule[] = [
     keywords: ['corretivo', 'corretor', 'concealer', 'anti olheira', 'cobertura olheira'],
     category: 'Corretivo',
   },
+  // ── Esponjas e Pincéis (ANTES de Pó Facial para não capturar "pincel de pó") ─
+  {
+    keywords: [
+      'esponja maquiagem', 'esponja para base', 'esponja para po', 'esponja para pó',
+      'beauty blender', 'beautyblender',
+      'pincel maquiagem', 'pincel para po', 'pincel para pó', 'pincel de po', 'pincel de pó',
+      'escova de po', 'escova de pó', 'escova facial', 'escova de maquiagem',
+      'kit esponjas', 'kit pinceis', 'kit pincel', 'kit de pinceis', 'kit de pincel',
+      'esponja aplicador', 'puff de po', 'puff de pó', 'almofada de po', 'almofada de pó',
+      'kabuki brush', 'kabuki',
+      'brush set', 'makeup brush', 'contour brush', 'blush brush', 'powder brush',
+    ],
+    category: 'Esponjas e Pincéis',
+  },
   // ── Pó Facial (antes de Base) ─────────────────────────────────────────────
   {
     keywords: [
       'po compacto', 'pó compacto', 'po facial', 'pó facial', 'po translucido', 'pó translúcido',
       'po solto', 'pó solto', 'setting powder', 'loose powder', 'pressed powder', 'po fixador',
       'pó matificante', 'po matificante', 'pó banana', 'po banana', 'pó mineral', 'po mineral',
-      'pó hd', 'po HD', 'pó iluminador', 'face powder', 'pó de arroz', 'po de arroz',
+      'pó hd', 'po HD', 'face powder', 'pó de arroz', 'po de arroz',
     ],
     category: 'Pó Facial',
   },
@@ -157,10 +171,6 @@ const KEYWORD_RULES: KeywordRule[] = [
   {
     keywords: ['contorno', 'contour', 'bronzer'],
     category: 'Contorno',
-  },
-  {
-    keywords: ['esponja maquiagem', 'esponja para base', 'beauty blender', 'pincel maquiagem', 'kit esponjas', 'esponja aplicador'],
-    category: 'Esponjas e Pincéis',
   },
   // ── Skincare ───────────────────────────────────────────────────────────────
   {
