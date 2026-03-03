@@ -6,8 +6,8 @@ const nextConfig: NextConfig = {
       { protocol: "https", hostname: "images.unsplash.com" },
       { protocol: "https", hostname: "picsum.photos" },
       // Mercado Livre CDN — cobre http2.mlstatic.com, mlb-s1-p.mlstatic.com, etc.
-      { protocol: "https", hostname: "**.mlstatic.com" },
-      { protocol: "http",  hostname: "**.mlstatic.com" },
+      { protocol: "https", hostname: "*.mlstatic.com" },
+      { protocol: "http",  hostname: "*.mlstatic.com" },
       // Open Beauty Facts
       { protocol: "https", hostname: "images.openbeautyfacts.org" },
       { protocol: "https", hostname: "static.openfoodfacts.org" },
