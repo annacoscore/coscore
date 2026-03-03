@@ -78,6 +78,29 @@ function isAdultProduct(name: string, brand: string): boolean {
   return BLOCKED_BRANDS_RE.test(brand) || BLOCKED_NAME_RE.test(name);
 }
 
+// ─── Conversão RGB → nome de tom legível para bases/maquiagem ────────────────
+function rgbHexToToneName(hex: string): string {
+  const h = hex.replace('#', '').padEnd(6, '0');
+  const r = parseInt(h.slice(0, 2), 16);
+  const g = parseInt(h.slice(2, 4), 16);
+  const b = parseInt(h.slice(4, 6), 16);
+  const lum = 0.2126 * r + 0.7152 * g + 0.0722 * b;
+  const max = Math.max(r, g, b), min = Math.min(r, g, b);
+  const sat = max === 0 ? 0 : (max - min) / max;
+  const isWarm = r > b + 20;
+  const isCool = b > r + 10;
+  const isRosy = r > g + 20 && r > b;
+  const isGolden = r > g && g > b && sat > 0.25;
+  if (lum > 210) return 'Perolado';
+  if (lum > 185) return isGolden ? 'Dourado Claro' : isCool ? 'Rosa Claro' : 'Porcelana';
+  if (lum > 160) return isRosy ? 'Rosa' : isGolden ? 'Dourado' : isWarm ? 'Bege Claro' : 'Nude Claro';
+  if (lum > 130) return isRosy ? 'Rosé' : isGolden ? 'Champagne' : isWarm ? 'Bege' : 'Nude';
+  if (lum > 100) return isWarm ? 'Bege Médio' : isCool ? 'Amêndoa Fria' : 'Amêndoa';
+  if (lum > 70)  return isWarm ? 'Mel' : 'Cacau';
+  if (lum > 45)  return isWarm ? 'Caramelo Escuro' : 'Café';
+  return 'Ébano';
+}
+
 // ─── Filtro de acessórios/não-cosméticos ──────────────────────────────────────
 // Remove pincéis, kits de ferramentas, borrachas e outros itens que não são
 // o produto cosmético em si (e que contaminam o catálogo com entradas inúteis).
@@ -145,9 +168,18 @@ export function buildEntry(product: MLCatalogProduct, stats: Stats): CatalogEntr
     // Extrai marca do título se não veio dos atributos
     const finalBrand = brand || extractBrandFromTitle(name);
 
-    // Normaliza cor: descarta valores genéricos/inúteis
+    // Normaliza cor — tenta COLOR, RGB_COLOR (hex→nome), ou código no nome
     const JUNK_COLORS = new Set(['batom', 'base', 'produto', 'sem cor', 'outro', 'multicolor', 'multicor', 'única', 'unica', '']);
-    const colorName = colorRaw && !JUNK_COLORS.has(colorRaw.toLowerCase().trim()) ? colorRaw.trim() : '';
+    let colorName = colorRaw && !JUNK_COLORS.has(colorRaw.toLowerCase().trim()) ? colorRaw.trim() : '';
+
+    // Fallback: RGB_COLOR hex → nome de tom legível
+    if (!colorName) {
+      const rgbHex = extractAttribute(product.attributes, 'RGB_COLOR') ?? '';
+      if (rgbHex && /^[0-9A-Fa-f]{6}$/i.test(rgbHex.replace('#', ''))) {
+        colorName = rgbHexToToneName(rgbHex);
+      }
+    }
+
     const colorVariant: ColorVariant | null = colorName ? { name: colorName, image: images[0] } : null;
 
     const now = new Date().toISOString();

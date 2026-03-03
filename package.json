@@ -19,7 +19,10 @@
     "assign-ml-images": "tsx scripts/assign-ml-images.ts",
     "sync-affiliates": "tsx scripts/sync-affiliates.ts",
     "sync-openbeauty": "tsx scripts/sync-openbeauty.ts",
-    "sync-manual": "tsx scripts/sync-manual.ts"
+    "sync-manual": "tsx scripts/sync-manual.ts",
+    "enrich-colors": "tsx scripts/enrich-colors.ts",
+    "enrich-colors:dry": "tsx scripts/enrich-colors.ts --dry-run",
+    "export-catalog": "node scripts/export-catalog.js"
   },
   "dependencies": {
     "@types/nodemailer": "^7.0.11",
