@@ -8109,7 +8109,7 @@ const catalogProducts = [
     "id": "p17725556552330448",
     "name": "Pó Facial Contorno Escuro Compacto - Belas Garden",
     "brand": "Belas Garden",
-    "category": "Pó Facial",
+    "category": "Contorno/Bronzer",
     "description": "O Contorno Escuro Belas Garden foi desenvolvido para oferecer pigmentação ideal em contorno que não manche sua pele e maquiagem. Este contorno é macio, esfuma facilmente e permite construir camadas até atingir a cor desejada.\n\nO que o Contorno Escuro tem de diferente?  \nPigmenta na medida certa, sem manchar a pele, pois esfuma bem e constrói a pigmentação com leveza.  \n\nPor que sua pele vai amar?  \nProporciona cor maravilhosa, trazendo o sombreamento natural de sua face.  \n\nComo aplicar:  \nApós",
     "image": "https://http2.mlstatic.com/D_NQ_NP_988015-MLA98242411671_112025-F.jpg",
     "images": [
@@ -8137,7 +8137,7 @@ const catalogProducts = [
     "id": "p17725556590830527",
     "name": "Pó Facial Triangular Sibba De , Pó Cos",
     "brand": "Sibba",
-    "category": "Pó Facial",
+    "category": "Esponjas e Pincéis",
     "description": "Pó Facial Triangular Sibba De , Pó Cos - Sibba",
     "image": "https://http2.mlstatic.com/D_NQ_NP_947413-MLA95352683797_102025-F.jpg",
     "images": [
@@ -8399,7 +8399,7 @@ const catalogProducts = [
     "id": "p17725556783760897",
     "name": "Iluminador Pó Solto Trezz",
     "brand": "Trezz",
-    "category": "Pó Facial",
+    "category": "Iluminador",
     "description": "Iluminador Pó Solto Bronze Trezz\n\nO Pó Iluminador realça o brilho natural da pele, proporcionando uma pele viçosa e iluminada, num tom perolado, lindo e delicado. Com 6g de produto, este iluminador em pó solto é ideal para quem busca um acabamento radiante e sofisticado. Sua fórmula leve e não voável permite uma aplicação fácil e precisa, garantindo que você possa destacar as áreas do rosto que deseja, como maçãs do rosto, arco do cupido e abaixo das sobrancelhas. A embalagem contém 1 frasco de",
     "image": "https://http2.mlstatic.com/D_NQ_NP_767778-MLU76034891680_052024-F.jpg",
     "images": [
