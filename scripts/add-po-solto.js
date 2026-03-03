@@ -4,6 +4,7 @@
 const https = require('https');
 const fs = require('fs');
 const path = require('path');
+const { fetchColorVariants } = require('./lib/fetch-colors');
 
 const TOKEN = 'APP_USR-1664631224999083-030312-f10c634374533b2d59777a1ec2b5e09c-3238361303';
 
@@ -89,11 +90,11 @@ async function fetchProduct(mlId) {
   const brand = extractAttr(d.attributes, 'BRAND') || name.split(' ')[0];
   const category = inferCategory(name);
 
-  // Variantes de cor
-  const colorRaw = extractAttr(d.attributes, 'COLOR');
-  const colors = colorRaw && colorRaw.toLowerCase() !== 'sem cor' && colorRaw.toLowerCase() !== 'única'
-    ? [{ name: colorRaw, image: images[0] }]
-    : [];
+  // Busca TODAS as variações de cor para evitar duplicatas de produto
+  const colors = await fetchColorVariants(TOKEN, mlId, name, brand);
+  if (colors.length > 0) {
+    console.log(`    cores: ${colors.map(c => c.name).join(', ')}`);
+  }
 
   const description = (d.short_description?.content || d.name || '').trim();
 

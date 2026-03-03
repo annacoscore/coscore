@@ -44399,7 +44399,12 @@ const catalogProducts = [
     "https://http2.mlstatic.com/D_NQ_NP_799114-MLA100268164513_122025-F.jpg",
     "https://http2.mlstatic.com/D_NQ_NP_644881-MLA100268193027_122025-F.jpg"
   ],
-  "colors": [],
+  "colors": [
+      {
+        "name": "TranslúCido",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_731703-MLU76739784770_062024-F.jpg"
+      }
+    ],
   "averageRating": 0,
   "reviewCount": 0,
   "prices": [],
