@@ -36,7 +36,7 @@ const REQUIRED_COLUMNS = ['name', 'brand', 'category'] as const;
 
 const VALID_CATEGORIES = new Set<Category>([
   'Batom', 'Base', 'Máscara de Cílios', 'Sombra', 'Blush', 'Iluminador',
-  'Sérum', 'Hidratante', 'Protetor Solar', 'Perfume', 'Primer', 'Contorno',
+  'Sérum', 'Hidratante', 'Protetor Solar', 'Perfume', 'Primer', 'Contorno/Bronzer',
 ]);
 
 // ─── Parser CSV ───────────────────────────────────────────────────────────────

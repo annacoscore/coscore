@@ -65,7 +65,7 @@ const CATEGORY_QUERIES: Record<string, string[]> = {
   'Delineador': ['delineador eyeliner'],
   'Blush': ['blush rouge', 'blush compacto'],
   'Iluminador': ['iluminador highlighter'],
-  'Contorno': ['contorno bronzer', 'bronzer'],
+  'Contorno/Bronzer': ['contorno bronzer', 'bronzer', 'bronzer contouring'],
   'Esponjas e Pincéis': ['esponja maquiagem', 'beauty blender', 'pincel maquiagem'],
   'Sérum': ['serum facial vitamina c', 'sérum retinol', 'acido hialuronico'],
   'Hidratante': ['hidratante facial', 'creme hidratante corporal'],

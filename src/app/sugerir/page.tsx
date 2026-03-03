@@ -7,7 +7,7 @@ import { Category, getCategoryDisplayName } from "@/types";
 
 const CATEGORIAS: Category[] = [
   "Batom", "Base", "Máscara de Cílios", "Sombra", "Blush", "Iluminador",
-  "Primer", "Contorno", "Sérum", "Hidratante", "Protetor Solar",
+  "Primer", "Contorno/Bronzer", "Sérum", "Hidratante", "Protetor Solar",
   "Tônico Facial", "Limpeza Facial", "Máscara Facial", "Esfoliante",
   "Creme para Olhos", "Perfume", "Perfume Homem", "Shampoo", "Condicionador",
   "Máscara Capilar", "Leave-in", "Óleo Capilar", "Tintura", "Finalizador", "Cabelo Homem",

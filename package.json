@@ -22,7 +22,8 @@
     "sync-manual": "tsx scripts/sync-manual.ts",
     "enrich-colors": "tsx scripts/enrich-colors.ts",
     "enrich-colors:dry": "tsx scripts/enrich-colors.ts --dry-run",
-    "export-catalog": "node scripts/export-catalog.js"
+    "export-catalog": "node scripts/export-catalog.js",
+    "enrich-contorno-blush": "tsx scripts/enrich-contorno-blush.ts"
   },
   "dependencies": {
     "@types/nodemailer": "^7.0.11",

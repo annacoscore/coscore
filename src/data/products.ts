@@ -1,6 +1,6 @@
 // @ts-nocheck — arquivo gerado automaticamente, não editar manualmente
 // Catálogo 100% Mercado Livre — gerado por scripts/export-catalog.js
-// Última atualização: 2026-03-03T18:16:37.887Z
+// Última atualização: 2026-03-03T18:29:58.988Z
 // Total: 1441 produtos
 import type { Product } from '../types';
 
@@ -16339,7 +16339,12 @@ const catalogProducts = [
       "MLB36604633"
     ],
     "mlParentId": "MLB36604630",
-    "colors": [],
+    "colors": [
+      {
+        "name": "Blush",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_959777-MLU77968957290_082024-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -16348,7 +16353,7 @@ const catalogProducts = [
       "merit"
     ],
     "createdAt": "2026-03-03T16:34:59.482Z",
-    "updatedAt": "2026-03-03T16:34:59.482Z"
+    "updatedAt": "2026-03-03T18:28:50.642Z"
   },
   {
     "id": "p17725556994831315",
@@ -16365,7 +16370,12 @@ const catalogProducts = [
       "MLB39460311"
     ],
     "mlParentId": "MLB39460310",
-    "colors": [],
+    "colors": [
+      {
+        "name": "Blush",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_765887-MLU78421152546_082024-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -16374,7 +16384,7 @@ const catalogProducts = [
       "mua make up academy"
     ],
     "createdAt": "2026-03-03T16:34:59.483Z",
-    "updatedAt": "2026-03-03T16:34:59.483Z"
+    "updatedAt": "2026-03-03T18:28:53.417Z"
   },
   {
     "id": "p17725556994831316",
@@ -16395,7 +16405,12 @@ const catalogProducts = [
       "MLB52102503"
     ],
     "mlParentId": "MLB52102502",
-    "colors": [],
+    "colors": [
+      {
+        "name": "Blush",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_644231-MLA87394996515_072025-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -16404,7 +16419,7 @@ const catalogProducts = [
       "dailus"
     ],
     "createdAt": "2026-03-03T16:34:59.483Z",
-    "updatedAt": "2026-03-03T16:34:59.483Z"
+    "updatedAt": "2026-03-03T18:28:56.533Z"
   },
   {
     "id": "p17725556994831317",
@@ -16429,6 +16444,10 @@ const catalogProducts = [
       {
         "name": "900 P",
         "image": "https://http2.mlstatic.com/D_NQ_NP_802967-MLA87167279645_072025-F.jpg"
+      },
+      {
+        "name": "Blush",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_802967-MLA87167279645_072025-F.jpg"
       }
     ],
     "averageRating": 0,
@@ -16439,7 +16458,7 @@ const catalogProducts = [
       "lancôme"
     ],
     "createdAt": "2026-03-03T16:34:59.483Z",
-    "updatedAt": "2026-03-03T18:14:28.484Z"
+    "updatedAt": "2026-03-03T18:29:34.377Z"
   },
   {
     "id": "p17725556994831318",
@@ -16457,7 +16476,24 @@ const catalogProducts = [
       "MLB28626689"
     ],
     "mlParentId": "MLB26783781",
-    "colors": [],
+    "colors": [
+      {
+        "name": "Violeta-claro",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_697937-MLU72675282840_112023-F.jpg"
+      },
+      {
+        "name": "Carnival",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_760111-MLU74730488074_032024-F.jpg"
+      },
+      {
+        "name": "Acaí berry",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_832096-MLU72748193823_112023-F.jpg"
+      },
+      {
+        "name": "[Labiales]",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_613583-MLU73963636492_012024-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -16466,7 +16502,7 @@ const catalogProducts = [
       "physicians formula"
     ],
     "createdAt": "2026-03-03T16:34:59.483Z",
-    "updatedAt": "2026-03-03T16:34:59.483Z"
+    "updatedAt": "2026-03-03T18:28:59.008Z"
   },
   {
     "id": "p17725556994831319",
@@ -16547,6 +16583,10 @@ const catalogProducts = [
       {
         "name": "Po",
         "image": "https://http2.mlstatic.com/D_NQ_NP_799022-MLA83305553628_042025-F.jpg"
+      },
+      {
+        "name": "Blush",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_799022-MLA83305553628_042025-F.jpg"
       }
     ],
     "averageRating": 0,
@@ -16557,7 +16597,7 @@ const catalogProducts = [
       "dior"
     ],
     "createdAt": "2026-03-03T16:34:59.483Z",
-    "updatedAt": "2026-03-03T16:34:59.483Z"
+    "updatedAt": "2026-03-03T18:29:36.574Z"
   },
   {
     "id": "p17725556994841321",
@@ -16578,6 +16618,10 @@ const catalogProducts = [
       {
         "name": "640 Rouge",
         "image": "https://http2.mlstatic.com/D_NQ_NP_727637-MLA81733842307_012025-F.jpg"
+      },
+      {
+        "name": "Rosa Claro",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_755903-MLU73802942555_012024-F.jpg"
       }
     ],
     "averageRating": 0,
@@ -16588,7 +16632,7 @@ const catalogProducts = [
       "l'oréal paris"
     ],
     "createdAt": "2026-03-03T16:34:59.484Z",
-    "updatedAt": "2026-03-03T18:14:32.283Z"
+    "updatedAt": "2026-03-03T18:29:38.894Z"
   },
   {
     "id": "p17725556994841322",
@@ -16606,7 +16650,12 @@ const catalogProducts = [
       "MLB36154594"
     ],
     "mlParentId": "MLB36154586",
-    "colors": [],
+    "colors": [
+      {
+        "name": "Blush",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_912104-MLU75794508778_042024-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -16615,7 +16664,7 @@ const catalogProducts = [
       "blush"
     ],
     "createdAt": "2026-03-03T16:34:59.484Z",
-    "updatedAt": "2026-03-03T16:34:59.484Z"
+    "updatedAt": "2026-03-03T18:29:01.930Z"
   },
   {
     "id": "p17725556994841323",
@@ -16636,6 +16685,10 @@ const catalogProducts = [
       {
         "name": "10",
         "image": "https://http2.mlstatic.com/D_NQ_NP_806357-MLU73423383695_122023-F.jpg"
+      },
+      {
+        "name": "Blush",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_806357-MLU73423383695_122023-F.jpg"
       }
     ],
     "averageRating": 0,
@@ -16646,7 +16699,7 @@ const catalogProducts = [
       "fenzza"
     ],
     "createdAt": "2026-03-03T16:34:59.484Z",
-    "updatedAt": "2026-03-03T18:14:33.889Z"
+    "updatedAt": "2026-03-03T18:29:41.988Z"
   },
   {
     "id": "p17725556994841324",
@@ -16664,7 +16717,12 @@ const catalogProducts = [
       "MLB32481875"
     ],
     "mlParentId": "MLB32481871",
-    "colors": [],
+    "colors": [
+      {
+        "name": "Blush",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_694878-MLU78169199308_082024-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -16673,7 +16731,7 @@ const catalogProducts = [
       "j cat"
     ],
     "createdAt": "2026-03-03T16:34:59.484Z",
-    "updatedAt": "2026-03-03T16:34:59.484Z"
+    "updatedAt": "2026-03-03T18:29:04.380Z"
   },
   {
     "id": "p17725556994841327",
@@ -16690,7 +16748,12 @@ const catalogProducts = [
       "MLB55771701"
     ],
     "mlParentId": "MLB54932777",
-    "colors": [],
+    "colors": [
+      {
+        "name": "Blush",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_826740-MLA91813534862_092025-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -16699,7 +16762,7 @@ const catalogProducts = [
       "nobrand"
     ],
     "createdAt": "2026-03-03T16:34:59.484Z",
-    "updatedAt": "2026-03-03T16:34:59.484Z"
+    "updatedAt": "2026-03-03T18:29:07.066Z"
   },
   {
     "id": "p17725556994841328",
@@ -16732,6 +16795,10 @@ const catalogProducts = [
       {
         "name": "219 Rose",
         "image": "https://http2.mlstatic.com/D_NQ_NP_807204-MLA82713437651_022025-F.jpg"
+      },
+      {
+        "name": "Blush",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_872745-MLA83182119852_042025-F.jpg"
       }
     ],
     "averageRating": 0,
@@ -16742,7 +16809,7 @@ const catalogProducts = [
       "dior"
     ],
     "createdAt": "2026-03-03T16:34:59.484Z",
-    "updatedAt": "2026-03-03T18:14:37.137Z"
+    "updatedAt": "2026-03-03T18:29:43.919Z"
   },
   {
     "id": "p17725556994841330",
@@ -16759,7 +16826,12 @@ const catalogProducts = [
       "MLB27332629"
     ],
     "mlParentId": "MLB27332628",
-    "colors": [],
+    "colors": [
+      {
+        "name": "Rosa Bebê",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_812212-MLA79829187123_102024-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -16768,7 +16840,7 @@ const catalogProducts = [
       "anna stein"
     ],
     "createdAt": "2026-03-03T16:34:59.484Z",
-    "updatedAt": "2026-03-03T16:34:59.484Z"
+    "updatedAt": "2026-03-03T18:29:10.442Z"
   },
   {
     "id": "p17725556994841332",
@@ -16786,7 +16858,12 @@ const catalogProducts = [
       "MLB42452701"
     ],
     "mlParentId": "MLB42163043",
-    "colors": [],
+    "colors": [
+      {
+        "name": "Preto",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_812985-MLA80033365991_102024-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -16795,7 +16872,7 @@ const catalogProducts = [
       "l.a. colors"
     ],
     "createdAt": "2026-03-03T16:34:59.484Z",
-    "updatedAt": "2026-03-03T16:34:59.484Z"
+    "updatedAt": "2026-03-03T18:29:12.848Z"
   },
   {
     "id": "p17725556994841334",
@@ -16814,7 +16891,28 @@ const catalogProducts = [
       "MLB43950207"
     ],
     "mlParentId": "MLB43950202",
-    "colors": [],
+    "colors": [
+      {
+        "name": "02",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_675550-MLA92292845648_092025-F.jpg"
+      },
+      {
+        "name": "05",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_929714-MLA91581113109_092025-F.jpg"
+      },
+      {
+        "name": "03",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_613733-MLA91581587393_092025-F.jpg"
+      },
+      {
+        "name": "06",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_898568-MLA92122502518_092025-F.jpg"
+      },
+      {
+        "name": "04",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_925525-MLA92956775971_092025-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -16823,7 +16921,7 @@ const catalogProducts = [
       "koasis"
     ],
     "createdAt": "2026-03-03T16:34:59.484Z",
-    "updatedAt": "2026-03-03T16:34:59.484Z"
+    "updatedAt": "2026-03-03T18:29:16.614Z"
   },
   {
     "id": "p17725556994851340",
@@ -16844,7 +16942,20 @@ const catalogProducts = [
       "MLB65534432"
     ],
     "mlParentId": "MLB65534429",
-    "colors": [],
+    "colors": [
+      {
+        "name": "Rosa",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_691013-MLU75330555386_032024-F.jpg"
+      },
+      {
+        "name": "Nude",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_737912-MLU74865817682_032024-F.jpg"
+      },
+      {
+        "name": "Laranja",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_684728-MLB74033838596_012024-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -16853,7 +16964,7 @@ const catalogProducts = [
       "clinique"
     ],
     "createdAt": "2026-03-03T16:34:59.485Z",
-    "updatedAt": "2026-03-03T16:34:59.485Z"
+    "updatedAt": "2026-03-03T18:29:19.486Z"
   },
   {
     "id": "p17725556994851341",
@@ -16876,6 +16987,10 @@ const catalogProducts = [
       {
         "name": "02 Regal",
         "image": "https://http2.mlstatic.com/D_NQ_NP_956430-MLA81256463531_122024-F.jpg"
+      },
+      {
+        "name": "Blush",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_956430-MLA81256463531_122024-F.jpg"
       }
     ],
     "averageRating": 0,
@@ -16886,7 +17001,7 @@ const catalogProducts = [
       "kiko milano"
     ],
     "createdAt": "2026-03-03T16:34:59.485Z",
-    "updatedAt": "2026-03-03T18:14:41.925Z"
+    "updatedAt": "2026-03-03T18:29:46.512Z"
   },
   {
     "id": "p17725556994851342",
@@ -16914,6 +17029,10 @@ const catalogProducts = [
       {
         "name": "219 Rose",
         "image": "https://http2.mlstatic.com/D_NQ_NP_831947-MLA94138174061_102025-F.jpg"
+      },
+      {
+        "name": "Vermelho",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_812346-MLA94286448156_102025-F.jpg"
       }
     ],
     "averageRating": 0,
@@ -16924,7 +17043,7 @@ const catalogProducts = [
       "dior"
     ],
     "createdAt": "2026-03-03T16:34:59.485Z",
-    "updatedAt": "2026-03-03T18:14:43.037Z"
+    "updatedAt": "2026-03-03T18:29:49.412Z"
   },
   {
     "id": "p17725556994851344",
@@ -16947,6 +17066,10 @@ const catalogProducts = [
       {
         "name": "10",
         "image": "https://http2.mlstatic.com/D_NQ_NP_707485-MLU78232248845_082024-F.jpg"
+      },
+      {
+        "name": "Blush",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_707485-MLU78232248845_082024-F.jpg"
       }
     ],
     "averageRating": 0,
@@ -16957,7 +17080,7 @@ const catalogProducts = [
       "fenzza"
     ],
     "createdAt": "2026-03-03T16:34:59.485Z",
-    "updatedAt": "2026-03-03T18:14:43.598Z"
+    "updatedAt": "2026-03-03T18:29:51.771Z"
   },
   {
     "id": "p17725556994851345",
@@ -16984,6 +17107,10 @@ const catalogProducts = [
       {
         "name": "200",
         "image": "https://http2.mlstatic.com/D_NQ_NP_822240-MLA87188376170_072025-F.jpg"
+      },
+      {
+        "name": "Blush",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_713417-MLA91024216380_092025-F.jpg"
       }
     ],
     "averageRating": 0,
@@ -16994,7 +17121,7 @@ const catalogProducts = [
       "nobrand"
     ],
     "createdAt": "2026-03-03T16:34:59.485Z",
-    "updatedAt": "2026-03-03T18:14:44.731Z"
+    "updatedAt": "2026-03-03T18:29:54.221Z"
   },
   {
     "id": "p17725557008711351",
@@ -17013,7 +17140,12 @@ const catalogProducts = [
       "MLB37043615"
     ],
     "mlParentId": "MLB37043614",
-    "colors": [],
+    "colors": [
+      {
+        "name": "Blush",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_732104-MLU78609610824_082024-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -17022,7 +17154,7 @@ const catalogProducts = [
       "ruby rose"
     ],
     "createdAt": "2026-03-03T16:35:00.871Z",
-    "updatedAt": "2026-03-03T16:35:00.871Z"
+    "updatedAt": "2026-03-03T18:29:22.414Z"
   },
   {
     "id": "p17725557008711352",
@@ -17092,6 +17224,10 @@ const catalogProducts = [
       {
         "name": "C201",
         "image": "https://http2.mlstatic.com/D_NQ_NP_972413-MLA89452371743_082025-F.jpg"
+      },
+      {
+        "name": "Blush",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_632497-MLA89348600449_082025-F.jpg"
       }
     ],
     "averageRating": 0,
@@ -17102,7 +17238,7 @@ const catalogProducts = [
       "magefy"
     ],
     "createdAt": "2026-03-03T16:35:00.872Z",
-    "updatedAt": "2026-03-03T18:14:48.006Z"
+    "updatedAt": "2026-03-03T18:29:58.860Z"
   },
   {
     "id": "p17725557008721366",
@@ -17123,7 +17259,12 @@ const catalogProducts = [
       "MLB61977568"
     ],
     "mlParentId": "MLB61977567",
-    "colors": [],
+    "colors": [
+      {
+        "name": "Blush",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_848519-MLA97743170473_112025-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -17132,7 +17273,7 @@ const catalogProducts = [
       "catrice"
     ],
     "createdAt": "2026-03-03T16:35:00.872Z",
-    "updatedAt": "2026-03-03T16:35:00.872Z"
+    "updatedAt": "2026-03-03T18:29:24.840Z"
   },
   {
     "id": "p17725557008721369",
@@ -17150,7 +17291,12 @@ const catalogProducts = [
       "MLB58878400"
     ],
     "mlParentId": "MLB29170581",
-    "colors": [],
+    "colors": [
+      {
+        "name": "Blush",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_757528-MLA94053853669_102025-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -17159,7 +17305,7 @@ const catalogProducts = [
       "ruby rose"
     ],
     "createdAt": "2026-03-03T16:35:00.872Z",
-    "updatedAt": "2026-03-03T16:35:00.872Z"
+    "updatedAt": "2026-03-03T18:29:27.071Z"
   },
   {
     "id": "p17725557008731377",
@@ -17177,7 +17323,12 @@ const catalogProducts = [
       "MLB27185141"
     ],
     "mlParentId": "MLB26608682",
-    "colors": [],
+    "colors": [
+      {
+        "name": "Blush",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_885024-MLU71875299151_092023-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -17186,7 +17337,7 @@ const catalogProducts = [
       "shein"
     ],
     "createdAt": "2026-03-03T16:35:00.873Z",
-    "updatedAt": "2026-03-03T16:35:00.873Z"
+    "updatedAt": "2026-03-03T18:29:29.449Z"
   },
   {
     "id": "p17725558085103247",
@@ -17206,7 +17357,12 @@ const catalogProducts = [
       "MLB50166077"
     ],
     "mlParentId": "MLB50166076",
-    "colors": [],
+    "colors": [
+      {
+        "name": "Blush",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_836099-MLA84883981531_052025-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -17215,7 +17371,7 @@ const catalogProducts = [
       "mascavo"
     ],
     "createdAt": "2026-03-03T16:36:48.510Z",
-    "updatedAt": "2026-03-03T16:36:48.510Z"
+    "updatedAt": "2026-03-03T18:29:31.929Z"
   },
   {
     "id": "p17725557034141383",
@@ -17941,7 +18097,7 @@ const catalogProducts = [
     "id": "p17725557074511417",
     "name": "Contorno Bronzer Cremoso Em Bastão Stick Sunkis -ruby Desert Haze",
     "brand": "Ruby Rose",
-    "category": "Contorno",
+    "category": "Contorno/Bronzer",
     "description": "O Bronzer Sun Kiss da Ruby Rose é a escolha ideal para quem quer um contorno natural e com aquele toque saudável de verão. Sua textura cremosa e prática embalagem em stick fazem da aplicação um momento super fácil e rápido, garantindo um acabamento perfeito. É ideal para peles secas, oferecendo um efeito luminoso e hidratante, deixando a pele com um toque suave e um lindo \"queimadinho de sol\". \n\nModo de uso: \n\nAplique o produto na pele e esfume com a ajuda de um pincel ou esponjinha. \n\nIngredien",
     "image": "https://http2.mlstatic.com/D_NQ_NP_994401-MLA82051690973_012025-F.jpg",
     "images": [
@@ -17993,7 +18149,7 @@ const catalogProducts = [
     "id": "p17725557074521424",
     "name": "Contorno Matte Bronzer - Hot Makeup",
     "brand": "Hot Makeup",
-    "category": "Contorno",
+    "category": "Contorno/Bronzer",
     "description": "Crie o contorno do seu rosto com o bronzer da Hot Makeup. Com aspecto de bronze natural, este produto proporciona à sua pele um visual mate e delicado.\n\nPara realçar o formato do seu rosto, utilize uma tonalidade mais escura que a sua pele, aplicando-a desde a têmpora, passando pela bochecha e ao longo da linha da mandíbula. Com o produto que restar no pincel, esfume suavemente a linha de contorno do cabelo.\n\nIngredientes: Mica, Petrolatum, Pentaerythrityl Tetraisostearate, Magnesium Stearate, P",
     "image": "https://http2.mlstatic.com/D_NQ_NP_996572-MLU74333239185_012024-F.jpg",
     "images": [
@@ -18009,7 +18165,20 @@ const catalogProducts = [
       "MLB31055028"
     ],
     "mlParentId": "MLB31055027",
-    "colors": [],
+    "colors": [
+      {
+        "name": "Cheers",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_989280-MLA81063610886_122024-F.jpg"
+      },
+      {
+        "name": "Satisfied",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_633626-MLU75985272420_052024-F.jpg"
+      },
+      {
+        "name": "IML49 Refuse It",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_747820-MLU78765488493_082024-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -18018,13 +18187,13 @@ const catalogProducts = [
       "hot makeup"
     ],
     "createdAt": "2026-03-03T16:35:07.452Z",
-    "updatedAt": "2026-03-03T16:35:08.729Z"
+    "updatedAt": "2026-03-03T18:27:25.957Z"
   },
   {
     "id": "p17725557074521426",
     "name": "Ana Glow - Contorno Compacto -",
     "brand": "ANAGLOW",
-    "category": "Contorno",
+    "category": "Contorno/Bronzer",
     "description": "Contorno em Pó compacto  \n\n- Efeito bronzer;  \n\n- Cor versátil;  \n\n- Fácil aplicação;  \n\n- Textura macia.  \n\nApresentação: 10g  \n\nDescubra a versatilidade do 'Ana Glow - Contorno Compacto', ideal para realçar a beleza natural do seu rosto. Com um tom de bronzer gold, este produto proporciona um acabamento radiante e saudável, perfeito para qualquer ocasião. Sua fórmula em pó compacto garante uma aplicação suave e uniforme, permitindo que você construa a intensidade desejada com facilidade. A tex",
     "image": "https://http2.mlstatic.com/D_NQ_NP_837435-MLA106235488914_022026-F.jpg",
     "images": [
@@ -18041,6 +18210,10 @@ const catalogProducts = [
       {
         "name": "01 Bronzer",
         "image": "https://http2.mlstatic.com/D_NQ_NP_837435-MLA106235488914_022026-F.jpg"
+      },
+      {
+        "name": "Glow",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_837435-MLA106235488914_022026-F.jpg"
       }
     ],
     "averageRating": 0,
@@ -18051,13 +18224,13 @@ const catalogProducts = [
       "anaglow"
     ],
     "createdAt": "2026-03-03T16:35:07.452Z",
-    "updatedAt": "2026-03-03T18:15:19.931Z"
+    "updatedAt": "2026-03-03T18:28:24.185Z"
   },
   {
     "id": "p17725557074521427",
     "name": "Bronzer E Contorno Bronzed Frederika",
     "brand": "Frederika Make",
-    "category": "Contorno",
+    "category": "Contorno/Bronzer",
     "description": "Bronzer e Contorno Bronzed Frederika\n\nBronzed 2x1 é um bronzer e contorno líquido, com textura matte, fácil de aplicar e esfumar, secagem rápida, alta pigmentação, longa duração e permite construir camadas.  \n- Fórmula vegana, com esqualano vegetal para hidratar enquanto colore e esculpe.  \n\nModo de usar: Como contorno, aplique para criar ângulos no rosto, como nas laterais e ponta do nariz, abaixo das maçãs do rosto, no topo da testa e na ponta do queixo. E como bronzer, nas maçãs do rosto e de",
     "image": "https://http2.mlstatic.com/D_NQ_NP_943891-MLU75014274459_032024-F.jpg",
     "images": [
@@ -18098,7 +18271,7 @@ const catalogProducts = [
     "id": "p17725557087301438",
     "name": "Bronzer E Contorno Bastão Too Faced Chocolate Soleil",
     "brand": "Too Faced",
-    "category": "Contorno",
+    "category": "Contorno/Bronzer",
     "description": "Bronzer E Contorno Bastão Too Faced Chocolate Soleil - Too Faced",
     "image": "https://http2.mlstatic.com/D_NQ_NP_718654-MLA96187207975_102025-F.jpg",
     "images": [
@@ -18116,7 +18289,12 @@ const catalogProducts = [
       "MLB61745728"
     ],
     "mlParentId": "MLB59337655",
-    "colors": [],
+    "colors": [
+      {
+        "name": "Chocolate",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_718654-MLA96187207975_102025-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -18125,13 +18303,13 @@ const catalogProducts = [
       "too faced"
     ],
     "createdAt": "2026-03-03T16:35:08.730Z",
-    "updatedAt": "2026-03-03T16:35:10.005Z"
+    "updatedAt": "2026-03-03T18:27:28.708Z"
   },
   {
     "id": "p17725557087301439",
     "name": "Bronzer Stick By",
     "brand": "Ruby Rose",
-    "category": "Contorno",
+    "category": "Contorno/Bronzer",
     "description": "O Bronzer Stick Tropical Bronze da Ruby Rose é perfeito para quem busca praticidade, acabamento natural e efeito bronzeado saudável. Sua fórmula cremosa desliza facilmente sobre a pele, permitindo contornar, bronzear ou até mesmo substituir o blush ou sombra, com um único produto.\n\nCom textura leve e alta pigmentação, ele proporciona um efeito de “pele beijada pelo sol”, ideal para o dia a dia ou ocasiões especiais. Seu formato em bastão é compacto e versátil, facilitando a aplicação e o transpo",
     "image": "https://http2.mlstatic.com/D_NQ_NP_937088-MLA86024294705_062025-F.jpg",
     "images": [
@@ -18163,7 +18341,7 @@ const catalogProducts = [
     "id": "p17725557087301444",
     "name": "Bronzer Cremoso Escuro Océane Drift Efeito Contorno Fácil",
     "brand": "Océane",
-    "category": "Contorno",
+    "category": "Contorno/Bronzer",
     "description": "Você não precisa tomar sol para ter uma pele com aspecto bronzeado. Com o Cream Bronzer Océane Edition, sua make ganha um toque solar em instantes, para você arrasar no look.\r\n\r\nO produto faz parte da Linha Edition, e oferece um acabamento matte que aquece o visual sem adicionar brilho. Sua pigmentação intensa e ótima fixação definem o Rosto, deixando a maquiagem natural e muito elegante.\r\n\r\nCom fórmula vegana e enriquecida com vitamina E, o Bronzer Océane cremoso é fácil de espalhar, tem uma te",
     "image": "https://http2.mlstatic.com/D_NQ_NP_877715-MLA105308887634_012026-F.jpg",
     "images": [
@@ -18187,6 +18365,18 @@ const catalogProducts = [
       {
         "name": "Medio Coast",
         "image": "https://http2.mlstatic.com/D_NQ_NP_640099-MLA105308857440_012026-F.jpg"
+      },
+      {
+        "name": "Rosa-claro",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_691450-MLA87155956987_072025-F.jpg"
+      },
+      {
+        "name": "Coral",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_822646-MLA81599692921_122024-F.jpg"
+      },
+      {
+        "name": "Sangria Marrom",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_678425-MLA81650179961_122024-F.jpg"
       }
     ],
     "averageRating": 0,
@@ -18197,13 +18387,13 @@ const catalogProducts = [
       "océane"
     ],
     "createdAt": "2026-03-03T16:35:08.730Z",
-    "updatedAt": "2026-03-03T16:35:08.731Z"
+    "updatedAt": "2026-03-03T18:28:26.521Z"
   },
   {
     "id": "p17725557087301448",
     "name": "Paleta De Contorno E Bronzer Sp",
     "brand": "SP Colors",
-    "category": "Contorno",
+    "category": "Contorno/Bronzer",
     "description": "PALETA DE CONTORNO E BRONZER SP COLORS SP338\n\nA Paleta de Contorno e Bronzer SP Colors SP338 é a aliada perfeita para uma make impecável. Composta por 2 tons de contorno e 2 tons de bronzer, essa paleta oferece opções versáteis para modelar o rosto e criar o efeito desejado de forma prática e rápida. A fórmula de alta fixação garante que sua make dure o dia todo, sem perder o acabamento. Compacta e de fácil aplicação, é ideal para quem busca praticidade e qualidade. Além disso, a paleta se adapt",
     "image": "https://http2.mlstatic.com/D_NQ_NP_701859-MLA89931412210_082025-F.jpg",
     "images": [
@@ -18235,7 +18425,7 @@ const catalogProducts = [
     "id": "p17725557087301449",
     "name": "Contorno Stick Bronzer Nature Phállebeauty",
     "brand": "Phállebeauty",
-    "category": "Contorno",
+    "category": "Contorno/Bronzer",
     "description": "O Bronzer Nature PhálleBeauty é um produto de maquiagem inovador que proporciona um contorno facial prático e versátil, ideal para quem busca um acabamento natural e sofisticado. Com sua fórmula cremosa, este bastão facilita a aplicação e o esfumado, permitindo que você realce os traços do rosto de maneira profissional. Além de ser livre de parabenos, o produto é vegano e não é testado em animais, garantindo uma escolha ética e consciente. Dermatologicamente testado, é adequado para peles normai",
     "image": "https://http2.mlstatic.com/D_NQ_NP_994707-MLA79311531580_092024-F.jpg",
     "images": [
@@ -18267,7 +18457,7 @@ const catalogProducts = [
     "id": "p17725557087311454",
     "name": "Escova De Contorno De Cintura Pequena Paris Night Bronzer",
     "brand": "Paris Night",
-    "category": "Contorno",
+    "category": "Contorno/Bronzer",
     "description": "Escova De Contorno De Cintura Pequena Paris Night Bronzer - Paris Night",
     "image": "https://http2.mlstatic.com/D_NQ_NP_637454-MLA107432941127_022026-F.jpg",
     "images": [
@@ -18301,7 +18491,7 @@ const catalogProducts = [
     "id": "p17725557087311460",
     "name": "Bronzer Stick - Contorno Cremoso Linha Sunkiss Ruby",
     "brand": "Ruby Rose",
-    "category": "Contorno",
+    "category": "Contorno/Bronzer",
     "description": "O Bronzer Stick Sunset Sienna da Ruby Rose é perfeito para quem busca praticidade, acabamento natural e efeito bronzeado saudável. Sua fórmula cremosa desliza facilmente sobre a pele, permitindo contornar, bronzear ou até mesmo substituir o blush ou sombra, com um único produto.\n\nCom textura leve e alta pigmentação, ele proporciona um efeito de “pele beijada pelo sol”, ideal para o dia a dia ou ocasiões especiais. Seu formato em bastão é compacto e versátil, facilitando a aplicação e o transport",
     "image": "https://http2.mlstatic.com/D_NQ_NP_834775-MLA85673988258_062025-F.jpg",
     "images": [
@@ -18344,7 +18534,7 @@ const catalogProducts = [
     "id": "p17725557100041461",
     "name": "Bronzer E Contorno Duplo Major Sculpt Crème Patrick Ta",
     "brand": "Patrick Ta",
-    "category": "Contorno",
+    "category": "Contorno/Bronzer",
     "description": "Descubra o Patrick Ta Major Sculpt Bronzer and Contour Duo Original, uma solução inovadora para esculpir seu rosto com facilidade e elegância. Esta dupla inclui um contorno em creme e um bronzeador em pó, ambos projetados para oferecer um acabamento natural e luminoso. Com duração de até 16 horas, este produto é perfeito para um look que dura o dia todo. Sua fórmula hipoalergênica e sem parabenos garante que seja segura para todos os tipos de pele, incluindo pele normal. Além disso, é vegano e l",
     "image": "https://http2.mlstatic.com/D_NQ_NP_771118-MLA92302492130_092025-F.jpg",
     "images": [
@@ -18370,7 +18560,7 @@ const catalogProducts = [
     "id": "p17725557100041463",
     "name": "Bronzer Stick Com Contorno Naturalmente Duradouro",
     "brand": "O.Two.O",
-    "category": "Contorno",
+    "category": "Contorno/Bronzer",
     "description": "O O.two.o Bronzer Stick Com Contorno Naturalmente Duradouro é a escolha perfeita para quem busca uma maquiagem prática e eficaz. Com uma fórmula cremosa que se mistura facilmente à pele, este bastão oferece 4 tons universais que se adaptam a diferentes tons de pele, garantindo uma definição natural sem aglomeração. Sua cobertura de longa duração, que ultrapassa 12 horas, assegura que você permaneça radiante ao longo do dia. O design compacto giratório facilita o armazenamento e o transporte. Alé",
     "image": "https://http2.mlstatic.com/D_NQ_NP_952101-MLA96321001951_102025-F.jpg",
     "images": [
@@ -18405,7 +18595,7 @@ const catalogProducts = [
     "id": "p17725557100061478",
     "name": "Elf Camo Liquid Bronzer & Contour Contorno Eua 4, Leve, Médio",
     "brand": "E.L.F. Cosmetics",
-    "category": "Contorno",
+    "category": "Contorno/Bronzer",
     "description": "Descubra o Elf Camo Liquid Bronzer & Contour na tonalidade Light Medium, um produto essencial para quem busca um contorno perfeito e um bronzeado natural. Com uma duração impressionante de 12 horas, este bronzer líquido se adapta ao seu tom de pele, proporcionando um acabamento suave e radiante. \n\nFormulado para todos os tipos de pele, é dermatologicamente testado e hipoalergênico, garantindo segurança e conforto durante o uso. Além disso, é livre de parabenos e cruelty-free, alinhando-se com um",
     "image": "https://http2.mlstatic.com/D_NQ_NP_713876-MLA94030343957_102025-F.jpg",
     "images": [
@@ -18421,7 +18611,12 @@ const catalogProducts = [
       "MLB58797573"
     ],
     "mlParentId": "MLB44183498",
-    "colors": [],
+    "colors": [
+      {
+        "name": "Médio",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_713876-MLA94030343957_102025-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -18430,13 +18625,13 @@ const catalogProducts = [
       "e.l.f. cosmetics"
     ],
     "createdAt": "2026-03-03T16:35:10.006Z",
-    "updatedAt": "2026-03-03T16:35:13.827Z"
+    "updatedAt": "2026-03-03T18:27:38.036Z"
   },
   {
     "id": "p17725557100061484",
     "name": "Bronzer Milani Baked Bronzer Bronzer Tonalidade 4 Glow Powder",
     "brand": "Milani",
-    "category": "Contorno",
+    "category": "Contorno/Bronzer",
     "description": "O Milani Baked Bronzer 05 Soleil Makeup Tone 9 Dolce é um produto de beleza de alta qualidade, feito de azulejos italianos de terracota. Este bronzeador aquecido pelo sol tem uma textura vibrante e cintilante com um brilho resistente a arranhões. Ele vem em três tons diferentes, variando de ouro macio a um bronzeado tentador. \n \n Este produto versátil pode ser aplicado nos olhos, rosto, corpo ou em qualquer lugar em que você queira adicionar um toque de brilho. Para aplicá-lo, basta deslizar o p",
     "image": "https://http2.mlstatic.com/D_NQ_NP_644861-MLA79345316996_092024-F.jpg",
     "images": [
@@ -18452,6 +18647,10 @@ const catalogProducts = [
       {
         "name": "09 Dolce",
         "image": "https://http2.mlstatic.com/D_NQ_NP_938937-MLU78249729064_082024-F.jpg"
+      },
+      {
+        "name": "Glow",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_644861-MLA79345316996_092024-F.jpg"
       }
     ],
     "averageRating": 0,
@@ -18462,13 +18661,13 @@ const catalogProducts = [
       "milani"
     ],
     "createdAt": "2026-03-03T16:35:10.006Z",
-    "updatedAt": "2026-03-03T18:15:32.401Z"
+    "updatedAt": "2026-03-03T18:28:41.062Z"
   },
   {
     "id": "p17725557112711492",
     "name": "Bronzer Supre Snooki Bronzer",
     "brand": "Supre",
-    "category": "Contorno",
+    "category": "Contorno/Bronzer",
     "description": "Bronzeador preto Snooki Ultra Dark 70x com loção bronzeadora firmadora e tonificante para a pele\n\nTipo de produto: Bronzeador\n\nÉ o máximo em atitude e estilo quando você usa a loção bronzeadora Snookis Ultra Dark 70x Black Bronzer. Bronzeadores ricos e poderosos fornecem cores profundas, escuras e dramáticas, enquanto os firmadores de pele avançados deixam sua pele tonificada e firme. Enriquecida com vitaminas e extratos condicionadores de pele, sua pele ficará incrivelmente macia, suave e pront",
     "image": "https://http2.mlstatic.com/D_NQ_NP_712892-MLU79085121969_092024-F.jpg",
     "images": [
@@ -18494,7 +18693,7 @@ const catalogProducts = [
     "id": "p17725557125371493",
     "name": "Bronzer Bronzer Cheeks Out Freestyle",
     "brand": "Fenty",
-    "category": "Contorno",
+    "category": "Contorno/Bronzer",
     "description": "Bronzer Bronzer Cheeks Out Freestyle - Fenty",
     "image": "https://http2.mlstatic.com/D_NQ_NP_738272-MLU73339078506_122023-F.jpg",
     "images": [
@@ -18523,7 +18722,7 @@ const catalogProducts = [
     "id": "p17725557125381496",
     "name": "Bronzer Matte Makeup Revolution Bronzer 2",
     "brand": "Makeup Revolution",
-    "category": "Contorno",
+    "category": "Contorno/Bronzer",
     "description": "O Matte Bronzer, Mega Bronzer, Make Up Revolution Highlighter Tone 02 Warm é fácil de usar e adequado para tons de pele claros a profundos. Essa fórmula aprimorada, anteriormente conhecida como 'Ultra Bronzer', fica maior e melhor. \n \n Este compacto grande é perfeito para obter um bronzeado fosco natural. Basta aplicá-lo em todo o rosto para obter uma pele bronzeada ou nas maçãs do rosto para contornar, bem como na testa, nariz e queixo para dar definição. Para um toque final, aplique um de noss",
     "image": "https://http2.mlstatic.com/D_NQ_NP_654926-MLU78027987008_082024-F.jpg",
     "images": [
@@ -18550,7 +18749,7 @@ const catalogProducts = [
     "id": "p17725557125381498",
     "name": "B.pure - Bronzer Drops",
     "brand": "b-pure",
-    "category": "Contorno",
+    "category": "Contorno/Bronzer",
     "description": "Descubra a beleza radiante com o 'B.pure - Bronzer Drops', um produto inovador da marca b-pure. Este bronzer em gotas é perfeito para quem busca um acabamento natural e luminoso na pele. Com um volume de 30 mL, ele é ideal para uso diário, proporcionando uma aplicação fácil e uniforme. O item é novo e vem em uma linha exclusiva de bronzers, garantindo qualidade e eficácia. Sua fórmula não voável assegura que o produto permaneça no lugar, oferecendo um bronzeado duradouro sem a preocupação de man",
     "image": "https://http2.mlstatic.com/D_NQ_NP_740440-MLA99411234128_112025-F.jpg",
     "images": [
@@ -18577,7 +18776,7 @@ const catalogProducts = [
     "id": "p17725557138251500",
     "name": "Bronzer Rimmel London Bronzer Pó",
     "brand": "Rimmel London",
-    "category": "Contorno",
+    "category": "Contorno/Bronzer",
     "description": "Bronzer Rimmel London Bronzer Pó - Rimmel London",
     "image": "https://http2.mlstatic.com/D_NQ_NP_669332-MLA72626291739_112023-F.jpg",
     "images": [
@@ -18616,7 +18815,7 @@ const catalogProducts = [
     "id": "p17725557138251501",
     "name": "Escovas Cerdas Iônicas",
     "brand": "Lanossi",
-    "category": "Contorno",
+    "category": "Contorno/Bronzer",
     "description": "Kit 3 Escovas Cerdas Iônicas Cor Bronzer Lanossi – Modelagem Premium com Acabamento Profissional\n\nEleve o nível da sua finalização com o Kit 3 Escovas Cerdas Iônicas Bronzer Lanossi, desenvolvido para quem busca resultado de salão, menos frizz, mais brilho e uma modelagem muito mais rápida e precisa.  \nDesign premium, tecnologia iônica e três tamanhos que garantem versatilidade total para qualquer tipo de penteado.  \nA tecnologia iônica presente nas cerdas ajuda a neutralizar a eletricidade está",
     "image": "https://http2.mlstatic.com/D_NQ_NP_916013-MLA99385519298_112025-F.jpg",
     "images": [
@@ -18651,7 +18850,7 @@ const catalogProducts = [
     "id": "p17725557138251502",
     "name": "Bronzer Too Face Chocolate Soleil Long Wear Matte Bronzer",
     "brand": "Too Faced",
-    "category": "Contorno",
+    "category": "Contorno/Bronzer",
     "description": "Bronzer Too Face Chocolate Soleil Long Wear Matte Bronzer - Too Faced",
     "image": "https://http2.mlstatic.com/D_NQ_NP_803990-MLU74417795328_022024-F.jpg",
     "images": [
@@ -18662,7 +18861,12 @@ const catalogProducts = [
       "MLB33249868"
     ],
     "mlParentId": "MLB28455729",
-    "colors": [],
+    "colors": [
+      {
+        "name": "Chocolate",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_803990-MLU74417795328_022024-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -18671,13 +18875,13 @@ const catalogProducts = [
       "too faced"
     ],
     "createdAt": "2026-03-03T16:35:13.825Z",
-    "updatedAt": "2026-03-03T16:35:13.825Z"
+    "updatedAt": "2026-03-03T18:27:53.766Z"
   },
   {
     "id": "p17725557138251503",
     "name": "Bronzer Factor Bronzer Facefinity Pó",
     "brand": "Max Factor",
-    "category": "Contorno",
+    "category": "Contorno/Bronzer",
     "description": "Bronzer Factor Bronzer Facefinity Pó - Max Factor",
     "image": "https://http2.mlstatic.com/D_NQ_NP_967540-MLA72271961548_102023-F.jpg",
     "images": [
@@ -18688,7 +18892,12 @@ const catalogProducts = [
       "MLB27802050"
     ],
     "mlParentId": "MLB27802049",
-    "colors": [],
+    "colors": [
+      {
+        "name": "Dourado Claro",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_980649-MLA94038398295_102025-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -18697,13 +18906,13 @@ const catalogProducts = [
       "max factor"
     ],
     "createdAt": "2026-03-03T16:35:13.825Z",
-    "updatedAt": "2026-03-03T16:35:13.825Z"
+    "updatedAt": "2026-03-03T18:27:57.174Z"
   },
   {
     "id": "p17725557138251507",
     "name": "Bronzer Hourglass Ambient Lighting Bronzer Ambient Lighting Bronzer Em , Luz De Difusa",
     "brand": "Hourglass",
-    "category": "Contorno",
+    "category": "Contorno/Bronzer",
     "description": "Bronzer Hourglass Ambient Lighting Bronzer Ambient Lighting Bronzer Em , Luz De Difusa - Hourglass",
     "image": "https://http2.mlstatic.com/D_NQ_NP_871716-MLA84282104004_052025-F.jpg",
     "images": [
@@ -18729,7 +18938,7 @@ const catalogProducts = [
     "id": "p17725557138251508",
     "name": "Argan Wear Bronzer Bronzer Em Pó",
     "brand": "Physicians Formula",
-    "category": "Contorno",
+    "category": "Contorno/Bronzer",
     "description": "Argan Wear Bronzer Bronzer Em Pó - Physicians Formula",
     "image": "https://http2.mlstatic.com/D_NQ_NP_950930-MLU78799909907_082024-F.jpg",
     "images": [
@@ -18740,7 +18949,12 @@ const catalogProducts = [
       "MLB31788827"
     ],
     "mlParentId": "MLB31788826",
-    "colors": [],
+    "colors": [
+      {
+        "name": "Dourado Claro",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_815739-MLU70287272045_072023-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -18749,13 +18963,13 @@ const catalogProducts = [
       "physicians formula"
     ],
     "createdAt": "2026-03-03T16:35:13.825Z",
-    "updatedAt": "2026-03-03T16:35:13.825Z"
+    "updatedAt": "2026-03-03T18:28:02.271Z"
   },
   {
     "id": "p17725557138251509",
     "name": "Nuda Matte Bronzer Powder Bronzer Em Pó De Longa Duração",
     "brand": "Nuda Canada",
-    "category": "Contorno",
+    "category": "Contorno/Bronzer",
     "description": "Nuda Matte Bronzer Powder Bronzer Em Pó De Longa Duração - Nuda Canada",
     "image": "https://http2.mlstatic.com/D_NQ_NP_782794-MLU74330143091_012024-F.jpg",
     "images": [
@@ -18781,7 +18995,7 @@ const catalogProducts = [
     "id": "p17725557138261510",
     "name": "Bronzer Kiko Milano Juicy Fizz Sunkissed Lumi-bronzer Cocoa",
     "brand": "Kiko Milano",
-    "category": "Contorno",
+    "category": "Contorno/Bronzer",
     "description": "A tez que aquece instantaneamente. Os traços ficam como que esculpidos e com um efeito bronzeado elegante e radiante. Um bronzeador cozido icônico e muito apreciado, em formato maxi, para uma estação de beleza e brilho.\n\nÉ especial porque:  \n-Toque sedoso e textura ultrafina, ajustada e confortável  \n-Declinado em duas versões, uma melange com veios iridescentes e outra monocromática com um desenho icônico em relevo  \n-Fácil de esbater, para um efeito natural beijado pelo sol",
     "image": "https://http2.mlstatic.com/D_NQ_NP_662351-MLA91911889383_092025-F.jpg",
     "images": [
@@ -18798,6 +19012,10 @@ const catalogProducts = [
       {
         "name": "03 Golden",
         "image": "https://http2.mlstatic.com/D_NQ_NP_662351-MLA91911889383_092025-F.jpg"
+      },
+      {
+        "name": "Sunkissed",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_662351-MLA91911889383_092025-F.jpg"
       }
     ],
     "averageRating": 0,
@@ -18808,13 +19026,13 @@ const catalogProducts = [
       "kiko milano"
     ],
     "createdAt": "2026-03-03T16:35:13.826Z",
-    "updatedAt": "2026-03-03T18:15:44.224Z"
+    "updatedAt": "2026-03-03T18:28:47.623Z"
   },
   {
     "id": "p17725557138261511",
     "name": "Airbrush Bronzer Tone Makeup Powder Bronzer 4 /foncé",
     "brand": "Charlotte Tilbury",
-    "category": "Contorno",
+    "category": "Contorno/Bronzer",
     "description": "Airbrush Bronzer Tone Makeup Powder Bronzer 4 /foncé - Charlotte Tilbury",
     "image": "https://http2.mlstatic.com/D_NQ_NP_625246-MLU74520370305_022024-F.jpg",
     "images": [
@@ -18841,7 +19059,7 @@ const catalogProducts = [
     "id": "p17725557138261515",
     "name": "City Shimmer Bronzer Makeup Tone",
     "brand": "City Color",
-    "category": "Contorno",
+    "category": "Contorno/Bronzer",
     "description": "City Shimmer Bronzer Makeup Tone - City Color",
     "image": "https://http2.mlstatic.com/D_NQ_NP_885639-MLU77229611768_072024-F.jpg",
     "images": [
@@ -18853,7 +19071,20 @@ const catalogProducts = [
       "MLB37998768"
     ],
     "mlParentId": "MLB37998767",
-    "colors": [],
+    "colors": [
+      {
+        "name": "Dourado",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_801158-MLU75286424626_032024-F.jpg"
+      },
+      {
+        "name": "Dourado Claro",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_989861-MLU75525716849_042024-F.jpg"
+      },
+      {
+        "name": "Claro",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_707214-MLU75374294872_042024-F.jpg"
+      }
+    ],
     "averageRating": 0,
     "reviewCount": 0,
     "prices": [],
@@ -18862,13 +19093,13 @@ const catalogProducts = [
       "city color"
     ],
     "createdAt": "2026-03-03T16:35:13.826Z",
-    "updatedAt": "2026-03-03T16:35:13.826Z"
+    "updatedAt": "2026-03-03T18:28:11.948Z"
   },
   {
     "id": "p17725557138271519",
     "name": "Bronzer L.a. Girl Sunset Daze",
     "brand": "L.A. Girl",
-    "category": "Contorno",
+    "category": "Contorno/Bronzer",
     "description": "Descubra um brilho radiante com o Bronzer Sunset Daze da L.A. Girl. Este pó de maquiagem é ideal para quem busca um efeito bronzeado natural e luminoso, perfeito para qualquer tipo de pele normal. \n\nCom suas duas tonalidades versáteis, você pode facilmente personalizar a intensidade e alcançar o acabamento desejado. Dermatologicamente testado e livre de crueldade, o bronzer proporciona uma aplicação suave e uniforme, realçando suas características faciais de maneira sutil. \n\nEle desliza facilmen",
     "image": "https://http2.mlstatic.com/D_NQ_NP_803091-MLA80819208392_122024-F.jpg",
     "images": [
@@ -18896,7 +19127,7 @@ const catalogProducts = [
     "id": "p17725557138271520",
     "name": "Pérolas De Bronzeamento Em Pó Label Forever Bronzer Tone Tone Bronzer",
     "brand": "L'Bel",
-    "category": "Contorno",
+    "category": "Contorno/Bronzer",
     "description": "Pérolas De Bronzeamento Em Pó Label Forever Bronzer Tone Tone Bronzer - L'Bel",
     "image": "https://http2.mlstatic.com/D_NQ_NP_852092-MLA96755877787_102025-F.jpg",
     "images": [
@@ -18925,7 +19156,7 @@ const catalogProducts = [
     "id": "p17725557138271522",
     "name": "Body Bronzer Autobronzeador Biomarine",
     "brand": "Biomarine",
-    "category": "Contorno",
+    "category": "Contorno/Bronzer",
     "description": "Body Bronzer Autobronzeador é uma loção iluminadora e tonalizante corporal enriquecida com caviar e citroflavonóides.\n\nPromove imediatamente um aspecto saudável e bronzeado da pele, podendo ser utilizada em todas as épocas do ano e por todos os tipos de pele.\n\nEm peles claras, atua como loção bronzeadora e em peles morenas como iluminador. Após secagem, pode ser reaplicada para obter tonalidades mais escuras.\n\nPossui fragrância agradável, é livre de óleo e se espalha facilmente, facilitando a ap",
     "image": "https://http2.mlstatic.com/D_NQ_NP_884335-MLA99359438706_112025-F.jpg",
     "images": [

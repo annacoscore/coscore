@@ -24,7 +24,7 @@ import type { CatalogEntry, ColorVariant } from './lib/types';
 
 const TARGET_CATEGORIES = [
   'Base', 'Corretivo', 'Pó Facial', 'Brilho Labial', 'Batom',
-  'Lápis Labial', 'Iluminador', 'Contorno', 'Blush', 'Sombra',
+  'Lápis Labial', 'Iluminador', 'Contorno/Bronzer', 'Blush', 'Sombra',
 ];
 
 const BASE_URL = 'https://api.mercadolibre.com';
@@ -209,7 +209,7 @@ const CATEGORY_QUERIES: Record<string, string[]> = {
   'Corretivo':  ['corretivo maquiagem tom', 'concealer tom'],
   'Pó Facial':  ['po compacto tom', 'po facial cor'],
   'Iluminador': ['iluminador maquiagem shimmer', 'highlighter'],
-  'Contorno':   ['contorno maquiagem', 'bronzer contouring'],
+  'Contorno/Bronzer': ['contorno maquiagem bronzer', 'bronzer shimmer'],
   'Blush':      ['blush corar tom', 'blush cor'],
   'Sombra':     ['sombra unitaria pigmento', 'eyeshadow cor'],
 };

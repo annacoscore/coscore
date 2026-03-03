@@ -32,7 +32,7 @@ export const ML_KEYWORD_SEARCHES: { query: string; label: string }[] = [
   { query: 'fixador maquiagem setting spray',   label: 'Fixador de Maquiagem' },
   { query: 'blush rouge corar',                 label: 'Blush' },
   { query: 'iluminador highlighter strobing',   label: 'Iluminador' },
-  { query: 'contorno bronzer contouring',       label: 'Contorno' },
+  { query: 'contorno bronzer contouring',       label: 'Contorno/Bronzer' },
   // ── Maquiagem — olhos ───────────────────────────────────────────────────────
   { query: 'sombra eyeshadow paleta maquiagem', label: 'Sombra' },
   { query: 'mascara de cilios mascara cilios',  label: 'Máscara de Cílios' },

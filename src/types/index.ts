@@ -13,7 +13,7 @@ export type Category =
   | "Delineador"
   | "Blush"
   | "Iluminador"
-  | "Contorno"
+  | "Contorno/Bronzer"
   | "Esponjas e Pincéis"
   // ── Skincare ───────────────────────────────────────────────────────────────
   | "Sérum"
@@ -54,7 +54,7 @@ export const CATEGORY_GROUPS: Record<Category, CategoryGroup> = {
   Delineador: "Maquiagem",
   Blush: "Maquiagem",
   Iluminador: "Maquiagem",
-  Contorno: "Maquiagem",
+  "Contorno/Bronzer": "Maquiagem",
   "Esponjas e Pincéis": "Maquiagem",
   // Skincare
   Sérum: "Skincare",
@@ -85,7 +85,7 @@ export const GROUP_CATEGORIES: Record<CategoryGroup, Category[]> = {
     "Base", "Corretivo", "Pó Facial",
     "Primer", "Fixador de Maquiagem",
     "Máscara de Cílios", "Sombra", "Delineador",
-    "Blush", "Iluminador", "Contorno",
+    "Blush", "Iluminador", "Contorno/Bronzer",
     "Esponjas e Pincéis",
   ],
   Skincare: [

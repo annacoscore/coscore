@@ -19,8 +19,8 @@ const ML_DOMAIN_MAP: Record<string, Category> = {
   'MLB-SETTING_SPRAYS':       'Fixador de Maquiagem',
   'MLB-BLUSHES':              'Blush',
   'MLB-HIGHLIGHTERS':         'Iluminador',
-  'MLB-BRONZERS':             'Contorno',
-  'MLB-CONTOUR':              'Contorno',
+  'MLB-BRONZERS':             'Contorno/Bronzer',
+  'MLB-CONTOUR':              'Contorno/Bronzer',
   // Olhos
   'MLB-EYE_SHADOWS':          'Sombra',
   'MLB-EYE_PALETTES':         'Sombra',
@@ -170,7 +170,7 @@ const KEYWORD_RULES: KeywordRule[] = [
   },
   {
     keywords: ['contorno', 'contour', 'bronzer'],
-    category: 'Contorno',
+    category: 'Contorno/Bronzer',
   },
   // ── Skincare ───────────────────────────────────────────────────────────────
   {
