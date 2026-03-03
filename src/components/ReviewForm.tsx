@@ -516,18 +516,34 @@ export default function ReviewForm({ product, onSuccess }: ReviewFormProps) {
           </div>
         </div>
       ) : (
-        <div className="flex items-center gap-2">
-          <input
-            type="checkbox"
-            id="anon"
-            checked={isAnonymous}
-            onChange={(e) => setIsAnonymous(e.target.checked)}
-            className="w-4 h-4 accent-pink-500"
-          />
-          <label htmlFor="anon" className="text-sm text-gray-600 cursor-pointer">
-            Postar como anônimo
-            <span className="ml-1 text-xs text-gray-400">(seu nome não aparecerá no site)</span>
-          </label>
+        <div className="space-y-3">
+          {/* Prévia de quem vai aparecer na review */}
+          <div className="flex items-center gap-2.5 bg-gray-50 border border-gray-200 rounded-xl px-4 py-2.5">
+            <div className="w-8 h-8 bg-pink-500 rounded-full flex items-center justify-center text-white text-xs font-bold shrink-0">
+              {isAnonymous ? "A" : currentUser.name.charAt(0).toUpperCase()}
+            </div>
+            <div className="min-w-0">
+              <p className="text-xs text-gray-400">Publicando como</p>
+              <p className="text-sm font-semibold text-gray-800 truncate">
+                {isAnonymous ? "Usuária Anônima" : currentUser.name}
+              </p>
+            </div>
+          </div>
+
+          {/* Opção de anonimato */}
+          <div className="flex items-center gap-2">
+            <input
+              type="checkbox"
+              id="anon"
+              checked={isAnonymous}
+              onChange={(e) => setIsAnonymous(e.target.checked)}
+              className="w-4 h-4 accent-pink-500"
+            />
+            <label htmlFor="anon" className="text-sm text-gray-600 cursor-pointer">
+              Postar como anônimo
+              <span className="ml-1 text-xs text-gray-400">(seu nome não aparecerá no site)</span>
+            </label>
+          </div>
         </div>
       )}
 

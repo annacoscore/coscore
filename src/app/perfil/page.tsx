@@ -54,9 +54,8 @@ export default function PerfilPage() {
           <div className="w-16 h-16 bg-white/20 rounded-full flex items-center justify-center text-3xl font-bold">
             {currentUser.name.charAt(0).toUpperCase()}
           </div>
-          <div>
+            <div>
             <h1 className="text-2xl font-bold">{currentUser.name}</h1>
-            <p className="text-pink-100 text-sm">{currentUser.email}</p>
             <p className="text-pink-200 text-xs mt-1 flex items-center gap-1">
               <Calendar className="w-3 h-3" />
               Membro desde {currentUser.joinedAt}
