@@ -1,0 +1,46 @@
+{
+  "name": "coscore-app",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint",
+    "sync-all": "tsx scripts/sync-all.ts",
+    "sync-all:export": "tsx scripts/sync-all.ts --export-ts",
+    "sync-catalog": "tsx scripts/sync-catalog.ts",
+    "sync-catalog:fast": "tsx scripts/sync-catalog.ts --no-details",
+    "sync-catalog:export": "tsx scripts/sync-catalog.ts --export-ts",
+    "sync-by-category": "tsx scripts/sync-catalog-by-category.ts",
+    "sync-by-category:export": "tsx scripts/sync-catalog-by-category.ts --export",
+    "sync-pofacial": "tsx scripts/sync-pofacial-from-ml.ts",
+    "sync-pofacial:export": "tsx scripts/sync-pofacial-from-ml.ts --export",
+    "assign-ml-images": "tsx scripts/assign-ml-images.ts",
+    "sync-affiliates": "tsx scripts/sync-affiliates.ts",
+    "sync-openbeauty": "tsx scripts/sync-openbeauty.ts",
+    "sync-manual": "tsx scripts/sync-manual.ts"
+  },
+  "dependencies": {
+    "@types/nodemailer": "^7.0.11",
+    "lucide-react": "^0.576.0",
+    "next": "16.1.6",
+    "nodemailer": "^8.0.1",
+    "react": "19.2.3",
+    "react-dom": "19.2.3",
+    "zustand": "^5.0.11"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4",
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "dotenv": "^17.3.1",
+    "eslint": "^9",
+    "eslint-config-next": "16.1.6",
+    "fast-xml-parser": "^5.4.1",
+    "tailwindcss": "^4",
+    "tsx": "^4.21.0",
+    "typescript": "^5"
+  }
+}

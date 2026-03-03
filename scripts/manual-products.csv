@@ -1,0 +1,5 @@
+﻿# CoScore — Produtos Manuais
+# Linhas começando com # são ignoradas.
+# Colunas obrigatórias: name, brand, category
+# Colunas opcionais: description, image, ean, price, store, store_url, tags
+name,brand,category,description,image,ean,price,store,store_url,tags

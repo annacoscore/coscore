@@ -1,0 +1,71 @@
+{
+  "_comentario": "Copie este arquivo para feeds.config.json e preencha as URLs dos seus feeds de afiliados.",
+  "feeds": [
+    {
+      "_comentario": "Sephora Brasil via Admitad — solicite acesso em admitad.com",
+      "name": "Sephora Brasil",
+      "url": "https://feeds.admitad.com/SEU_CODIGO/sephora_br.xml",
+      "format": "admitad-xml",
+      "enabled": false,
+      "storeInfo": {
+        "name": "Sephora",
+        "logo": "https://logodownload.org/wp-content/uploads/2019/11/sephora-logo.png"
+      }
+    },
+    {
+      "_comentario": "Beleza na Web via Admitad ou Lomadee",
+      "name": "Beleza na Web",
+      "url": "https://feeds.admitad.com/SEU_CODIGO/belezanaweb.xml",
+      "format": "admitad-xml",
+      "enabled": false,
+      "storeInfo": {
+        "name": "Beleza na Web",
+        "logo": "https://logodownload.org/wp-content/uploads/2020/02/beleza-na-web-logo.png"
+      }
+    },
+    {
+      "_comentario": "O Boticário via Lomadee — inscrição em lomadee.com",
+      "name": "O Boticário",
+      "url": "https://feeds.lomadee.com/SEU_CODIGO/boticario.xml",
+      "format": "admitad-xml",
+      "enabled": false,
+      "storeInfo": {
+        "name": "O Boticário",
+        "logo": "https://logodownload.org/wp-content/uploads/2014/09/o-boticario-logo.png"
+      }
+    },
+    {
+      "_comentario": "Exemplo de feed no formato CSV (Google Shopping / Shopify)",
+      "name": "Loja Exemplo (CSV)",
+      "url": "https://minhaloja.com.br/feed/products.csv",
+      "format": "csv",
+      "enabled": false,
+      "csvDelimiter": ",",
+      "csvMapping": {
+        "name": "title",
+        "brand": "brand",
+        "price": "price",
+        "url": "link",
+        "image": "image_link",
+        "ean": "gtin",
+        "description": "description",
+        "category": "product_type"
+      },
+      "storeInfo": {
+        "name": "Loja Exemplo",
+        "logo": ""
+      }
+    },
+    {
+      "_comentario": "Arquivo local para testes — coloque o XML em scripts/test-feed.xml",
+      "name": "Feed de Teste (local)",
+      "url": "file://scripts/test-feed.xml",
+      "format": "admitad-xml",
+      "enabled": false,
+      "storeInfo": {
+        "name": "Loja Teste",
+        "logo": ""
+      }
+    }
+  ]
+}
