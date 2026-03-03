@@ -406,10 +406,10 @@ export default function ProductPage({ params }: { params: Promise<{ id: string }
               </div>
               <button
                 onClick={() => setShowPriceModal(true)}
-                className="w-full bg-gradient-to-r from-emerald-500 to-teal-500 text-white py-3 rounded-xl font-semibold hover:from-emerald-600 hover:to-teal-600 transition-all flex items-center justify-center gap-2 shadow-sm"
+                className="w-full bg-gradient-to-r from-emerald-500 to-teal-600 text-white py-3.5 rounded-xl font-bold hover:from-emerald-600 hover:to-teal-700 transition-all flex items-center justify-center gap-2 shadow-md shadow-emerald-200 hover:shadow-lg hover:shadow-emerald-200 active:scale-[0.98]"
               >
-                <ShoppingCart className="w-4 h-4" />
-                Onde Comprar
+                <ShoppingCart className="w-5 h-5" />
+                Comparar Preços
               </button>
             </div>
           </div>

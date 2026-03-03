@@ -1,6 +1,8 @@
 "use client";
-import { X, ExternalLink, MapPin, CheckCircle, XCircle, TrendingDown, ShoppingBag, Palette } from "lucide-react";
+import { useEffect, useState } from "react";
+import { X, ExternalLink, ShoppingBag, TrendingDown, Loader2, RefreshCw, Tag, Search } from "lucide-react";
 import { Product } from "@/types";
+import type { StorePriceResult } from "@/app/api/prices/route";
 
 interface PriceComparisonModalProps {
   product: Product;
@@ -8,190 +10,207 @@ interface PriceComparisonModalProps {
   selectedColor?: string | null;
 }
 
-const storeColors: Record<string, string> = {
-  "Sephora": "bg-black text-white",
-  "Beleza na Web": "bg-pink-600 text-white",
-  "Magazine Luiza": "bg-blue-600 text-white",
-  "Mercado Livre": "bg-yellow-400 text-gray-900",
-  "Americanas": "bg-red-600 text-white",
-  "Boticário": "bg-purple-600 text-white",
-};
-
 export default function PriceComparisonModal({ product, onClose, selectedColor }: PriceComparisonModalProps) {
-  const sorted = [...product.prices].sort((a, b) => a.price - b.price);
-  const inStockPrices = sorted.filter((p) => p.inStock);
-  const lowestInStock = inStockPrices[0];
-  const highestInStock = inStockPrices[inStockPrices.length - 1];
-  const savings = lowestInStock && highestInStock && inStockPrices.length > 1
-    ? highestInStock.price - lowestInStock.price
+  const [results, setResults] = useState<StorePriceResult[]>([]);
+  const [loading, setLoading] = useState(true);
+  const [error, setError] = useState(false);
+
+  const fetchPrices = async () => {
+    setLoading(true);
+    setError(false);
+    try {
+      const params = new URLSearchParams({
+        name:  product.name,
+        brand: product.brand,
+        ...(product.mlId ? { mlId: product.mlId } : {}),
+        ...(selectedColor  ? { color: selectedColor } : {}),
+      });
+      const res = await fetch(`/api/prices?${params}`);
+      const data = await res.json();
+      setResults(data.results ?? []);
+    } catch {
+      setError(true);
+    } finally {
+      setLoading(false);
+    }
+  };
+
+  useEffect(() => { fetchPrices(); }, [product.id, selectedColor]);
+
+  // Separar preços reais dos links de busca
+  const realPrices  = results.filter(r => r.type === "real" && r.price !== null);
+  const searchLinks = results.filter(r => r.type === "search");
+
+  const cheapest   = realPrices.length > 0
+    ? realPrices.reduce((a, b) => (a.price! < b.price! ? a : b))
+    : null;
+  const mostExpensive = realPrices.length > 1
+    ? realPrices.reduce((a, b) => (a.price! > b.price! ? a : b))
+    : null;
+  const savings = cheapest && mostExpensive && cheapest.store !== mostExpensive.store
+    ? mostExpensive.price! - cheapest.price!
     : 0;
 
-  // Monta o termo de busca: nome do produto + cor selecionada (se houver)
-  const searchTerm = selectedColor
-    ? `${product.name} ${selectedColor}`
-    : product.name;
-  const mlSearchUrl = `https://www.mercadolivre.com.br/search?q=${encodeURIComponent(searchTerm)}`;
-  const belezaSearchUrl = `https://www.belezanaweb.com.br/search?q=${encodeURIComponent(searchTerm)}`;
-  const sephoraSearchUrl = `https://www.sephora.com.br/search#q=${encodeURIComponent(searchTerm)}`;
-
-  const hasRealPrices = sorted.length > 0;
-
   return (
-    <div className="fixed inset-0 z-[100] flex items-center justify-center p-4">
-      <div className="absolute inset-0 bg-black/50 backdrop-blur-sm" onClick={onClose} />
+    <div className="fixed inset-0 z-[100] flex items-end sm:items-center justify-center p-0 sm:p-4">
+      <div className="absolute inset-0 bg-black/60 backdrop-blur-sm" onClick={onClose} />
 
-      <div className="relative bg-white rounded-2xl shadow-2xl w-full max-w-md overflow-hidden">
-        {/* Header */}
-        <div className="bg-gradient-to-r from-emerald-500 to-teal-500 px-6 py-5 text-white">
+      <div className="relative bg-white w-full sm:max-w-lg rounded-t-3xl sm:rounded-2xl shadow-2xl overflow-hidden max-h-[92vh] flex flex-col">
+
+        {/* ── Header ── */}
+        <div className="bg-gradient-to-r from-emerald-500 to-teal-600 px-5 pt-5 pb-4 text-white shrink-0">
           <button
             onClick={onClose}
             className="absolute top-4 right-4 p-1.5 rounded-full bg-white/20 hover:bg-white/30 transition-colors"
           >
             <X className="w-4 h-4" />
           </button>
+
           <div className="flex items-center gap-2 mb-1">
-            <MapPin className="w-5 h-5" />
-            <span className="font-bold text-lg">Onde Comprar</span>
+            <ShoppingBag className="w-5 h-5" />
+            <span className="font-bold text-lg">Comparar Preços</span>
           </div>
-          <p className="text-emerald-100 text-sm line-clamp-1 pr-8">{product.name} – {product.brand}</p>
+          <p className="text-emerald-100 text-sm pr-8 leading-snug line-clamp-2">
+            {product.brand} — {product.name}
+          </p>
           {selectedColor && (
-            <div className="flex items-center gap-1.5 mt-2 bg-white/15 rounded-full px-3 py-1 w-fit">
-              <Palette className="w-3.5 h-3.5 text-emerald-100" />
-              <span className="text-xs font-semibold text-white">Tom: {selectedColor}</span>
-            </div>
+            <span className="inline-flex items-center gap-1 mt-2 bg-white/20 text-white text-xs font-semibold px-3 py-1 rounded-full">
+              <Tag className="w-3 h-3" /> Tom: {selectedColor}
+            </span>
           )}
         </div>
 
-        {/* Savings banner */}
-        {savings > 0 && (
-          <div className="bg-emerald-50 border-b border-emerald-100 px-5 py-3 flex items-center gap-2">
-            <TrendingDown className="w-4 h-4 text-emerald-600 shrink-0" />
-            <p className="text-sm text-emerald-700">
-              Economize até{" "}
-              <span className="font-bold">R$ {savings.toFixed(2).replace(".", ",")}</span>{" "}
-              comprando na loja mais barata disponível!
-            </p>
-          </div>
-        )}
+        {/* ── Conteúdo scrollável ── */}
+        <div className="overflow-y-auto flex-1 px-4 py-4 space-y-5">
 
-        {/* Store list */}
-        <div className="p-4 space-y-3 max-h-[420px] overflow-y-auto">
-          {hasRealPrices ? (
-            sorted.map((entry, idx) => {
-              const isCheapest = entry.inStock && idx === sorted.findIndex((e) => e.inStock);
-              const initials = entry.store.slice(0, 2).toUpperCase();
-              const colorClass = storeColors[entry.store] ?? "bg-gray-700 text-white";
+          {loading && (
+            <div className="flex flex-col items-center justify-center py-14 gap-3">
+              <Loader2 className="w-8 h-8 text-emerald-500 animate-spin" />
+              <p className="text-sm text-gray-500 font-medium">Consultando preços em tempo real...</p>
+            </div>
+          )}
 
-              return (
-                <div
-                  key={entry.store}
-                  className={`rounded-xl border overflow-hidden transition-all ${
-                    isCheapest ? "border-emerald-300 shadow-sm shadow-emerald-100" : "border-gray-100"
-                  } ${!entry.inStock ? "opacity-60" : ""}`}
-                >
-                  <div className="flex items-center justify-between px-4 py-3 bg-white gap-3">
-                    {/* Store identity */}
-                    <div className="flex items-center gap-3 min-w-0">
-                      <div className={`w-9 h-9 rounded-lg flex items-center justify-center text-xs font-bold shrink-0 ${colorClass}`}>
-                        {initials}
-                      </div>
-                      <div className="min-w-0">
-                        <div className="flex items-center gap-1.5 flex-wrap">
-                          <p className="font-semibold text-gray-900 text-sm">{entry.store}</p>
-                          {isCheapest && (
-                            <span className="px-1.5 py-0.5 bg-emerald-500 text-white text-[10px] font-bold rounded-full leading-none">
-                              MELHOR PREÇO
-                            </span>
-                          )}
-                        </div>
-                        <div className="flex items-center gap-1 mt-0.5">
-                          {entry.inStock ? (
-                            <>
-                              <CheckCircle className="w-3 h-3 text-emerald-500 shrink-0" />
-                              <span className="text-xs text-emerald-600">Em estoque</span>
-                            </>
-                          ) : (
-                            <>
-                              <XCircle className="w-3 h-3 text-gray-400 shrink-0" />
-                              <span className="text-xs text-gray-400">Indisponível no momento</span>
-                            </>
-                          )}
-                        </div>
-                      </div>
-                    </div>
+          {error && !loading && (
+            <div className="text-center py-10">
+              <p className="text-gray-500 text-sm mb-3">Não foi possível carregar os preços agora.</p>
+              <button onClick={fetchPrices} className="flex items-center gap-2 mx-auto text-sm text-emerald-600 font-medium hover:underline">
+                <RefreshCw className="w-4 h-4" /> Tentar novamente
+              </button>
+            </div>
+          )}
 
-                    {/* Price */}
-                    <div className="text-right shrink-0">
-                      <p className={`text-xl font-extrabold ${isCheapest ? "text-emerald-700" : "text-gray-800"}`}>
-                        R$ {entry.price.toFixed(2).replace(".", ",")}
+          {!loading && !error && (
+            <>
+              {/* ── Preços confirmados ── */}
+              {realPrices.length > 0 && (
+                <div>
+                  {/* Banner de economia */}
+                  {savings > 0 && (
+                    <div className="flex items-center gap-2 bg-emerald-50 border border-emerald-200 rounded-xl px-4 py-2.5 mb-3">
+                      <TrendingDown className="w-4 h-4 text-emerald-600 shrink-0" />
+                      <p className="text-sm text-emerald-700">
+                        Economize até{" "}
+                        <span className="font-bold">
+                          R$ {savings.toFixed(2).replace(".", ",")}
+                        </span>{" "}
+                        na loja mais barata!
                       </p>
                     </div>
-                  </div>
-
-                  {/* CTA row */}
-                  {entry.inStock && (
-                    <a
-                      href={entry.url}
-                      target="_blank"
-                      rel="noopener noreferrer"
-                      className={`flex items-center justify-center gap-2 w-full py-2.5 text-sm font-semibold transition-opacity hover:opacity-90 ${
-                        isCheapest
-                          ? "bg-emerald-500 text-white"
-                          : "bg-gray-100 text-gray-700 hover:bg-gray-200"
-                      }`}
-                    >
-                      <ShoppingBag className="w-4 h-4" />
-                      Ir para {entry.store}
-                      <ExternalLink className="w-3.5 h-3.5 opacity-70" />
-                    </a>
                   )}
-                </div>
-              );
-            })
-          ) : (
-            /* Sem preços cadastrados — links de busca nas principais lojas */
-            <div className="space-y-3">
-              {selectedColor && (
-                <p className="text-xs text-center text-gray-500 bg-pink-50 border border-pink-100 rounded-xl px-4 py-2">
-                  Buscando o tom <span className="font-semibold text-pink-600">{selectedColor}</span> nas lojas
-                </p>
-              )}
-              {[
-                { store: "Mercado Livre", url: mlSearchUrl,    colorClass: "bg-yellow-400 text-gray-900" },
-                { store: "Beleza na Web",  url: belezaSearchUrl, colorClass: "bg-pink-600 text-white"     },
-                { store: "Sephora",        url: sephoraSearchUrl, colorClass: "bg-black text-white"        },
-              ].map(({ store, url, colorClass }) => (
-                <div key={store} className="rounded-xl border border-gray-100 overflow-hidden">
-                  <div className="flex items-center gap-3 px-4 py-3">
-                    <div className={`w-9 h-9 rounded-lg flex items-center justify-center text-xs font-bold shrink-0 ${colorClass}`}>
-                      {store.slice(0, 2).toUpperCase()}
-                    </div>
-                    <p className="font-semibold text-gray-900 text-sm flex-1">{store}</p>
+
+                  <p className="text-xs font-bold text-gray-400 uppercase tracking-wider mb-2 px-1">
+                    Preços confirmados
+                  </p>
+                  <div className="space-y-2">
+                    {realPrices.map((item) => {
+                      const isCheap = item.store === cheapest?.store;
+                      return (
+                        <a
+                          key={item.store + item.url}
+                          href={item.url}
+                          target="_blank"
+                          rel="noopener noreferrer"
+                          className={`flex items-center gap-3 p-3.5 rounded-xl border transition-all hover:shadow-md group ${
+                            isCheap
+                              ? "border-emerald-300 bg-emerald-50 hover:border-emerald-400"
+                              : "border-gray-100 bg-white hover:border-gray-200"
+                          }`}
+                        >
+                          {/* Logo */}
+                          <div className={`w-11 h-11 rounded-xl flex items-center justify-center text-xs font-bold shrink-0 ${item.color}`}>
+                            {item.logo}
+                          </div>
+
+                          {/* Nome + badge */}
+                          <div className="flex-1 min-w-0">
+                            <div className="flex items-center gap-1.5 flex-wrap">
+                              <p className="text-sm font-semibold text-gray-900">{item.store}</p>
+                              {isCheap && (
+                                <span className="text-[10px] font-bold bg-emerald-500 text-white px-1.5 py-0.5 rounded-full leading-none">
+                                  MAIS BARATO
+                                </span>
+                              )}
+                            </div>
+                            <p className="text-xs text-gray-400 mt-0.5">
+                              {item.inStock ? "Em estoque" : "Verificar disponibilidade"}
+                            </p>
+                          </div>
+
+                          {/* Preço */}
+                          <div className="text-right shrink-0">
+                            <p className={`text-xl font-extrabold ${isCheap ? "text-emerald-700" : "text-gray-800"}`}>
+                              R$ {item.price!.toFixed(2).replace(".", ",")}
+                            </p>
+                            <p className="text-xs text-emerald-600 font-medium group-hover:underline flex items-center justify-end gap-0.5 mt-0.5">
+                              Comprar <ExternalLink className="w-3 h-3" />
+                            </p>
+                          </div>
+                        </a>
+                      );
+                    })}
                   </div>
-                  <a
-                    href={url}
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="flex items-center justify-center gap-2 w-full py-2.5 bg-gray-100 text-gray-700 hover:bg-gray-200 text-sm font-semibold transition-colors"
-                  >
-                    <ShoppingBag className="w-4 h-4" />
-                    Buscar em {store}
-                    <ExternalLink className="w-3.5 h-3.5 opacity-70" />
-                  </a>
                 </div>
-              ))}
-            </div>
+              )}
+
+              {/* ── Links de busca nas outras lojas ── */}
+              {searchLinks.length > 0 && (
+                <div>
+                  <p className="text-xs font-bold text-gray-400 uppercase tracking-wider mb-2 px-1 flex items-center gap-1.5">
+                    <Search className="w-3.5 h-3.5" />
+                    Também encontrado em
+                  </p>
+                  <div className="grid grid-cols-2 gap-2">
+                    {searchLinks.map((item) => (
+                      <a
+                        key={item.store}
+                        href={item.url}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="flex items-center gap-2.5 p-3 rounded-xl border border-gray-100 bg-white hover:border-gray-200 hover:shadow-sm transition-all group"
+                      >
+                        <div className={`w-8 h-8 rounded-lg flex items-center justify-center text-[11px] font-bold shrink-0 ${item.color}`}>
+                          {item.logo}
+                        </div>
+                        <div className="min-w-0 flex-1">
+                          <p className="text-xs font-semibold text-gray-800 truncate leading-tight">{item.store}</p>
+                          <p className="text-[10px] text-gray-400 flex items-center gap-0.5 mt-0.5">
+                            Buscar <ExternalLink className="w-2.5 h-2.5" />
+                          </p>
+                        </div>
+                      </a>
+                    ))}
+                  </div>
+                </div>
+              )}
+            </>
           )}
         </div>
 
-        <div className="px-5 pb-4">
-          {selectedColor && (
-            <p className="text-[11px] text-pink-500 text-center mb-1 font-medium">
-              Tom selecionado: {selectedColor} — a busca já inclui essa cor
-            </p>
-          )}
+        {/* ── Rodapé ── */}
+        <div className="px-5 py-3 border-t border-gray-100 bg-gray-50/80 shrink-0">
           <p className="text-[11px] text-gray-400 text-center leading-relaxed">
-            Os preços são consultados periodicamente e podem sofrer alterações. Confira o valor final na página de cada loja.
+            Os preços do Mercado Livre são atualizados em tempo real. Valores de outras lojas podem variar.
+            Confira o preço final antes de comprar.
           </p>
         </div>
       </div>
