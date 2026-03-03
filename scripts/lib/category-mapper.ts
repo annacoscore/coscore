@@ -5,9 +5,9 @@ const ML_DOMAIN_MAP: Record<string, Category> = {
   // Lábios
   'MLB-LIPSTICKS':            'Batom',
   'MLB-LIP_TINTS':            'Batom',
-  'MLB-LIP_GLOSSES':          'Brilho Labial',
+  'MLB-LIP_GLOSSES':          'Gloss',
   'MLB-LIP_LINERS':           'Lápis Labial',
-  'MLB-LIP_BALMS':            'Brilho Labial',
+  'MLB-LIP_BALMS':            'Gloss',
   // Rosto
   'MLB-FOUNDATIONS':          'Base',
   'MLB-BB_CREAMS':            'Base',
@@ -140,7 +140,7 @@ const KEYWORD_RULES: KeywordRule[] = [
   },
   {
     keywords: ['lip gloss', 'lipgloss', 'gloss labial', 'brilho labial', 'lip balm', 'batom gloss', 'labial gloss'],
-    category: 'Brilho Labial',
+    category: 'Gloss',
   },
   {
     keywords: ['batom', 'baton', 'lip color', 'lipcolor', 'lipstick', 'lip stick', 'labial', 'lip tint'],

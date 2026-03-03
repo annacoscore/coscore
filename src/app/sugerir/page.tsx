@@ -6,7 +6,7 @@ import { enviarSugestao, type SugestaoState } from "./actions";
 import { Category, getCategoryDisplayName } from "@/types";
 
 const CATEGORIAS: Category[] = [
-  "Batom", "Base", "Máscara de Cílios", "Sombra", "Blush", "Iluminador",
+  "Batom", "Gloss", "Base", "Máscara de Cílios", "Sombra", "Blush", "Iluminador",
   "Primer", "Contorno/Bronzer", "Sérum", "Hidratante", "Protetor Solar",
   "Tônico Facial", "Limpeza Facial", "Máscara Facial", "Esfoliante",
   "Creme para Olhos", "Perfume", "Perfume Homem", "Shampoo", "Condicionador",

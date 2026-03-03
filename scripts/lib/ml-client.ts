@@ -19,7 +19,7 @@ export const PAGE_SIZE = 50;
 export const ML_KEYWORD_SEARCHES: { query: string; label: string }[] = [
   // ── Maquiagem — lábios ──────────────────────────────────────────────────────
   { query: 'batom lipstick lip tint',          label: 'Batom' },
-  { query: 'lip gloss brilho labial',          label: 'Brilho Labial' },
+  { query: 'lip gloss brilho labial',          label: 'Gloss' },
   { query: 'lapis labial lip liner delineador labial', label: 'Lápis Labial' },
   // ── Maquiagem — rosto ───────────────────────────────────────────────────────
   { query: 'base liquida maquiagem foundation', label: 'Base' },

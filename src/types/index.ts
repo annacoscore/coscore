@@ -1,7 +1,7 @@
 export type Category =
   // ── Maquiagem ──────────────────────────────────────────────────────────────
   | "Batom"
-  | "Brilho Labial"
+  | "Gloss"
   | "Lápis Labial"
   | "Base"
   | "Corretivo"
@@ -42,7 +42,7 @@ export type CategoryGroup = "Maquiagem" | "Skincare" | "Perfumes" | "Cabelo";
 export const CATEGORY_GROUPS: Record<Category, CategoryGroup> = {
   // Maquiagem
   Batom: "Maquiagem",
-  "Brilho Labial": "Maquiagem",
+  Gloss: "Maquiagem",
   "Lápis Labial": "Maquiagem",
   Base: "Maquiagem",
   Corretivo: "Maquiagem",
@@ -81,7 +81,7 @@ export const CATEGORY_GROUPS: Record<Category, CategoryGroup> = {
 
 export const GROUP_CATEGORIES: Record<CategoryGroup, Category[]> = {
   Maquiagem: [
-    "Batom", "Brilho Labial", "Lápis Labial",
+    "Batom", "Gloss", "Lápis Labial",
     "Base", "Corretivo", "Pó Facial",
     "Primer", "Fixador de Maquiagem",
     "Máscara de Cílios", "Sombra", "Delineador",

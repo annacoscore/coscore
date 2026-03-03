@@ -39,7 +39,7 @@ const REQUEST_DELAY_MS = 600;
 // Buscas por subcategoria (queries que tendem a retornar produtos dessa categoria)
 const CATEGORY_QUERIES: Record<string, string[]> = {
   'Batom': ['batom lipstick', 'batom matte nude', 'batom liquido'],
-  'Brilho Labial': ['lip gloss brilho labial', 'gloss labial'],
+  'Gloss': ['lip gloss brilho labial', 'gloss labial'],
   'Lápis Labial': ['lapis labial lip liner', 'contorno labial'],
   'Base': ['base liquida maquiagem', 'base foundation', 'bb cream'],
   'Corretivo': ['corretivo concealer', 'anti olheira'],

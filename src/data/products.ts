@@ -1,6 +1,6 @@
 // @ts-nocheck — arquivo gerado automaticamente, não editar manualmente
 // Catálogo 100% Mercado Livre — gerado por scripts/export-catalog.js
-// Última atualização: 2026-03-03T18:29:58.988Z
+// Última atualização: 2026-03-03T18:33:11.866Z
 // Total: 1441 produtos
 import type { Product } from '../types';
 
@@ -2101,7 +2101,7 @@ const catalogProducts = [
     "id": "p17725556268840149",
     "name": "Brilho Labial Commercializadoragenmx Lip Gloss",
     "brand": "COMERCIALIZADORAGENMX",
-    "category": "Brilho Labial",
+    "category": "Gloss",
     "description": "Brilho Labial Commercializadoragenmx Lip Gloss - COMERCIALIZADORAGENMX",
     "image": "https://http2.mlstatic.com/D_NQ_NP_848406-MLU75855818127_042024-F.jpg",
     "images": [
@@ -2131,7 +2131,7 @@ const catalogProducts = [
     "id": "p17725556281570150",
     "name": "Lip Gloss Luminizer Lip Gloss Sy",
     "brand": "Moira",
-    "category": "Brilho Labial",
+    "category": "Gloss",
     "description": "Lip Gloss Luminizer Lip Gloss Sy - Moira",
     "image": "https://http2.mlstatic.com/D_NQ_NP_882066-MLA79696551133_102024-F.jpg",
     "images": [
@@ -2166,7 +2166,7 @@ const catalogProducts = [
     "id": "p17725556281570151",
     "name": "Brilho Labial Gabriel Cosmetics Lip Gloss",
     "brand": "Gabriel Cosmetics",
-    "category": "Brilho Labial",
+    "category": "Gloss",
     "description": "Brilho Labial Gabriel Cosmetics Lip Gloss - Gabriel Cosmetics",
     "image": "https://http2.mlstatic.com/D_NQ_NP_832913-MLA27459913155_052018-F.jpg",
     "images": [
@@ -2190,7 +2190,7 @@ const catalogProducts = [
     "id": "p17725556294340152",
     "name": "Lip Gloss Brilho Labial",
     "brand": "Glossier",
-    "category": "Brilho Labial",
+    "category": "Gloss",
     "description": "Lip Gloss Brilho Labial - Glossier",
     "image": "https://http2.mlstatic.com/D_NQ_NP_804356-MLA76026947937_042024-F.jpg",
     "images": [
@@ -2225,7 +2225,7 @@ const catalogProducts = [
     "id": "p17725556294340153",
     "name": "Brillo Labial Moira Lip Gloss Luminizer Lip Gloss",
     "brand": "Moira",
-    "category": "Brilho Labial",
+    "category": "Gloss",
     "description": "Brillo Labial Moira Lip Gloss Luminizer Lip Gloss - Moira",
     "image": "https://http2.mlstatic.com/D_NQ_NP_990759-MLU74724861638_032024-F.jpg",
     "images": [
@@ -2260,7 +2260,7 @@ const catalogProducts = [
     "id": "p17725556294340154",
     "name": "Lip Gloss Brilho Labial",
     "brand": "Palladio",
-    "category": "Brilho Labial",
+    "category": "Gloss",
     "description": "Brilho Labial Palladio Lip Gloss - Palladio",
     "image": "https://http2.mlstatic.com/D_NQ_NP_605781-MLU73268534159_122023-F.jpg",
     "images": [
@@ -2298,7 +2298,7 @@ const catalogProducts = [
     "id": "p17725556307120156",
     "name": "Combo Melissa: Gloss Labial Glossy + Gloss Labial",
     "brand": "O Boticário",
-    "category": "Brilho Labial",
+    "category": "Gloss",
     "description": "O Combo Melissa inclui itens de maquiagem e cuidados pessoais que enriquecem sua rotina de autocuidado com o aroma icônico das sandálias mais estilosas do Brasil:\n\nGLOSS PLASTIC LIPS\n\nGLOSS PINK\nO Gloss Labial Glossy Pink Intense Melissa também é multifuncional e adiciona cor às suas produções. Com uma tonalidade pink, oferece um efeito glossy molhado sem acumulação e um efeito holográfico.\n\nLOÇÃO CORPORAL\nA Loção Hidratante Desodorante Corporal Cuide-se Bem Melissa fornece hidratação e perfumaç",
     "image": "https://http2.mlstatic.com/D_NQ_NP_758149-MLU78084487286_082024-F.jpg",
     "images": [
@@ -2323,7 +2323,7 @@ const catalogProducts = [
     "id": "p17725556307120157",
     "name": "Kit Melissa Gloss Labial E Gloss Labial Plastic Lips",
     "brand": "O Boticário",
-    "category": "Brilho Labial",
+    "category": "Gloss",
     "description": "Kit Melissa Gloss Labial Glossy Pink 5,5ml e Gloss Labial Glossy Plastic Lips 5,5ml (2 Itens) - O Boticário\n\nGloss Labial Glossy Plastic Lips Intense Melissa 5,5ml\nPara lábios e olhos, este gloss labial é pink e proporciona um efeito glossy molhado sem acumular nos cantos dos lábios ou nas linhas do seu rosto.\nTraz efeito holográfico para um estilo mais marcante nas suas maquiagens. Mantém os lábios hidratados, macios e confortáveis.\n\nGloss Labial Glossy Plastic Lips Intense Melissa 5,5ml\nPara l",
     "image": "https://http2.mlstatic.com/D_NQ_NP_693526-MLA79538971052_102024-F.jpg",
     "images": [
@@ -2358,7 +2358,7 @@ const catalogProducts = [
     "id": "p17725556319840158",
     "name": "Gloss Labial Exotic",
     "brand": "Cores&Brilhos",
-    "category": "Brilho Labial",
+    "category": "Gloss",
     "description": "O Gloss Labial Exotic é um produto de beleza de alta qualidade que apresenta uma cor única de Rosa Metálico. Este gloss labial tem um acabamento brilhante que adiciona um toque de glamour a qualquer look. A cor principal deste gloss é um Rosa-escuro, que é perfeito para quem procura um toque de cor exótica e vibrante nos lábios. \n\nApesar de não ser à prova d'água, este gloss labial é fácil de aplicar e tem um aroma agradável que irá encantar os seus sentidos. Além disso, a sua fórmula não pegajo",
     "image": "https://http2.mlstatic.com/D_NQ_NP_680210-MLU72967747984_112023-F.jpg",
     "images": [
@@ -2389,7 +2389,7 @@ const catalogProducts = [
     "id": "p17725556319840159",
     "name": "Gloss Labial Mistic",
     "brand": "Cores&Brilhos",
-    "category": "Brilho Labial",
+    "category": "Gloss",
     "description": "O Gloss Labial Mistic é um produto de beleza único que apresenta uma tonalidade metalizada na cor Cobre, proporcionando um efeito místico nos seus lábios. Este gloss labial tem uma cor preta intensa que adiciona profundidade e drama à sua maquiagem. O acabamento brilhante do gloss labial Mistic reflete a luz, dando aos seus lábios uma aparência mais cheia e voluptuosa. \n\nApesar de não ser à prova d'água, este gloss labial tem uma longa duração e não desbota facilmente. A aplicação é extremamente",
     "image": "https://http2.mlstatic.com/D_NQ_NP_931272-MLU77903020582_082024-F.jpg",
     "images": [
@@ -2420,7 +2420,7 @@ const catalogProducts = [
     "id": "p17725556319840160",
     "name": "Gloss Labial",
     "brand": "Cores&Brilhos",
-    "category": "Brilho Labial",
+    "category": "Gloss",
     "description": "O Gloss Labial Nude da linha Cores&Brilhos é o produto perfeito para quem ama um gloss diário. Com uma cor marrom natural e extremamente discreta, este gloss é a chave para um look elegante e sofisticado. O acabamento brilhante proporciona um efeito cristal que realça a beleza dos seus lábios, tornando-os o centro das atenções. Além disso, o aroma delicioso e suave do gloss vai fazer você se apaixonar por ele. Embora não seja à prova d'água, este gloss labial nude tem uma durabilidade incrível,",
     "image": "https://http2.mlstatic.com/D_NQ_NP_787396-MLU72920192197_112023-F.jpg",
     "images": [
@@ -2451,7 +2451,7 @@ const catalogProducts = [
     "id": "p17725556319840161",
     "name": "Gloss Labial Lifter Gloss Topaz",
     "brand": "Maybelline",
-    "category": "Brilho Labial",
+    "category": "Gloss",
     "description": "LÁBIOS BRILHANTES COM UMA COR INCRÍVEL!\n\nExperimente o novo Gloss Labial Lifter Topaz de Maybelline e transforme seus lábios em um verdadeiro espetáculo de beleza! Com a poderosa tecnologia do ácido hialurônico, este produto proporciona hidratação intensa e um efeito volumoso que você vai adorar. \n\nSua fórmula luxuosa desliza suavemente, preenchendo cada centímetro dos seus lábios com um brilho deslumbrante e duradouro. Simples de aplicar, basta seguir duas etapas para conquistar lábios irresist",
     "image": "https://http2.mlstatic.com/D_NQ_NP_910662-MLU78033024755_072024-F.jpg",
     "images": [
@@ -2491,7 +2491,7 @@ const catalogProducts = [
     "id": "p17725556332620162",
     "name": "Gloss Labial Chamando Atenção",
     "brand": "Ana Hickmann",
-    "category": "Brilho Labial",
+    "category": "Gloss",
     "description": "O Gloss Labial Chamando Atenção da marca Ana Hickmann é a escolha perfeita para quem busca um toque de brilho e hidratação nos lábios. Com uma linda tonalidade rosa, ele proporciona um acabamento brilhante que destaca a beleza natural de cada sorriso. Sua fórmula é enriquecida com ingredientes hidratantes, garantindo lábios macios e bem cuidados ao longo do dia.\n\nExperimente o Gloss Labial Chamando Atenção e sinta a diferença na sua rotina de beleza. Com ele, seus lábios estarão sempre prontos p",
     "image": "https://http2.mlstatic.com/D_NQ_NP_782073-MLA80329516322_112024-F.jpg",
     "images": [
@@ -2523,7 +2523,7 @@ const catalogProducts = [
     "id": "p17725556332620163",
     "name": "Gloss Labial Sorvetinho Vivai",
     "brand": "Vivai",
-    "category": "Brilho Labial",
+    "category": "Gloss",
     "description": "Gloss Labial Sorvetinho Vivai - Vivai",
     "image": "https://http2.mlstatic.com/D_NQ_NP_631796-MLU76114795199_042024-F.jpg",
     "images": [
@@ -2556,7 +2556,7 @@ const catalogProducts = [
     "id": "p17725556332630164",
     "name": "Gloss Labial Volumizador Cher Hyaluron Spicy Lip Gloss",
     "brand": "Cher.",
-    "category": "Brilho Labial",
+    "category": "Gloss",
     "description": "Experimente uma sensação única com nosso Cher Beauty Hyaluron Spicy Gloss. Este brilho labial enriquecido com ácido hialurônico e extrato de pimenta proporciona uma coceira suave e estimulante ao mesmo tempo que dá volume e volume aos lábios, deixando-os hidratados e com uma aparência atraente e suculenta. \n \n Este produto é vegano, não testado em animais e é livre de parabenos, de acordo com nosso compromisso com a beleza ética e sustentável. Eleve seus lábios com o Hyaluron Lip Gloss da Cher B",
     "image": "https://http2.mlstatic.com/D_NQ_NP_787013-MLU75715408721_042024-F.jpg",
     "images": [
@@ -2585,7 +2585,7 @@ const catalogProducts = [
     "id": "p17725556332630166",
     "name": "Gloss Labial Fantasy",
     "brand": "Cores&Brilhos",
-    "category": "Brilho Labial",
+    "category": "Gloss",
     "description": "Descubra o poder do Gloss Labial Fantasy da marca Cores&Brilhos, um produto que combina um aroma delicado com uma incrível tonalidade de vermelho escuro. Este gloss labial não apenas proporciona um brilho cristalino que realça sua sensualidade, mas também é fácil de aplicar, garantindo que seus lábios ganhem destaque e charme em qualquer ocasião. Com 8 unidades por embalagem, você terá sempre um toque de glamour à mão. Embora não seja à prova d'água, sua fórmula nova e de alta qualidade assegura",
     "image": "https://http2.mlstatic.com/D_NQ_NP_893860-MLU76461549318_052024-F.jpg",
     "images": [
@@ -2616,7 +2616,7 @@ const catalogProducts = [
     "id": "p17725556332630167",
     "name": "Gloss Labial Fand",
     "brand": "Fand Makeup",
-    "category": "Brilho Labial",
+    "category": "Gloss",
     "description": "Adicione um toque de cor e brilho ao seu visual com o Gloss Labial Fand Cor Flora. Este gloss labial é a escolha perfeita para quem procura um produto de qualidade que realça a beleza natural dos lábios. Com uma cor principal vermelha, este gloss labial é perfeito para qualquer ocasião, seja para um look casual durante o dia ou para um look mais glamouroso à noite.\n\nO Gloss Labial Fand Cor Flora é fácil de aplicar e proporciona uma cobertura suave e uniforme. A sua fórmula não é à prova d'água,",
     "image": "https://http2.mlstatic.com/D_NQ_NP_941923-MLA89986372142_082025-F.jpg",
     "images": [
@@ -2649,7 +2649,7 @@ const catalogProducts = [
     "id": "p17725556332630168",
     "name": "Gloss Labial - Fadarinas",
     "brand": "Safira",
-    "category": "Brilho Labial",
+    "category": "Gloss",
     "description": "Realce a beleza natural dos seus lábios com o Gloss Labial Fadarinas da marca Safira. Este produto é a escolha perfeita para quem busca um acabamento brilhante e uma sensação de hidratação duradoura. Com uma aplicação suave e uniforme, o Gloss Labial Fadarinas desliza sobre os lábios, proporcionando um toque de cor sutil e um brilho espelhado que complementa qualquer look.\n\nA fórmula não pegajosa garante conforto ao longo do dia, permitindo que você mantenha seus lábios destacados e protegidos s",
     "image": "https://http2.mlstatic.com/D_NQ_NP_694319-MLU74798569794_032024-F.jpg",
     "images": [
@@ -2680,7 +2680,7 @@ const catalogProducts = [
     "id": "p17725556332630169",
     "name": "Gloss Lábial - Coleção Ppoeta - Catarina",
     "brand": "Ppoeta",
-    "category": "Brilho Labial",
+    "category": "Gloss",
     "description": "Descubra o Gloss Lábial da Coleção Ppoeta, especialmente desenvolvido para realçar a beleza dos seus lábios. Com um acabamento brilhante, este gloss proporciona um efeito luminoso que deixa os lábios com uma aparência mais volumosa e irresistível. A sua fórmula hidratante garante que os lábios permaneçam macios e bem cuidados ao longo do dia, evitando o ressecamento. Disponível na vibrante cor vermelha, este produto é perfeito para qualquer ocasião, seja para um look casual ou uma noite especial",
     "image": "https://http2.mlstatic.com/D_NQ_NP_988489-MLA79831126635_102024-F.jpg",
     "images": [
@@ -2711,7 +2711,7 @@ const catalogProducts = [
     "id": "p17725556332630170",
     "name": "Gloss Labial Cristal Divamor",
     "brand": "Divamor",
-    "category": "Brilho Labial",
+    "category": "Gloss",
     "description": "O Gloss Labial Pink Cristal Divamor é um produto de beleza essencial para quem deseja realçar a beleza dos lábios com uma cor e brilho super naturais. Este gloss labial está disponível em 5 cores incríveis, que são adequadas tanto para o dia a dia quanto para a noite, proporcionando versatilidade e permitindo que você crie looks diferentes para cada ocasião. \n\nAlém disso, o Gloss Labial Pink Cristal Divamor possui um aroma delicioso, que tornará a sua experiência de uso ainda mais agradável. Est",
     "image": "https://http2.mlstatic.com/D_NQ_NP_742580-MLU74154685505_012024-F.jpg",
     "images": [
@@ -2742,7 +2742,7 @@ const catalogProducts = [
     "id": "p17725556332630171",
     "name": "Gloss Labial Newcolor",
     "brand": "Newcolor",
-    "category": "Brilho Labial",
+    "category": "Gloss",
     "description": "Mergulhe no brilho do Newcolor N°24 Lip Gloss, uma joia de nossa coleção exclusiva que promete não apenas realçar a beleza natural de seus lábios, mas também cuidar deles a cada aplicação. Esse brilho labial, com seu código 53049, é o toque final perfeito para qualquer look, oferecendo um acabamento espetacular que captura a luz e a atenção de todos. Sua fórmula inovadora fornece uma textura macia e não pegajosa, garantindo uma sensação de conforto durante todo o dia. Além disso, é enriquecido c",
     "image": "https://http2.mlstatic.com/D_NQ_NP_894057-MLU75278655112_032024-F.jpg",
     "images": [
@@ -2772,7 +2772,7 @@ const catalogProducts = [
     "id": "p17725556332630172",
     "name": "Gloss Labial Frederika Make Acrylic",
     "brand": "Frederika Make",
-    "category": "Brilho Labial",
+    "category": "Gloss",
     "description": "Este gloss labial pertence à linha Gloss Labial Frederika Make Acrylic, conhecida pela sua qualidade e desempenho excepcionais. O modelo Gloss Labial Frederika Make Acrylic é um dos mais populares desta linha, graças à sua fórmula única que proporciona um acabamento suave e brilhante.",
     "image": "https://http2.mlstatic.com/D_NQ_NP_849802-MLU73373431507_122023-F.jpg",
     "images": [
@@ -2805,7 +2805,7 @@ const catalogProducts = [
     "id": "p17725556332630173",
     "name": "Gloss Labial Vegano Ricosti - Incolor",
     "brand": "Ricosti",
-    "category": "Brilho Labial",
+    "category": "Gloss",
     "description": "Sua textura confortável e de fácil aplicação torna este produto um must-have em qualquer necessaire. Além disso, é um produto de longa duração, garantindo que seus lábios fiquem brilhantes e atraentes por mais tempo. \n\nEste gloss labial não é à prova d'água, por isso, é ideal para ocasiões em que não haja contato com água. \n\nUm dos grandes diferenciais do Gloss Labial Vegano Ricosti - Incolor é que ele é vegano, ou seja, não contém ingredientes de origem animal e não é testado em animais. Isso f",
     "image": "https://http2.mlstatic.com/D_NQ_NP_976537-MLU72878325704_112023-F.jpg",
     "images": [
@@ -2836,7 +2836,7 @@ const catalogProducts = [
     "id": "p17725556332630174",
     "name": "Kit Sweet Lips Esfoliante Labial + Gloss Labial Tulipia",
     "brand": "Tulípia",
-    "category": "Brilho Labial",
+    "category": "Gloss",
     "description": "Kit Sweet Lips Esfoliante Labial + Gloss Labial Tulipia\n\nO Kit Sweet Lips é um cosmético desenvolvido para os lábios, combinando esfoliação e hidratação. O esfoliante labial possui um blend de óleos naturais e cristais de açúcar que promovem a remoção de pele morta, enquanto mantém a hidratação natural dos lábios, sem deixar resíduos oleosos. Com aroma de chiclete tutti-frutti e sabor doce, contém Óleo de Coco, Óleo de Jojoba, Manteiga de Karitê e Vitamina E.\n\nBENEFÍCIOS DO ESFOLIANTE:\n- Remove",
     "image": "https://http2.mlstatic.com/D_NQ_NP_976679-MLA80818738499_112024-F.jpg",
     "images": [
@@ -2870,7 +2870,7 @@ const catalogProducts = [
     "id": "p17725556332630175",
     "name": "Make B Gloss Labial, Make B Gloss Labial Lover, 5 Acabamento Cremoso",
     "brand": "O Boticário",
-    "category": "Brilho Labial",
+    "category": "Gloss",
     "description": "O Brilho Labial Make B. o Boticário é o complemento ideal para adicionar um toque de brilho à sua maquiagem. Com ácido hialurônico em sua formulação, oferece proteção e hidratação aos lábios por até 24 horas, promovendo saúde e um aspecto natural. Além disso, proporciona um acabamento cintilante com uma textura suave que não escorre nem fica pegajosa. Disponível em três cores distintas, permite harmonizar com diversos estilos.\n\nCaracterísticas do produto:\n\n- Testado dermatologicamente;\n- Vegano;",
     "image": "https://http2.mlstatic.com/D_NQ_NP_776956-MLU75810071824_042024-F.jpg",
     "images": [
@@ -2913,7 +2913,7 @@ const catalogProducts = [
     "id": "p17725556332630176",
     "name": "Gloss Labial Vegano Adversa - Oh My Gloss! - Orgasmic Gold",
     "brand": "Adversa",
-    "category": "Brilho Labial",
+    "category": "Gloss",
     "description": "O Oh My Gloss é o nosso Gloss Labial Vegano que todos adoram! Possui uma textura agradável, que não é pegajosa e adiciona um brilho surpreendente e duradouro, proporcionando aquele efeito molhado que todos amam!\n\nOferece diferentes acabamentos, entre holográfico com e sem partículas de brilho, látex e o favorito incolor. E claro, tudo isso em uma fórmula 100% Vegana, Cruelty Free, sem glúten, sem parabenos e livre de microplásticos.\n\nAs cores podem variar de acordo com a qualidade e tipo do moni",
     "image": "https://http2.mlstatic.com/D_NQ_NP_891297-MLU73331802872_122023-F.jpg",
     "images": [
@@ -2947,7 +2947,7 @@ const catalogProducts = [
     "id": "p17725556332630179",
     "name": "Gloss Franciny Ehlke Liphoney Gloss Labial De Mel",
     "brand": "Fran by Franciny Ehlke",
-    "category": "Brilho Labial",
+    "category": "Gloss",
     "description": "Conheça um pouco mais!\n\nO Gloss Liphoney da marca Fran By Franciny Ehlke é aquele toque glam que faltava no seu nécessaire! Com textura leve e confortável, ele combina hidratação profunda com um brilho irresistível. Sua fórmula é enriquecida com ativos nutritivos, como mel e óleo de amêndoas, garantindo lábios macios e super radiantes. Seja para arrasar no dia a dia ou brilhar na noite, o Liphoney é perfeito para criar aquele visual sofisticado e moderno.\n \nContém: 5g\n\n\nVocê vai amar!\n\nEsse glos",
     "image": "https://http2.mlstatic.com/D_NQ_NP_727239-MLA97361378952_112025-F.jpg",
     "images": [
@@ -2982,7 +2982,7 @@ const catalogProducts = [
     "id": "p17725558059523213",
     "name": "Kit Fran Lipchilli #chillikit - Fran By Franciny Ehlke",
     "brand": "Mboom",
-    "category": "Brilho Labial",
+    "category": "Gloss",
     "description": "O Kit Gloss Lip Chilli Fran é a solução ideal para quem busca lábios volumosos e com brilho intenso. Com três cores diferentes, você pode criar looks personalizados para qualquer ocasião.\n\nOs glosses Lip Chilli são enriquecidos com ácido hialurônico e vitamina E, que hidratam e nutrem os lábios, deixando-os macios e suaves. Além disso, possuem efeito vinílico, que proporciona um brilho intenso e duradouro.\n\nO kit contém três cores diferentes:\n\n- Pink Chilli: um rosa suave e delicado.\n- Chilli23:",
     "image": "https://http2.mlstatic.com/D_NQ_NP_656146-MLA82485630483_022025-F.jpg",
     "images": [
@@ -3017,7 +3017,7 @@ const catalogProducts = [
     "id": "p17725558059533214",
     "name": "Glosslicious Kit Fran - Fran By Franciny Elkhe",
     "brand": "Fran by Franciny Ehlke",
-    "category": "Brilho Labial",
+    "category": "Gloss",
     "description": "Franciny Ehlke Glosslicious Gloss Labial 3Un (Cherry Lips, Juicy Lips, Cookie Lips)\n\nSão 3 glossys que arrasam no efeito vinílico e ultra brilho 3D, que te conquistarão com cores e sabores.\n\nEsses são meus novos bebês, pensados especialmente para despertar desejos e deliciosas sensações.\n\nA ponteira do GLOSSLICIOUS dispensa produto suficiente para um bocão de diva e entrega muito além de lábios brilhosos. Sem contar que possuem poder hidratante, que tratam os lábios a cada aplicação.\n\nAção/benef",
     "image": "https://http2.mlstatic.com/D_NQ_NP_633929-MLA84547546234_052025-F.jpg",
     "images": [
@@ -3052,7 +3052,7 @@ const catalogProducts = [
     "id": "p17725558059533217",
     "name": "Glosslicious Kit Fran 3 Unidades - Fran By Franciny Elkhe - Sharks Ml",
     "brand": "SHARKS ML",
-    "category": "Brilho Labial",
+    "category": "Gloss",
     "description": "Franciny Ehlke Glosslicious Gloss Labial 3Un (Cherry Lips, Juicy Lips, Cookie Lips) - SHARKS ML\n\nSão 3 glossys que arrasam no efeito vinílico e ultra brilho 3D, que te conquistarão com cores e sabores.\n\nEsses são meus novos bebês, pensados especialmente para despertar desejos e deliciosas sensações.\n\nA ponteira do GLOSSLICIOUS dispensa produto suficiente para um bocão de diva e entrega muito além de lábios brilhosos. Sem contar que possuem poder hidratante, que tratam os lábios a cada aplicação.",
     "image": "https://http2.mlstatic.com/D_NQ_NP_743565-MLA96155711955_102025-F.jpg",
     "images": [
@@ -3087,7 +3087,7 @@ const catalogProducts = [
     "id": "p17725558059533224",
     "name": "Gloss Chocochilli Fran By Franciny Ehlke",
     "brand": "Fran by Franciny Ehlke",
-    "category": "Brilho Labial",
+    "category": "Gloss",
     "description": "Gloss ChocoChilli By Fran – Franciny Ehlke\n\r\nBrilho intenso com atitude e um toque marcante que transforma qualquer maquiagem.\r\nO ChocoChilli By Fran entrega lábios volumosos, iluminados e extremamente brilhantes, com uma tonalidade sofisticada inspirada no chocolate com pimenta.\r\nPossui textura confortável, não escorre e proporciona aplicação uniforme, garantindo acabamento espelhado poderoso.\r\nIdeal para quem quer sair do básico e apostar em um gloss com personalidade, sem abrir mão do confort",
     "image": "https://http2.mlstatic.com/D_NQ_NP_710566-MLA107303137082_032026-F.jpg",
     "images": [
@@ -3120,7 +3120,7 @@ const catalogProducts = [
     "id": "p17725558072333229",
     "name": "Chocochilli Gloss Fran By Franciny Ehlke Acabamento Brilhante Chocolate",
     "brand": "Fran by Franciny Ehlke",
-    "category": "Brilho Labial",
+    "category": "Gloss",
     "description": "O Gloss Fran By Franciny Ehlke - Chocochilli - Edição Limitada é o produto perfeito para quem busca lábios hidratados e com uma cor intensa e duradoura. Com sua fórmula enriquecida com ácido hialurônico, ele proporciona uma hidratação profunda, deixando os lábios macios e suaves. Além disso, sua tonalidade de chocolate é perfeita para quem adora um visual sofisticado e sedutor. Com o Gloss Choco Chilli, você terá lábios volumosos e irresistíveis. Aproveite essa edição limitada e adquira já o seu",
     "image": "https://http2.mlstatic.com/D_NQ_NP_610701-MLU72565366536_112023-F.jpg",
     "images": [
@@ -3155,7 +3155,7 @@ const catalogProducts = [
     "id": "p17725558072333231",
     "name": "Balm Esfoliante Scrub Stick Bamboo Fran By Franciny Ehlke",
     "brand": "Franciny Ehlke",
-    "category": "Brilho Labial",
+    "category": "Gloss",
     "description": "O Scrub stick we love balm é um esfoliante com partículas naturais de bambu, enriquecido com manteiga de karite, óleo de rosa mosqueta e vitamina e. Esfolia suavemente, nutre e hidrata, deixando os lábios macios e perfeitos para aplicação de qualquer produto. \nO uso contínuo ajuda a estimular a renovação celular, minimizando o aspecto de ressecamento e deixando uma aparência muito mais saudável e uniforme.\n\nEsfoliante com partículas naturais de bambu, enriquecido com manteiga de karite, óleo de",
     "image": "https://http2.mlstatic.com/D_NQ_NP_723779-MLA84550835580_052025-F.jpg",
     "images": [
@@ -3189,7 +3189,7 @@ const catalogProducts = [
     "id": "p17725558072333234",
     "name": "Gloss Franboesa Fran By Franciny Ehlke Brilho",
     "brand": "50TÃO",
-    "category": "Brilho Labial",
+    "category": "Gloss",
     "description": "Gloss Franboesa Fran By Franciny Ehlke Brilho - 50TÃO",
     "image": "https://http2.mlstatic.com/D_NQ_NP_771049-MLA107963222985_032026-F.jpg",
     "images": [
@@ -3221,7 +3221,7 @@ const catalogProducts = [
     "id": "p17725558123413264",
     "name": "Lip Gloss Boca Beauty Demi",
     "brand": "Boca Rosa",
-    "category": "Brilho Labial",
+    "category": "Gloss",
     "description": "Conheça um pouco mais!\nGloss labial. Payot Boca Rosa Diva Glossy apresenta cores radiantes, versáteis e elegantes inspiradas nos maiores ícones pop da atualidade.\n\nVocê vai amar!\nA fórmula do Gloss Boca Rosa Diva Glossy, da Payot, possui ingredientes hidratantes que proporcionam maciez e suavidade aos lábios. Possui alta durabilidade e deixa uma sensação refrescante. Um brilho marcante que transforma você em uma verdadeira diva.\n\nPega essas dicas!\nCom o aplicador, aplique o gloss diretamente sob",
     "image": "https://http2.mlstatic.com/D_NQ_NP_829526-MLU74724331036_032024-F.jpg",
     "images": [
@@ -3263,7 +3263,7 @@ const catalogProducts = [
     "id": "p17725558161473311",
     "name": "Gloss Labial - Karen Bachini - Brilho Intenso",
     "brand": "Karen Bachini",
-    "category": "Brilho Labial",
+    "category": "Gloss",
     "description": "O gloss \"Brilho Intenso\" da Karen Bachini Beauty é um produto de beleza desenvolvido para realçar os lábios com um acabamento brilhante e luminoso. Com uma fórmula de alta qualidade, este gloss promete proporcionar um efeito espelhado e luminoso aos lábios, conferindo um visual elegante e sofisticado para sua maquiagem.\n\nCruelty free – Vegano – Dermatologicamente testado\n\nContém: 3,5g.\n\nPerfeito para qualquer ocasião, o gloss da Karen Bachini é ideal para dar destaque aos lábios, tornando-os mai",
     "image": "https://http2.mlstatic.com/D_NQ_NP_773881-MLU75858976307_042024-F.jpg",
     "images": [
@@ -3298,7 +3298,7 @@ const catalogProducts = [
     "id": "p17725558175403327",
     "name": "Gloss Labial Bordô Efeito Tint Karen Bachini Hidratante",
     "brand": "Karen Bachini",
-    "category": "Brilho Labial",
+    "category": "Gloss",
     "description": "O Gloss Tattoo by Karen Bachini traz uma fórmula que instantaneamente revela uma tonalidade única nos lábios após sua aplicação. \n\nO produto reage com o pH da pele e evidencia uma cor exclusiva, além de deixar nos lábios um brilho vinílico lindo! \n\nO efeito tint é prolongado, se mantendo nos lábios por horas. \n\nA fórmula é enriquecida com ácido hialurônico, manteiga de karité e pantenol, ativos hidratantes que ajudam a manter os lábios saudáveis e sempre bonitos.",
     "image": "https://http2.mlstatic.com/D_NQ_NP_920802-MLU78077744802_082024-F.jpg",
     "images": [

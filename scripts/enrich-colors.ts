@@ -23,7 +23,7 @@ import type { CatalogEntry, ColorVariant } from './lib/types';
 // ─── Config ───────────────────────────────────────────────────────────────────
 
 const TARGET_CATEGORIES = [
-  'Base', 'Corretivo', 'Pó Facial', 'Brilho Labial', 'Batom',
+  'Base', 'Corretivo', 'Pó Facial', 'Gloss', 'Batom',
   'Lápis Labial', 'Iluminador', 'Contorno/Bronzer', 'Blush', 'Sombra',
 ];
 
