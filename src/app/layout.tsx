@@ -29,6 +29,31 @@ export const metadata: Metadata = {
   icons: {
     icon: "/favicon.png",
     apple: "/favicon.png",
+    shortcut: "/favicon.png",
+  },
+  openGraph: {
+    title: "CoScore – Reviews de Cosméticos & Comparação de Preços",
+    description:
+      "Encontre reviews honestas de cosméticos e compare preços nas melhores lojas. Descubra os produtos certos para você no CoScore.",
+    url: "https://coscorebr.com.br",
+    siteName: "CoScore",
+    images: [
+      {
+        url: "/og-image.png",
+        width: 1024,
+        height: 1024,
+        alt: "CoScore – Reviews de Cosméticos",
+      },
+    ],
+    locale: "pt_BR",
+    type: "website",
+  },
+  twitter: {
+    card: "summary",
+    title: "CoScore – Reviews de Cosméticos & Comparação de Preços",
+    description:
+      "Reviews honestas de cosméticos e comparação de preços nas melhores lojas brasileiras.",
+    images: ["/og-image.png"],
   },
 };
 
