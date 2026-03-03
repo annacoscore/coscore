@@ -158,6 +158,7 @@ export interface Review {
   packagingScore: number;
   createdAt: string;
   helpful: number;
+  coinsEarned?: number;  // moedas ganhas por esta review
 }
 
 export interface User {
@@ -168,4 +169,5 @@ export interface User {
   favoriteLists: FavoriteList[];
   reviewCount: number;
   joinedAt: string;
+  coins: number;       // total de moedas acumuladas
 }

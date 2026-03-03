@@ -1,12 +1,13 @@
 "use client";
-import { useState, useRef } from "react";
+import { useState, useRef, useMemo } from "react";
 import { Star, Send, UserCircle, Loader2, ImagePlus, X, Video, AlertCircle } from "lucide-react";
 import { useStore } from "@/store/useStore";
+import { calcReviewCoins } from "@/store/useStore";
 import { Product } from "@/types";
 
 interface ReviewFormProps {
   product: Product;
-  onSuccess: () => void;
+  onSuccess: (coinsEarned?: number) => void;
 }
 
 const MAX_PHOTOS = 3;
@@ -40,6 +41,31 @@ export default function ReviewForm({ product, onSuccess }: ReviewFormProps) {
   const videoInputRef = useRef<HTMLInputElement>(null);
 
   const ratingLabels = ["", "Péssimo", "Ruim", "Regular", "Bom", "Ótimo!"];
+
+  // Calcula moedas que serão ganhas em tempo real
+  const coinsPreview = useMemo(() => calcReviewCoins({
+    rating,
+    text,
+    specification,
+    worthIt,
+    wouldBuyAgain,
+    photos,
+    videos: videoUrl ? [videoUrl] : [],
+  }), [rating, text, specification, worthIt, wouldBuyAgain, photos, videoUrl]);
+
+  // Detalhamento de moedas para exibição
+  const coinBreakdown = useMemo(() => {
+    const items: { label: string; coins: number; earned: boolean }[] = [
+      { label: "Avaliação geral", coins: 1, earned: rating > 0 },
+      { label: "Texto da review", coins: 1, earned: text.trim().length > 0 },
+      ...(hasColors ? [{ label: "Cor selecionada", coins: 1, earned: specification.trim().length > 0 }] : []),
+      { label: "Valeu a pena?", coins: 1, earned: worthIt !== null },
+      { label: "Recompraria?", coins: 1, earned: wouldBuyAgain !== null },
+      ...photos.map((_, i) => ({ label: `Foto ${i + 1}`, coins: 2, earned: true })),
+      ...(videoUrl ? [{ label: "Vídeo", coins: 3, earned: true }] : []),
+    ];
+    return items;
+  }, [rating, text, specification, worthIt, wouldBuyAgain, photos, videoUrl, hasColors]);
 
   const handlePhotoUpload = (e: React.ChangeEvent<HTMLInputElement>) => {
     const files = Array.from(e.target.files || []);
@@ -121,7 +147,7 @@ export default function ReviewForm({ product, onSuccess }: ReviewFormProps) {
       packagingScore,
     });
     setLoading(false);
-    onSuccess();
+    onSuccess(coinsPreview);
   };
 
   return (
@@ -434,6 +460,38 @@ export default function ReviewForm({ product, onSuccess }: ReviewFormProps) {
           <p className="text-xs text-gray-500 mt-1">
             {packagingScore <= 3 ? "Embalagem ruim" : packagingScore <= 6 ? "Embalagem ok" : packagingScore <= 8 ? "Boa embalagem" : "Embalagem incrível!"}
           </p>
+        )}
+      </div>
+
+      {/* ── Preview de moedas ── */}
+      <div className="rounded-2xl border border-amber-200 bg-amber-50 p-4">
+        <div className="flex items-center justify-between mb-3">
+          <div className="flex items-center gap-2">
+            <span className="text-xl">🪙</span>
+            <p className="text-sm font-bold text-amber-800">Moedas que você vai ganhar</p>
+          </div>
+          <div className="flex items-center gap-1.5 bg-amber-400 text-white px-3 py-1 rounded-full font-bold text-sm shadow-sm">
+            <span className="text-base">🪙</span>
+            <span>{coinsPreview}</span>
+          </div>
+        </div>
+        <div className="flex flex-wrap gap-1.5">
+          {coinBreakdown.map((item) => (
+            <div
+              key={item.label}
+              className={`flex items-center gap-1 px-2 py-1 rounded-full text-xs font-medium border transition-all ${
+                item.earned
+                  ? "bg-amber-100 border-amber-300 text-amber-800"
+                  : "bg-white border-gray-200 text-gray-400 line-through"
+              }`}
+            >
+              <span>{item.earned ? "🪙" : "○"}</span>
+              <span>+{item.coins} {item.label}</span>
+            </div>
+          ))}
+        </div>
+        {coinsPreview === 0 && (
+          <p className="text-xs text-amber-600 mt-2">Dê pelo menos uma nota para ganhar moedas!</p>
         )}
       </div>
 

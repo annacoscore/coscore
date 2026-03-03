@@ -5,6 +5,16 @@ import { useStore } from "@/store/useStore";
 import { products } from "@/data/products";
 import ReviewCard from "@/components/ReviewCard";
 
+// Calcula a "raridade" do cofrinho com base nas moedas
+function coinTier(coins: number): { label: string; emoji: string; color: string; next: number | null; progress: number } {
+  if (coins < 10)  return { label: "Iniciante",   emoji: "🪙", color: "from-gray-400 to-gray-500",          next: 10,  progress: coins / 10 };
+  if (coins < 30)  return { label: "Bronze",       emoji: "🥉", color: "from-amber-600 to-amber-700",        next: 30,  progress: (coins - 10)  / 20 };
+  if (coins < 60)  return { label: "Prata",        emoji: "🥈", color: "from-slate-400 to-slate-500",        next: 60,  progress: (coins - 30)  / 30 };
+  if (coins < 100) return { label: "Ouro",         emoji: "🥇", color: "from-yellow-400 to-amber-500",       next: 100, progress: (coins - 60)  / 40 };
+  if (coins < 200) return { label: "Diamante",     emoji: "💎", color: "from-sky-400 to-violet-500",         next: 200, progress: (coins - 100) / 100 };
+  return              { label: "Lendária",     emoji: "👑", color: "from-pink-500 to-rose-600",          next: null, progress: 1 };
+}
+
 export default function PerfilPage() {
   const { currentUser, openLoginModal, reviews, getAllFavoriteIds, getUserLists } = useStore();
   const allFavoriteIds = getAllFavoriteIds();
@@ -64,15 +74,83 @@ export default function PerfilPage() {
             <p className="text-pink-100 text-xs">Favoritos</p>
           </div>
           <div className="bg-white/20 rounded-xl p-3 text-center">
-            <p className="text-2xl font-bold">
-              {userReviews.length > 0
-                ? (userReviews.reduce((s, r) => s + r.rating, 0) / userReviews.length).toFixed(1)
-                : "—"}
+            <p className="text-2xl font-bold flex items-center justify-center gap-1">
+              <span>🪙</span>
+              {currentUser.coins ?? 0}
             </p>
-            <p className="text-pink-100 text-xs">Média Dada</p>
+            <p className="text-pink-100 text-xs">Moedas</p>
           </div>
         </div>
       </div>
+
+      {/* ── Cofrinho ── */}
+      {(() => {
+        const totalCoins = currentUser.coins ?? 0;
+        const tier = coinTier(totalCoins);
+        return (
+          <div className="mb-8 rounded-2xl overflow-hidden border border-amber-200 shadow-sm">
+            <div className={`bg-gradient-to-r ${tier.color} p-5 text-white`}>
+              <div className="flex items-center justify-between">
+                <div className="flex items-center gap-3">
+                  <div className="w-14 h-14 bg-white/20 rounded-full flex items-center justify-center text-3xl shadow-inner">
+                    {tier.emoji}
+                  </div>
+                  <div>
+                    <p className="text-xs font-medium text-white/70 uppercase tracking-wider">Meu Cofrinho</p>
+                    <p className="text-2xl font-bold">{totalCoins} moeda{totalCoins !== 1 ? "s" : ""}</p>
+                    <p className="text-sm text-white/80 mt-0.5">Nível: <span className="font-semibold">{tier.label}</span></p>
+                  </div>
+                </div>
+                <div className="text-right hidden sm:block">
+                  <p className="text-xs text-white/60">Como ganhar moedas?</p>
+                  <div className="mt-1 space-y-0.5 text-xs text-white/80">
+                    <p>⭐ Avaliação geral → 1 moeda</p>
+                    <p>📝 Texto da review → 1 moeda</p>
+                    <p>🎨 Cor selecionada → 1 moeda</p>
+                    <p>✅ Valeu a pena / Recompraria → 1 cada</p>
+                    <p>📸 Foto → 2 moedas &nbsp;|&nbsp; 🎥 Vídeo → 3 moedas</p>
+                  </div>
+                </div>
+              </div>
+
+              {/* Barra de progresso */}
+              {tier.next !== null && (
+                <div className="mt-4">
+                  <div className="flex justify-between text-xs text-white/70 mb-1">
+                    <span>{tier.label}</span>
+                    <span>{tier.next} moedas para o próximo nível</span>
+                  </div>
+                  <div className="w-full bg-white/20 rounded-full h-2.5 overflow-hidden">
+                    <div
+                      className="h-full bg-white/90 rounded-full transition-all duration-700"
+                      style={{ width: `${Math.min(tier.progress * 100, 100)}%` }}
+                    />
+                  </div>
+                </div>
+              )}
+            </div>
+
+            {/* Histórico de moedas por review */}
+            {userReviews.some((r) => r.coinsEarned) && (
+              <div className="bg-amber-50 px-5 py-3 border-t border-amber-200">
+                <p className="text-xs font-semibold text-amber-700 mb-2">Histórico de ganhos</p>
+                <div className="flex flex-wrap gap-2">
+                  {userReviews.filter((r) => r.coinsEarned).map((r) => {
+                    const prod = products.find((p) => p.id === r.productId);
+                    return (
+                      <div key={r.id} className="flex items-center gap-1.5 bg-white border border-amber-200 rounded-full px-3 py-1 text-xs text-amber-800">
+                        <span>🪙</span>
+                        <span className="font-bold">+{r.coinsEarned}</span>
+                        {prod && <span className="text-amber-600 truncate max-w-[120px]">{prod.name}</span>}
+                      </div>
+                    );
+                  })}
+                </div>
+              </div>
+            )}
+          </div>
+        );
+      })()}
 
       <div className="grid grid-cols-1 lg:grid-cols-3 gap-6">
         {/* My reviews */}

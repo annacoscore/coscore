@@ -34,6 +34,7 @@ export default function ProductPage({ params }: { params: Promise<{ id: string }
   const [showPriceModal, setShowPriceModal] = useState(false);
   const [showReviewForm, setShowReviewForm] = useState(false);
   const [reviewSuccess, setReviewSuccess] = useState(false);
+  const [reviewCoins, setReviewCoins] = useState(0);
   const [showAllReviews, setShowAllReviews] = useState(false);
   const [activeImageIndex, setActiveImageIndex] = useState(0);
   const [lightboxOpen, setLightboxOpen] = useState(false);
@@ -91,10 +92,11 @@ export default function ProductPage({ params }: { params: Promise<{ id: string }
     toggleFavorite(product.id);
   };
 
-  const handleReviewSuccess = () => {
+  const handleReviewSuccess = (coinsEarned = 0) => {
     setShowReviewForm(false);
+    setReviewCoins(coinsEarned);
     setReviewSuccess(true);
-    setTimeout(() => setReviewSuccess(false), 5000);
+    setTimeout(() => setReviewSuccess(false), 6000);
   };
 
   const prevImage = () => setActiveImageIndex((i) => (i - 1 + images.length) % images.length);
@@ -433,9 +435,17 @@ export default function ProductPage({ params }: { params: Promise<{ id: string }
             </div>
 
             {reviewSuccess && (
-              <div className="flex items-center gap-2 p-4 bg-emerald-50 border border-emerald-200 rounded-xl text-emerald-700 text-sm">
-                <CheckCircle className="w-4 h-4 shrink-0" />
-                Review publicada com sucesso! Obrigada pela sua avaliação.
+              <div className="flex items-start gap-3 p-4 bg-emerald-50 border border-emerald-200 rounded-xl text-emerald-700 text-sm">
+                <CheckCircle className="w-4 h-4 shrink-0 mt-0.5" />
+                <div>
+                  <p className="font-semibold">Review publicada com sucesso! Obrigada pela avaliação.</p>
+                  {reviewCoins > 0 && (
+                    <p className="mt-1 flex items-center gap-1.5 text-amber-600 font-medium">
+                      <span className="text-base">🪙</span>
+                      Você ganhou <span className="font-bold">{reviewCoins} moeda{reviewCoins !== 1 ? "s" : ""}</span>! Veja seu cofrinho no perfil.
+                    </p>
+                  )}
+                </div>
               </div>
             )}
 

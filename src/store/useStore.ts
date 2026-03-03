@@ -39,12 +39,36 @@ interface StoreState {
   renameList: (listId: string, name: string) => void;
 
   // Reviews
-  addReview: (review: Omit<Review, "id" | "createdAt" | "helpful">) => void;
+  addReview: (review: Omit<Review, "id" | "createdAt" | "helpful" | "coinsEarned">) => void;
   getProductReviews: (productId: string) => Review[];
+
+  // Coins
+  getTotalCoins: () => number;
 
   // Modal
   openLoginModal: (message?: string) => void;
   closeLoginModal: () => void;
+}
+
+// ─── Cálculo de moedas por review ────────────────────────────────────────────
+export function calcReviewCoins(review: {
+  rating: number;
+  text?: string;
+  specification?: string;
+  worthIt?: boolean | null;
+  wouldBuyAgain?: boolean | null;
+  photos?: string[];
+  videos?: string[];
+}): number {
+  let coins = 0;
+  if (review.rating > 0)               coins += 1;  // avaliação geral
+  if (review.text?.trim())             coins += 1;  // texto da review
+  if (review.specification?.trim())    coins += 1;  // cor/tom selecionado
+  if (review.worthIt !== null && review.worthIt !== undefined) coins += 1;  // valeu a pena
+  if (review.wouldBuyAgain !== null && review.wouldBuyAgain !== undefined) coins += 1;  // recompraria
+  coins += (review.photos?.length ?? 0) * 2;  // 2 moedas por foto
+  coins += (review.videos?.length ?? 0) * 3;  // 3 moedas por vídeo
+  return coins;
 }
 
 const mockUsers: Record<string, { password: string; user: User }> = {
@@ -76,6 +100,7 @@ const mockUsers: Record<string, { password: string; user: User }> = {
         },
       ],
       reviewCount: 2,
+      coins: 0,
       joinedAt: "2024-03-10",
     },
   },
@@ -110,6 +135,7 @@ export const useStore = create<StoreState>()(
           email,
           favoriteLists: [makeDefaultList()],
           reviewCount: 0,
+          coins: 0,
           joinedAt: new Date().toISOString().split("T")[0],
         };
         mockUsers[email.toLowerCase()] = { password, user: newUser };
@@ -241,22 +267,32 @@ export const useStore = create<StoreState>()(
       },
 
       addReview: (reviewData) => {
+        const coinsEarned = calcReviewCoins(reviewData);
         const newReview: Review = {
           ...reviewData,
           id: `r_${Date.now()}`,
           createdAt: new Date().toISOString().split("T")[0],
           helpful: 0,
+          coinsEarned,
         };
         set((state) => ({
           reviews: [newReview, ...state.reviews],
           currentUser: state.currentUser
-            ? { ...state.currentUser, reviewCount: state.currentUser.reviewCount + 1 }
+            ? {
+                ...state.currentUser,
+                reviewCount: state.currentUser.reviewCount + 1,
+                coins: (state.currentUser.coins ?? 0) + coinsEarned,
+              }
             : null,
         }));
       },
 
       getProductReviews: (productId) => {
         return get().reviews.filter((r) => r.productId === productId);
+      },
+
+      getTotalCoins: () => {
+        return get().currentUser?.coins ?? 0;
       },
 
       openLoginModal: (message = "") => {
