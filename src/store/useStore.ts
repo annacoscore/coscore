@@ -1,7 +1,7 @@
 "use client";
 import { create } from "zustand";
 import { persist } from "zustand/middleware";
-import { User, Review, FavoriteList } from "@/types";
+import { User, Review, FavoriteList, Product } from "@/types";
 import { reviews as initialReviews } from "@/data/reviews";
 
 const DEFAULT_LIST_ID = "default";
@@ -44,6 +44,11 @@ interface StoreState {
 
   // Coins
   getTotalCoins: () => number;
+
+  // User-submitted products
+  userProducts: Product[];
+  addUserProduct: (product: Product) => void;
+  getUserProduct: (id: string) => Product | undefined;
 
   // Modal
   openLoginModal: (message?: string) => void;
@@ -117,6 +122,7 @@ export const useStore = create<StoreState>()(
       reviews: initialReviews,
       isLoginModalOpen: false,
       loginRedirectMessage: "",
+      userProducts: [],
 
       login: (email, password) => {
         const entry = mockUsers[email.toLowerCase()];
@@ -295,6 +301,18 @@ export const useStore = create<StoreState>()(
         return get().currentUser?.coins ?? 0;
       },
 
+      addUserProduct: (product) => {
+        set((state) => ({
+          userProducts: state.userProducts.some((p) => p.id === product.id)
+            ? state.userProducts
+            : [product, ...state.userProducts],
+        }));
+      },
+
+      getUserProduct: (id) => {
+        return get().userProducts.find((p) => p.id === id);
+      },
+
       openLoginModal: (message = "") => {
         set({ isLoginModalOpen: true, loginRedirectMessage: message });
       },
@@ -306,6 +324,7 @@ export const useStore = create<StoreState>()(
       partialize: (state) => ({
         currentUser: state.currentUser,
         reviews: state.reviews,
+        userProducts: state.userProducts,
       }),
     }
   )

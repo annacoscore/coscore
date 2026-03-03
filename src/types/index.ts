@@ -131,6 +131,8 @@ export interface Product {
   colors?: ColorVariant[];  // variantes de cor com imagem própria
   availableShades?: string[];
   availableSizes?: string[];
+  mlId?: string;
+  isUserSubmitted?: boolean;
 }
 
 export interface FavoriteList {

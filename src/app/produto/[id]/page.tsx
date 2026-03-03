@@ -29,9 +29,11 @@ import { cleanDisplayName } from "@/lib/displayName";
 
 export default function ProductPage({ params }: { params: Promise<{ id: string }> }) {
   const { id } = use(params);
-  const product = products.find((p) => p.id === id);
 
-  const { currentUser, isFavorite, toggleFavorite, openLoginModal, getProductReviews } = useStore();
+  const { currentUser, isFavorite, toggleFavorite, openLoginModal, getProductReviews, getUserProduct } = useStore();
+
+  // Busca primeiro no catálogo principal, depois nos produtos criados pelo usuário
+  const product = products.find((p) => p.id === id) ?? getUserProduct(id);
   const [showPriceModal, setShowPriceModal] = useState(false);
   const [showReviewForm, setShowReviewForm] = useState(false);
   const [reviewSuccess, setReviewSuccess] = useState(false);
