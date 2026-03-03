@@ -23,6 +23,7 @@ const poppins = Poppins({
 });
 
 export const metadata: Metadata = {
+  metadataBase: new URL("https://coscorebr.com.br"),
   title: "CoScore – Reviews de Cosméticos & Comparação de Preços",
   description:
     "Encontre reviews honestas de cosméticos e compare preços nas melhores lojas. Descubra os produtos certos para você no CoScore.",

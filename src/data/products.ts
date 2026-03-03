@@ -44015,6 +44015,494 @@ const catalogProducts = [
     "createdAt": "2026-03-03T16:36:42.130Z",
     "updatedAt": "2026-03-03T16:36:42.130Z"
   }
+,
+{
+  "id": "p2728476098",
+  "name": "Pó solto Pó Facial Playboy Pó Solto Translúcido Playboy tom cor 01 - 16g",
+  "brand": "Pó Facial Playboy",
+  "category": "Pó Facial",
+  "description": "O Pó Translúcido Photo Microfinish da Playboy é utilizado para selar e finalizar a maquiagem, são 3 cores diferentes que servem perfeitamente em todos os tipos de pele.\n\nO Pó da Playboy é super fininho e suave que deixa o acabamento na make bem natural, além de ter um excelente custo e benefício.\n\nIdeal para finalizar a maquiagem. Pode ser usado em todos os tipos de pele, ele é mega fino leve e suave e deixa o acabamento da maquiagem perfeito.\n\nMODO DE USO:\nPara começar, pegue um pouco do pó translúcido com a esponja ou com o pincel e aplique pela face com batidinhas leves. Esse detalhe é importante pra manter toda a produção por baixo do pó no lugar certo. Uma dica extra é concentrar bastante essa make na zona T, ou seja, na testa, no nariz e no queixo.\n\nBENEFÍCIOS DO PRODUTO:\n- Sela a maquiagem para uma maior fixação;\n- Extremamente leve e fino;\n- Três opções de cores;\n- Acabamento natural e aveludado;\n- Controla a oleosidade da pele;\n- Disfarça linhas finas e imperfeições;\n- Prolonga a duração da maquiagem;\n- Ideal para fotos e vídeos;\n- Minimiza os poros;\n- Efeito matte.\n\nCONTEÚDO DA EMBALAGEM:\n- 01 pó facial translúcido playboy COR 01\n- 16g",
+  "image": "https://http2.mlstatic.com/D_NQ_NP_873213-MLU79166218511_092024-F.jpg",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_873213-MLU79166218511_092024-F.jpg",
+    "https://http2.mlstatic.com/D_NQ_NP_661310-MLU79166475043_092024-F.jpg",
+    "https://http2.mlstatic.com/D_NQ_NP_625375-MLU79166346319_092024-F.jpg",
+    "https://http2.mlstatic.com/D_NQ_NP_813348-MLA82738504111_022025-F.jpg"
+  ],
+  "colors": [],
+  "averageRating": 0,
+  "reviewCount": 0,
+  "prices": [],
+  "tags": [
+    "pó facial playboy",
+    "pó facial",
+    "pó solto"
+  ],
+  "mlId": "MLB27284760"
+},
+{
+  "id": "p59127552137",
+  "name": "Pó Solto Grande 30gr Mon Tom Pó Solto",
+  "brand": "Mon Tom",
+  "category": "Pó Facial",
+  "description": "A base de maquiagem Montoc ajudará você a mostrar um rosto impecável, cobrindo imperfeições e unificando seu tom de pele.",
+  "image": "https://http2.mlstatic.com/D_NQ_NP_960378-MLA93884187236_102025-F.jpg",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_960378-MLA93884187236_102025-F.jpg",
+    "https://http2.mlstatic.com/D_NQ_NP_637092-MLA93884435248_102025-F.jpg",
+    "https://http2.mlstatic.com/D_NQ_NP_769836-MLA94309014123_102025-F.jpg",
+    "https://http2.mlstatic.com/D_NQ_NP_879436-MLA93884455064_102025-F.jpg"
+  ],
+  "colors": [],
+  "averageRating": 0,
+  "reviewCount": 0,
+  "prices": [],
+  "tags": [
+    "montoc",
+    "pó facial",
+    "pó solto"
+  ],
+  "mlId": "MLB59127552"
+},
+{
+  "id": "p64557780516",
+  "name": "Pó Solto Facial Phoera",
+  "brand": "Phoera",
+  "category": "Pó Facial",
+  "description": "A base de maquiagem da Phoera te ajudará a conseguir um rosto perfeito, cobrindo imperfeições e unificando o tom da sua pele.",
+  "image": "https://http2.mlstatic.com/D_NQ_NP_868034-MLA104711603408_012026-F.jpg",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_868034-MLA104711603408_012026-F.jpg",
+    "https://http2.mlstatic.com/D_NQ_NP_810429-MLA105274021583_012026-F.jpg",
+    "https://http2.mlstatic.com/D_NQ_NP_759553-MLA104710957358_012026-F.jpg",
+    "https://http2.mlstatic.com/D_NQ_NP_821304-MLA105272844291_012026-F.jpg",
+    "https://http2.mlstatic.com/D_NQ_NP_715198-MLA105273962145_012026-F.jpg",
+    "https://http2.mlstatic.com/D_NQ_NP_925179-MLA105273404427_012026-F.jpg",
+    "https://http2.mlstatic.com/D_NQ_NP_773285-MLA104710752276_012026-F.jpg",
+    "https://http2.mlstatic.com/D_NQ_NP_625169-MLA105273110639_012026-F.jpg",
+    "https://http2.mlstatic.com/D_NQ_NP_977089-MLA105273903013_012026-F.jpg",
+    "https://http2.mlstatic.com/D_NQ_NP_715779-MLA104711603488_012026-F.jpg"
+  ],
+  "colors": [],
+  "averageRating": 0,
+  "reviewCount": 0,
+  "prices": [],
+  "tags": [
+    "phoera",
+    "pó facial",
+    "pó solto"
+  ],
+  "mlId": "MLB64557780"
+},
+{
+  "id": "p36160066167",
+  "name": "Pó Solto Facial Translúcido Maquiagem",
+  "brand": "Fenzza",
+  "category": "Pó Facial",
+  "description": "Base de Maquiagem em Pó Solto Fenzza Translúcido - 15g\n\nA Base de Maquiagem em Pó Solto Fenzza Translúcido é um produto essencial para quem busca um acabamento impecável e uma pele radiante. Com 15g de produto, esta base em pó proporciona uma cobertura média e um acabamento fosco, ideal para o dia a dia e ocasiões especiais.\n\nA fórmula translúcida se adapta a diferentes tons de pele, garantindo um aspecto natural e livre de excessos. Seu formato em pó permite uma aplicação suave e uniforme, facilitando a construção de camadas conforme a necessidade.\n\nPerfeita para peles oleosas, essa base ajuda a controlar a oleosidade ao longo do dia, mantendo a maquiagem fresca e bonita. Compacta e leve, é ideal para levar na bolsa e retocar sempre que necessário, garantindo confiança em qualquer situação.\n\nAposte na Base de Maquiagem em Pó Solto Fenzza Translúcido para um visual radiante e duradouro, tornando sua rotina de beleza mais prática e eficaz.",
+  "image": "https://http2.mlstatic.com/D_NQ_NP_966737-MLU75965237707_042024-F.jpg",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_966737-MLU75965237707_042024-F.jpg",
+    "https://http2.mlstatic.com/D_NQ_NP_963466-MLU75794980746_042024-F.jpg",
+    "https://http2.mlstatic.com/D_NQ_NP_895880-MLU75965041559_042024-F.jpg"
+  ],
+  "colors": [],
+  "averageRating": 0,
+  "reviewCount": 0,
+  "prices": [],
+  "tags": [
+    "fenzza",
+    "pó facial",
+    "pó solto"
+  ],
+  "mlId": "MLB36160066"
+},
+{
+  "id": "p63302733311",
+  "name": "Bareminerals Pó Solto - Pó Solto - Pó Compacto Tom 35c Medium Cool",
+  "brand": "bareMinerals",
+  "category": "Pó Facial",
+  "description": "A base de maquiagem bareMinerals ajudará você a mostrar um rosto impecável, cobrindo imperfeições e unificando seu tom de pele.",
+  "image": "https://http2.mlstatic.com/D_NQ_NP_845568-MLA101803911843_122025-F.jpg",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_845568-MLA101803911843_122025-F.jpg",
+    "https://http2.mlstatic.com/D_NQ_NP_672469-MLA101302930162_122025-F.jpg"
+  ],
+  "colors": [],
+  "averageRating": 0,
+  "reviewCount": 0,
+  "prices": [],
+  "tags": [
+    "bareminerals",
+    "pó facial",
+    "pó solto"
+  ],
+  "mlId": "MLB63302733"
+},
+{
+  "id": "p23509301922",
+  "name": "Pó Solto Facial Vegano Mahav",
+  "brand": "MaHav",
+  "category": "Pó Facial",
+  "description": "A base de maquiagem da MaHav te ajudará a conseguir um rosto perfeito, cobrindo imperfeições e unificando o tom da sua pele.",
+  "image": "https://http2.mlstatic.com/D_NQ_NP_791752-MLU78540402690_082024-F.jpg",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_791752-MLU78540402690_082024-F.jpg",
+    "https://http2.mlstatic.com/D_NQ_NP_787576-MLU78540521252_082024-F.jpg",
+    "https://http2.mlstatic.com/D_NQ_NP_639475-MLU78540402706_082024-F.jpg",
+    "https://http2.mlstatic.com/D_NQ_NP_871411-MLU78773661535_082024-F.jpg",
+    "https://http2.mlstatic.com/D_NQ_NP_676433-MLU78540353132_082024-F.jpg",
+    "https://http2.mlstatic.com/D_NQ_NP_915127-MLU78773661549_082024-F.jpg"
+  ],
+  "colors": [],
+  "averageRating": 0,
+  "reviewCount": 0,
+  "prices": [],
+  "tags": [
+    "mahav",
+    "pó facial",
+    "pó solto"
+  ],
+  "mlId": "MLB23509301"
+},
+{
+  "id": "p35368987524",
+  "name": "Base de maquiagem Vizzela Pó Solto Kit vizzela pó solto facial fix powder + base líquida fix 03",
+  "brand": "Vizzela",
+  "category": "Pó Facial",
+  "description": "Descubra a perfeição e o acabamento impecável com o Kit Vizzela Pó Solto Facial Fix Powder + Base Líquida Fix 03. Desenvolvido pela renomada marca Vizzela, este kit é essencial para quem busca um visual sofisticado e duradouro. A linha de Pó Solto da Vizzela garante uma aplicação suave e uma pele com aspecto natural, enquanto a Base Líquida Fix 03 oferece cobertura uniforme e resistente ao longo do dia. Este conjunto é a combinação perfeita para realçar a sua beleza com produtos de alta qualidade. A Vizzela entende a importância de cuidar de si, e com este kit, você estará investindo na sua autoestima e bem-estar. Bem-vindo ao universo da beleza Vizzela, onde cada detalhe é pensado para você brilhar.",
+  "image": "https://http2.mlstatic.com/D_NQ_NP_680257-MLU75602607439_042024-F.jpg",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_680257-MLU75602607439_042024-F.jpg",
+    "https://http2.mlstatic.com/D_NQ_NP_695576-MLU75446109450_042024-F.jpg",
+    "https://http2.mlstatic.com/D_NQ_NP_787284-MLU75445643938_042024-F.jpg",
+    "https://http2.mlstatic.com/D_NQ_NP_768768-MLU75602607535_042024-F.jpg",
+    "https://http2.mlstatic.com/D_NQ_NP_855472-MLU75602607559_042024-F.jpg",
+    "https://http2.mlstatic.com/D_NQ_NP_790075-MLU75602607573_042024-F.jpg"
+  ],
+  "colors": [],
+  "averageRating": 0,
+  "reviewCount": 0,
+  "prices": [],
+  "tags": [
+    "vizzela",
+    "pó facial",
+    "pó solto"
+  ],
+  "mlId": "MLB35368987"
+},
+{
+  "id": "p23520069948",
+  "name": "Pó Solto Facial Cor 02- Fand",
+  "brand": "Fand",
+  "category": "Pó Facial",
+  "description": "A base de maquiagem da Fand te ajudará a conseguir um rosto perfeito, cobrindo imperfeições e unificando o tom da sua pele.",
+  "image": "https://http2.mlstatic.com/D_NQ_NP_681581-MLA93307474709_092025-F.jpg",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_681581-MLA93307474709_092025-F.jpg",
+    "https://http2.mlstatic.com/D_NQ_NP_865834-MLU73936229609_012024-F.jpg",
+    "https://http2.mlstatic.com/D_NQ_NP_674653-MLU73936288657_012024-F.jpg",
+    "https://http2.mlstatic.com/D_NQ_NP_747419-MLA92894145534_092025-F.jpg"
+  ],
+  "colors": [],
+  "averageRating": 0,
+  "reviewCount": 0,
+  "prices": [],
+  "tags": [
+    "fand",
+    "pó facial",
+    "pó solto"
+  ],
+  "mlId": "MLB23520069"
+},
+{
+  "id": "p29422711206",
+  "name": "Pó Solto Facial 030 Bauny 9g",
+  "brand": "Bauny Cosméticos",
+  "category": "Pó Facial",
+  "description": "O Pó Solto Facial 030 Bauny 9g é perfeito para quem prefere um efeito natural. Possui tecnologia HD e textura ultrafina, o que facilita a sua aplicação. A embalagem ergonômica fornece a quantidade ideal de saída de pó solto, adequada para a maquiagem. É um produto vegano.\n\nModo de usar: Após utilizar a base e o corretivo da Bauny, sele a maquiagem com o pó. A forma como você aplica o pó facial faz toda a diferença no resultado final. Para um resultado natural, aplique com pincel. Mas, se preferir o efeito “pele de boneca”, pode utilizar uma esponja sem problemas.",
+  "image": "https://http2.mlstatic.com/D_NQ_NP_903838-MLU74111594945_012024-F.jpg",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_903838-MLU74111594945_012024-F.jpg",
+    "https://http2.mlstatic.com/D_NQ_NP_694472-MLU74962903661_032024-F.jpg",
+    "https://http2.mlstatic.com/D_NQ_NP_850686-MLU73736011361_122023-F.jpg"
+  ],
+  "colors": [],
+  "averageRating": 0,
+  "reviewCount": 0,
+  "prices": [],
+  "tags": [
+    "bauny cosméticos",
+    "pó facial",
+    "pó solto"
+  ],
+  "mlId": "MLB29422711"
+},
+{
+  "id": "p35489030862",
+  "name": "Base de maquiagem Vizzela Pó Solto Kit vizzela pó solto facial fix powder + base líquida fix 01",
+  "brand": "Vizzela",
+  "category": "Pó Facial",
+  "description": "O Kit Vizzela Pó Solto Facial Fix Powder + Base Líquida Fix 01 é a escolha perfeita para quem busca uma maquiagem impecável e duradoura. Este conjunto inclui um pó solto facial que proporciona um acabamento suave e mate, ideal para quem deseja controlar o brilho excessivo e conquistar uma pele perfeita. A base líquida, por sua vez, oferece uma cobertura uniforme, garantindo que a pele fique com uma aparência saudável e natural durante todo o dia. Ambos os produtos foram especialmente formulados para se adaptarem a diferentes tipos de pele, tornando-se essenciais na rotina de beleza de qualquer pessoa. Além disso, a marca Vizzela é reconhecida pela sua qualidade, o que garante que você está investindo em produtos novos e eficazes. Com este kit, você terá todos os itens necessários para uma maquiagem que destaca sua beleza de forma natural e radiante.",
+  "image": "https://http2.mlstatic.com/D_NQ_NP_691206-MLU75511530312_042024-F.jpg",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_691206-MLU75511530312_042024-F.jpg",
+    "https://http2.mlstatic.com/D_NQ_NP_798266-MLU75670469275_042024-F.jpg",
+    "https://http2.mlstatic.com/D_NQ_NP_777033-MLU75670104253_042024-F.jpg",
+    "https://http2.mlstatic.com/D_NQ_NP_906440-MLU75670469297_042024-F.jpg",
+    "https://http2.mlstatic.com/D_NQ_NP_848707-MLU75670469309_042024-F.jpg",
+    "https://http2.mlstatic.com/D_NQ_NP_632126-MLU75670469319_042024-F.jpg"
+  ],
+  "colors": [],
+  "averageRating": 0,
+  "reviewCount": 0,
+  "prices": [],
+  "tags": [
+    "vizzela",
+    "pó facial",
+    "pó solto"
+  ],
+  "mlId": "MLB35489030"
+},
+{
+  "id": "p35202197319",
+  "name": "Base de maquiagem Vizzela Pó Solto Kit vizzela pó solto facial fix powder + base líquida fix 02",
+  "brand": "Vizzela",
+  "category": "Pó Facial",
+  "description": "Descubra a perfeição e o acabamento impecável com o Kit Vizzela Pó Solto Facial Fix Powder + Base Líquida Fix 02. Desenvolvido pela Vizzela, uma marca reconhecida por sua qualidade e inovação no universo da beleza, este kit é essencial para quem busca um visual sofisticado e duradouro. A linha Pó Solto oferece uma textura leve e translúcida, que fixa a maquiagem e minimiza o brilho indesejado, enquanto a Base Líquida Fix 02 proporciona uma cobertura uniforme e resistente, adaptando-se perfeitamente ao seu tom de pele. Com o Kit Vizzela, você investe em si mesma e realça a sua beleza natural com produtos de alta performance. Seja para o dia a dia ou para ocasiões especiais, este kit é a escolha certa para um acabamento profissional e uma pele radiante.",
+  "image": "https://http2.mlstatic.com/D_NQ_NP_839151-MLU75509534329_032024-F.jpg",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_839151-MLU75509534329_032024-F.jpg",
+    "https://http2.mlstatic.com/D_NQ_NP_868098-MLU75509573329_032024-F.jpg",
+    "https://http2.mlstatic.com/D_NQ_NP_625181-MLU75357235948_032024-F.jpg",
+    "https://http2.mlstatic.com/D_NQ_NP_960133-MLU75357255430_032024-F.jpg",
+    "https://http2.mlstatic.com/D_NQ_NP_971800-MLU75509573331_032024-F.jpg",
+    "https://http2.mlstatic.com/D_NQ_NP_796377-MLU75509573339_032024-F.jpg"
+  ],
+  "colors": [],
+  "averageRating": 0,
+  "reviewCount": 0,
+  "prices": [],
+  "tags": [
+    "vizzela",
+    "pó facial",
+    "pó solto"
+  ],
+  "mlId": "MLB35202197"
+},
+{
+  "id": "p64632835130",
+  "name": "Pó Solto Facial Matte - Payot - 15g",
+  "brand": "Pó Solto Facial",
+  "category": "Pó Facial",
+  "description": "Pó Solto Facial Matte - 15g\n\nPó Solto Facial com acabamento matte, ideal para controlar a oleosidade da pele. Proporciona uma textura leve e aveludada, garantindo um efeito natural e duradouro. Fácil de aplicar e perfeito para todos os tipos de pele. Este produto vem em uma embalagem adicional, que assegura a integridade do pó. Com um acabamento fosco, ele é ideal para quem busca um visual sem brilho. O formato do produto em pó permite uma aplicação uniforme e precisa, enquanto suas dimensões de 30 cm de altura, comprimento e largura garantem um armazenamento prático. Com um peso total de 60 g, é a escolha perfeita para quem deseja um toque final impecável na maquiagem.",
+  "image": "https://http2.mlstatic.com/D_NQ_NP_869665-MLA104868273806_012026-F.jpg",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_869665-MLA104868273806_012026-F.jpg"
+  ],
+  "colors": [],
+  "averageRating": 0,
+  "reviewCount": 0,
+  "prices": [],
+  "tags": [
+    "pó solto facial",
+    "pó facial",
+    "pó solto"
+  ],
+  "mlId": "MLB64632835"
+},
+{
+  "id": "p22265873326",
+  "name": "Base de maquiagem Bruna Tavares Bt Skinpowder Pó Solto Pó Solto Bt Skinpowder Medium",
+  "brand": "Bruna Tavares",
+  "category": "Pó Facial",
+  "description": "Base de maquiagem Bruna Tavares Bt Skinpowder Pó Solto Pó Solto Bt Skinpowder Medium",
+  "image": "https://http2.mlstatic.com/D_Q_NP_790375-MLU71505138508_092023-C.jpg",
+  "images": [
+    "https://http2.mlstatic.com/D_Q_NP_790375-MLU71505138508_092023-C.jpg",
+    "https://http2.mlstatic.com/D_Q_NP_637895-MLU71505013948_092023-C.jpg",
+    "https://http2.mlstatic.com/D_Q_NP_986763-MLU71505236212_092023-C.jpg",
+    "https://http2.mlstatic.com/D_Q_NP_636347-MLU71505013952_092023-C.jpg",
+    "https://http2.mlstatic.com/D_Q_NP_615763-MLU71505043008_092023-C.jpg",
+    "https://http2.mlstatic.com/D_Q_NP_744391-MLU71505236218_092023-C.jpg"
+  ],
+  "colors": [],
+  "averageRating": 0,
+  "reviewCount": 0,
+  "prices": [],
+  "tags": [
+    "bruna tavares",
+    "pó facial",
+    "pó solto"
+  ],
+  "mlId": "MLB22265873"
+},
+{
+  "id": "p39127069127",
+  "name": "Calculadora e estatísticas de frações Casio fx-350ms",
+  "brand": "Casio",
+  "category": "Pó Facial",
+  "description": "Calculadora e estatísticas de frações Casio fx-350ms",
+  "image": "https://http2.mlstatic.com/D_NQ_NP_720081-MLA96722450673_102025-F.jpg",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_720081-MLA96722450673_102025-F.jpg"
+  ],
+  "colors": [
+    {
+      "name": "Preto",
+      "image": "https://http2.mlstatic.com/D_NQ_NP_720081-MLA96722450673_102025-F.jpg"
+    }
+  ],
+  "averageRating": 0,
+  "reviewCount": 0,
+  "prices": [],
+  "tags": [
+    "casio",
+    "pó facial",
+    "pó solto"
+  ],
+  "mlId": "MLB39127069"
+},
+{
+  "id": "p46261010311",
+  "name": "Pó Solto Loose Florelle",
+  "brand": "Florelle",
+  "category": "Pó Facial",
+  "description": "A base de maquiagem Florelle ajudará você a mostrar um rosto impecável, cobrindo imperfeições e unificando seu tom de pele.",
+  "image": "https://http2.mlstatic.com/D_NQ_NP_732614-MLA82636325023_022025-F.jpg",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_732614-MLA82636325023_022025-F.jpg",
+    "https://http2.mlstatic.com/D_NQ_NP_903958-MLA82636295749_022025-F.jpg"
+  ],
+  "colors": [],
+  "averageRating": 0,
+  "reviewCount": 0,
+  "prices": [],
+  "tags": [
+    "florelle",
+    "pó facial",
+    "pó solto"
+  ],
+  "mlId": "MLB46261010"
+},
+{
+  "id": "p62809105166",
+  "name": "Kit Pó Banana + Pó Solto Translucido",
+  "brand": "Phállebeauty",
+  "category": "Pó Facial",
+  "description": "KIT PÓ FACIAL PHALLEBEAUTY - PÓ SOLTO TRANSLÚCIDO + PÓ DE BANANA\n\nO duo perfeito para uma pele impecável e matificada!\n\nBENEFÍCIOS DO KIT:\nControle de oleosidade por até 8 horas  \nToque aveludado e acabamento natural  \nMinimiza poros e uniformiza a textura da pele  \nFórmula leve que não pesa nem craquela  \nPerfeito para todos os tons de pele  \n\nO KIT INCLUI:\n\nPÓ SOLTO TRANSLÚCIDO PHALLEBEAUTY  \nFixa a maquiagem e controla o brilho  \nIdeal para retoques ao longo do dia  \nNão altera a cor da base ou corretivo  \n\nPÓ DE BANANA PHALLEBEAUTY  \nCorrige e ilumina (perfeito para área dos olhos)  \nNeutraliza vermelhidões e uniformiza o tom  \nTextura ultra-fina e blendável  \n\nMODO DE USO:  \n• Aplique o Pó de Banana para corrigir e iluminar (T-zone e olheiras)  \n• Finalize com o Pó Translúcido para selar a maquiagem  \n• Use o pincel adequado para cada produto  \n\nIDEAL PARA:  \n• Quem busca pele matificada e impecável  \n• Quer controlar o brilho sem marcar  \n• Quem deseja um acabamento profissional  \n• Presentear amigas que amam maquiagem  \n\nCONTEÚDO DO KIT:  \n1 Pó Solto Translúcido PhalleBeauty (10g)  \n1 Pó de Banana PhalleBeauty (10g)  \nValidade: 03/2028",
+  "image": "https://http2.mlstatic.com/D_NQ_NP_952065-MLA99781526068_122025-F.jpg",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_952065-MLA99781526068_122025-F.jpg",
+    "https://http2.mlstatic.com/D_NQ_NP_761749-MLA99781526074_122025-F.jpg",
+    "https://http2.mlstatic.com/D_NQ_NP_908483-MLA100268485949_122025-F.jpg",
+    "https://http2.mlstatic.com/D_NQ_NP_799114-MLA100268164513_122025-F.jpg",
+    "https://http2.mlstatic.com/D_NQ_NP_644881-MLA100268193027_122025-F.jpg"
+  ],
+  "colors": [],
+  "averageRating": 0,
+  "reviewCount": 0,
+  "prices": [],
+  "tags": [
+    "phállebeauty",
+    "pó facial",
+    "pó solto"
+  ],
+  "mlId": "MLB62809105"
+},
+{
+  "id": "p26826908999",
+  "name": "Pó Solto Matte Invisível",
+  "brand": "Catrice",
+  "category": "Pó Facial",
+  "description": "A base de maquiagem Catrice vai te ajudar a mostrar um rosto impecável, cobrindo imperfeições e unificando seu tom de pele.",
+  "image": "https://http2.mlstatic.com/D_NQ_NP_914927-MLA80669067623_112024-F.jpg",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_914927-MLA80669067623_112024-F.jpg",
+    "https://http2.mlstatic.com/D_NQ_NP_919974-MLU71483134612_092023-F.jpg",
+    "https://http2.mlstatic.com/D_NQ_NP_705847-MLA80409420696_112024-F.jpg",
+    "https://http2.mlstatic.com/D_NQ_NP_967270-MLA80409459516_112024-F.jpg",
+    "https://http2.mlstatic.com/D_NQ_NP_948477-MLA80669067649_112024-F.jpg",
+    "https://http2.mlstatic.com/D_NQ_NP_984804-MLA80669067659_112024-F.jpg"
+  ],
+  "colors": [],
+  "averageRating": 0,
+  "reviewCount": 0,
+  "prices": [],
+  "tags": [
+    "catrice",
+    "pó facial",
+    "pó solto"
+  ],
+  "mlId": "MLB26826908"
+},
+{
+  "id": "p26826923389",
+  "name": "Pó Solto Light Sand",
+  "brand": "Flormar",
+  "category": "Pó Facial",
+  "description": "A base de maquiagem Flormar vai te ajudar a mostrar um rosto impecável, cobrindo imperfeições e unificando seu tom de pele.",
+  "image": "https://http2.mlstatic.com/D_NQ_NP_878701-MLU71483463014_092023-F.jpg",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_878701-MLU71483463014_092023-F.jpg",
+    "https://http2.mlstatic.com/D_NQ_NP_761678-MLU71483463016_092023-F.jpg",
+    "https://http2.mlstatic.com/D_NQ_NP_623947-MLU71531805775_092023-F.jpg"
+  ],
+  "colors": [],
+  "averageRating": 0,
+  "reviewCount": 0,
+  "prices": [],
+  "tags": [
+    "flormar",
+    "pó facial",
+    "pó solto"
+  ],
+  "mlId": "MLB26826923"
+},
+{
+  "id": "p23661081871",
+  "name": "Pó Solto Florenza Premium",
+  "brand": "Florenza",
+  "category": "Pó Facial",
+  "description": "A base de maquiagem da Florenza te ajudará a conseguir um rosto perfeito, cobrindo imperfeições e unificando o tom da sua pele.",
+  "image": "https://http2.mlstatic.com/D_NQ_NP_750713-MLU69767837176_062023-F.jpg",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_750713-MLU69767837176_062023-F.jpg",
+    "https://http2.mlstatic.com/D_NQ_NP_614079-MLU69767757932_062023-F.jpg",
+    "https://http2.mlstatic.com/D_NQ_NP_830983-MLU69767837178_062023-F.jpg"
+  ],
+  "colors": [],
+  "averageRating": 0,
+  "reviewCount": 0,
+  "prices": [],
+  "tags": [
+    "florenza",
+    "pó facial",
+    "pó solto"
+  ],
+  "mlId": "MLB23661081"
+},
+{
+  "id": "p2319901213",
+  "name": "Pó Solto Facial Alice Salazar Claro 10g",
+  "brand": "Alice Salazar",
+  "category": "Pó Facial",
+  "description": "A base de maquiagem da Alice Salazar te ajudará a conseguir um rosto perfeito, cobrindo imperfeições e unificando o tom da sua pele.",
+  "image": "https://http2.mlstatic.com/D_NQ_NP_699197-MLU69363411559_052023-F.jpg",
+  "images": [
+    "https://http2.mlstatic.com/D_NQ_NP_699197-MLU69363411559_052023-F.jpg"
+  ],
+  "colors": [],
+  "averageRating": 0,
+  "reviewCount": 0,
+  "prices": [],
+  "tags": [
+    "alice salazar",
+    "pó facial",
+    "pó solto"
+  ],
+  "mlId": "MLB23199012"
+}
 ] as Product[];
 
 export const products: Product[] = catalogProducts;
