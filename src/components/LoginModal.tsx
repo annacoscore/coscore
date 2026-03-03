@@ -1,17 +1,20 @@
 "use client";
 import { useState } from "react";
-import { X, Eye, EyeOff, Sparkles, Loader2 } from "lucide-react";
+import { X, Eye, EyeOff, Sparkles, Loader2, ArrowLeft, Mail, CheckCircle } from "lucide-react";
 import { useStore } from "@/store/useStore";
+
+type Screen = "login" | "register" | "forgot" | "forgot-sent";
 
 export default function LoginModal() {
   const { isLoginModalOpen, closeLoginModal, login, register, loginRedirectMessage } = useStore();
-  const [tab, setTab] = useState<"login" | "register">("login");
+  const [screen, setScreen] = useState<Screen>("login");
   const [showPassword, setShowPassword] = useState(false);
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState("");
 
   const [loginForm, setLoginForm] = useState({ email: "", password: "" });
   const [registerForm, setRegisterForm] = useState({ name: "", email: "", password: "", confirm: "" });
+  const [forgotEmail, setForgotEmail] = useState("");
 
   if (!isLoginModalOpen) return null;
 
@@ -43,8 +46,16 @@ export default function LoginModal() {
     setLoading(false);
   };
 
-  const switchTab = (t: "login" | "register") => {
-    setTab(t);
+  const handleForgot = async (e: React.FormEvent) => {
+    e.preventDefault();
+    setLoading(true);
+    await new Promise((r) => setTimeout(r, 800));
+    setLoading(false);
+    setScreen("forgot-sent");
+  };
+
+  const goTo = (s: Screen) => {
+    setScreen(s);
     setError("");
   };
 
@@ -70,38 +81,39 @@ export default function LoginModal() {
             <Sparkles className="w-5 h-5" />
             <span className="font-bold text-lg">CoScore</span>
           </div>
-          {loginRedirectMessage ? (
-            <p className="text-pink-100 text-sm">{loginRedirectMessage}</p>
-          ) : (
-            <p className="text-pink-100 text-sm">
-              {tab === "login" ? "Bem-vinda de volta!" : "Crie sua conta gratuita"}
-            </p>
-          )}
+          <p className="text-pink-100 text-sm">
+            {screen === "login"       && (loginRedirectMessage || "Bem-vinda de volta!")}
+            {screen === "register"    && "Crie sua conta gratuita"}
+            {screen === "forgot"      && "Recuperar senha"}
+            {screen === "forgot-sent" && "E-mail enviado!"}
+          </p>
         </div>
 
-        {/* Tabs */}
-        <div className="flex border-b border-gray-100">
-          <button
-            onClick={() => switchTab("login")}
-            className={`flex-1 py-3 text-sm font-medium transition-colors ${
-              tab === "login"
-                ? "text-pink-600 border-b-2 border-pink-500"
-                : "text-gray-500 hover:text-gray-700"
-            }`}
-          >
-            Entrar
-          </button>
-          <button
-            onClick={() => switchTab("register")}
-            className={`flex-1 py-3 text-sm font-medium transition-colors ${
-              tab === "register"
-                ? "text-pink-600 border-b-2 border-pink-500"
-                : "text-gray-500 hover:text-gray-700"
-            }`}
-          >
-            Criar Conta
-          </button>
-        </div>
+        {/* Tabs — só aparece nas telas de login/register */}
+        {(screen === "login" || screen === "register") && (
+          <div className="flex border-b border-gray-100">
+            <button
+              onClick={() => goTo("login")}
+              className={`flex-1 py-3 text-sm font-medium transition-colors ${
+                screen === "login"
+                  ? "text-pink-600 border-b-2 border-pink-500"
+                  : "text-gray-500 hover:text-gray-700"
+              }`}
+            >
+              Entrar
+            </button>
+            <button
+              onClick={() => goTo("register")}
+              className={`flex-1 py-3 text-sm font-medium transition-colors ${
+                screen === "register"
+                  ? "text-pink-600 border-b-2 border-pink-500"
+                  : "text-gray-500 hover:text-gray-700"
+              }`}
+            >
+              Criar Conta
+            </button>
+          </div>
+        )}
 
         <div className="px-6 py-5">
           {error && (
@@ -110,7 +122,8 @@ export default function LoginModal() {
             </div>
           )}
 
-          {tab === "login" ? (
+          {/* ── Tela de Login ── */}
+          {screen === "login" && (
             <form onSubmit={handleLogin} className="space-y-4">
               <div>
                 <label className="block text-sm font-medium text-gray-700 mb-1">E-mail</label>
@@ -124,7 +137,16 @@ export default function LoginModal() {
                 />
               </div>
               <div>
-                <label className="block text-sm font-medium text-gray-700 mb-1">Senha</label>
+                <div className="flex items-center justify-between mb-1">
+                  <label className="text-sm font-medium text-gray-700">Senha</label>
+                  <button
+                    type="button"
+                    onClick={() => goTo("forgot")}
+                    className="text-xs text-pink-500 hover:text-pink-700 hover:underline transition-colors"
+                  >
+                    Esqueci minha senha
+                  </button>
+                </div>
                 <div className="relative">
                   <input
                     type={showPassword ? "text" : "password"}
@@ -155,7 +177,10 @@ export default function LoginModal() {
                 Teste: julia@coscore.com / 123456
               </p>
             </form>
-          ) : (
+          )}
+
+          {/* ── Tela de Cadastro ── */}
+          {screen === "register" && (
             <form onSubmit={handleRegister} className="space-y-4">
               <div>
                 <label className="block text-sm font-medium text-gray-700 mb-1">Nome</label>
@@ -219,6 +244,66 @@ export default function LoginModal() {
                 {loading ? "Criando conta..." : "Criar Conta Grátis"}
               </button>
             </form>
+          )}
+
+          {/* ── Tela de Recuperação de Senha ── */}
+          {screen === "forgot" && (
+            <form onSubmit={handleForgot} className="space-y-4">
+              <button
+                type="button"
+                onClick={() => goTo("login")}
+                className="flex items-center gap-1.5 text-sm text-gray-500 hover:text-pink-600 transition-colors mb-2"
+              >
+                <ArrowLeft className="w-4 h-4" />
+                Voltar ao login
+              </button>
+              <p className="text-sm text-gray-600">
+                Digite o e-mail cadastrado e enviaremos um link para você criar uma nova senha.
+              </p>
+              <div>
+                <label className="block text-sm font-medium text-gray-700 mb-1">E-mail</label>
+                <input
+                  type="email"
+                  required
+                  value={forgotEmail}
+                  onChange={(e) => setForgotEmail(e.target.value)}
+                  placeholder="seu@email.com"
+                  className="w-full px-4 py-2.5 border border-gray-200 rounded-xl focus:outline-none focus:ring-2 focus:ring-pink-300 text-sm"
+                />
+              </div>
+              <button
+                type="submit"
+                disabled={loading}
+                className="w-full bg-gradient-to-r from-pink-500 to-rose-500 text-white py-3 rounded-xl font-medium hover:from-pink-600 hover:to-rose-600 transition-all disabled:opacity-70 flex items-center justify-center gap-2"
+              >
+                {loading ? <Loader2 className="w-4 h-4 animate-spin" /> : <Mail className="w-4 h-4" />}
+                {loading ? "Enviando..." : "Enviar link de recuperação"}
+              </button>
+            </form>
+          )}
+
+          {/* ── Tela de Confirmação ── */}
+          {screen === "forgot-sent" && (
+            <div className="text-center py-4 space-y-4">
+              <div className="w-16 h-16 bg-emerald-100 rounded-full flex items-center justify-center mx-auto">
+                <CheckCircle className="w-8 h-8 text-emerald-500" />
+              </div>
+              <div>
+                <p className="font-semibold text-gray-900">E-mail enviado!</p>
+                <p className="text-sm text-gray-500 mt-1">
+                  Se <span className="font-medium text-gray-700">{forgotEmail}</span> estiver cadastrado,
+                  você receberá um link para redefinir sua senha em breve.
+                </p>
+              </div>
+              <p className="text-xs text-gray-400">Não recebeu? Verifique sua caixa de spam.</p>
+              <button
+                type="button"
+                onClick={() => goTo("login")}
+                className="w-full border border-pink-300 text-pink-600 py-2.5 rounded-xl text-sm font-medium hover:bg-pink-50 transition-colors"
+              >
+                Voltar ao login
+              </button>
+            </div>
           )}
         </div>
       </div>
