@@ -25,6 +25,7 @@ import PriceComparisonModal from "@/components/PriceComparisonModal";
 import AdBanner from "@/components/AdBanner";
 import ProductCard from "@/components/ProductCard";
 import { notFound } from "next/navigation";
+import { cleanDisplayName } from "@/lib/displayName";
 
 export default function ProductPage({ params }: { params: Promise<{ id: string }> }) {
   const { id } = use(params);
@@ -117,7 +118,7 @@ export default function ProductPage({ params }: { params: Promise<{ id: string }
           <span>/</span>
           <Link href={`/produtos?categoria=${product.category}`} className="hover:text-pink-600">{getCategoryDisplayName(product.category)}</Link>
           <span>/</span>
-          <span className="text-gray-700 font-medium truncate max-w-[200px]">{product.name}</span>
+          <span className="text-gray-700 font-medium truncate max-w-[200px]">{cleanDisplayName(product.name)}</span>
         </nav>
 
         <Link href="/produtos" className="inline-flex items-center gap-1 text-sm text-pink-600 hover:underline mb-5">
@@ -230,7 +231,7 @@ export default function ProductPage({ params }: { params: Promise<{ id: string }
                 <span className="text-sm text-pink-500 font-semibold">{product.brand}</span>
               </div>
               <h1 className="text-2xl md:text-3xl font-extrabold text-gray-900 leading-tight">
-                {product.name}
+                {cleanDisplayName(product.name)}
               </h1>
             </div>
 
