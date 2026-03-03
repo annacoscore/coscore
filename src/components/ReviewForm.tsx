@@ -92,10 +92,6 @@ export default function ReviewForm({ product, onSuccess }: ReviewFormProps) {
   const validate = () => {
     const errs: string[] = [];
     if (rating === 0) errs.push("Dê uma nota de 1 a 5 estrelas.");
-    if (text.trim().length < 20) errs.push("Sua review deve ter pelo menos 20 caracteres.");
-    if (worthIt === null) errs.push('Responda "Valeu a pena?"');
-    if (wouldBuyAgain === null) errs.push('Responda "Recompraria?"');
-    if (packagingScore === 0) errs.push("Dê uma nota para a embalagem.");
     return errs;
   };
 
@@ -180,7 +176,7 @@ export default function ReviewForm({ product, onSuccess }: ReviewFormProps) {
       {/* Review text */}
       <div>
         <label className="block text-sm font-semibold text-gray-700 mb-1">
-          Sua Review <span className="text-red-400">*</span>
+          Sua Review <span className="text-xs font-normal text-gray-400">(opcional)</span>
         </label>
         <textarea
           value={text}
@@ -189,7 +185,6 @@ export default function ReviewForm({ product, onSuccess }: ReviewFormProps) {
           placeholder="Conte sobre sua experiência com o produto. O que você mais gostou? Tem algum ponto negativo?"
           className="w-full px-4 py-3 border border-gray-200 rounded-xl focus:outline-none focus:ring-2 focus:ring-pink-300 text-sm resize-none"
         />
-        <p className="text-xs text-gray-400 mt-1 text-right">{text.length} / mín. 20 caracteres</p>
       </div>
 
       {/* Cor — só aparece quando o produto tem variantes cadastradas */}
@@ -371,7 +366,7 @@ export default function ReviewForm({ product, onSuccess }: ReviewFormProps) {
       <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
         <div className="bg-gray-50 rounded-xl p-4">
           <p className="text-sm font-semibold text-gray-700 mb-3">
-            Valeu a pena? <span className="text-red-400">*</span>
+            Valeu a pena? <span className="text-xs font-normal text-gray-400">(opcional)</span>
           </p>
           <div className="flex gap-2">
             {[true, false].map((val) => (
@@ -393,7 +388,7 @@ export default function ReviewForm({ product, onSuccess }: ReviewFormProps) {
 
         <div className="bg-gray-50 rounded-xl p-4">
           <p className="text-sm font-semibold text-gray-700 mb-3">
-            Recompraria? <span className="text-red-400">*</span>
+            Recompraria? <span className="text-xs font-normal text-gray-400">(opcional)</span>
           </p>
           <div className="flex gap-2">
             {[true, false].map((val) => (
@@ -417,7 +412,7 @@ export default function ReviewForm({ product, onSuccess }: ReviewFormProps) {
       {/* Packaging score */}
       <div>
         <p className="text-sm font-semibold text-gray-700 mb-2">
-          Nota para a Embalagem (1-10) <span className="text-red-400">*</span>
+          Nota para a Embalagem (1-10) <span className="text-xs font-normal text-gray-400">(opcional)</span>
         </p>
         <div className="flex gap-1.5 flex-wrap">
           {Array.from({ length: 10 }, (_, i) => i + 1).map((n) => (
