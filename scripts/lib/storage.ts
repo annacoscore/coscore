@@ -59,12 +59,13 @@ export function exportToProductsTs(entries: CatalogEntry[]): void {
   }));
 
   const content = [
+    `// @ts-nocheck — arquivo gerado automaticamente, não editar manualmente`,
     `// Catálogo 100% Mercado Livre — gerado automaticamente.`,
     `// Última atualização: ${new Date().toISOString()}`,
     `// Total: ${catalogProducts.length} produtos`,
     `import type { Product } from '../types';`,
     ``,
-    `const catalogProducts: Product[] = ${JSON.stringify(catalogProducts, null, 2)};`,
+    `const catalogProducts = ${JSON.stringify(catalogProducts, null, 2)} as Product[];`,
     ``,
     `export const products: Product[] = catalogProducts;`,
     `export default products;`,

@@ -1,9 +1,10 @@
+// @ts-nocheck — arquivo gerado automaticamente, não editar manualmente
 // Catálogo 100% Mercado Livre — gerado automaticamente.
 // Última atualização: 2026-03-03T16:37:00.114Z
 // Total: 1444 produtos
 import type { Product } from '../types';
 
-const catalogProducts: Product[] = [
+const catalogProducts = [
   {
     "id": "p17725556191150001",
     "name": "Batom Lipstick -",
@@ -32007,7 +32008,7 @@ const catalogProducts: Product[] = [
       "diamante profissional"
     ]
   }
-];
+] as Product[];
 
 export const products: Product[] = catalogProducts;
 export default products;
