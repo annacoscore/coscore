@@ -1,0 +1,631 @@
+{
+  "total": 5618,
+  "noImageIds": [],
+  "suspiciousImageIds": [],
+  "colorInNameIds": [
+    {
+      "id": "p17725556191170018",
+      "name": "Batom Lipstick Crush Mango",
+      "category": "Batom"
+    },
+    {
+      "id": "p17725556191170027",
+      "name": "Capri Batom Lipstick - Océane - Godness",
+      "category": "Batom"
+    },
+    {
+      "id": "p17725556203860055",
+      "name": "Batom Lipstick Technosatin Shiseido Shift Shift - Cheery",
+      "category": "Batom"
+    },
+    {
+      "id": "p17725556216670056",
+      "name": "Batom Nars Powermatte Lipstick Powermatte Lipstick 1.5 Batom",
+      "category": "Batom"
+    },
+    {
+      "id": "p17725556229380063",
+      "name": "Batom Matte - Suave",
+      "category": "Batom"
+    },
+    {
+      "id": "p17725556229380069",
+      "name": "Batom Matte Ramona - Boca",
+      "category": "Batom"
+    },
+    {
+      "id": "p17725556229380072",
+      "name": "Batom Matte Face Beautiful - Classico",
+      "category": "Batom"
+    },
+    {
+      "id": "p17725556242210101",
+      "name": "Carla - Batom Matte",
+      "category": "Batom"
+    },
+    {
+      "id": "p17725556256070113",
+      "name": "Batom Matte Macximal - Folio",
+      "category": "Batom"
+    },
+    {
+      "id": "p17725556256070122",
+      "name": "Batom Matte Dalla - Bela",
+      "category": "Batom"
+    },
+    {
+      "id": "p17725556256070124",
+      "name": "Honey - Batom Matte",
+      "category": "Batom"
+    },
+    {
+      "id": "p17725667097815550",
+      "name": "Klasme Lipstick | Batom Very Berry Acabamento Fosco",
+      "category": "Batom"
+    },
+    {
+      "id": "p17725667097819101",
+      "name": "Revlon Super Lustrous - Batom Cremoso",
+      "category": "Batom"
+    },
+    {
+      "id": "p17725556332630168",
+      "name": "Gloss Labial - Fadarinas",
+      "category": "Gloss"
+    },
+    {
+      "id": "p17725556332630169",
+      "name": "Gloss Lábial - Coleção Ppoeta - Catarina",
+      "category": "Gloss"
+    },
+    {
+      "id": "p17725556332630173",
+      "name": "Gloss Labial Vegano Ricosti - Incolor",
+      "category": "Gloss"
+    },
+    {
+      "id": "p17725556332630175",
+      "name": "Make B Gloss Labial, Make B Gloss Labial Lover, 5 Acabamento Cremoso",
+      "category": "Gloss"
+    },
+    {
+      "id": "p17725556332630176",
+      "name": "Gloss Labial Vegano Adversa - Oh My Gloss! - Orgasmic Gold",
+      "category": "Gloss"
+    },
+    {
+      "id": "p17725558072333229",
+      "name": "Chocochilli Gloss Fran By Franciny Ehlke Acabamento Brilhante Chocolate",
+      "category": "Gloss"
+    },
+    {
+      "id": "p17725558161473311",
+      "name": "Gloss Labial - Karen Bachini - Brilho Intenso",
+      "category": "Gloss"
+    },
+    {
+      "id": "p17725667535462884",
+      "name": "Batom Brilho Roll-on Zanphy - Com Glitter",
+      "category": "Gloss"
+    },
+    {
+      "id": "p17725667679327689",
+      "name": "Batom Nude Hidratante Divine",
+      "category": "Gloss"
+    },
+    {
+      "id": "p17725670765106803",
+      "name": "Brilho labial Ruby Rose Ruby Rose Pitanga Oil Ruby Rose Pitanga Oil",
+      "category": "Gloss"
+    },
+    {
+      "id": "p17725670765109542",
+      "name": "Brilho labial Ruby Rose Ruby Rose Kit 6 Ruby Rose Kit",
+      "category": "Gloss"
+    },
+    {
+      "id": "p17725673738462616",
+      "name": "Gloss Oil Cyber - Pink Boca Rosa - Multifuncional - By Payot",
+      "category": "Gloss"
+    },
+    {
+      "id": "p17725674315549401",
+      "name": "Brilho labial 7 Belo Quem Disse, Berenice? Quem Disse, Berenice?",
+      "category": "Gloss"
+    },
+    {
+      "id": "p17725676437669828",
+      "name": "Bt Gloss Luana - Bruna Tavares",
+      "category": "Gloss"
+    },
+    {
+      "id": "p17725678530259581",
+      "name": "Brilho labial Pam By Pamella Gloss Labial Cherry bomb Gloss Labial",
+      "category": "Gloss"
+    },
+    {
+      "id": "p17725678530262068",
+      "name": "Gloss Labial Brilho E Hidratante Lip Oil - Sorvete Baunilha",
+      "category": "Gloss"
+    },
+    {
+      "id": "p17725556383980189",
+      "name": "Lapis De Contorno Labial Lapiseira Labial - Bruna Tavares",
+      "category": "Lápis Labial"
+    },
+    {
+      "id": "p17725556383980193",
+      "name": "Lápis De Contorno Labial Impermeável Jolie - Naked",
+      "category": "Lápis Labial"
+    },
+    {
+      "id": "p17725556383990210",
+      "name": "Contorno Labial Lip Liner Morning Coffee - Océane",
+      "category": "Lápis Labial"
+    },
+    {
+      "id": "p17725556383990215",
+      "name": "Lápis Contorno Labial Instant Lips - Nina Makeup",
+      "category": "Lápis Labial"
+    },
+    {
+      "id": "p17725556383990217",
+      "name": "Contorno Labial Contour Edition Bourjois Chocolate Chip",
+      "category": "Lápis Labial"
+    },
+    {
+      "id": "p17725556398040240",
+      "name": "Lápis De Contorno Labial Caramel Océane Edition",
+      "category": "Lápis Labial"
+    },
+    {
+      "id": "p17725676191503435",
+      "name": "Dailus Lápis Apontável Para Contorno Labial Taupe",
+      "category": "Lápis Labial"
+    },
+    {
+      "id": "p17725676191508596",
+      "name": "Lápis De Boca Kit 5 Dailus Apontável Contorno Labial",
+      "category": "Lápis Labial"
+    },
+    {
+      "id": "p17725677870006652",
+      "name": "Delineador Lápis Para Lábios Ultra Easy - Ruby Kisses",
+      "category": "Lápis Labial"
+    },
+    {
+      "id": "p17725556410810271",
+      "name": "Base De Maquiagem Líquida Avon Base Líquida Base Liquida Power Stay Maquiagem .2 Expresso",
+      "category": "Base"
+    },
+    {
+      "id": "p17725556423610281",
+      "name": "Base De Maquiagem Líquida Vizzela Base Líquida Satin 8835 Base Líquida Satin - Vizzela",
+      "category": "Base"
+    },
+    {
+      "id": "p17725556449050314",
+      "name": "Base De Maquillaje Nyx Professional Makeup Can T Stop Won T Stop Full Coverage Base Foundation Base Nyx Professional Makeup Can T Stop Won T Stop - Ml",
+      "category": "Base"
+    },
+    {
+      "id": "p17725556449050320",
+      "name": "Base Pele Lisa Foundation Marfim",
+      "category": "Base"
+    },
+    {
+      "id": "p17725558123413267",
+      "name": "Boca Beauty Hd 1 Jasmin",
+      "category": "Base"
+    },
+    {
+      "id": "p17725558123423280",
+      "name": "Boca - Base - Matte",
+      "category": "Base"
+    },
+    {
+      "id": "p17725668644611393",
+      "name": "Base Cushion Tirtir - Cobertura Total",
+      "category": "Base"
+    },
+    {
+      "id": "p17725668644619191",
+      "name": "Base em Cushion Tirtir | Cobertura Total - Ml",
+      "category": "Base"
+    },
+    {
+      "id": "p17725668644619040",
+      "name": "Base em Pó It Cosmetics Celebration - Cobertura Total",
+      "category": "Base"
+    },
+    {
+      "id": "p17725668644619611",
+      "name": "Tirtir - Máscara Ajuste Base Cushion Cobertura Total 24n Latte",
+      "category": "Base"
+    },
+    {
+      "id": "p17725668644623306",
+      "name": "Base em Bastão 2 em 1 Cobertura Total, Base em Bastão -Tamanho Único",
+      "category": "Base"
+    },
+    {
+      "id": "p17725556461720326",
+      "name": "E - Unimakeup",
+      "category": "Corretivo"
+    }
+  ],
+  "dupGroups": [
+    [
+      {
+        "id": "p17725674550191388",
+        "name": "Lápis De Boca - Bruna Tavares - Bt Lipshape Lápiseira Lábial",
+        "brand": "Bruna Tavares",
+        "colorsCount": 5
+      },
+      {
+        "id": "p17725674550193159",
+        "name": "Lápis De Boca - Bruna Tavares - Bt Lipshape Lápiseira Lábial Rose",
+        "brand": "Bruna Tavares",
+        "colorsCount": 5
+      }
+    ],
+    [
+      {
+        "id": "p17725558072333227",
+        "name": "Pó Facial Solto Plush 3 - Fran By Franciny Ehlke",
+        "brand": "Fran by Franciny Ehlke",
+        "colorsCount": 3
+      },
+      {
+        "id": "brand17726348579050275",
+        "name": "PÓ FACIAL SOLTO PLUSH 1 FRAN BY FRANCINY EHLKE",
+        "brand": "Fran by Franciny Ehlke",
+        "colorsCount": 0
+      },
+      {
+        "id": "brand17726348579050276",
+        "name": "PÓ FACIAL SOLTO PLUSH 2 FRAN BY FRANCINY EHLKE",
+        "brand": "Fran by Franciny Ehlke",
+        "colorsCount": 0
+      }
+    ],
+    [
+      {
+        "id": "p17725556849261016",
+        "name": "Spray Fixador De Maquiagem Fix & Last Essence",
+        "brand": "Essence",
+        "colorsCount": 0
+      },
+      {
+        "id": "p17725679993764464",
+        "name": "Spray Fixador De Maquiagem Fix & Last 18h essence",
+        "brand": "Essence",
+        "colorsCount": 0
+      }
+    ],
+    [
+      {
+        "id": "p17725556849271039",
+        "name": "Spray Fixador De Maquiagem Ruby Hb",
+        "brand": "Ruby Rose",
+        "colorsCount": 3
+      },
+      {
+        "id": "p17725679993769968",
+        "name": "Spray Fixador De Maquiagem Ruby Rose Hb-312",
+        "brand": "Ruby Rose",
+        "colorsCount": 0
+      }
+    ],
+    [
+      {
+        "id": "p17725556862031090",
+        "name": "3x Mascara Cílios Soul Turbo - Eudora",
+        "brand": "Mascara Cílios Soul",
+        "colorsCount": 1
+      },
+      {
+        "id": "p17725670157672552",
+        "name": "Mascara Cílios Soul Turbo - Eudora",
+        "brand": "Mascara Cílios Soul",
+        "colorsCount": 1
+      }
+    ],
+    [
+      {
+        "id": "p17725556876461107",
+        "name": "Mascara Cilios Feels Ruby Rimel Para Alongar",
+        "brand": "Ruby Rose",
+        "colorsCount": 5
+      },
+      {
+        "id": "p17725670157686900",
+        "name": "Mascara Cilios Feels Ruby Rose Rimel Para Alongar",
+        "brand": "Ruby Rose",
+        "colorsCount": 1
+      }
+    ],
+    [
+      {
+        "id": "p17725684591154546",
+        "name": "Protetor Solar Facial Fps 50 - Anasol",
+        "brand": "Anasol",
+        "colorsCount": 0
+      },
+      {
+        "id": "p17725684591165935",
+        "name": "Protetor Solar Facial Fps Anasol",
+        "brand": "Anasol",
+        "colorsCount": 4
+      }
+    ],
+    [
+      {
+        "id": "p17725684591152086",
+        "name": "Protetor Solar Fps",
+        "brand": "Vini Lady",
+        "colorsCount": 6
+      },
+      {
+        "id": "p17725684591152983",
+        "name": "Protetor Solar Fps 50",
+        "brand": "Vini Lady",
+        "colorsCount": 0
+      }
+    ],
+    [
+      {
+        "id": "p17725557452101980",
+        "name": "Atlas - Máscara Facial Rejuvenescedora Argila Hidr",
+        "brand": "Akal+Roh",
+        "colorsCount": 0
+      },
+      {
+        "id": "p17725687475183784",
+        "name": "Atlas Rose - Máscara Facial Rejuvenescedora Argila Hidr",
+        "brand": "Akal+Roh",
+        "colorsCount": 0
+      }
+    ],
+    [
+      {
+        "id": "p17725557452101981",
+        "name": "Esfoliante + Máscara Facial Ruby Argila",
+        "brand": "Ruby Rose",
+        "colorsCount": 1
+      },
+      {
+        "id": "p17725687475188008",
+        "name": "Esfoliante + Máscara Facial Ruby Rose Argila",
+        "brand": "Ruby Rose",
+        "colorsCount": 0
+      }
+    ],
+    [
+      {
+        "id": "p17725697537026839",
+        "name": "Tintura Coloração Profissional Cabelo Permanente Nsi 0 loiro",
+        "brand": "NSI Cosméticos",
+        "colorsCount": 3
+      },
+      {
+        "id": "p17725697537027269",
+        "name": "Tintura Coloração Profissional Cabelo Permanente Nsi 4 Loiro",
+        "brand": "NSI Cosméticos",
+        "colorsCount": 3
+      }
+    ],
+    [
+      {
+        "id": "p17725697537039697",
+        "name": "Tintura Coloração Cabelo Amônia Primont",
+        "brand": "Primont",
+        "colorsCount": 0
+      },
+      {
+        "id": "p17725697537032061",
+        "name": "Tintura Coloração Cabelo Amônia Primont .22",
+        "brand": "Primont",
+        "colorsCount": 0
+      }
+    ],
+    [
+      {
+        "id": "p17725697537032970",
+        "name": "Tintura Coloração Cabelo Amoníaco Primont .40",
+        "brand": "Primont",
+        "colorsCount": 0
+      },
+      {
+        "id": "p17725697537039795",
+        "name": "Tintura Coloração Cabelo Amoníaco Primont .00",
+        "brand": "Primont",
+        "colorsCount": 18
+      }
+    ],
+    [
+      {
+        "id": "p17725697625827521",
+        "name": "Coloração Tonalizante Com Silicone Tonalittá 12.",
+        "brand": "Prolab",
+        "colorsCount": 14
+      },
+      {
+        "id": "p17725697625834866",
+        "name": "Coloração Tonalizante Com Silicone Tonalittá 4.",
+        "brand": "Prolab",
+        "colorsCount": 14
+      },
+      {
+        "id": "p17725697625839393",
+        "name": "Coloração Tonalizante Com Silicone Tonalittá 1",
+        "brand": "Prolab",
+        "colorsCount": 0
+      }
+    ],
+    [
+      {
+        "id": "p17725697625836950",
+        "name": "Coloração Tonalizante Burguesinha 2.0 Probelle",
+        "brand": "Probelle",
+        "colorsCount": 0
+      },
+      {
+        "id": "p17725697625831320",
+        "name": "Coloração Tonalizante Burguesinha Probelle .7 chocolate",
+        "brand": "Probelle",
+        "colorsCount": 0
+      }
+    ],
+    [
+      {
+        "id": "p17725697625831924",
+        "name": "Coloração Tonalizante .7 CHOCOLATE",
+        "brand": "Soave Capelli",
+        "colorsCount": 13
+      },
+      {
+        "id": "p17725697625832802",
+        "name": "Coloração Tonalizante .0",
+        "brand": "Soave Capelli",
+        "colorsCount": 0
+      }
+    ],
+    [
+      {
+        "id": "p17725697625857972",
+        "name": "Coloração Kit Bela E Amônia Tonalizante Todas .0",
+        "brand": "Bela&Cor",
+        "colorsCount": 0
+      },
+      {
+        "id": "p17725697625851823",
+        "name": "Coloração Kit Bela E Amônia Tonalizante Todas .",
+        "brand": "Bela&Cor",
+        "colorsCount": 13
+      },
+      {
+        "id": "p17725697625857728",
+        "name": "Coloração Kit Bela E Amônia Tonalizante Todas .7 chocolate",
+        "brand": "Bela&Cor",
+        "colorsCount": 0
+      }
+    ],
+    [
+      {
+        "id": "brand17726348401550006",
+        "name": "Ice Creamy Lip Balm - Chocolate Mari Maria Makeup",
+        "brand": "Mari Maria Makeup",
+        "colorsCount": 0
+      },
+      {
+        "id": "brand17726348401550007",
+        "name": "Ice Creamy Lip Balm - Vanilla Mari Maria Makeup",
+        "brand": "Mari Maria Makeup",
+        "colorsCount": 0
+      }
+    ],
+    [
+      {
+        "id": "brand17726348428000056",
+        "name": "Base e - Mari Maria Makeup",
+        "brand": "Mari Maria Makeup",
+        "colorsCount": 0
+      },
+      {
+        "id": "brand17726348428030069",
+        "name": "Base e - Baunilha Mari Maria Makeup",
+        "brand": "Mari Maria Makeup",
+        "colorsCount": 0
+      },
+      {
+        "id": "brand17726348452900141",
+        "name": "Base e - Chocolate Mari Maria Makeup",
+        "brand": "Mari Maria Makeup",
+        "colorsCount": 0
+      }
+    ],
+    [
+      {
+        "id": "brand17726348428010057",
+        "name": "Base e - Claro 2 Mari Maria Makeup",
+        "brand": "Mari Maria Makeup",
+        "colorsCount": 0
+      },
+      {
+        "id": "brand17726348428030068",
+        "name": "Base e - Claro 1 Mari Maria Makeup",
+        "brand": "Mari Maria Makeup",
+        "colorsCount": 0
+      }
+    ],
+    [
+      {
+        "id": "brand17726348540770223",
+        "name": "Gloss My Lips - Wepink",
+        "brand": "WePink",
+        "colorsCount": 0
+      },
+      {
+        "id": "brand17726348540810235",
+        "name": "Gloss My Lips Cherry - Wepink",
+        "brand": "WePink",
+        "colorsCount": 0
+      }
+    ],
+    [
+      {
+        "id": "brand17726348582650344",
+        "name": "Pincel Duo 2",
+        "brand": "Boca Rosa Beauty",
+        "colorsCount": 0
+      },
+      {
+        "id": "brand17726348582650345",
+        "name": "Pincel Duo 1",
+        "brand": "Boca Rosa Beauty",
+        "colorsCount": 0
+      }
+    ],
+    [
+      {
+        "id": "brand17726380231280048",
+        "name": "Mascavo Soft Radiance Base Líquida",
+        "brand": "Mascavo Beauty",
+        "colorsCount": 0
+      },
+      {
+        "id": "brand17726380231310070",
+        "name": "Mascavo Soft Radiance Base Líquida 8N",
+        "brand": "Mascavo Beauty",
+        "colorsCount": 0
+      },
+      {
+        "id": "brand17726380251310113",
+        "name": "Mascavo Soft Radiance Base Líquida 9W",
+        "brand": "Mascavo Beauty",
+        "colorsCount": 0
+      }
+    ],
+    [
+      {
+        "id": "brand17726380231320073",
+        "name": "Mascavo Shape Stick Contorno em Bastão Vanilla",
+        "brand": "Mascavo Beauty",
+        "colorsCount": 0
+      },
+      {
+        "id": "brand17726380231330077",
+        "name": "Mascavo Shape Stick Contorno em Bastão Mocha",
+        "brand": "Mascavo Beauty",
+        "colorsCount": 0
+      },
+      {
+        "id": "brand17726380231330078",
+        "name": "Mascavo Shape Stick Contorno em Bastão Latte",
+        "brand": "Mascavo Beauty",
+        "colorsCount": 0
+      }
+    ]
+  ]
+}
