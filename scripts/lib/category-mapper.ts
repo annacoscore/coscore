@@ -243,10 +243,68 @@ const KEYWORD_RULES: KeywordRule[] = [
     keywords: ['shampoo', 'xampu', 'shampoo capilar'],
     category: 'Shampoo',
   },
+  // ── Lapiseira labial / Lip liner ──────────────────────────────────────────
+  {
+    keywords: ['lapiseira labial', 'lapiseira de labio', 'lapis labial', 'lip pencil'],
+    category: 'Lápis Labial',
+  },
+  // ── Cushion / Base em almofada ────────────────────────────────────────────
+  {
+    keywords: ['cushion', 'base cushion', 'bb cushion', 'cc cushion'],
+    category: 'Base',
+  },
+  // ── Bruma / Névoa ─────────────────────────────────────────────────────────
+  {
+    keywords: ['bruma fixadora', 'bruma de fixacao', 'neblina fixadora', 'bruma spray'],
+    category: 'Fixador de Maquiagem',
+  },
+  {
+    keywords: ['bruma de beleza', 'bruma iluminadora', 'névoa facial', 'nebulizador'],
+    category: 'Hidratante',
+  },
+  // ── Elixir / Óleo facial ──────────────────────────────────────────────────
+  {
+    keywords: ['elixir facial', 'oleo facial', 'óleo facial', 'face elixir', 'face oil'],
+    category: 'Sérum',
+  },
+  // ── Bálsamo demaquilante / Limpeza ────────────────────────────────────────
+  {
+    keywords: ['balsamo demaquilante', 'bálsamo demaquilante', 'demaquilante', 'removedor de maquiagem', 'makeup remover', 'micelar'],
+    category: 'Limpeza Facial',
+  },
+  // ── Stick / bastão multifuncional ─────────────────────────────────────────
+  {
+    keywords: ['stick blush', 'blush stick', 'flush stick', 'blush em bastao', 'blush em bastão'],
+    category: 'Blush',
+  },
+  {
+    keywords: ['glow stick', 'iluminador bastao', 'iluminador em bastão', 'iluminador stick', 'highlight stick'],
+    category: 'Iluminador',
+  },
+  {
+    keywords: ['contorno stick', 'bronzer stick', 'contour stick'],
+    category: 'Contorno/Bronzer',
+  },
+  // ── Lip oil / Óleo labial ─────────────────────────────────────────────────
+  {
+    keywords: ['lip oil', 'oleo labial', 'óleo labial', 'oil tint'],
+    category: 'Gloss',
+  },
+  // ── Blush líquido / cremoso ───────────────────────────────────────────────
+  {
+    keywords: ['blush liquido', 'blush líquido', 'blush cremoso', 'blush cream'],
+    category: 'Blush',
+  },
+  // ── Paleta multifuncional ─────────────────────────────────────────────────
+  {
+    keywords: ['paleta multifuncional', 'palette multifuncional', 'paleta de rosto', 'face palette'],
+    category: 'Blush',
+  },
   // ── Fallbacks amplos ───────────────────────────────────────────────────────
   { keywords: [' base '],     category: 'Base'       },
   { keywords: ['hidratante'], category: 'Hidratante' },
   { keywords: ['serum', 'sérum'], category: 'Sérum'  },
+  { keywords: ['lapiseira'],  category: 'Lápis Labial' },
 ];
 
 // Normaliza uma string para comparação: remove acentos e coloca em minúsculo

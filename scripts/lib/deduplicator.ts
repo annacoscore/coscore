@@ -173,6 +173,8 @@ export class Deduplicator {
   }
 
   private mergeSourceIds(existing: CatalogEntry, candidate: CatalogEntry): boolean {
+    if (!existing.mlIds) existing.mlIds = [];
+    if (!candidate.mlIds) return false;
     const before = existing.mlIds.length;
     const newIds = candidate.mlIds.filter(id => !existing.mlIds.includes(id));
     existing.mlIds.push(...newIds);
