@@ -59,6 +59,7 @@ export const metadata: Metadata = {
   other: {
     "verify-admitad": "d6c3d36c3a",
     "lomadee": "2324685",
+    "zoho-verification": "zb58490495.zmverify.zoho.com",
   },
 };
 
