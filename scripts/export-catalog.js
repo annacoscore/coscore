@@ -6,7 +6,17 @@ const outputPath  = path.join(__dirname, '..', 'src', 'data', 'products.ts');
 
 const catalog = JSON.parse(fs.readFileSync(catalogPath, 'utf-8'));
 
-// Normaliza cada produto para a interface Product do TypeScript
+// ── Proteção: não sobrescrever products.ts se o novo catálogo for muito menor ──
+const MINIMUM_SAFE_PRODUCTS = 2000; // nunca exportar menos que isso
+const incomingCount = (catalog.products || catalog).length;
+if (incomingCount < MINIMUM_SAFE_PRODUCTS) {
+  console.error(`\n⛔  ABORTADO: catalog.json tem apenas ${incomingCount} produtos.`);
+  console.error(`   O mínimo permitido é ${MINIMUM_SAFE_PRODUCTS}.`);
+  console.error(`   Verifique o catalog.json antes de exportar.\n`);
+  process.exit(1);
+}
+
+// ── Normaliza cada produto para a interface Product do TypeScript ──
 function normalizeProduct(p) {
   const images = Array.isArray(p.images) ? p.images.filter(Boolean) : [];
   // Garante que imagens apontem para HTTPS
