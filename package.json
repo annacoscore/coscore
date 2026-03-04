@@ -35,6 +35,8 @@
     "sync-brands:wepink": "tsx scripts/sync-brands.ts --only=wepink",
     "sync-brands:fran": "tsx scripts/sync-brands.ts --only=franbyfr",
     "sync-brands:bocarosa": "tsx scripts/sync-brands.ts --only=bocarosa",
+    "sync-brands:brunatavares": "tsx scripts/sync-brands.ts --only=brunatavares",
+    "sync-brands:mascavo": "tsx scripts/sync-brands.ts --only=mascavo",
     "export-products": "tsx scripts/export-products-ts.ts",
     "enrich-images:all": "tsx scripts/enrich-images.ts --export-ts",
     "enrich-images:sephora": "tsx scripts/enrich-images.ts --only=sephora",
@@ -52,6 +54,7 @@
     "zustand": "^5.0.11"
   },
   "devDependencies": {
+    "@playwright/test": "^1.58.2",
     "@tailwindcss/postcss": "^4",
     "@types/node": "^20",
     "@types/react": "^19",
@@ -60,6 +63,7 @@
     "eslint": "^9",
     "eslint-config-next": "16.1.6",
     "fast-xml-parser": "^5.4.1",
+    "playwright": "^1.58.2",
     "tailwindcss": "^4",
     "tsx": "^4.21.0",
     "typescript": "^5"

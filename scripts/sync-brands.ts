@@ -1,20 +1,20 @@
 /**
  * sync-brands.ts
  * ──────────────────────────────────────────────────────────────────────────────
- * Scraper para 7 marcas brasileiras de maquiagem influencer/direct-to-consumer:
+ * Scraper para marcas brasileiras de maquiagem influencer/direct-to-consumer:
  *
  *  VTEX (API direta acessível):
- *    • Mari Maria Makeup  — www.marimariamakeup.com
- *    • WePink             — www.wepink.com.br
+ *    • Mari Maria Makeup          — www.marimariamakeup.com
+ *    • WePink                     — www.wepink.com.br
+ *    • Bruna Tavares (BT Makeup)  — www.linhabrunatavares.com
+ *    • Mascavo Beauty             — www.mascavo.com
  *
  *  Shopify (products.json):
  *    • Fran by Franciny Ehlke — franbyfr.com.br
  *    • Boca Rosa Beauty       — bocarosa.com.br
  *
- *  VTEX com anti-bot JS (fallback via Mercado Livre):
- *    • Bruna Tavares (BT Makeup) — brunatavares.com
- *    • Mascavo Beauty            — mascavobeauty.com
- *    • Niina Secrets by Eudora   — www.eudora.com.br
+ *  Mercado Livre (fallback — site bloqueia automação):
+ *    • Niina Secrets by Eudora — www.eudora.com.br (403 Forbidden)
  *
  * Uso:
  *  npx tsx scripts/sync-brands.ts
@@ -123,23 +123,31 @@ const BRANDS: Brand[] = [
     skipKeywords: ['necessaire', 'bolsa', 'case', 'kit presente', 'ocultar'],
   },
 
-  // ── ML fallback (VTEX com anti-bot JS) ────────────────────────────────────────
+  // ── VTEX (linhabrunatavares.com — domínio atualizado, API pública acessível) ──
+  // Os filtros fq=C:/ não funcionam para subcategorias nesse VTEX; usa busca geral
+  // (categoryIds: [] → scraper busca todos os produtos sem filtro de categoria)
   {
-    type: 'ml',
+    type: 'vtex',
     id: 'brunatavares',
     name: 'Bruna Tavares',
+    baseUrl: 'https://www.linhabrunatavares.com',
     logo: 'BT',
-    mlQueries: ['Bruna Tavares BT Makeup', 'BT Makeup base', 'BT Makeup batom', 'BT Makeup blush', 'BT Makeup sombra'],
-    mlCategoryId: 'MLB1246',
+    categoryIds: [], // busca geral — site é monomarca, só tem cosméticos
+    skipKeywords: ['kit presente', 'necessaire', 'cílios postiços', 'pincel', 'brinde', 'hello kitty', 'coca-cola', 'disney', 'collab', 'wish'],
   },
+
+  // ── VTEX (mascavo.com — domínio atualizado, API pública acessível) ─────────
   {
-    type: 'ml',
+    type: 'vtex',
     id: 'mascavo',
     name: 'Mascavo Beauty',
+    baseUrl: 'https://www.mascavo.com',
     logo: 'MV',
-    mlQueries: ['Mascavo Beauty base', 'Mascavo Beauty batom', 'Mascavo Beauty maquiagem'],
-    mlCategoryId: 'MLB1246',
+    categoryIds: [], // busca geral — site é monomarca, só tem cosméticos
+    skipKeywords: ['kit presente', 'necessaire', 'esponja', 'pincel', 'nécessaire', 'brinde', 'porta'],
   },
+
+  // ── ML fallback (Eudora retorna 403 para automação) ────────────────────────
   {
     type: 'ml',
     id: 'niinasecrets',
