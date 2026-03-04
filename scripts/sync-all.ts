@@ -76,6 +76,11 @@ const SOURCES: Source[] = [
     label: 'Amobeleza',
     script: 'scripts/sync-amobeleza.ts',
   },
+  {
+    id: 'brands',
+    label: 'Marcas Influencer BR',
+    script: 'scripts/sync-brands.ts',
+  },
 ];
 
 // ─── Utilitários ─────────────────────────────────────────────────────────────
