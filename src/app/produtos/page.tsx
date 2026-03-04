@@ -8,7 +8,47 @@ import { products } from "@/data/products";
 import { Category, CategoryGroup, GROUP_CATEGORIES, CATEGORY_GROUPS, getCategoryDisplayName } from "@/types";
 import { Suspense } from "react";
 
-const brands = [...new Set(products.map((p) => p.brand))].sort();
+// ── Marcas prioritárias — aparecem primeiro na ordenação por "Relevância" ─────
+const PRIORITY_BRANDS: string[] = [
+  "Natura", "O Boticário", "Avon", "L'Oréal Paris", "Nivea", "Dove",
+  "Maybelline", "Eudora", "Quem Disse, Berenice?", "Ruby Rose",
+  "Neutrogena", "La Roche-Posay", "Vichy", "Garnier", "Pantene",
+  "Elseve", "Risqué", "Impala", "Salon Line", "Lola Cosmetics",
+  "Principia", "Creamy", "Bruna Tavares", "Mari Maria Makeup",
+  "Oceane", "Tracta", "Payot", "Contém 1g", "Granado",
+  "Simple Organic",
+];
+
+function normBrand(s: string) {
+  return s
+    .toLowerCase()
+    .normalize("NFD")
+    .replace(/[\u0300-\u036f]/g, "")
+    .replace(/[''`]/g, "")
+    .trim();
+}
+
+const PRIORITY_MAP = new Map<string, number>(
+  PRIORITY_BRANDS.map((b, i) => [normBrand(b), i])
+);
+
+function brandPriority(brand: string): number {
+  const nb = normBrand(brand);
+  if (PRIORITY_MAP.has(nb)) return PRIORITY_MAP.get(nb)!;
+  // Verificação parcial (ex: "Bruna Tavares Beauty" → "Bruna Tavares")
+  for (const [key, idx] of PRIORITY_MAP) {
+    if (nb.includes(key) || key.includes(nb)) return idx;
+  }
+  return PRIORITY_BRANDS.length;
+}
+
+// Marcas na sidebar: prioritárias primeiro, resto em ordem alfabética
+const brands = [...new Set(products.map((p) => p.brand))].sort((a, b) => {
+  const pa = brandPriority(a);
+  const pb = brandPriority(b);
+  if (pa !== pb) return pa - pb;
+  return a.localeCompare(b, "pt-BR");
+});
 
 // Quantidade de produtos por categoria (para esconder categorias vazias no sidebar)
 const productCountByCategory = products.reduce<Record<string, number>>((acc, p) => {
@@ -168,6 +208,17 @@ function ProductsContent() {
         result.sort((a, b) => b.reviewCount - a.reviewCount);
         break;
       default:
+        // "Relevância": marcas prioritárias primeiro, depois por avaliação
+        result.sort((a, b) => {
+          const pa = brandPriority(a.brand);
+          const pb = brandPriority(b.brand);
+          if (pa !== pb) return pa - pb;
+          // Desempate: produtos com imagem primeiro, depois por avaliação
+          const aHasImg = a.image ? 0 : 1;
+          const bHasImg = b.image ? 0 : 1;
+          if (aHasImg !== bHasImg) return aHasImg - bHasImg;
+          return b.averageRating - a.averageRating;
+        });
         break;
     }
 
