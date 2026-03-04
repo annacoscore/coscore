@@ -207,19 +207,31 @@ function ProductsContent() {
       case "mais-reviews":
         result.sort((a, b) => b.reviewCount - a.reviewCount);
         break;
-      default:
-        // "Relevância": marcas prioritárias primeiro, depois por avaliação
+      default: {
+        // "Relevância":
+        // 1. Marcas prioritárias (da lista) → ordenadas por avaliação desc
+        // 2. Outras marcas → ordenadas por avaliação desc (sempre por último)
+        const MAX_PRIORITY = PRIORITY_BRANDS.length;
         result.sort((a, b) => {
           const pa = brandPriority(a.brand);
           const pb = brandPriority(b.brand);
+          const aIsPriority = pa < MAX_PRIORITY;
+          const bIsPriority = pb < MAX_PRIORITY;
+
+          // Separa o grupo: prioritárias vs demais
+          if (aIsPriority !== bIsPriority) return aIsPriority ? -1 : 1;
+
+          // Dentro do mesmo grupo: ordena por avaliação (melhor primeiro)
+          if (b.averageRating !== a.averageRating) return b.averageRating - a.averageRating;
+
+          // Mesmo rating: usa ordem da lista de marcas (só relevante nas prioritárias)
           if (pa !== pb) return pa - pb;
-          // Desempate: produtos com imagem primeiro, depois por avaliação
-          const aHasImg = a.image ? 0 : 1;
-          const bHasImg = b.image ? 0 : 1;
-          if (aHasImg !== bHasImg) return aHasImg - bHasImg;
-          return b.averageRating - a.averageRating;
+
+          // Desempate final: produtos com imagem primeiro
+          return (a.image ? 0 : 1) - (b.image ? 0 : 1);
         });
         break;
+      }
     }
 
     // Produtos masculinos (Cabelo Homem, Perfume Homem) sempre por último — foco do site é público feminino

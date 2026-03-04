@@ -15,6 +15,13 @@ const nextConfig: NextConfig = {
       { protocol: "https", hostname: "logodownload.org" },
       // Amazon CDN — imagens reais de produtos
       { protocol: "https", hostname: "m.media-amazon.com" },
+      // Sephora Brasil — imagens de produto via SFCC CDN
+      { protocol: "https", hostname: "www.sephora.com.br" },
+      // Amobeleza — VTEX legado (vteximg.com.br) e VTEX IO (vtexassets.com)
+      { protocol: "https", hostname: "*.vteximg.com.br" },
+      { protocol: "https", hostname: "*.vtexassets.com" },
+      // SVG de lojas (logos via URL direta)
+      { protocol: "https", hostname: "*.myvtex.com" },
     ],
   },
 };
