@@ -5,15 +5,6 @@ import { useStore } from "@/store/useStore";
 import { products } from "@/data/products";
 import ReviewCard from "@/components/ReviewCard";
 
-// Calcula a "raridade" do cofrinho com base nas moedas
-function coinTier(coins: number): { label: string; emoji: string; color: string; next: number | null; progress: number } {
-  if (coins < 10)  return { label: "Iniciante",   emoji: "🪙", color: "from-gray-400 to-gray-500",          next: 10,  progress: coins / 10 };
-  if (coins < 30)  return { label: "Bronze",       emoji: "🥉", color: "from-amber-600 to-amber-700",        next: 30,  progress: (coins - 10)  / 20 };
-  if (coins < 60)  return { label: "Prata",        emoji: "🥈", color: "from-slate-400 to-slate-500",        next: 60,  progress: (coins - 30)  / 30 };
-  if (coins < 100) return { label: "Ouro",         emoji: "🥇", color: "from-yellow-400 to-amber-500",       next: 100, progress: (coins - 60)  / 40 };
-  if (coins < 200) return { label: "Diamante",     emoji: "💎", color: "from-sky-400 to-violet-500",         next: 200, progress: (coins - 100) / 100 };
-  return              { label: "Lendária",     emoji: "👑", color: "from-pink-500 to-rose-600",          next: null, progress: 1 };
-}
 
 export default function PerfilPage() {
   const { currentUser, openLoginModal, reviews, getAllFavoriteIds, getUserLists } = useStore();
@@ -85,19 +76,17 @@ export default function PerfilPage() {
       {/* ── Cofrinho ── */}
       {(() => {
         const totalCoins = currentUser.coins ?? 0;
-        const tier = coinTier(totalCoins);
         return (
           <div className="mb-8 rounded-2xl overflow-hidden border border-amber-200 shadow-sm">
-            <div className={`bg-gradient-to-r ${tier.color} p-5 text-white`}>
+            <div className="bg-gradient-to-r from-amber-400 to-yellow-500 p-5 text-white">
               <div className="flex items-center justify-between">
                 <div className="flex items-center gap-3">
                   <div className="w-14 h-14 bg-white/20 rounded-full flex items-center justify-center text-3xl shadow-inner">
-                    {tier.emoji}
+                    🪙
                   </div>
                   <div>
                     <p className="text-xs font-medium text-white/70 uppercase tracking-wider">Meu Cofrinho</p>
                     <p className="text-2xl font-bold">{totalCoins} moeda{totalCoins !== 1 ? "s" : ""}</p>
-                    <p className="text-sm text-white/80 mt-0.5">Nível: <span className="font-semibold">{tier.label}</span></p>
                   </div>
                 </div>
                 <div className="text-right hidden sm:block">
@@ -111,22 +100,6 @@ export default function PerfilPage() {
                   </div>
                 </div>
               </div>
-
-              {/* Barra de progresso */}
-              {tier.next !== null && (
-                <div className="mt-4">
-                  <div className="flex justify-between text-xs text-white/70 mb-1">
-                    <span>{tier.label}</span>
-                    <span>{tier.next} moedas para o próximo nível</span>
-                  </div>
-                  <div className="w-full bg-white/20 rounded-full h-2.5 overflow-hidden">
-                    <div
-                      className="h-full bg-white/90 rounded-full transition-all duration-700"
-                      style={{ width: `${Math.min(tier.progress * 100, 100)}%` }}
-                    />
-                  </div>
-                </div>
-              )}
             </div>
 
             {/* Histórico de moedas por review */}
