@@ -187,25 +187,28 @@ export default function PriceComparisonModal({ product, onClose, selectedColor }
                 <div>
                   <p className="text-xs font-bold text-gray-400 uppercase tracking-wider mb-2 px-1 flex items-center gap-1.5">
                     <Search className="w-3.5 h-3.5" />
-                    Buscar em outras lojas
+                    {realPrices.length > 0 ? "Buscar em outras lojas" : "Onde encontrar este produto"}
                   </p>
-                  <div className="grid grid-cols-2 gap-2">
+                  <div className="space-y-2">
                     {searchLinks.map((item, idx) => (
                       <a
                         key={item.store + idx}
                         href={item.url}
                         target="_blank"
                         rel="noopener noreferrer"
-                        className="flex items-center gap-2.5 p-3 rounded-xl border border-gray-100 bg-white hover:border-gray-200 hover:shadow-sm transition-all group"
+                        className="flex items-center gap-3 p-3.5 rounded-xl border border-gray-100 bg-white hover:border-gray-200 hover:shadow-md transition-all group"
                       >
-                        <div className={`w-8 h-8 rounded-lg flex items-center justify-center text-[11px] font-bold shrink-0 ${item.color}`}>
+                        <div className={`w-11 h-11 rounded-xl flex items-center justify-center text-xs font-bold shrink-0 ${item.color}`}>
                           {item.logo}
                         </div>
-                        <div className="min-w-0 flex-1">
-                          <p className="text-xs font-semibold text-gray-800 truncate leading-tight">{item.store}</p>
-                          <p className="text-[10px] text-gray-400 flex items-center gap-0.5 mt-0.5">
-                            Buscar preço <ExternalLink className="w-2.5 h-2.5" />
-                          </p>
+                        <div className="flex-1 min-w-0">
+                          <p className="text-sm font-semibold text-gray-900">{item.store}</p>
+                          <p className="text-xs text-gray-400 mt-0.5">Clique para ver o preço atual</p>
+                        </div>
+                        <div className="text-right shrink-0">
+                          <span className="inline-flex items-center gap-1 text-sm font-semibold text-emerald-600 group-hover:underline">
+                            Ver preço <ExternalLink className="w-3.5 h-3.5" />
+                          </span>
                         </div>
                       </a>
                     ))}
@@ -226,8 +229,9 @@ export default function PriceComparisonModal({ product, onClose, selectedColor }
         {/* ── Rodapé ── */}
         <div className="px-5 py-3 border-t border-gray-100 bg-gray-50/80 shrink-0">
           <p className="text-[11px] text-gray-400 text-center leading-relaxed">
-            Preços buscados em tempo real no Mercado Livre. Valores de outras lojas podem variar.
-            Confira o preço final antes de comprar.
+            {realPrices.length > 0
+              ? "Preços consultados em tempo real no Mercado Livre. Confira o valor final antes de comprar."
+              : "Clique em qualquer loja para ver o preço atualizado e comprar com segurança."}
           </p>
         </div>
       </div>

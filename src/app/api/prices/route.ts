@@ -145,7 +145,7 @@ export async function GET(req: NextRequest) {
   try {
     let items: MlItem[] = [];
 
-    // 1ª tentativa: por catalog_product_id (mais preciso)
+    // 1ª tentativa: por catalog_product_id (mais preciso — requer OAuth user token)
     if (mlId) {
       const byId = await mlGet(
         `/sites/MLB/search?catalog_product_id=${mlId}&sort=price_asc&limit=20`
@@ -153,7 +153,7 @@ export async function GET(req: NextRequest) {
       items = byId.results ?? [];
     }
 
-    // 2ª tentativa: busca por nome+marca se nenhum resultado
+    // 2ª tentativa: busca por nome+marca se nenhum resultado (requer OAuth user token)
     if (items.length === 0) {
       const byName = await mlGet(
         `/sites/MLB/search?q=${encSearch}&sort=price_asc&limit=20`
@@ -166,6 +166,27 @@ export async function GET(req: NextRequest) {
         const t = it.title.toLowerCase();
         return t.includes(brandLow) || t.includes(nameLow);
       }).slice(0, 12);
+    }
+
+    // 3ª tentativa: buscar produto via /products/{mlId} e tentar buy_box_winner
+    // (funciona com client_credentials, mas buy_box_winner costuma ser null)
+    if (items.length === 0 && mlId) {
+      const prodData = await mlGet(`/products/${mlId}`);
+      const bbw = prodData?.buy_box_winner;
+      if (bbw?.item_id) {
+        const itemData = await mlGet(`/items/${bbw.item_id}`);
+        if (itemData?.price) {
+          items = [{
+            id:                 itemData.id,
+            title:              itemData.title ?? name,
+            price:              itemData.price,
+            available_quantity: itemData.available_quantity ?? 1,
+            permalink:          itemData.permalink ?? `https://www.mercadolivre.com.br/p/${mlId}`,
+            seller:             itemData.seller,
+            shipping:           itemData.shipping,
+          }];
+        }
+      }
     }
 
     // ── Monta lista de preços por loja/vendedor ────────────────────────
@@ -219,14 +240,14 @@ export async function GET(req: NextRequest) {
     // fallback silencioso
   }
 
-  // Se não achou nada, link de busca no ML
+  // Se não achou nada, link direto para o produto no ML (ou busca)
   if (results.length === 0) {
     results.push({
       store:   "Mercado Livre",
       price:   null,
       url:     mlId
         ? `https://www.mercadolivre.com.br/p/${mlId}`
-        : `https://www.mercadolivre.com.br/search?q=${enc}`,
+        : `https://www.mercadolivre.com.br/search?q=${encSearch}`,
       inStock: true,
       logo:    "ML",
       color:   "bg-yellow-400 text-gray-900",
@@ -237,14 +258,18 @@ export async function GET(req: NextRequest) {
   // ── Lojas adicionais com link de busca (para complementar) ────────────
   const storesAlreadyShown = new Set(results.map(r => r.store));
 
+  // Usa termo de busca mais específico: "marca nome cor" (limpo)
+  const encFull = encodeURIComponent(searchTerm.trim().slice(0, 120));
+
   const extraStores: Omit<StorePriceResult, "price" | "inStock" | "type" | "freeShipping">[] = [
-    { store: "Beleza na Web", url: `https://www.belezanaweb.com.br/search?q=${enc}`,             logo: "BW", color: "bg-pink-600 text-white"   },
-    { store: "Sephora",       url: `https://www.sephora.com.br/search#q=${enc}&t=All`,            logo: "Se", color: "bg-black text-white"      },
-    { store: "Amazon",        url: `https://www.amazon.com.br/s?k=${enc}&i=beauty`,               logo: "Am", color: "bg-orange-400 text-white" },
-    { store: "Magazine Luiza",url: `https://www.magazineluiza.com.br/busca/${enc.replace(/%20/g,"+")}/`, logo: "MG", color: "bg-blue-600 text-white" },
-    { store: "Americanas",    url: `https://www.americanas.com.br/busca/${enc}`,                   logo: "Am", color: "bg-red-600 text-white"    },
-    { store: "Drogasil",      url: `https://www.drogasil.com.br/search?q=${enc}`,                 logo: "Dr", color: "bg-green-600 text-white"  },
-    { store: "Ultrafarma",    url: `https://www.ultrafarma.com.br/busca?busca=${enc}`,            logo: "Uf", color: "bg-blue-500 text-white"   },
+    { store: "Beleza na Web", url: `https://www.belezanaweb.com.br/search?q=${encFull}`,                      logo: "BW", color: "bg-pink-600 text-white"   },
+    { store: "Sephora",       url: `https://www.sephora.com.br/search#q=${encFull}&t=All`,                    logo: "Se", color: "bg-black text-white"      },
+    { store: "Amazon",        url: `https://www.amazon.com.br/s?k=${encFull}&i=beauty`,                       logo: "Am", color: "bg-orange-400 text-white" },
+    { store: "Magazine Luiza",url: `https://www.magazineluiza.com.br/busca/${encFull.replace(/%20/g,"+")}/`,  logo: "MG", color: "bg-blue-600 text-white"   },
+    { store: "Americanas",    url: `https://www.americanas.com.br/busca/${encFull}`,                          logo: "Am", color: "bg-red-600 text-white"    },
+    { store: "Drogasil",      url: `https://www.drogasil.com.br/search?q=${encFull}`,                        logo: "Dr", color: "bg-green-600 text-white"  },
+    { store: "Ultrafarma",    url: `https://www.ultrafarma.com.br/busca?busca=${encFull}`,                   logo: "Uf", color: "bg-blue-500 text-white"   },
+    { store: "Droga Raia",    url: `https://www.drogaraia.com.br/search?q=${encFull}`,                       logo: "DR", color: "bg-purple-600 text-white" },
   ];
 
   // Lojas de marcas específicas
