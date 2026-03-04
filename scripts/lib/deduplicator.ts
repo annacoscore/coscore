@@ -102,12 +102,25 @@ export class Deduplicator {
       changed = true;
     }
 
-    // Mais fotos é melhor
-    if (candidate.images.length > existing.images.length) {
+    // Mais fotos é melhor; imagens de lojas especializadas (Sephora/Amobeleza)
+    // têm preferência sobre thumbnails do ML
+    const candidateIsSpecialized = candidate.tags?.some(t => ['sephora','amobeleza'].includes(t));
+    const existingIsGeneric = !existing.tags?.some(t => ['sephora','amobeleza'].includes(t));
+    if (
+      candidateIsSpecialized && existingIsGeneric && candidate.image && candidate.images.length > 0
+    ) {
+      // Prefere imagem da loja especializada (melhor qualidade)
+      existing.image = candidate.images[0];
+      existing.images = candidate.images;
+      changed = true;
+    } else if (candidate.images.length > existing.images.length) {
       existing.images = candidate.images;
       existing.image = candidate.images[0] ?? existing.image;
       changed = true;
     }
+
+    // Acumula preços de lojas diferentes — nunca duplica a mesma loja
+    if (this.mergePrices(existing, candidate)) changed = true;
 
     // Acumula cores — cada variante de cor que encontramos vira um item na lista
     if (this.mergeColors(existing, candidate)) changed = true;
@@ -116,6 +129,34 @@ export class Deduplicator {
     if (this.mergeSourceIds(existing, candidate)) changed = true;
 
     if (changed) existing.updatedAt = new Date().toISOString();
+    return changed;
+  }
+
+  /**
+   * Mescla preços de fontes diferentes.
+   * Se a loja já existe na lista, atualiza o preço se for diferente.
+   * Se a loja é nova, adiciona à lista.
+   */
+  private mergePrices(existing: CatalogEntry, candidate: CatalogEntry): boolean {
+    if (!existing.prices) existing.prices = [];
+    let changed = false;
+
+    for (const price of (candidate.prices ?? [])) {
+      if (!price?.store) continue;
+      const existingPrice = existing.prices.find(p => p.store === price.store);
+      if (!existingPrice) {
+        // Loja nova — adiciona
+        existing.prices.push(price);
+        changed = true;
+      } else if (existingPrice.price !== price.price && price.price > 0) {
+        // Atualiza preço da mesma loja se mudou
+        existingPrice.price = price.price;
+        existingPrice.url = price.url;
+        existingPrice.inStock = price.inStock;
+        changed = true;
+      }
+    }
+
     return changed;
   }
 

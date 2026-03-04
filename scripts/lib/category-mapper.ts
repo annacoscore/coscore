@@ -279,7 +279,7 @@ export function mapCategoryByDomain(domainId: string, name: string): Category | 
   return mapCategoryByKeywords(name);
 }
 
-function mapCategoryByKeywords(title: string): Category | null {
+export function mapCategoryByKeywords(title: string): Category | null {
   const normTitle = normalizeForMatch(title);
   for (const rule of KEYWORD_RULES) {
     for (const kw of rule.keywords) {

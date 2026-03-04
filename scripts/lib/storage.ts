@@ -47,7 +47,7 @@ export function exportToProductsTs(entries: CatalogEntry[]): void {
     images: entry.images,
     averageRating: entry.averageRating,
     reviewCount: entry.reviewCount,
-    prices: entry.prices.map(p => ({
+    prices: (entry.prices ?? []).filter(Boolean).map(p => ({
       store: p.store,
       price: p.price,
       url: p.url,

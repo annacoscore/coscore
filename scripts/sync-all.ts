@@ -8,6 +8,8 @@
  *  2. Manual CSV         → produtos prioritários da equipe
  *  3. Mercado Livre API  → maior volume, com fotos e preços ML
  *  4. Feeds de afiliados → preços das lojas parceiras
+ *  5. Sephora Brasil     → scraper direto do sephora.com.br
+ *  6. Amobeleza          → scraper direto do amobeleza.com.br
  *
  * Ao rodar em sequência, cada fonte enriquece o que a anterior deixou
  * incompleto. A deduplicação é contínua — cada fonte usa o mesmo
@@ -63,6 +65,16 @@ const SOURCES: Source[] = [
     label: 'Feeds de Afiliados',
     script: 'scripts/sync-affiliates.ts',
     requiresConfig: 'scripts/feeds.config.json',
+  },
+  {
+    id: 'sephora',
+    label: 'Sephora Brasil',
+    script: 'scripts/sync-sephora.ts',
+  },
+  {
+    id: 'amobeleza',
+    label: 'Amobeleza',
+    script: 'scripts/sync-amobeleza.ts',
   },
 ];
 
