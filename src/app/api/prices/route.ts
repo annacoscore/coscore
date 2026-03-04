@@ -4,13 +4,41 @@ const ML_CLIENT_ID     = process.env.ML_CLIENT_ID     ?? "1664631224999083";
 const ML_CLIENT_SECRET = process.env.ML_CLIENT_SECRET ?? "Cm5TOTjcKyf2tuubJr9kqPFO49zY0LGG";
 const ML_BASE          = "https://api.mercadolibre.com";
 
-// Cache do token de app (expira em 6h — renovamos a cada 5h)
-let cachedToken    = process.env.ML_ACCESS_TOKEN ?? "";
+// Cache do token OAuth (expira em 6h — renovamos a cada 5h usando refresh_token)
+let cachedToken    = process.env.ML_ACCESS_TOKEN  ?? "";
+let cachedRefresh  = process.env.ML_REFRESH_TOKEN ?? "";
 let tokenFetchedAt = 0;
 
 async function getToken(): Promise<string> {
   const FIVE_HOURS = 5 * 60 * 60 * 1000;
   if (cachedToken && Date.now() - tokenFetchedAt < FIVE_HOURS) return cachedToken;
+
+  // Tenta renovar via refresh_token (OAuth — tem permissão para buscar listagens)
+  if (cachedRefresh) {
+    try {
+      const body = new URLSearchParams({
+        grant_type:    "refresh_token",
+        client_id:     ML_CLIENT_ID,
+        client_secret: ML_CLIENT_SECRET,
+        refresh_token: cachedRefresh,
+      });
+      const res  = await fetch(`${ML_BASE}/oauth/token`, {
+        method:  "POST",
+        headers: { "Content-Type": "application/x-www-form-urlencoded" },
+        body:    body.toString(),
+        next:    { revalidate: 0 },
+      });
+      const data = await res.json();
+      if (data.access_token) {
+        cachedToken    = data.access_token;
+        cachedRefresh  = data.refresh_token ?? cachedRefresh;
+        tokenFetchedAt = Date.now();
+        return cachedToken;
+      }
+    } catch { /* cai para client_credentials */ }
+  }
+
+  // Fallback: client_credentials (funciona para /products/search mas não para marketplace)
   try {
     const body = `grant_type=client_credentials&client_id=${ML_CLIENT_ID}&client_secret=${ML_CLIENT_SECRET}`;
     const res  = await fetch(`${ML_BASE}/oauth/token`, {
@@ -99,9 +127,17 @@ export async function GET(req: NextRequest) {
   const brand = searchParams.get("brand") ?? "";
   const color = searchParams.get("color") ?? "";
 
-  const searchTerm = color ? `${brand} ${name} ${color}` : `${brand} ${name}`;
-  const enc        = encodeURIComponent(color ? `${name} ${color}` : name);
-  const encSearch  = encodeURIComponent(searchTerm.trim().slice(0, 100));
+  // Limpa o nome do produto para a busca (remove partes genéricas)
+  const cleanName  = name
+    .replace(/\b(maquiagem|makeup|cosmétic[ao]s?|produto)\b/gi, "")
+    .replace(/\s{2,}/g, " ")
+    .trim()
+    .slice(0, 60);
+  const searchTerm = color
+    ? `${brand} ${cleanName} ${color}`
+    : `${brand} ${cleanName}`;
+  const enc       = encodeURIComponent(color ? `${cleanName} ${color}` : cleanName);
+  const encSearch = encodeURIComponent(searchTerm.trim().slice(0, 100));
 
   const results: StorePriceResult[] = [];
 
@@ -120,11 +156,11 @@ export async function GET(req: NextRequest) {
     // 2ª tentativa: busca por nome+marca se nenhum resultado
     if (items.length === 0) {
       const byName = await mlGet(
-        `/sites/MLB/search?q=${encSearch}&category=MLB1247&sort=price_asc&limit=20`
+        `/sites/MLB/search?q=${encSearch}&sort=price_asc&limit=20`
       );
       items = byName.results ?? [];
-      // Filtra só resultados relevantes (contém o nome do produto ou marca)
-      const nameLow  = name.toLowerCase().split(" ").slice(0, 3).join(" ");
+      // Filtra só resultados relevantes (contém a marca ou as 3 primeiras palavras do nome)
+      const nameLow  = cleanName.toLowerCase().split(" ").slice(0, 3).join(" ");
       const brandLow = brand.toLowerCase();
       items = items.filter(it => {
         const t = it.title.toLowerCase();
