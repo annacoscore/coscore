@@ -56,6 +56,9 @@ export const metadata: Metadata = {
       "Reviews honestas de cosméticos e comparação de preços nas melhores lojas brasileiras.",
     images: ["/og-image.png"],
   },
+  other: {
+    "verify-admitad": "d6c3d36c3a",
+  },
 };
 
 export default function RootLayout({
