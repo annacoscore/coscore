@@ -25,8 +25,8 @@ export type Category =
   | "Esfoliante"
   | "Creme para Olhos"
   // ── Perfumes ───────────────────────────────────────────────────────────────
-  | "Perfume"
-  | "Perfume Homem"
+  | "Perfume Feminino"
+  | "Perfume Masculino"
   // ── Cabelo ─────────────────────────────────────────────────────────────────
   | "Shampoo"
   | "Cabelo Homem"
@@ -66,8 +66,8 @@ export const CATEGORY_GROUPS: Record<Category, CategoryGroup> = {
   Esfoliante: "Skincare",
   "Creme para Olhos": "Skincare",
   // Perfumes
-  Perfume: "Perfumes",
-  "Perfume Homem": "Perfumes",
+  "Perfume Feminino": "Perfumes",
+  "Perfume Masculino": "Perfumes",
   // Cabelo
   Shampoo: "Cabelo",
   "Cabelo Homem": "Cabelo",
@@ -93,13 +93,15 @@ export const GROUP_CATEGORIES: Record<CategoryGroup, Category[]> = {
     "Tônico Facial", "Limpeza Facial", "Máscara Facial",
     "Esfoliante", "Creme para Olhos",
   ],
-  Perfumes: ["Perfume", "Perfume Homem"],
+  Perfumes: ["Perfume Feminino", "Perfume Masculino"],
   Cabelo: ["Shampoo", "Condicionador", "Máscara Capilar", "Leave-in", "Óleo Capilar", "Tintura", "Finalizador", "Cabelo Homem"],
 };
 
-/** Nome exibido da categoria (ex.: "Cabelo Homem" e "Perfume Homem" aparecem como "Homem") */
+/** Nome exibido da categoria */
 export function getCategoryDisplayName(category: Category): string {
-  if (category === "Cabelo Homem" || category === "Perfume Homem") return "Homem";
+  if (category === "Cabelo Homem") return "Homem";
+  if (category === "Perfume Feminino") return "Feminino";
+  if (category === "Perfume Masculino") return "Masculino";
   return category;
 }
 

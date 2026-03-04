@@ -14,7 +14,7 @@ const CATEGORIAS: Category[] = [
   "Batom", "Gloss", "Base", "Máscara de Cílios", "Sombra", "Blush", "Iluminador",
   "Primer", "Contorno/Bronzer", "Sérum", "Hidratante", "Protetor Solar",
   "Tônico Facial", "Limpeza Facial", "Máscara Facial", "Esfoliante",
-  "Creme para Olhos", "Perfume", "Perfume Homem", "Shampoo", "Condicionador",
+  "Creme para Olhos", "Perfume Feminino", "Perfume Masculino", "Shampoo", "Condicionador",
   "Máscara Capilar", "Leave-in", "Óleo Capilar", "Tintura", "Finalizador", "Cabelo Homem",
 ];
 

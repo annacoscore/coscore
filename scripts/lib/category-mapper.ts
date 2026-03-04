@@ -50,11 +50,11 @@ const ML_DOMAIN_MAP: Record<string, Category> = {
   'MLB-HAIR_GELS':            'Finalizador',
   'MLB-HAIR_DYES':            'Tintura',
   // Perfumes
-  'MLB-PERFUMES':             'Perfume',
-  'MLB-EAU_DE_PARFUM':        'Perfume',
-  'MLB-EAU_DE_TOILETTE':      'Perfume',
-  'MLB-BODY_MISTS':           'Perfume',
-  'MLB-COLOGNES':             'Perfume',
+  'MLB-PERFUMES':             'Perfume Feminino',
+  'MLB-EAU_DE_PARFUM':        'Perfume Feminino',
+  'MLB-EAU_DE_TOILETTE':      'Perfume Feminino',
+  'MLB-BODY_MISTS':           'Perfume Feminino',
+  'MLB-COLOGNES':             'Perfume Feminino',
 };
 
 // IDs de subcategorias do ML (legado) — mantidos para compatibilidade
@@ -64,8 +64,8 @@ const ML_SUBCATEGORY_MAP: Record<string, Category> = {
   MLB5769: 'Sombra',
   MLB5770: 'Máscara de Cílios',
   MLB5768: 'Blush',
-  MLB1275: 'Perfume',
-  MLB1273: 'Perfume',
+  MLB1275: 'Perfume Feminino',
+  MLB1273: 'Perfume Feminino',
   MLB3368: 'Shampoo',
   MLB3370: 'Condicionador',
   MLB3371: 'Máscara Capilar',
@@ -197,14 +197,18 @@ const KEYWORD_RULES: KeywordRule[] = [
     keywords: ['hidratante facial', 'hidratante corporal', 'creme hidratante', 'locao hidratante', 'loção hidratante', 'moisturizer', 'creme facial', 'creme corporal', 'body lotion', 'body butter'],
     category: 'Hidratante',
   },
-  // ── Perfumes (Homem antes do genérico) ─────────────────────────────────────
+  // ── Perfumes (Masculino antes do genérico) ──────────────────────────────────
   {
-    keywords: ['perfume masculino', 'perfume homem', 'colonia masculina', 'eau de toilette homem', 'fragrance men'],
-    category: 'Perfume Homem',
+    keywords: ['perfume masculino', 'perfume homem', 'colonia masculina', 'eau de toilette homem', 'fragrance men', 'pour homme', 'for men'],
+    category: 'Perfume Masculino',
+  },
+  {
+    keywords: ['perfume feminino', 'fragrance women', 'pour femme', 'for women'],
+    category: 'Perfume Feminino',
   },
   {
     keywords: ['perfume', 'eau de toilette', 'eau de parfum', ' edt ', ' edp ', 'colonia', 'colônia', 'deo parfum', 'body splash', 'fragrance'],
-    category: 'Perfume',
+    category: 'Perfume Feminino',
   },
   // ── Cabelo (Homem antes do genérico) ───────────────────────────────────────
   {

@@ -48,7 +48,10 @@ function inferCategory(name: string): Category {
   if (n.includes("protetor solar") || n.includes("sunscreen") || n.includes("fps")) return "Protetor Solar";
   if (n.includes("tônico") || n.includes("toner") || n.includes("essence")) return "Tônico Facial";
   if (n.includes("esfoliante") || n.includes("scrub")) return "Esfoliante";
-  if (n.includes("perfume") || n.includes("colônia") || n.includes("eau de")) return "Perfume";
+  if (n.includes("perfume") || n.includes("colônia") || n.includes("eau de")) {
+    if (n.includes("masculino") || n.includes("homem") || n.includes("homme") || n.includes(" men") || n.includes("pour homme")) return "Perfume Masculino";
+    return "Perfume Feminino";
+  }
   if (n.includes("shampoo") || n.includes("xampu")) return "Shampoo";
   if (n.includes("condicionador") || n.includes("conditioner")) return "Condicionador";
   if (n.includes("máscara capilar") || n.includes("hair mask")) return "Máscara Capilar";

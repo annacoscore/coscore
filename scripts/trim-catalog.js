@@ -1,7 +1,7 @@
-/**
+﻿/**
  * trim-catalog.js
  * Filtra o catalog.json para manter apenas os melhores produtos por categoria,
- * remove não-cosméticos (calculadora Casio, etc.) e salva uma versão limpa.
+ * remove nÃ£o-cosmÃ©ticos (calculadora Casio, etc.) e salva uma versÃ£o limpa.
  *
  * Uso: node scripts/trim-catalog.js
  */
@@ -12,12 +12,12 @@ const path = require('path');
 const CATALOG_PATH = path.join(__dirname, 'output', 'catalog.json');
 const OUTPUT_PATH  = path.join(__dirname, 'output', 'catalog.json');
 
-// Máximo de produtos por categoria
+// MÃ¡ximo de produtos por categoria
 const MAX_PER_CATEGORY = {
   // Maquiagem
   'Batom':                 250,
   'Base':                  250,
-  'Máscara de Cílios':     200,
+  'MÃ¡scara de CÃ­lios':     200,
   'Sombra':                200,
   'Blush':                 200,
   'Iluminador':            200,
@@ -26,43 +26,43 @@ const MAX_PER_CATEGORY = {
   'Primer':                200,
   'Delineador':            200,
   'Gloss':                 200,
-  'Lápis Labial':          150,
+  'LÃ¡pis Labial':          150,
   'Fixador de Maquiagem':  150,
-  'Pó Facial':             200,
-  'Esponjas e Pincéis':    200,
+  'PÃ³ Facial':             200,
+  'Esponjas e PincÃ©is':    200,
   // Skincare
-  'Sérum':                 200,
+  'SÃ©rum':                 200,
   'Hidratante':            200,
   'Protetor Solar':        150,
-  'Tônico Facial':         150,
+  'TÃ´nico Facial':         150,
   'Limpeza Facial':        150,
-  'Máscara Facial':        150,
+  'MÃ¡scara Facial':        150,
   'Esfoliante':            150,
   'Creme para Olhos':      150,
   // Perfumes
   'Perfume':               250,
-  'Perfume Homem':         200,
+  'Perfume Masculino':         200,
   // Cabelo
   'Shampoo':               200,
   'Condicionador':         200,
-  'Máscara Capilar':       200,
+  'MÃ¡scara Capilar':       200,
   'Leave-in':              200,
-  'Óleo Capilar':          150,
+  'Ã“leo Capilar':          150,
   'Finalizador':           200,
   'Tintura':               200,
   'Cabelo Homem':          150,
 };
 
-// Palavras que indicam que o produto NÃO é cosmético (filtro de lixo)
+// Palavras que indicam que o produto NÃƒO Ã© cosmÃ©tico (filtro de lixo)
 const NON_COSMETIC_NAMES = [
   'calculadora', 'casio', 'notebook', 'celular', 'smartphone', 'tablet',
   'fone', 'headphone', 'carregador', 'cabo usb', 'webcam', 'teclado', 'mouse',
-  'brinquedo', 'jogo', 'game', 'console', 'cuecas', 'calça', 'camiseta',
-  'tênis', 'sapato', 'mochila', 'bolsa couro', 'cinto', 'relógio',
+  'brinquedo', 'jogo', 'game', 'console', 'cuecas', 'calÃ§a', 'camiseta',
+  'tÃªnis', 'sapato', 'mochila', 'bolsa couro', 'cinto', 'relÃ³gio',
   'vibrador', 'vibe', 'sex toy', 'plug anal',
   'suplemento', 'whey protein', 'creatina', 'bcaa',
-  'remédio', 'medicamento', 'vitamina comprimido',
-  'pá de jardim', 'vassoura', 'rodo',
+  'remÃ©dio', 'medicamento', 'vitamina comprimido',
+  'pÃ¡ de jardim', 'vassoura', 'rodo',
 ];
 
 function isNonCosmetic(product) {
@@ -75,7 +75,7 @@ function isNonCosmetic(product) {
 // Re-categoriza produtos masculinos incorretamente classificados
 const MASCULINE_KEYWORDS_PERFUME = [
   'masculino', 'homme', 'man ', 'men ', 'for men', 'for man', ' male',
-  'colônia masculina', 'colonia masculina', 'deo parfum masc',
+  'colÃ´nia masculina', 'colonia masculina', 'deo parfum masc',
 ];
 const MASCULINE_KEYWORDS_HAIR = [
   'masculino', 'homem', 'barba', 'for men', 'men ', 'man ',
@@ -86,14 +86,14 @@ function recategorize(product) {
   const desc = (product.description || '').toLowerCase();
   const full = name + ' ' + desc;
 
-  // Perfume Feminino → Perfume Homem se for masculino
+  // Perfume Feminino â†’ Perfume Homem se for masculino
   if (product.category === 'Perfume') {
     if (MASCULINE_KEYWORDS_PERFUME.some(k => full.includes(k))) {
-      return { ...product, category: 'Perfume Homem', subcategory: 'Perfume Homem' };
+      return { ...product, category: 'Perfume Masculino', subcategory: 'Perfume Masculino' };
     }
   }
 
-  // Shampoo/Condicionador/etc → Cabelo Homem se masculino e não for loção corporal
+  // Shampoo/Condicionador/etc â†’ Cabelo Homem se masculino e nÃ£o for loÃ§Ã£o corporal
   if (['Shampoo', 'Condicionador', 'Finalizador'].includes(product.category)) {
     if (MASCULINE_KEYWORDS_HAIR.some(k => full.includes(k))) {
       return { ...product, category: 'Cabelo Homem', subcategory: 'Cabelo Homem' };
@@ -103,7 +103,7 @@ function recategorize(product) {
   return product;
 }
 
-// Normaliza nome para deduplicação interna
+// Normaliza nome para deduplicaÃ§Ã£o interna
 function normKey(p) {
   const n = (p.name || '').toLowerCase()
     .normalize('NFD').replace(/[\u0300-\u036f]/g, '')
@@ -124,9 +124,9 @@ function main() {
   const all = catalog.products || [];
   console.log(`Produtos antes do trim: ${all.length}`);
 
-  // Remove não-cosméticos
+  // Remove nÃ£o-cosmÃ©ticos
   const filtered = all.filter(p => !isNonCosmetic(p));
-  console.log(`Após remoção de não-cosméticos: ${filtered.length}`);
+  console.log(`ApÃ³s remoÃ§Ã£o de nÃ£o-cosmÃ©ticos: ${filtered.length}`);
 
   // Re-categoriza produtos masculinos
   const recategorized = filtered.map(recategorize);
@@ -141,7 +141,7 @@ function main() {
     byCategory[cat].push(p);
   }
 
-  // Para cada categoria, deduplicar internamente e limitar ao máximo
+  // Para cada categoria, deduplicar internamente e limitar ao mÃ¡ximo
   const kept = [];
   const catStats = {};
 
@@ -162,8 +162,8 @@ function main() {
     catStats[cat] = unique.length;
   }
 
-  // Ordena: masculino por último
-  const maleCategories = new Set(['Cabelo Homem', 'Perfume Homem']);
+  // Ordena: masculino por Ãºltimo
+  const maleCategories = new Set(['Cabelo Homem', 'Perfume Masculino']);
   kept.sort((a, b) => {
     const aM = maleCategories.has(a.category) ? 1 : 0;
     const bM = maleCategories.has(b.category) ? 1 : 0;
@@ -179,7 +179,7 @@ function main() {
 
   console.log(`\nTotal final: ${kept.length} produtos`);
 
-  // Salva catálogo trimado
+  // Salva catÃ¡logo trimado
   const trimmed = {
     ...catalog,
     products: kept,
@@ -188,8 +188,9 @@ function main() {
   };
 
   fs.writeFileSync(OUTPUT_PATH, JSON.stringify(trimmed, null, 2), 'utf8');
-  console.log(`\n✅ Salvo em: ${OUTPUT_PATH}`);
-  console.log(`⚡ Próximo passo: node scripts/export-catalog.js`);
+  console.log(`\nâœ… Salvo em: ${OUTPUT_PATH}`);
+  console.log(`âš¡ PrÃ³ximo passo: node scripts/export-catalog.js`);
 }
 
 main();
+

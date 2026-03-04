@@ -1,7 +1,7 @@
-/**
+﻿/**
  * brand-sync.js
- * Busca produtos das 10 marcas prioritárias no catálogo do ML,
- * inclui variações de cor e adiciona ao catalog.json sem duplicar.
+ * Busca produtos das 10 marcas prioritÃ¡rias no catÃ¡logo do ML,
+ * inclui variaÃ§Ãµes de cor e adiciona ao catalog.json sem duplicar.
  *
  * Uso: node scripts/brand-sync.js
  */
@@ -17,56 +17,56 @@ const SAVE_EVERY   = 100;
 const DELAY_MS     = 130;
 const MAX_COLORS   = 18;
 
-// ── Categorias que devem ter cores ────────────────────────────────────────────
+// â”€â”€ Categorias que devem ter cores â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
 const COLOR_CATEGORIES = new Set([
   'Batom', 'Base', 'Sombra', 'Blush', 'Iluminador', 'Corretivo',
-  'Contorno/Bronzer', 'Gloss', 'Lápis Labial', 'Pó Facial', 'Delineador',
+  'Contorno/Bronzer', 'Gloss', 'LÃ¡pis Labial', 'PÃ³ Facial', 'Delineador',
 ]);
 
-// ── Mapeamento domain_id → Categoria CoScore ──────────────────────────────────
+// â”€â”€ Mapeamento domain_id â†’ Categoria CoScore â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
 const DOMAIN_TO_CATEGORY = {
   'MLB-LIPSTICKS':          'Batom',
   'MLB-LIP_GLOSSES':        'Gloss',
-  'MLB-LIP_LINERS':         'Lápis Labial',
+  'MLB-LIP_LINERS':         'LÃ¡pis Labial',
   'MLB-FOUNDATIONS':        'Base',
   'MLB-CONCEALERS':         'Corretivo',
-  'MLB-MASCARAS':           'Máscara de Cílios',
+  'MLB-MASCARAS':           'MÃ¡scara de CÃ­lios',
   'MLB-EYESHADOWS':         'Sombra',
   'MLB-BLUSHERS':           'Blush',
   'MLB-HIGHLIGHTERS':       'Iluminador',
   'MLB-BRONZERS':           'Contorno/Bronzer',
   'MLB-CONTOUR_POWDERS':    'Contorno/Bronzer',
-  'MLB-FACE_POWDERS':       'Pó Facial',
+  'MLB-FACE_POWDERS':       'PÃ³ Facial',
   'MLB-PRIMERS':            'Primer',
   'MLB-EYELINERS':          'Delineador',
   'MLB-SETTING_SPRAYS':     'Fixador de Maquiagem',
-  'MLB-MAKEUP_BRUSHES':     'Esponjas e Pincéis',
-  'MLB-MAKEUP_SPONGES':     'Esponjas e Pincéis',
-  'MLB-BRUSH_SETS':         'Esponjas e Pincéis',
-  'MLB-SKINCARE_SERUMS':    'Sérum',
+  'MLB-MAKEUP_BRUSHES':     'Esponjas e PincÃ©is',
+  'MLB-MAKEUP_SPONGES':     'Esponjas e PincÃ©is',
+  'MLB-BRUSH_SETS':         'Esponjas e PincÃ©is',
+  'MLB-SKINCARE_SERUMS':    'SÃ©rum',
   'MLB-FACE_MOISTURIZERS':  'Hidratante',
   'MLB-BODY_MOISTURIZERS':  'Hidratante',
   'MLB-SUNSCREENS':         'Protetor Solar',
-  'MLB-TONERS':             'Tônico Facial',
-  'MLB-MICELLAR_WATERS':    'Tônico Facial',
+  'MLB-TONERS':             'TÃ´nico Facial',
+  'MLB-MICELLAR_WATERS':    'TÃ´nico Facial',
   'MLB-FACE_CLEANSERS':     'Limpeza Facial',
-  'MLB-FACE_MASKS':         'Máscara Facial',
+  'MLB-FACE_MASKS':         'MÃ¡scara Facial',
   'MLB-FACE_EXFOLIANTS':    'Esfoliante',
   'MLB-EYE_CREAMS':         'Creme para Olhos',
   'MLB-PERFUMES':           'Perfume',
   'MLB-WOMEN_PERFUMES':     'Perfume',
-  'MLB-MEN_PERFUMES':       'Perfume Homem',
+  'MLB-MEN_PERFUMES':       'Perfume Masculino',
   'MLB-SHAMPOOS':           'Shampoo',
   'MLB-MEN_SHAMPOOS':       'Cabelo Homem',
   'MLB-HAIR_CONDITIONERS':  'Condicionador',
-  'MLB-HAIR_MASKS':         'Máscara Capilar',
+  'MLB-HAIR_MASKS':         'MÃ¡scara Capilar',
   'MLB-HAIR_LEAVE_INS':     'Leave-in',
-  'MLB-HAIR_OILS':          'Óleo Capilar',
+  'MLB-HAIR_OILS':          'Ã“leo Capilar',
   'MLB-HAIR_FINISHERS':     'Finalizador',
   'MLB-HAIR_DYES':          'Tintura',
 };
 
-// ── Queries por marca ─────────────────────────────────────────────────────────
+// â”€â”€ Queries por marca â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
 const BRANDS = {
   'Maybelline': {
     queries: [
@@ -84,7 +84,7 @@ const BRANDS = {
       'Eudora maquiagem base', 'Eudora batom labial', 'Eudora blush sombra',
       'Eudora perfume feminino', 'Eudora perfume masculino', 'Eudora hidratante corporal',
       'Eudora serum facial', 'Eudora protetor solar', 'Eudora limpeza facial',
-      'Eudora corpo loção', 'Eudora niina secrets maquiagem', 'Eudora shampoo cabelo',
+      'Eudora corpo loÃ§Ã£o', 'Eudora niina secrets maquiagem', 'Eudora shampoo cabelo',
     ],
     colorCategories: true,
     maxPerQuery: 200,
@@ -95,7 +95,7 @@ const BRANDS = {
       'Natura perfume feminino', 'Natura perfume masculino', 'Natura shampoo cabelo',
       'Natura condicionador', 'Natura mascara capilar', 'Natura maquiagem base',
       'Natura batom labial', 'Natura limpeza facial', 'Natura desodorante corporal',
-      'Natura tônico facial', 'Natura esfoliante', 'Natura creme olhos',
+      'Natura tÃ´nico facial', 'Natura esfoliante', 'Natura creme olhos',
     ],
     colorCategories: true,
     maxPerQuery: 200,
@@ -132,7 +132,7 @@ const BRANDS = {
     colorCategories: false,
     maxPerQuery: 200,
   },
-  "L'Oréal Paris": {
+  "L'OrÃ©al Paris": {
     queries: [
       'LOreal Paris base maquiagem', 'LOreal Paris batom labial', 'LOreal Paris mascara cilios',
       'LOreal Paris sombra paleta', 'LOreal Paris serum facial', 'LOreal Paris hidratante',
@@ -148,7 +148,7 @@ const BRANDS = {
     queries: [
       'Cetaphil hidratante pele', 'Cetaphil limpeza facial', 'Cetaphil sabonete suave',
       'Cetaphil protetor solar', 'Cetaphil serum facial', 'Cetaphil tonico',
-      'Cetaphil loção corporal', 'Cetaphil creme', 'Cetaphil gel',
+      'Cetaphil loÃ§Ã£o corporal', 'Cetaphil creme', 'Cetaphil gel',
     ],
     colorCategories: false,
     maxPerQuery: 200,
@@ -175,7 +175,7 @@ const BRANDS = {
   },
 };
 
-// ── Utilitários ────────────────────────────────────────────────────────────────
+// â”€â”€ UtilitÃ¡rios â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
 function sleep(ms) { return new Promise(r => setTimeout(r, ms)); }
 
 function get(url) {
@@ -191,8 +191,8 @@ function get(url) {
 }
 
 const JUNK_COLORS = new Set([
-  'sem cor','único','única','unica','unico','outro','outros','multicolor',
-  'multicor','não se aplica','nao se aplica','','transparente','color','única cor','neutra',
+  'sem cor','Ãºnico','Ãºnica','unica','unico','outro','outros','multicolor',
+  'multicor','nÃ£o se aplica','nao se aplica','','transparente','color','Ãºnica cor','neutra',
 ]);
 
 function normalizeColor(raw) {
@@ -224,35 +224,35 @@ function inferFallbackCategory(productName) {
   const n = productName.toLowerCase();
   if (/\bbatom\b/.test(n)) return 'Batom';
   if (/\bgloss\b|\bbrilho labial\b/.test(n)) return 'Gloss';
-  if (/\blapis labial\b|\blip liner\b/.test(n)) return 'Lápis Labial';
+  if (/\blapis labial\b|\blip liner\b/.test(n)) return 'LÃ¡pis Labial';
   if (/\bbase\b/.test(n)) return 'Base';
   if (/\bcorretivo\b|\bconcealer\b/.test(n)) return 'Corretivo';
-  if (/\bpo facial\b|\bpó facial\b|\bpó solto\b/.test(n)) return 'Pó Facial';
+  if (/\bpo facial\b|\bpÃ³ facial\b|\bpÃ³ solto\b/.test(n)) return 'PÃ³ Facial';
   if (/\bprimer\b/.test(n)) return 'Primer';
   if (/\bfixador\b|\bsetting spray\b/.test(n)) return 'Fixador de Maquiagem';
-  if (/\brimel\b|\bmascara de cilios\b|\brímel\b|\bmáscara de cílios\b/.test(n)) return 'Máscara de Cílios';
+  if (/\brimel\b|\bmascara de cilios\b|\brÃ­mel\b|\bmÃ¡scara de cÃ­lios\b/.test(n)) return 'MÃ¡scara de CÃ­lios';
   if (/\bsombra\b|\bpaleta\b/.test(n)) return 'Sombra';
   if (/\bdelineador\b|\beyeliner\b/.test(n)) return 'Delineador';
   if (/\bblush\b/.test(n)) return 'Blush';
   if (/\biluminador\b|\bhighlighter\b/.test(n)) return 'Iluminador';
   if (/\bcontorno\b|\bbronzer\b|\bbronzeador\b/.test(n)) return 'Contorno/Bronzer';
-  if (/\bpincel\b|\besponja\b|\bblender\b/.test(n)) return 'Esponjas e Pincéis';
-  if (/\bserum\b|\bsérum\b/.test(n)) return 'Sérum';
+  if (/\bpincel\b|\besponja\b|\bblender\b/.test(n)) return 'Esponjas e PincÃ©is';
+  if (/\bserum\b|\bsÃ©rum\b/.test(n)) return 'SÃ©rum';
   if (/\bhidratante\b/.test(n)) return 'Hidratante';
   if (/\bprotetor solar\b|\bsunscreen\b|\bfps\b|\bspf\b/.test(n)) return 'Protetor Solar';
-  if (/\btonico\b|\btônico\b|\bagua micelar\b/.test(n)) return 'Tônico Facial';
+  if (/\btonico\b|\btÃ´nico\b|\bagua micelar\b/.test(n)) return 'TÃ´nico Facial';
   if (/\blimpeza facial\b|\bsabonete facial\b|\bdemaquilante\b/.test(n)) return 'Limpeza Facial';
-  if (/\bmascara facial\b|\bargila\b|\bsheet mask\b/.test(n)) return 'Máscara Facial';
+  if (/\bmascara facial\b|\bargila\b|\bsheet mask\b/.test(n)) return 'MÃ¡scara Facial';
   if (/\besfoliante\b|\bpeeling\b|\bscrub\b/.test(n)) return 'Esfoliante';
   if (/\bcreme.*olhos\b|\beye cream\b/.test(n)) return 'Creme para Olhos';
-  if (/\bperfume\b|\bcolonia\b|\bcolônia\b|\beau de\b|\bdeo parfum\b/.test(n)) return 'Perfume';
+  if (/\bperfume\b|\bcolonia\b|\bcolÃ´nia\b|\beau de\b|\bdeo parfum\b/.test(n)) return 'Perfume';
   if (/\bshampoo\b/.test(n)) return 'Shampoo';
   if (/\bcondicionador\b/.test(n)) return 'Condicionador';
-  if (/\bmascara capilar\b|\bcreme capilar\b/.test(n)) return 'Máscara Capilar';
+  if (/\bmascara capilar\b|\bcreme capilar\b/.test(n)) return 'MÃ¡scara Capilar';
   if (/\bleave.in\b/.test(n)) return 'Leave-in';
-  if (/\boleo capilar\b|\bóleo capilar\b/.test(n)) return 'Óleo Capilar';
+  if (/\boleo capilar\b|\bÃ³leo capilar\b/.test(n)) return 'Ã“leo Capilar';
   if (/\bfinalizador\b|\banti.frizz\b|\bmodelador\b/.test(n)) return 'Finalizador';
-  if (/\btintura\b|\bcoloracao\b|\bcoloração\b/.test(n)) return 'Tintura';
+  if (/\btintura\b|\bcoloracao\b|\bcoloraÃ§Ã£o\b/.test(n)) return 'Tintura';
   return null;
 }
 
@@ -260,7 +260,7 @@ function inferFallbackCategory(productName) {
 async function fetchColors(mlId, productName) {
   const colorMap = new Map();
 
-  // Estratégia 1: produto catálogo
+  // EstratÃ©gia 1: produto catÃ¡logo
   try {
     const prod = await get(`https://api.mercadolibre.com/products/${mlId}`);
     if (!prod.error) {
@@ -272,7 +272,7 @@ async function fetchColors(mlId, productName) {
     await sleep(80);
   } catch { /* ignora */ }
 
-  // Estratégia 2: itens por catalog_product_id
+  // EstratÃ©gia 2: itens por catalog_product_id
   try {
     const items = await get(
       `https://api.mercadolibre.com/sites/MLB/search?catalog_product_id=${mlId}&limit=20`
@@ -307,7 +307,7 @@ function formatProduct(mlProd, category, colors) {
     .map(p => (p.url || p.secure_url || '').replace('http://', 'https://'))
     .filter(Boolean).slice(0, 6);
 
-  // Cor principal do catálogo
+  // Cor principal do catÃ¡logo
   const colorAttr = attrs.find(a => a.id === 'COLOR');
   const mainColor = normalizeColor(colorAttr?.value_name || '');
   const colorList = [...colors];
@@ -333,20 +333,20 @@ function formatProduct(mlProd, category, colors) {
   };
 }
 
-// ── Main ──────────────────────────────────────────────────────────────────────
+// â”€â”€ Main â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
 async function main() {
-  console.log('=== Brand Sync — CoScore × Mercado Livre ===\n');
+  console.log('=== Brand Sync â€” CoScore Ã— Mercado Livre ===\n');
 
   const catalog   = JSON.parse(fs.readFileSync(CATALOG_PATH, 'utf8'));
   const products  = catalog.products;
 
-  // Índices de deduplicação
+  // Ãndices de deduplicaÃ§Ã£o
   const seenMlIds   = new Set(products.map(p => p.mlId).filter(Boolean));
   const seenNames   = new Set(
     products.map(p => `${normalizeName(p.name)}||${(p.brand||'').toLowerCase().trim()}`)
   );
 
-  console.log(`Catálogo atual: ${products.length} produtos`);
+  console.log(`CatÃ¡logo atual: ${products.length} produtos`);
   console.log(`ML IDs indexados: ${seenMlIds.size}\n`);
 
   const newProducts = [];
@@ -355,12 +355,12 @@ async function main() {
 
   for (const [brandName, config] of Object.entries(BRANDS)) {
     let brandNew = 0;
-    console.log(`\n🏷️  Marca: ${brandName}`);
+    console.log(`\nðŸ·ï¸  Marca: ${brandName}`);
 
     for (const query of config.queries) {
-      process.stdout.write(`  🔍 "${query}"... `);
+      process.stdout.write(`  ðŸ” "${query}"... `);
 
-      // Busca até 4 páginas de 50
+      // Busca atÃ© 4 pÃ¡ginas de 50
       const perPage = 50;
       const pages   = Math.ceil(config.maxPerQuery / perPage);
       let qNew      = 0;
@@ -389,7 +389,7 @@ async function main() {
           if (!category) category = inferFallbackCategory(item.name || '');
           if (!category || category === 'Outros') { totalSkipped++; continue; }
 
-          // Deduplicação por nome
+          // DeduplicaÃ§Ã£o por nome
           const nameKey = `${normalizeName(item.name || '')}||${itemBrand}`;
           if (seenNames.has(nameKey)) { totalSkipped++; continue; }
 
@@ -418,13 +418,13 @@ async function main() {
       await sleep(100);
     }
 
-    console.log(`  → ${brandNew} novos para ${brandName}`);
+    console.log(`  â†’ ${brandNew} novos para ${brandName}`);
 
     // Salva progresso a cada marca
     if (newProducts.length > 0 && newProducts.length % SAVE_EVERY < 50) {
       const updated = { ...catalog, products: [...products, ...newProducts], lastSync: new Date().toISOString() };
       fs.writeFileSync(CATALOG_PATH, JSON.stringify(updated, null, 2), 'utf8');
-      console.log(`  💾 Progresso parcial salvo (${newProducts.length} novos até agora)`);
+      console.log(`  ðŸ’¾ Progresso parcial salvo (${newProducts.length} novos atÃ© agora)`);
     }
   }
 
@@ -440,9 +440,9 @@ async function main() {
   console.log('\n=== Resultado ===');
   console.log(`Novos produtos adicionados: ${totalFetched}`);
   console.log(`Duplicatas ignoradas: ${totalSkipped}`);
-  console.log(`Total no catálogo: ${finalCatalog.total}`);
+  console.log(`Total no catÃ¡logo: ${finalCatalog.total}`);
 
-  // Distribuição por marca
+  // DistribuiÃ§Ã£o por marca
   const brandCounts = {};
   for (const p of newProducts) {
     const b = p.brand || 'Sem marca';
@@ -453,7 +453,8 @@ async function main() {
     console.log(`  ${n.toString().padStart(4)}  ${b}`);
   }
 
-  console.log('\n⚡ Próximo passo: node scripts/export-catalog.js');
+  console.log('\nâš¡ PrÃ³ximo passo: node scripts/export-catalog.js');
 }
 
 main().catch(err => { console.error('ERRO:', err); process.exit(1); });
+

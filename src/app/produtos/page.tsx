@@ -234,8 +234,8 @@ function ProductsContent() {
       }
     }
 
-    // Produtos masculinos (Cabelo Homem, Perfume Homem) sempre por último — foco do site é público feminino
-    const MASCULINE_CATEGORIES: Category[] = ["Cabelo Homem", "Perfume Homem"];
+    // Produtos masculinos (Cabelo Homem, Perfume Masculino) sempre por último — foco do site é público feminino
+    const MASCULINE_CATEGORIES: Category[] = ["Cabelo Homem", "Perfume Masculino"];
     const rest = result.filter((p) => !MASCULINE_CATEGORIES.includes(p.category));
     const masculine = result.filter((p) => MASCULINE_CATEGORIES.includes(p.category));
     return [...rest, ...masculine];

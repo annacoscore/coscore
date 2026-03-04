@@ -1,13 +1,13 @@
-/**
+﻿/**
  * sync-catalog-by-category.ts
- * ───────────────────────────
- * Reabastece o catálogo do Mercado Livre com 10–50 produtos por subcategoria.
- * Variantes de cor ficam agrupadas no mesmo produto (sem duplicação).
+ * â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+ * Reabastece o catÃ¡logo do Mercado Livre com 10â€“50 produtos por subcategoria.
+ * Variantes de cor ficam agrupadas no mesmo produto (sem duplicaÃ§Ã£o).
  *
  * Uso:
- *   npx tsx scripts/sync-catalog-by-category.ts           → refaz catálogo e salva catalog.json
- *   npx tsx scripts/sync-catalog-by-category.ts --export   → refaz e exporta src/data/products.ts
- *   npx tsx scripts/sync-catalog-by-category.ts --merge    → mantém catálogo existente e só completa categorias com < 10
+ *   npx tsx scripts/sync-catalog-by-category.ts           â†’ refaz catÃ¡logo e salva catalog.json
+ *   npx tsx scripts/sync-catalog-by-category.ts --export   â†’ refaz e exporta src/data/products.ts
+ *   npx tsx scripts/sync-catalog-by-category.ts --merge    â†’ mantÃ©m catÃ¡logo existente e sÃ³ completa categorias com < 10
  */
 
 import { config as loadEnv } from 'dotenv';
@@ -30,9 +30,9 @@ import type { CatalogEntry, CatalogFile } from './lib/types';
 const MIN_PER_CATEGORY = 10;
 const MAX_PER_CATEGORY = 50;
 const MAX_PAGES_PER_QUERY = 3; // 3 x 50 = 150 itens por query
-// Categorias com poucos resultados no ML: buscar mais páginas por query
+// Categorias com poucos resultados no ML: buscar mais pÃ¡ginas por query
 const EXTRA_PAGES_PER_QUERY: Partial<Record<string, number>> = {
-  'Pó Facial': 5, // 5 x 50 = 250 itens por query, mais variações
+  'PÃ³ Facial': 5, // 5 x 50 = 250 itens por query, mais variaÃ§Ãµes
 };
 const REQUEST_DELAY_MS = 600;
 
@@ -40,10 +40,10 @@ const REQUEST_DELAY_MS = 600;
 const CATEGORY_QUERIES: Record<string, string[]> = {
   'Batom': ['batom lipstick', 'batom matte nude', 'batom liquido'],
   'Gloss': ['lip gloss brilho labial', 'gloss labial'],
-  'Lápis Labial': ['lapis labial lip liner', 'contorno labial'],
+  'LÃ¡pis Labial': ['lapis labial lip liner', 'contorno labial'],
   'Base': ['base liquida maquiagem', 'base foundation', 'bb cream'],
   'Corretivo': ['corretivo concealer', 'anti olheira'],
-  'Pó Facial': [
+  'PÃ³ Facial': [
     'po facial compacto',
     'po translucido setting',
     'setting powder loose powder',
@@ -60,34 +60,34 @@ const CATEGORY_QUERIES: Record<string, string[]> = {
   ],
   'Primer': ['primer maquiagem', 'pre-base'],
   'Fixador de Maquiagem': ['fixador maquiagem spray', 'setting spray'],
-  'Máscara de Cílios': ['mascara de cilios', 'rímel'],
+  'MÃ¡scara de CÃ­lios': ['mascara de cilios', 'rÃ­mel'],
   'Sombra': ['sombra eyeshadow', 'paleta sombra'],
   'Delineador': ['delineador eyeliner'],
   'Blush': ['blush rouge', 'blush compacto'],
   'Iluminador': ['iluminador highlighter'],
   'Contorno/Bronzer': ['contorno bronzer', 'bronzer', 'bronzer contouring'],
-  'Esponjas e Pincéis': ['esponja maquiagem', 'beauty blender', 'pincel maquiagem'],
-  'Sérum': ['serum facial vitamina c', 'sérum retinol', 'acido hialuronico'],
+  'Esponjas e PincÃ©is': ['esponja maquiagem', 'beauty blender', 'pincel maquiagem'],
+  'SÃ©rum': ['serum facial vitamina c', 'sÃ©rum retinol', 'acido hialuronico'],
   'Hidratante': ['hidratante facial', 'creme hidratante corporal'],
   'Protetor Solar': ['protetor solar facial fps', 'filtro solar'],
-  'Tônico Facial': ['tonico facial', 'agua micelar'],
+  'TÃ´nico Facial': ['tonico facial', 'agua micelar'],
   'Limpeza Facial': ['gel limpeza facial', 'sabonete facial'],
-  'Máscara Facial': ['mascara facial argila', 'sheet mask'],
+  'MÃ¡scara Facial': ['mascara facial argila', 'sheet mask'],
   'Esfoliante': ['esfoliante facial', 'scrub facial'],
   'Creme para Olhos': ['creme olhos', 'contorno olhos'],
   'Perfume': ['perfume feminino', 'eau de parfum'],
-  'Perfume Homem': ['perfume masculino', 'colonia masculina'],
+  'Perfume Masculino': ['perfume masculino', 'colonia masculina'],
   'Shampoo': ['shampoo cabelo', 'shampoo anticaspa'],
   'Cabelo Homem': ['shampoo homem', 'shampoo masculino', 'gel capilar homem'],
   'Condicionador': ['condicionador cabelo', 'balsamo capilar'],
-  'Máscara Capilar': ['mascara capilar', 'hair mask'],
+  'MÃ¡scara Capilar': ['mascara capilar', 'hair mask'],
   'Leave-in': ['leave-in cabelo', 'creme sem enxague'],
-  'Óleo Capilar': ['oleo capilar', 'oleo argan cabelo'],
+  'Ã“leo Capilar': ['oleo capilar', 'oleo argan cabelo'],
   'Tintura': ['tintura cabelo', 'coloracao capilar'],
   'Finalizador': ['finalizador cabelo', 'creme para pentear', 'mousse capilar'],
 };
 
-// Buscas por marca (catálogo ML) — trazem mais produtos dessas marcas; a categoria é definida pelo mapper
+// Buscas por marca (catÃ¡logo ML) â€” trazem mais produtos dessas marcas; a categoria Ã© definida pelo mapper
 const BRAND_QUERIES: string[] = [
   'eudora niina secrets maquiagem',
   'fran by fr cosmeticos',
@@ -115,13 +115,13 @@ async function main(): Promise<void> {
   const doExport = args.includes('--export');
   const merge = args.includes('--merge');
 
-  console.log('╔══════════════════════════════════════════════════════════╗');
-  console.log('║   CoScore — Sync por Categoria (10–50 por subcategoria)   ║');
-  console.log('╚══════════════════════════════════════════════════════════╝');
+  console.log('â•”â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•—');
+  console.log('â•‘   CoScore â€” Sync por Categoria (10â€“50 por subcategoria)   â•‘');
+  console.log('â•šâ•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•');
   console.log('');
-  console.log(`Modo:        ${merge ? 'Completar (manter existente)' : 'Refazer catálogo'}`);
-  console.log(`Exportar TS: ${doExport ? 'Sim' : 'Não'}`);
-  console.log(`Meta:        ${MIN_PER_CATEGORY}–${MAX_PER_CATEGORY} produtos por subcategoria`);
+  console.log(`Modo:        ${merge ? 'Completar (manter existente)' : 'Refazer catÃ¡logo'}`);
+  console.log(`Exportar TS: ${doExport ? 'Sim' : 'NÃ£o'}`);
+  console.log(`Meta:        ${MIN_PER_CATEGORY}â€“${MAX_PER_CATEGORY} produtos por subcategoria`);
   console.log('');
 
   await checkAuthRequired();
@@ -153,7 +153,7 @@ async function main(): Promise<void> {
   for (const category of categoriesOrder) {
     const currentCount = dedup.all.filter(p => p.category === category).length;
     if (currentCount >= MAX_PER_CATEGORY) {
-      console.log(`⏭ ${category}: já tem ${currentCount} (máx ${MAX_PER_CATEGORY})`);
+      console.log(`â­ ${category}: jÃ¡ tem ${currentCount} (mÃ¡x ${MAX_PER_CATEGORY})`);
       continue;
     }
 
@@ -162,7 +162,7 @@ async function main(): Promise<void> {
     let page = 0;
     let done = false;
 
-    console.log(`\n📂 ${category} (atual: ${currentCount}, meta: ${MIN_PER_CATEGORY}–${MAX_PER_CATEGORY})`);
+    console.log(`\nðŸ“‚ ${category} (atual: ${currentCount}, meta: ${MIN_PER_CATEGORY}â€“${MAX_PER_CATEGORY})`);
 
     const maxPages = EXTRA_PAGES_PER_QUERY[category] ?? MAX_PAGES_PER_QUERY;
     for (const query of queries) {
@@ -177,7 +177,7 @@ async function main(): Promise<void> {
         }
 
         const offset = page * PAGE_SIZE;
-        process.stdout.write(`  "${query}" pág ${page + 1}/${maxPages}... `);
+        process.stdout.write(`  "${query}" pÃ¡g ${page + 1}/${maxPages}... `);
 
         try {
           await sleep(REQUEST_DELAY_MS);
@@ -214,13 +214,13 @@ async function main(): Promise<void> {
 
     const finalCount = dedup.all.filter(p => p.category === category).length;
     if (finalCount < MIN_PER_CATEGORY) {
-      console.log(`  ⚠ ${category}: ficou com ${finalCount} (mínimo ${MIN_PER_CATEGORY})`);
+      console.log(`  âš  ${category}: ficou com ${finalCount} (mÃ­nimo ${MIN_PER_CATEGORY})`);
     }
   }
 
   // Buscas por marca (Eudora Niina Secrets, Fran by FR, Mascavo, Boca Rosa Beauty, Mari Maria Makeup, Karen Bachini Beauty, Bruna Tavares)
   const BRAND_PAGES = 2;
-  console.log('\n🏷️ Buscas por marca (ML)...');
+  console.log('\nðŸ·ï¸ Buscas por marca (ML)...');
   for (const query of BRAND_QUERIES) {
     for (let page = 0; page < BRAND_PAGES; page++) {
       const offset = page * PAGE_SIZE;
@@ -243,22 +243,22 @@ async function main(): Promise<void> {
           }
         }
         if (pageAdded > 0) {
-          console.log(`  "${query}" pág ${page + 1}: +${pageAdded} (total inseridos: ${stats.inserted})`);
+          console.log(`  "${query}" pÃ¡g ${page + 1}: +${pageAdded} (total inseridos: ${stats.inserted})`);
         }
       } catch (err) {
-        console.warn(`  "${query}" pág ${page + 1}: ${err}`);
+        console.warn(`  "${query}" pÃ¡g ${page + 1}: ${err}`);
         stats.errors++;
         break;
       }
     }
   }
 
-  // Pós-deduplicação por similaridade de nome (agrupa mais variantes de cor)
+  // PÃ³s-deduplicaÃ§Ã£o por similaridade de nome (agrupa mais variantes de cor)
   const beforePost = dedup.all.length;
   catalog.products = postDeduplicateByNameSimilarity(dedup.all);
   const postRemoved = beforePost - catalog.products.length;
   if (postRemoved > 0) {
-    console.log(`\n🔗 Pós-dedup por similaridade: ${postRemoved} variantes agrupadas`);
+    console.log(`\nðŸ”— PÃ³s-dedup por similaridade: ${postRemoved} variantes agrupadas`);
   }
 
   // Limitar a MAX_PER_CATEGORY por categoria (opcional: manter primeiros 50 por categoria)
@@ -273,31 +273,32 @@ async function main(): Promise<void> {
   }
 
   const counts = countByCategory(catalog.products);
-  console.log('\n══════════════════════════════════════════════════════════');
-  console.log('  PRODUTOS POR CATEGORIA (após dedup e limite)');
-  console.log('══════════════════════════════════════════════════════════');
+  console.log('\nâ•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•');
+  console.log('  PRODUTOS POR CATEGORIA (apÃ³s dedup e limite)');
+  console.log('â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•');
   for (const cat of categoriesOrder) {
     const n = counts[cat] ?? 0;
     const ok = n >= MIN_PER_CATEGORY && n <= MAX_PER_CATEGORY;
-    console.log(`  ${ok ? '✓' : (n < MIN_PER_CATEGORY ? '⚠' : '·')} ${cat}: ${n}`);
+    console.log(`  ${ok ? 'âœ“' : (n < MIN_PER_CATEGORY ? 'âš ' : 'Â·')} ${cat}: ${n}`);
   }
-  console.log('══════════════════════════════════════════════════════════');
+  console.log('â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•');
   console.log(`  Total: ${catalog.products.length} produtos`);
   console.log(`  Inseridos: ${stats.inserted} | Atualizados: ${stats.updated} | Erros: ${stats.errors}`);
-  console.log('══════════════════════════════════════════════════════════');
+  console.log('â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•');
 
   saveCatalog(catalog);
-  console.log(`\n💾 Catálogo salvo: ${CATALOG_PATH}`);
+  console.log(`\nðŸ’¾ CatÃ¡logo salvo: ${CATALOG_PATH}`);
 
   if (doExport) {
     exportToProductsTs(catalog.products);
   } else {
-    console.log('\n💡 Para exportar src/data/products.ts:');
+    console.log('\nðŸ’¡ Para exportar src/data/products.ts:');
     console.log('   npx tsx scripts/sync-catalog-by-category.ts --export');
   }
 }
 
 main().catch(err => {
-  console.error('\n❌ Erro fatal:', err);
+  console.error('\nâŒ Erro fatal:', err);
   process.exit(1);
 });
+
