@@ -154,6 +154,7 @@ function FavoriteProductCard({
 
   const inStockPrices = product.prices.filter((p) => p.inStock);
   const lowestPrice = inStockPrices.length > 0 ? Math.min(...inStockPrices.map((p) => p.price)) : null;
+  const imageSrc = product.image || `https://picsum.photos/seed/${product.id}/400/400`;
   const otherLists = getUserLists().filter(
     (l) => l.id !== activeListId && !isInList(productId, l.id)
   );
@@ -174,7 +175,7 @@ function FavoriteProductCard({
         {/* Image */}
         <Link href={`/produto/${product.id}`} className="block relative aspect-square overflow-hidden bg-white">
           <Image
-            src={product.image}
+            src={imageSrc}
             alt={product.name}
             fill
             className="object-contain p-2 group-hover:scale-105 transition-transform duration-300"
