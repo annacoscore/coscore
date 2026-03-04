@@ -53,13 +53,6 @@ export default function HomePage() {
                   Explorar Produtos
                   <ArrowRight className="w-4 h-4" />
                 </Link>
-                <Link
-                  href="/produtos?q=comparar"
-                  className="flex items-center gap-2 bg-white/20 backdrop-blur-sm border border-white/40 text-white px-6 py-3 rounded-full font-semibold hover:bg-white/30 transition-colors"
-                >
-                  Compare Preços
-                  <TrendingUp className="w-4 h-4" />
-                </Link>
               </div>
             </div>
 
