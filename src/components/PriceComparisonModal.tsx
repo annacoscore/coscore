@@ -2,14 +2,14 @@
 import { useEffect, useState } from "react";
 import {
   X, ExternalLink, ShoppingBag, TrendingDown,
-  Loader2, RefreshCw, Tag, Truck, AlertCircle,
+  Loader2, RefreshCw, Tag, Truck, SearchX,
 } from "lucide-react";
 import { Product } from "@/types";
 import type { StorePriceResult } from "@/app/api/prices/route";
 
 interface PriceComparisonModalProps {
-  product: Product;
-  onClose: () => void;
+  product:       Product;
+  onClose:       () => void;
   selectedColor?: string | null;
 }
 
@@ -18,13 +18,14 @@ export default function PriceComparisonModal({
   onClose,
   selectedColor,
 }: PriceComparisonModalProps) {
-  const [results, setResults]   = useState<StorePriceResult[]>([]);
-  const [loading, setLoading]   = useState(true);
-  const [error, setError]       = useState(false);
+  const [results, setResults] = useState<StorePriceResult[]>([]);
+  const [loading, setLoading] = useState(true);
+  const [error, setError]     = useState(false);
 
   const fetchPrices = async () => {
     setLoading(true);
     setError(false);
+    setResults([]);
     try {
       const params = new URLSearchParams({
         name:  product.name,
@@ -44,21 +45,18 @@ export default function PriceComparisonModal({
 
   useEffect(() => { fetchPrices(); }, [product.id, selectedColor]);
 
-  const realPrices  = results.filter(r => r.type === "real" && r.price !== null);
-  const searchLinks = results.filter(r => r.type === "search");
+  const fmt = (v: number) =>
+    v.toLocaleString("pt-BR", { style: "currency", currency: "BRL" });
 
-  const cheapest = realPrices.length > 0
-    ? realPrices.reduce((a, b) => (a.price! < b.price! ? a : b))
+  const cheapest = results.length > 0
+    ? results.reduce((a, b) => (a.price! < b.price! ? a : b))
     : null;
-  const mostExp  = realPrices.length > 1
-    ? realPrices.reduce((a, b) => (a.price! > b.price! ? a : b))
+  const mostExp  = results.length > 1
+    ? results.reduce((a, b) => (a.price! > b.price! ? a : b))
     : null;
   const savings  = cheapest && mostExp && cheapest.store !== mostExp.store
     ? mostExp.price! - cheapest.price!
     : 0;
-
-  const fmt = (v: number) =>
-    v.toLocaleString("pt-BR", { style: "currency", currency: "BRL" });
 
   return (
     <div className="fixed inset-0 z-[100] flex items-end sm:items-center justify-center p-0 sm:p-4">
@@ -89,9 +87,10 @@ export default function PriceComparisonModal({
           )}
         </div>
 
-        {/* ── Conteúdo scrollável ── */}
-        <div className="overflow-y-auto flex-1 px-4 py-4 space-y-4">
+        {/* ── Conteúdo ── */}
+        <div className="overflow-y-auto flex-1 px-4 py-4 space-y-3">
 
+          {/* Loading */}
           {loading && (
             <div className="flex flex-col items-center justify-center py-14 gap-3">
               <Loader2 className="w-8 h-8 text-emerald-500 animate-spin" />
@@ -101,6 +100,7 @@ export default function PriceComparisonModal({
             </div>
           )}
 
+          {/* Erro */}
           {error && !loading && (
             <div className="text-center py-10">
               <p className="text-gray-500 text-sm mb-3">
@@ -117,7 +117,7 @@ export default function PriceComparisonModal({
 
           {!loading && !error && (
             <>
-              {/* ── Banner de economia ── */}
+              {/* Banner de economia */}
               {savings > 0.5 && (
                 <div className="flex items-center gap-2 bg-emerald-50 border border-emerald-200 rounded-xl px-4 py-2.5">
                   <TrendingDown className="w-4 h-4 text-emerald-600 shrink-0" />
@@ -129,118 +129,81 @@ export default function PriceComparisonModal({
                 </div>
               )}
 
-              {/* ── Preços confirmados ── */}
-              {realPrices.length > 0 && (
-                <div>
-                  <p className="text-xs font-bold text-gray-400 uppercase tracking-wider mb-2 px-1">
-                    Preços confirmados
-                  </p>
-                  <div className="space-y-2">
-                    {realPrices
-                      .sort((a, b) => a.price! - b.price!)
-                      .map((item, idx) => {
-                        const isCheapest = item.store === cheapest?.store;
-                        return (
-                          <a
-                            key={item.store + idx}
-                            href={item.url}
-                            target="_blank"
-                            rel="noopener noreferrer"
-                            className={`flex items-center gap-3 p-3.5 rounded-xl border transition-all hover:shadow-md group ${
-                              isCheapest
-                                ? "border-emerald-300 bg-emerald-50 hover:border-emerald-400"
-                                : "border-gray-100 bg-white hover:border-gray-200"
-                            }`}
-                          >
-                            <div className={`w-11 h-11 rounded-xl flex items-center justify-center text-xs font-bold shrink-0 ${item.color}`}>
-                              {item.logo}
-                            </div>
-                            <div className="flex-1 min-w-0">
-                              <div className="flex items-center gap-1.5 flex-wrap">
-                                <p className="text-sm font-semibold text-gray-900">{item.store}</p>
-                                {isCheapest && realPrices.length > 1 && (
-                                  <span className="text-[10px] font-bold bg-emerald-500 text-white px-1.5 py-0.5 rounded-full leading-none">
-                                    MAIS BARATO
-                                  </span>
-                                )}
-                              </div>
-                              <div className="flex items-center gap-2 mt-0.5">
-                                <p className="text-xs text-gray-400">
-                                  {item.inStock ? "Em estoque" : "Verificar disponibilidade"}
-                                </p>
-                                {item.freeShipping && (
-                                  <span className="flex items-center gap-0.5 text-[10px] text-emerald-600 font-semibold">
-                                    <Truck className="w-3 h-3" /> Frete grátis
-                                  </span>
-                                )}
-                              </div>
-                            </div>
-                            <div className="text-right shrink-0">
-                              <p className={`text-xl font-extrabold ${isCheapest ? "text-emerald-700" : "text-gray-800"}`}>
-                                {fmt(item.price!)}
-                              </p>
-                              <p className="text-xs text-emerald-600 font-medium group-hover:underline flex items-center justify-end gap-0.5 mt-0.5">
-                                Comprar <ExternalLink className="w-3 h-3" />
-                              </p>
-                            </div>
-                          </a>
-                        );
-                      })}
-                  </div>
-                </div>
-              )}
-
-              {/* ── Links de busca (ML direto + lojas de marca) ── */}
-              {searchLinks.length > 0 && (
-                <div>
-                  <p className="text-xs font-bold text-gray-400 uppercase tracking-wider mb-2 px-1">
-                    {realPrices.length > 0 ? "Ver também em" : "Encontrar este produto em"}
-                  </p>
-                  <div className="space-y-2">
-                    {searchLinks.map((item, idx) => (
+              {/* Lista de lojas com preço */}
+              {results.length > 0 ? (
+                <div className="space-y-2">
+                  {results.map((item, idx) => {
+                    const isCheapest = item.store === cheapest?.store && results.length > 1;
+                    return (
                       <a
                         key={item.store + idx}
                         href={item.url}
                         target="_blank"
                         rel="noopener noreferrer"
-                        className="flex items-center gap-3 p-3.5 rounded-xl border border-gray-100 bg-white hover:border-gray-200 hover:shadow-md transition-all group"
+                        className={`flex items-center gap-3 p-3.5 rounded-xl border transition-all hover:shadow-md group ${
+                          isCheapest
+                            ? "border-emerald-300 bg-emerald-50 hover:border-emerald-400"
+                            : "border-gray-100 bg-white hover:border-gray-200"
+                        }`}
                       >
+                        {/* Logo */}
                         <div className={`w-11 h-11 rounded-xl flex items-center justify-center text-xs font-bold shrink-0 ${item.color}`}>
                           {item.logo}
                         </div>
+
+                        {/* Nome + badge */}
                         <div className="flex-1 min-w-0">
-                          <p className="text-sm font-semibold text-gray-900">{item.store}</p>
-                          <p className="text-xs text-gray-400 mt-0.5">
-                            Clique para ver o preço atualizado
-                          </p>
+                          <div className="flex items-center gap-1.5 flex-wrap">
+                            <p className="text-sm font-semibold text-gray-900">{item.store}</p>
+                            {isCheapest && (
+                              <span className="text-[10px] font-bold bg-emerald-500 text-white px-1.5 py-0.5 rounded-full leading-none">
+                                MAIS BARATO
+                              </span>
+                            )}
+                          </div>
+                          <div className="flex items-center gap-2 mt-0.5">
+                            <p className="text-xs text-gray-400">Em estoque</p>
+                            {item.freeShipping && (
+                              <span className="flex items-center gap-0.5 text-[10px] text-emerald-600 font-semibold">
+                                <Truck className="w-3 h-3" /> Frete grátis
+                              </span>
+                            )}
+                          </div>
                         </div>
-                        <div className="shrink-0">
-                          <span className="inline-flex items-center gap-1 text-sm font-semibold text-emerald-600 group-hover:underline">
-                            Ver preço <ExternalLink className="w-3.5 h-3.5" />
+
+                        {/* Preço + CTA */}
+                        <div className="text-right shrink-0">
+                          <p className={`text-xl font-extrabold ${isCheapest ? "text-emerald-700" : "text-gray-800"}`}>
+                            {fmt(item.price!)}
+                          </p>
+                          <span className="inline-flex items-center gap-0.5 text-xs text-emerald-600 font-medium group-hover:underline mt-0.5">
+                            Comprar <ExternalLink className="w-3 h-3" />
                           </span>
                         </div>
                       </a>
-                    ))}
+                    );
+                  })}
+                </div>
+              ) : (
+                /* Nenhum resultado */
+                <div className="text-center py-12 flex flex-col items-center gap-3 text-gray-400">
+                  <SearchX className="w-10 h-10 text-gray-300" />
+                  <div>
+                    <p className="text-sm font-medium text-gray-600">
+                      Produto não encontrado nas lojas
+                    </p>
+                    <p className="text-xs text-gray-400 mt-1">
+                      Este produto pode não estar disponível para venda online no momento.
+                    </p>
                   </div>
-                </div>
-              )}
-
-              {/* Nenhum resultado */}
-              {realPrices.length === 0 && searchLinks.length === 0 && (
-                <div className="text-center py-10 flex flex-col items-center gap-2 text-gray-400">
-                  <AlertCircle className="w-8 h-8" />
-                  <p className="text-sm">Nenhum resultado encontrado para este produto.</p>
-                </div>
-              )}
-
-              {/* Aviso sobre Mercado Livre */}
-              {realPrices.length === 0 && (
-                <div className="flex items-start gap-2.5 bg-amber-50 border border-amber-200 rounded-xl px-4 py-3 text-xs text-amber-700">
-                  <AlertCircle className="w-4 h-4 shrink-0 mt-0.5" />
-                  <p>
-                    Preços em tempo real do Mercado Livre ficam disponíveis após autorização OAuth.
-                    Clique nos links para ver o preço atual em cada loja.
-                  </p>
+                  <a
+                    href={`https://www.mercadolivre.com.br/search?q=${encodeURIComponent([product.brand, product.name].filter(Boolean).join(" "))}`}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="inline-flex items-center gap-1.5 mt-1 text-sm text-emerald-600 font-semibold hover:underline"
+                  >
+                    Buscar no Mercado Livre <ExternalLink className="w-3.5 h-3.5" />
+                  </a>
                 </div>
               )}
             </>
@@ -248,13 +211,13 @@ export default function PriceComparisonModal({
         </div>
 
         {/* ── Rodapé ── */}
-        <div className="px-5 py-3 border-t border-gray-100 bg-gray-50/80 shrink-0">
-          <p className="text-[11px] text-gray-400 text-center leading-relaxed">
-            {realPrices.length > 0
-              ? "Preços consultados em tempo real. Verifique o valor final antes de comprar."
-              : "Clique em qualquer loja para ver o preço atualizado do produto."}
-          </p>
-        </div>
+        {!loading && results.length > 0 && (
+          <div className="px-5 py-3 border-t border-gray-100 bg-gray-50/80 shrink-0">
+            <p className="text-[11px] text-gray-400 text-center leading-relaxed">
+              Preços consultados em tempo real · {results.length} {results.length === 1 ? "loja encontrada" : "lojas encontradas"} · Verifique o valor final antes de comprar.
+            </p>
+          </div>
+        )}
       </div>
     </div>
   );
